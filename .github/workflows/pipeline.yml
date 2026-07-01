@@ -1,0 +1,30 @@
+name: hire-me-bot pipeline
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'
+  workflow_dispatch: {}
+
+env:
+  FIT_SCORE_NOTIFY_THRESHOLD: 4
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -e .
+
+      - name: Run pipeline
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python -m hire_me_bot.pipeline

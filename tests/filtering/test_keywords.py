@@ -1,0 +1,37 @@
+from hire_me_bot.filtering.keywords import passes_keyword_filter
+
+
+def test_internship_title_passes():
+    assert passes_keyword_filter("Software Engineering Intern - Summer 2026")
+
+
+def test_new_grad_title_passes():
+    assert passes_keyword_filter("New Grad Software Engineer")
+
+
+def test_generic_swe_title_passes():
+    assert passes_keyword_filter("Software Engineer I")
+
+
+def test_senior_title_excluded():
+    assert not passes_keyword_filter("Senior Software Engineer")
+
+
+def test_staff_title_excluded_even_with_intern_word():
+    assert not passes_keyword_filter("Staff Software Engineer, Internship Program Lead")
+
+
+def test_unrelated_title_fails():
+    assert not passes_keyword_filter("Sales Account Executive")
+
+
+def test_internal_word_is_not_a_false_positive_for_intern():
+    assert not passes_keyword_filter("Internal Auditor - APAC Regulatory")
+
+
+def test_head_of_exclusion_does_not_false_positive_on_overhead():
+    assert not passes_keyword_filter("Overhead Crane Operator")
+
+
+def test_empty_title_fails():
+    assert not passes_keyword_filter("")
