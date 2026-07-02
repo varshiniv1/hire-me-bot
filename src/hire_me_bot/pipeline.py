@@ -16,6 +16,7 @@ from hire_me_bot.connectors.smartrecruiters import SmartRecruitersConnector
 from hire_me_bot.connectors.workday import WorkdayConnector
 from hire_me_bot.db import postings_repo
 from hire_me_bot.filtering.keywords import passes_keyword_filter
+from hire_me_bot.filtering.location import is_usa_location
 from hire_me_bot.notify import discord
 from hire_me_bot.scoring.scorer import score_new_postings
 
@@ -57,7 +58,7 @@ def _fetch_company(company: dict) -> list[Posting]:
             "Failed to fetch %s (%s), skipping this run", company["name"], company.get("source")
         )
         return []
-    return [p for p in postings if passes_keyword_filter(p.title)]
+    return [p for p in postings if passes_keyword_filter(p.title) and is_usa_location(p.location)]
 
 
 def _fetch_all(companies: list[dict]) -> list[Posting]:

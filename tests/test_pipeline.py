@@ -41,8 +41,8 @@ def test_connector_exception_is_caught_and_logged(monkeypatch):
 
 def test_keyword_filter_applied_to_fetched_postings(monkeypatch):
     postings = [
-        Posting("greenhouse", "Acme", "1", "Software Engineer Intern", None, "https://x/1", "desc", None),
-        Posting("greenhouse", "Acme", "2", "Sales Account Executive", None, "https://x/2", "desc", None),
+        Posting("greenhouse", "Acme", "1", "Software Engineer Intern", "Austin, TX", "https://x/1", "desc", None),
+        Posting("greenhouse", "Acme", "2", "Sales Account Executive", "Austin, TX", "https://x/2", "desc", None),
     ]
 
     class FakeConnector:
@@ -65,3 +65,31 @@ def test_keyword_filter_applied_to_fetched_postings(monkeypatch):
 
     assert len(result) == 1
     assert result[0].title == "Software Engineer Intern"
+
+
+def test_non_usa_postings_are_filtered_out(monkeypatch):
+    postings = [
+        Posting("greenhouse", "Acme", "1", "Software Engineer Intern", "Austin, TX", "https://x/1", "desc", None),
+        Posting("greenhouse", "Acme", "2", "Software Engineer Intern", "Dublin", "https://x/2", "desc", None),
+    ]
+
+    class FakeConnector:
+        def __init__(self, company, token):
+            pass
+
+        def __enter__(self):
+            return self
+
+        def __exit__(self, *a):
+            pass
+
+        def fetch(self):
+            return postings
+
+    monkeypatch.setitem(pipeline.CONNECTOR_CLASSES, "greenhouse", FakeConnector)
+    company = {"name": "Acme", "source": "greenhouse", "token": "acme"}
+
+    result = pipeline._fetch_company(company)
+
+    assert len(result) == 1
+    assert result[0].location == "Austin, TX"

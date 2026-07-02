@@ -11,7 +11,8 @@ def _posting(i: int, score: int | None = 5) -> dict:
         "title": f"Software Engineer {i}",
         "company": "Acme",
         "url": f"https://example.com/{i}",
-        "location": "Remote",
+        "location": "Austin, TX",
+        "description": "Requirements: Python, SQL.",
         "fit_score": score,
     }
 
@@ -100,7 +101,38 @@ def test_scoring_disabled_notifies_all_unnotified_regardless_of_score(monkeypatc
     assert count == 2
     assert sorted(marked) == [1, 2]
     embed = sent_payloads[0].content
-    assert b"Unscored" in embed
+    assert b"Unscored" not in embed
+    assert b"Fit:" not in embed
+    assert b"Austin, TX" in embed
+    assert b"Requirements" in embed
+
+
+def test_embed_includes_role_company_location_and_jd_preview():
+    posting = _posting(1, score=None)
+    embed = discord._posting_to_embed(posting)
+
+    assert embed["title"] == "Software Engineer 1 @ Acme"
+    assert embed["url"] == "https://example.com/1"
+    assert "Austin, TX" in embed["description"]
+    assert "Requirements: Python, SQL." in embed["description"]
+    assert "Fit:" not in embed["description"]
+
+
+def test_embed_includes_fit_score_when_scored():
+    posting = _posting(1, score=4)
+    embed = discord._posting_to_embed(posting)
+    assert "⭐ Fit: 4/5" in embed["description"]
+
+
+def test_jd_preview_truncates_long_descriptions():
+    long_description = "x" * 1000
+    preview = discord._jd_preview(long_description)
+    assert len(preview) == discord._JD_PREVIEW_CHARS + 3  # + "..."
+    assert preview.endswith("...")
+
+
+def test_jd_preview_leaves_short_descriptions_untouched():
+    assert discord._jd_preview("Short JD.") == "Short JD."
 
 
 def test_failed_webhook_call_does_not_mark_notified(monkeypatch):

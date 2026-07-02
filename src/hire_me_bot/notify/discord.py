@@ -11,15 +11,28 @@ logger = logging.getLogger(__name__)
 # each instead of one webhook call per posting, to stay well under rate limits.
 _MAX_EMBEDS_PER_MESSAGE = 10
 
+_JD_PREVIEW_CHARS = 400
+
+
+def _jd_preview(description: str) -> str:
+    description = (description or "").strip()
+    if len(description) <= _JD_PREVIEW_CHARS:
+        return description
+    return description[:_JD_PREVIEW_CHARS].rstrip() + "..."
+
 
 def _posting_to_embed(posting: dict) -> dict:
-    subtitle = f"Fit score: {posting['fit_score']}/5" if posting.get("fit_score") is not None else "Unscored"
-    if posting.get("location"):
-        subtitle += f" | {posting['location']}"
+    lines = [f"📍 {posting.get('location') or 'Location not specified'}"]
+    if posting.get("fit_score") is not None:
+        lines.append(f"⭐ Fit: {posting['fit_score']}/5")
+    jd_preview = _jd_preview(posting.get("description", ""))
+    if jd_preview:
+        lines.append("")
+        lines.append(jd_preview)
     return {
         "title": f"{posting['title']} @ {posting['company']}"[:256],
         "url": posting["url"],
-        "description": subtitle,
+        "description": "\n".join(lines)[:4096],
     }
 
 
