@@ -8,6 +8,9 @@ on:
 env:
   FIT_SCORE_NOTIFY_THRESHOLD: 4
 
+permissions:
+  contents: write
+
 jobs:
   run-pipeline:
     runs-on: ubuntu-latest
@@ -28,3 +31,22 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: python -m hire_me_bot.pipeline
+
+      - name: Generate REPORT.md
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+        run: python scripts/report.py
+
+      - name: Commit REPORT.md if changed
+        # Committed every run (not just daily like stats.yml) -- this is the
+        # git-trackable log of every posting found, with the timestamp of
+        # each commit doubling as "when did we see this." Only commits when
+        # content actually changed, so a quiet cycle doesn't add an empty
+        # commit every 3 hours.
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add REPORT.md
+          git diff --staged --quiet || git commit -m "Update REPORT.md"
+          git push

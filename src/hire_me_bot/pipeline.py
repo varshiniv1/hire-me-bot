@@ -100,6 +100,8 @@ def run() -> None:
     notified_count = discord.send_notifications()
     logger.info("Sent Discord notifications for %d postings", notified_count)
 
+    discord.send_run_summary(len(fetched), notified_count)
+
 
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO)

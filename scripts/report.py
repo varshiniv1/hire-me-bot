@@ -1,9 +1,13 @@
 """Writes REPORT.md: every scored posting, including low scores that never
-triggered a Discord notification. Run manually whenever you want the full
-picture -- not part of the 3-hourly pipeline."""
+triggered a Discord notification. Run as part of every 3-hourly pipeline
+workflow and committed back to the repo, so git history itself becomes a
+timestamped log of every posting found (title, company, location, posted
+date, age, application link) -- similar to how SimplifyJobs' tracker repos
+work."""
 
 from hire_me_bot import settings
 from hire_me_bot.db import postings_repo
+from hire_me_bot.format_utils import posted_days_ago_text
 
 REPORT_PATH = settings.REPO_ROOT / "REPORT.md"
 
@@ -14,10 +18,16 @@ def _escape(text: str) -> str:
 
 def _format_row(posting: dict) -> str:
     score = posting["fit_score"] if posting["fit_score"] is not None else "-"
-    first_seen = posting["first_seen_at"][:10] if posting.get("first_seen_at") else "-"
+    posted_at = posting.get("posted_at")
+    posted_date = posted_at[:10] if posted_at else "-"
+    age = posted_days_ago_text(posted_at).removeprefix("Posted ")
     company = _escape(posting["company"])
     title = _escape(posting["title"])
-    return f"| {company} | {title} | {score} | {posting['status']} | {first_seen} | [link]({posting['url']}) |"
+    location = _escape(posting.get("location") or "-")
+    return (
+        f"| {company} | {title} | {location} | {posted_date} | {age} "
+        f"| {score} | {posting['status']} | [apply]({posting['url']}) |"
+    )
 
 
 def build_report(postings: list[dict]) -> str:
@@ -26,8 +36,8 @@ def build_report(postings: list[dict]) -> str:
         "",
         f"{len(postings)} postings tracked.",
         "",
-        "| Company | Title | Score | Status | First Seen | Link |",
-        "|---|---|---|---|---|---|",
+        "| Company | Title | Location | Posted | Age | Score | Status | Link |",
+        "|---|---|---|---|---|---|---|---|",
     ]
     lines.extend(_format_row(p) for p in postings)
     return "\n".join(lines) + "\n"

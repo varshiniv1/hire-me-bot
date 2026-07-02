@@ -1,4 +1,5 @@
 import sys
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
@@ -10,9 +11,11 @@ def _posting(**overrides):
     base = {
         "company": "Stripe",
         "title": "SWE Intern",
+        "location": "San Francisco, CA",
         "fit_score": 5,
         "status": "not_applied",
         "first_seen_at": "2026-06-01T12:00:00+00:00",
+        "posted_at": "2026-06-01T12:00:00+00:00",
         "url": "https://stripe.com/jobs/1",
     }
     base.update(overrides)
@@ -27,10 +30,18 @@ def test_build_report_includes_all_postings_regardless_of_score():
     assert "2 postings tracked" in report_text
 
 
+def test_build_report_includes_location_and_apply_link():
+    postings = [_posting()]
+    report_text = report.build_report(postings)
+    assert "San Francisco, CA" in report_text
+    assert "[apply](https://stripe.com/jobs/1)" in report_text
+
+
 def test_build_report_handles_unscored_posting():
     postings = [_posting(fit_score=None)]
     report_text = report.build_report(postings)
-    assert "| Stripe | SWE Intern | - | not_applied |" in report_text
+    assert "| Stripe | SWE Intern | San Francisco, CA |" in report_text
+    assert "| - | not_applied |" in report_text
 
 
 def test_build_report_escapes_pipe_characters():
@@ -39,8 +50,15 @@ def test_build_report_escapes_pipe_characters():
     assert "Engineer \\| Backend" in report_text
 
 
-def test_build_report_truncates_first_seen_to_date():
-    postings = [_posting(first_seen_at="2026-06-01T12:34:56.789+00:00")]
+def test_build_report_shows_posted_date_and_age():
+    now = datetime.now(timezone.utc)
+    postings = [_posting(posted_at=(now - timedelta(days=3)).isoformat())]
     report_text = report.build_report(postings)
-    assert "2026-06-01" in report_text
-    assert "12:34:56" not in report_text
+    assert (now - timedelta(days=3)).strftime("%Y-%m-%d") in report_text
+    assert "3 days ago" in report_text
+
+
+def test_build_report_handles_missing_posted_at():
+    postings = [_posting(posted_at=None)]
+    report_text = report.build_report(postings)
+    assert "| - | date unknown |" in report_text

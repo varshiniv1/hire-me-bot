@@ -6,6 +6,7 @@ import httpx
 
 from hire_me_bot import settings
 from hire_me_bot.db import postings_repo
+from hire_me_bot.format_utils import posted_days_ago_text
 
 logger = logging.getLogger(__name__)
 
@@ -13,50 +14,21 @@ _MAX_RATE_LIMIT_RETRIES = 5
 
 # Discord allows up to 10 embeds per message, but also caps the COMBINED
 # character count across every embed in one message at 6000 total (separate
-# from each embed's own 4096-char description limit). A shorter JD preview
-# means more embeds safely fit per message before hitting that combined cap
-# (see test_batched_message_stays_under_discord_combined_embed_limit, which
-# guards this tradeoff against a future bump to either constant).
-_MAX_EMBEDS_PER_MESSAGE = 5
-
-_JD_PREVIEW_CHARS = 500
-
-
-def _jd_preview(description: str) -> str:
-    description = (description or "").strip()
-    if len(description) <= _JD_PREVIEW_CHARS:
-        return description
-    return description[:_JD_PREVIEW_CHARS].rstrip() + "..."
-
-
-def _posted_days_ago_text(posted_at: str | None) -> str:
-    if not posted_at:
-        return "Posted date unknown"
-    try:
-        posted_dt = datetime.fromisoformat(posted_at.replace("Z", "+00:00"))
-    except ValueError:
-        return "Posted date unknown"
-    days = (datetime.now(timezone.utc) - posted_dt).days
-    if days <= 0:
-        return "Posted today"
-    if days == 1:
-        return "Posted 1 day ago"
-    return f"Posted {days} days ago"
+# from each embed's own 4096-char description limit). Embeds are now just
+# title + location + posted-date (no JD preview/apply-link line, per user
+# request to keep the card minimal -- the title itself is already a link to
+# the posting), so 10 fits safely under 6000 even at max title length
+# (see test_batched_message_stays_under_discord_combined_embed_limit).
+_MAX_EMBEDS_PER_MESSAGE = 10
 
 
 def _posting_to_embed(posting: dict) -> dict:
     lines = [
         f"Location: {posting.get('location') or 'Not specified'}",
-        _posted_days_ago_text(posting.get("posted_at")),
+        posted_days_ago_text(posting.get("posted_at")),
     ]
     if posting.get("fit_score") is not None:
         lines.append(f"Fit: {posting['fit_score']}/5")
-    jd_preview = _jd_preview(posting.get("description", ""))
-    if jd_preview:
-        lines.append("")
-        lines.append(jd_preview)
-    lines.append("")
-    lines.append(f"[Apply here]({posting['url']})")
     return {
         "title": f"{posting['title']} @ {posting['company']}"[:256],
         "url": posting["url"],
@@ -142,3 +114,22 @@ def send_notifications() -> int:
             sent += len(batch)
 
     return sent
+
+
+def send_run_summary(fetched_count: int, notified_count: int) -> None:
+    """One plain-text heartbeat message every pipeline run, even when
+    nothing new was found -- so a quiet Discord channel means "nothing new
+    right now," not "is this thing even still running?"."""
+    if not settings.DISCORD_WEBHOOK_URL:
+        return
+    now = datetime.now(timezone.utc)
+    payload = {
+        "content": (
+            f"Pipeline run at {now.strftime('%Y-%m-%d %H:%M')} UTC -- "
+            f"{fetched_count} posting(s) fetched, {notified_count} new notification(s) sent."
+        )
+    }
+    with httpx.Client(timeout=15.0) as client:
+        resp = _post_with_retry(client, payload)
+    if resp.status_code >= 300:
+        logger.error("Discord run-summary webhook failed (%s): %s", resp.status_code, resp.text)

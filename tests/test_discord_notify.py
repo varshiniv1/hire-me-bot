@@ -42,7 +42,7 @@ def test_scoring_enabled_uses_threshold_query(monkeypatch):
     monkeypatch.setattr(settings, "DISCORD_WEBHOOK_URL", "https://discord.com/api/webhooks/x/y")
     monkeypatch.setattr(settings, "SCORING_ENABLED", True)
     monkeypatch.setattr(discord.time, "sleep", lambda seconds: None)
-    postings = [_posting(i) for i in range(12)]  # forces 3 batches at MAX_EMBEDS_PER_MESSAGE=5 (5+5+2)
+    postings = [_posting(i) for i in range(12)]  # forces 2 batches at MAX_EMBEDS_PER_MESSAGE=10 (10+2)
 
     calls = []
     monkeypatch.setattr(
@@ -68,7 +68,7 @@ def test_scoring_enabled_uses_threshold_query(monkeypatch):
     count = discord.send_notifications()
 
     assert count == 12
-    assert len(sent_payloads) == 3  # batched into 3 webhook calls
+    assert len(sent_payloads) == 2  # batched into 2 webhook calls
     assert sorted(marked) == list(range(12))
     assert calls == [(settings.FIT_SCORE_NOTIFY_THRESHOLD, settings.NOTIFY_MAX_AGE_DAYS)]
 
@@ -106,19 +106,21 @@ def test_scoring_disabled_notifies_all_unnotified_regardless_of_score(monkeypatc
     assert b"Unscored" not in embed
     assert b"Fit:" not in embed
     assert b"Austin, TX" in embed
-    assert b"Requirements" in embed
 
 
-def test_embed_includes_role_company_location_and_jd_preview():
+def test_embed_is_minimal_title_location_and_posted_date_only():
     posting = _posting(1, score=None)
     embed = discord._posting_to_embed(posting)
 
     assert embed["title"] == "Software Engineer 1 @ Acme"
     assert embed["url"] == "https://example.com/1"
     assert "Austin, TX" in embed["description"]
-    assert "Requirements: Python, SQL." in embed["description"]
+    assert "Posted" in embed["description"]
+    # No JD preview or separate apply-link line -- the title itself already
+    # links to the posting, per user request to keep the card minimal.
+    assert "Requirements: Python, SQL." not in embed["description"]
+    assert "Apply here" not in embed["description"]
     assert "Fit:" not in embed["description"]
-    assert "[Apply here](https://example.com/1)" in embed["description"]
 
 
 def test_embed_includes_fit_score_when_scored():
@@ -134,42 +136,18 @@ def test_embed_has_no_emojis():
     assert all(ord(ch) < 0x2190 for ch in full_text)  # below the emoji/symbol Unicode ranges
 
 
-def test_posted_days_ago_text():
-    from datetime import datetime, timedelta, timezone
-
-    now = datetime.now(timezone.utc)
-    assert discord._posted_days_ago_text(now.isoformat()) == "Posted today"
-    assert discord._posted_days_ago_text((now - timedelta(days=1)).isoformat()) == "Posted 1 day ago"
-    assert discord._posted_days_ago_text((now - timedelta(days=5)).isoformat()) == "Posted 5 days ago"
-    assert discord._posted_days_ago_text(None) == "Posted date unknown"
-    assert discord._posted_days_ago_text("not-a-date") == "Posted date unknown"
-
-
-def test_jd_preview_truncates_long_descriptions():
-    long_description = "x" * (discord._JD_PREVIEW_CHARS + 500)
-    preview = discord._jd_preview(long_description)
-    assert len(preview) == discord._JD_PREVIEW_CHARS + 3  # + "..."
-    assert preview.endswith("...")
-
-
-def test_jd_preview_leaves_short_descriptions_untouched():
-    assert discord._jd_preview("Short JD.") == "Short JD."
-
-
 def test_batched_message_stays_under_discord_combined_embed_limit():
     # Discord caps the COMBINED character count across all embeds in a single
     # message at 6000, separate from each embed's own 4096-char description
-    # limit. Worst case: max-length title (256) + a long location/URL, repeated
+    # limit. Worst case: max-length title (256) + a long location, repeated
     # _MAX_EMBEDS_PER_MESSAGE times -- must stay comfortably under 6000, or a
-    # future bump to the preview length or batch size could get a real
-    # notification message silently rejected by Discord.
+    # future change could get a real notification message silently rejected.
     worst_case_posting = {
         "id": 1,
         "title": "x" * 256,
         "company": "y" * 100,
         "url": "https://example.com/" + "z" * 200,
-        "location": "Some Very Long Location String, NY",
-        "description": "d" * (discord._JD_PREVIEW_CHARS + 500),
+        "location": "Some Very Long Location String That Keeps Going, NY",
         "fit_score": 5,
     }
     embed = discord._posting_to_embed(worst_case_posting)
@@ -229,3 +207,43 @@ def test_failed_webhook_call_does_not_mark_notified(monkeypatch):
 
     assert count == 0
     assert marked == []
+
+
+def test_run_summary_sends_a_plain_content_message(monkeypatch):
+    monkeypatch.setattr(settings, "DISCORD_WEBHOOK_URL", "https://discord.com/api/webhooks/x/y")
+
+    sent_payloads = []
+
+    def handler(request: httpx.Request) -> httpx.Response:
+        sent_payloads.append(request)
+        return httpx.Response(200, json={"ok": True})
+
+    _mock_client(monkeypatch, handler)
+
+    discord.send_run_summary(fetched_count=42, notified_count=7)
+
+    assert len(sent_payloads) == 1
+    assert b"42" in sent_payloads[0].content
+    assert b"7" in sent_payloads[0].content
+
+
+def test_run_summary_sends_even_when_nothing_new(monkeypatch):
+    monkeypatch.setattr(settings, "DISCORD_WEBHOOK_URL", "https://discord.com/api/webhooks/x/y")
+
+    sent_payloads = []
+
+    def handler(request: httpx.Request) -> httpx.Response:
+        sent_payloads.append(request)
+        return httpx.Response(200, json={"ok": True})
+
+    _mock_client(monkeypatch, handler)
+
+    discord.send_run_summary(fetched_count=0, notified_count=0)
+
+    assert len(sent_payloads) == 1
+
+
+def test_run_summary_does_nothing_without_webhook_url(monkeypatch):
+    monkeypatch.setattr(settings, "DISCORD_WEBHOOK_URL", None)
+    # Should not raise -- pipeline.py calls this unconditionally at the end of every run.
+    discord.send_run_summary(fetched_count=1, notified_count=1)
