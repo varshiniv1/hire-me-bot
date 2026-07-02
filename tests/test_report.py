@@ -26,7 +26,7 @@ def test_build_report_includes_all_postings():
     report_text = report.build_report(postings)
     assert "Stripe" in report_text
     assert "Ramp" in report_text
-    assert "2 postings tracked" in report_text
+    assert "2 postings from the last" in report_text
 
 
 def test_build_report_includes_location_source_and_apply_link():
@@ -66,3 +66,40 @@ def test_build_report_handles_missing_posted_at():
     postings = [_posting(posted_at=None)]
     report_text = report.build_report(postings)
     assert "| ? |" in report_text
+
+
+def test_build_report_splits_internships_and_full_time():
+    postings = [
+        _posting(company="InternCo", title="Software Engineering Intern"),
+        _posting(company="CoopCo", title="Backend Developer Co-op"),
+        _posting(company="GradCo", title="New Grad Software Engineer"),
+        _posting(company="RegularCo", title="Software Engineer I"),
+    ]
+    report_text = report.build_report(postings)
+
+    internships_heading = report_text.index("## Internships")
+    full_time_heading = report_text.index("## Full-Time")
+    assert internships_heading < full_time_heading
+
+    internships_section = report_text[internships_heading:full_time_heading]
+    full_time_section = report_text[full_time_heading:]
+
+    assert "InternCo" in internships_section
+    assert "CoopCo" in internships_section
+    assert "GradCo" not in internships_section
+    assert "RegularCo" not in internships_section
+
+    assert "GradCo" in full_time_section
+    assert "RegularCo" in full_time_section
+    assert "InternCo" not in full_time_section
+    assert "CoopCo" not in full_time_section
+
+    assert "## Internships (2)" in report_text
+    assert "## Full-Time (2)" in report_text
+
+
+def test_build_report_empty_section_shows_placeholder():
+    postings = [_posting(title="Software Engineer I")]  # full-time only
+    report_text = report.build_report(postings)
+    assert "## Internships (0)" in report_text
+    assert "_None right now._" in report_text

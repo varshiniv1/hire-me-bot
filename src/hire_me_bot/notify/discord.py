@@ -6,6 +6,7 @@ import httpx
 
 from hire_me_bot import settings
 from hire_me_bot.db import postings_repo
+from hire_me_bot.filtering.keywords import is_internship_title
 from hire_me_bot.format_utils import posted_days_ago_text
 
 logger = logging.getLogger(__name__)
@@ -72,8 +73,10 @@ def _post_with_retry(client: httpx.Client, payload: dict) -> httpx.Response:
 
 
 def send_notifications() -> int:
-    """Push a Discord message for every unnotified posting, and mark each as
-    notified. Returns the count sent.
+    """Push a Discord message for every unnotified posting, grouped under an
+    "Internships" header and a "Full-Time" header (in that order) so it's
+    scannable at a glance which bucket a posting falls into. Marks each
+    notified as it sends. Returns the total count sent.
 
     While settings.SCORING_ENABLED is False, every keyword-matched posting is
     notified (fit_score never gets set, so the threshold gate can't apply).
@@ -96,22 +99,41 @@ def send_notifications() -> int:
     if not postings:
         return 0
 
+    internships = [p for p in postings if is_internship_title(p["title"])]
+    full_time = [p for p in postings if not is_internship_title(p["title"])]
+
     sent = 0
     with httpx.Client(timeout=15.0) as client:
-        for i, batch in enumerate(_chunk(postings, _MAX_EMBEDS_PER_MESSAGE)):
-            if i > 0:
+        first_request = True
+        for header, group in (("Internships", internships), ("Full-Time", full_time)):
+            if not group:
+                continue
+
+            if not first_request:
                 # Proactive pacing, not just reactive retry -- Discord's webhook
                 # rate limit is roughly 5 requests/2s, so spacing sends out
                 # means far fewer 429s to begin with on a large backlog.
                 time.sleep(0.3)
-            payload = {"embeds": [_posting_to_embed(p) for p in batch]}
-            resp = _post_with_retry(client, payload)
-            if resp.status_code >= 300:
-                logger.error("Discord webhook failed (%s): %s", resp.status_code, resp.text)
-                continue
-            for posting in batch:
-                postings_repo.mark_notified(posting["id"])
-            sent += len(batch)
+            first_request = False
+
+            header_resp = _post_with_retry(client, {"content": f"**{header}**"})
+            if header_resp.status_code >= 300:
+                logger.error(
+                    "Discord section-header webhook failed (%s): %s",
+                    header_resp.status_code,
+                    header_resp.text,
+                )
+
+            for batch in _chunk(group, _MAX_EMBEDS_PER_MESSAGE):
+                time.sleep(0.3)
+                payload = {"embeds": [_posting_to_embed(p) for p in batch]}
+                resp = _post_with_retry(client, payload)
+                if resp.status_code >= 300:
+                    logger.error("Discord webhook failed (%s): %s", resp.status_code, resp.text)
+                    continue
+                for posting in batch:
+                    postings_repo.mark_notified(posting["id"])
+                sent += len(batch)
 
     return sent
 

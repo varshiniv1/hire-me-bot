@@ -69,6 +69,15 @@ EXCLUSION_TERMS = [
 _TECH_RE = re.compile("|".join(TECH_TERMS), re.IGNORECASE)
 _EXCLUSION_RE = re.compile("|".join(EXCLUSION_TERMS), re.IGNORECASE)
 
+# Subset of CAREER_STAGE_TERMS that specifically signals an internship/co-op
+# (as opposed to "new grad"/"entry level", which are full-time framing) --
+# used to split postings into Internships vs Full-Time for reporting.
+_INTERNSHIP_TERMS = [
+    r"\bintern(?:ship)?s?\b",
+    r"\bco[- ]?op\b",
+]
+_INTERNSHIP_RE = re.compile("|".join(_INTERNSHIP_TERMS), re.IGNORECASE)
+
 
 def passes_keyword_filter(title: str) -> bool:
     if not title:
@@ -76,3 +85,7 @@ def passes_keyword_filter(title: str) -> bool:
     if _EXCLUSION_RE.search(title):
         return False
     return bool(_TECH_RE.search(title))
+
+
+def is_internship_title(title: str) -> bool:
+    return bool(_INTERNSHIP_RE.search(title or ""))

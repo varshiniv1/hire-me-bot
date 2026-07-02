@@ -68,7 +68,9 @@ def test_scoring_enabled_uses_threshold_query(monkeypatch):
     count = discord.send_notifications()
 
     assert count == 12
-    assert len(sent_payloads) == 2  # batched into 2 webhook calls
+    # 1 "Full-Time" header (all 12 titles are non-internship) + 2 embed batches
+    assert len(sent_payloads) == 3
+    assert b"Full-Time" in sent_payloads[0].content
     assert sorted(marked) == list(range(12))
     assert calls == [(settings.FIT_SCORE_NOTIFY_THRESHOLD, settings.NOTIFY_MAX_AGE_DAYS)]
 
@@ -102,7 +104,8 @@ def test_scoring_disabled_notifies_all_unnotified_regardless_of_score(monkeypatc
 
     assert count == 2
     assert sorted(marked) == [1, 2]
-    embed = sent_payloads[0].content
+    assert b"Full-Time" in sent_payloads[0].content  # section header sent first
+    embed = sent_payloads[1].content
     assert b"Unscored" not in embed
     assert b"Fit:" not in embed
     assert b"Austin, TX" in embed
@@ -184,9 +187,45 @@ def test_rate_limit_retries_instead_of_dropping_the_batch(monkeypatch):
 
     count = discord.send_notifications()
 
-    assert call_count == 2
+    # call 1: header, 429 -> retried as call 2 (succeeds); call 3: the embed batch.
+    assert call_count == 3
     assert count == 1
     assert marked == [1]
+
+
+def test_notifications_grouped_under_internship_and_full_time_headers(monkeypatch):
+    monkeypatch.setattr(settings, "DISCORD_WEBHOOK_URL", "https://discord.com/api/webhooks/x/y")
+    monkeypatch.setattr(settings, "SCORING_ENABLED", False)
+    monkeypatch.setattr(discord.time, "sleep", lambda seconds: None)
+
+    intern_posting = _posting(1)
+    intern_posting["title"] = "Software Engineering Intern"
+    full_time_posting = _posting(2)
+    full_time_posting["title"] = "Software Engineer II"
+    postings = [intern_posting, full_time_posting]
+
+    monkeypatch.setattr(discord.postings_repo, "get_unnotified", lambda a: postings)
+    marked = []
+    monkeypatch.setattr(discord.postings_repo, "mark_notified", lambda pid: marked.append(pid))
+
+    sent_payloads = []
+
+    def handler(request: httpx.Request) -> httpx.Response:
+        sent_payloads.append(request)
+        return httpx.Response(200, json={"ok": True})
+
+    _mock_client(monkeypatch, handler)
+
+    count = discord.send_notifications()
+
+    assert count == 2
+    assert sorted(marked) == [1, 2]
+    # Internships header + its embed, then Full-Time header + its embed, in that order.
+    assert len(sent_payloads) == 4
+    assert b"Internships" in sent_payloads[0].content
+    assert b"Software Engineering Intern" in sent_payloads[1].content
+    assert b"Full-Time" in sent_payloads[2].content
+    assert b"Software Engineer II" in sent_payloads[3].content
 
 
 def test_failed_webhook_call_does_not_mark_notified(monkeypatch):

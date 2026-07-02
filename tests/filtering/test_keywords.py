@@ -1,4 +1,4 @@
-from hire_me_bot.filtering.keywords import passes_keyword_filter
+from hire_me_bot.filtering.keywords import is_internship_title, passes_keyword_filter
 
 
 def test_internship_title_passes():
@@ -88,3 +88,12 @@ def test_bare_developer_title_passes():
 
 def test_empty_title_fails():
     assert not passes_keyword_filter("")
+
+
+def test_is_internship_title():
+    assert is_internship_title("Software Engineering Intern - Summer 2026")
+    assert is_internship_title("Backend Developer Co-op")
+    assert is_internship_title("SWE Coop")
+    assert not is_internship_title("New Grad Software Engineer")
+    assert not is_internship_title("Software Engineer I")
+    assert not is_internship_title("")
