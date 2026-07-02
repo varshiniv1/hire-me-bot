@@ -18,9 +18,23 @@ _EXPLICIT_US_RE = re.compile(r"\bU\.?S\.?A?\.?\b|\bUnited States\b", re.IGNORECA
 _WORKDAY_US_PREFIX_RE = re.compile(r"^US-")
 _STATE_SUFFIX_RE = re.compile(r"[,-]\s*([A-Z]{2})\b(?!\w)")
 
+# SmartRecruiters formats locations as "City, Region, country_code" with a
+# lowercase trailing ISO country code -- e.g. "Chennai, TN, in",
+# "Pomerode, SC, br", "Madrid, MD, es". The region code can collide with a US
+# state abbreviation (India's Tamil Nadu "TN" vs Tennessee "TN", Brazil's
+# Santa Catarina "SC" vs South Carolina "SC", Spain's Madrid "MD" vs
+# Maryland "MD", Spain's Cataluña "CT" vs Connecticut "CT", Netherlands'
+# Utrecht "UT" vs Utah "UT") -- a live run had 41 non-US postings pass
+# incorrectly because of this. The trailing lowercase country code is an
+# unambiguous signal and takes priority over the state-abbreviation guess.
+_TRAILING_COUNTRY_CODE_RE = re.compile(r",\s*([a-z]{2})\s*$")
+
 
 def is_usa_location(location: str | None) -> bool:
     if not location:
+        return False
+    trailing_country = _TRAILING_COUNTRY_CODE_RE.search(location)
+    if trailing_country and trailing_country.group(1) != "us":
         return False
     if _WORKDAY_US_PREFIX_RE.match(location):
         return True

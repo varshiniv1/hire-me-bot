@@ -38,3 +38,22 @@ def test_non_us_two_letter_code_not_mistaken_for_state():
     # QC = Quebec, not a US state -- must not match just because it's two
     # uppercase letters after a hyphen.
     assert not is_usa_location("CA-QC-Montreal")
+
+
+def test_smartrecruiters_trailing_country_code_disambiguates_state_collision():
+    # SmartRecruiters format "City, Region, country_code" -- the region code
+    # can collide with a US state abbreviation (India's Tamil Nadu "TN" vs
+    # Tennessee, Brazil's Santa Catarina "SC" vs South Carolina, Spain's
+    # Madrid "MD" vs Maryland, Spain's Cataluña "CT" vs Connecticut,
+    # Netherlands' Utrecht "UT" vs Utah). The lowercase trailing country
+    # code must win over the state-abbreviation guess.
+    assert not is_usa_location("Chennai, TN, in")
+    assert not is_usa_location("Pomerode, SC, br")
+    assert not is_usa_location("Madrid, MD, es")
+    assert not is_usa_location("Barcelona, CT, es")
+    assert not is_usa_location("Nieuwegein, UT, nl")
+
+
+def test_smartrecruiters_trailing_us_country_code_still_passes():
+    assert is_usa_location("Cincinnati, OH, us")
+    assert is_usa_location("Des Moines, IA, us")
