@@ -10,10 +10,15 @@ env:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 jobs:
   run-pipeline:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
 
@@ -71,3 +76,15 @@ jobs:
           done
           echo "::error::Failed to push after 5 attempts"
           exit 1
+
+      - name: Deploy GitHub Pages
+        # Pushes made with the default GITHUB_TOKEN (like the commit above)
+        # don't trigger other workflows' `push` events -- a separate
+        # deploy-pages.yml watching for pushes to docs/** would never
+        # actually fire from this job's own commit. Deploying directly in
+        # the same run sidesteps that entirely.
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - id: deployment
+        uses: actions/deploy-pages@v4
