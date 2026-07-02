@@ -23,7 +23,18 @@ of every posting found (so git history itself is a timestamped record).
   -- seeded from ~3,200 companies pulled out of the SimplifyJobs
   internship/new-grad tracker repos (`scripts/seed_companies.py`), hand-edited
   from there in [`config/companies.yaml`](config/companies.yaml). Every
-  company is crawled and scored identically -- no priority/bias.
+  company is crawled and scored identically -- no priority/bias. A weekly
+  workflow (`.github/workflows/reseed-companies.yml`) merges in any new
+  companies those repos add, without ever undoing hand-edits (renamed
+  tokens, removed staffing agencies -- see
+  [`config/excluded_companies.yaml`](config/excluded_companies.yaml)).
+  Optionally, [JSearch](https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch)
+  (Google for Jobs) adds a 7th, query-keyed source that catches companies
+  with none of the above ATS platforms -- disabled by default, enable by
+  adding a `RAPIDAPI_KEY` repo secret (see `src/hire_me_bot/connectors/jsearch.py`).
+  Results that duplicate a company already covered by a direct ATS
+  connector are skipped in favor of the more complete direct-connector data.
+  LinkedIn/Indeed are not scraped directly (against their ToS).
 - **Role scope**: Software Engineer, SRE/Production Engineer, and Backend/
   Frontend/Full-Stack roles only -- titles need "software", "SWE", "SDE",
   "SDET", "site reliability"/"SRE", "production engineer", "backend",

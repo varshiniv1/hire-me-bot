@@ -23,14 +23,13 @@ data only, discarding any hand-edits (rarely what you want).
 
 import argparse
 import logging
-import re
 from collections import Counter
-from urllib.parse import unquote, urlparse
 
 import httpx
 import yaml
 
 from hire_me_bot import settings
+from hire_me_bot.connectors.detect import detect_source_and_token
 
 logger = logging.getLogger(__name__)
 
@@ -38,59 +37,6 @@ LISTINGS_URLS = [
     "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/.github/scripts/listings.json",
     "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/.github/scripts/listings.json",
 ]
-
-_GREENHOUSE_RE = re.compile(r"(?:job-boards|boards)(?:\.\w+)?\.greenhouse\.io$")
-_ASHBY_RE = re.compile(r"jobs\.ashbyhq\.com$")
-_LEVER_RE = re.compile(r"jobs\.lever\.co$")
-_SMARTRECRUITERS_RE = re.compile(r"jobs\.smartrecruiters\.com$")
-_RECRUITEE_RE = re.compile(r"^([\w-]+)\.recruitee\.com$")
-_WORKDAY_RE = re.compile(r"^([\w-]+)\.(wd\d+)\.myworkdayjobs\.com$")
-
-
-def _first_path_segment(path: str) -> str | None:
-    parts = [p for p in path.split("/") if p]
-    return unquote(parts[0]) if parts else None
-
-
-def detect_source_and_token(url: str) -> tuple[str, str] | None:
-    """Return (source, token) if this posting URL is on one of our supported
-    ATS platforms, else None."""
-    parsed = urlparse(url)
-    netloc = parsed.netloc.lower()
-
-    if _GREENHOUSE_RE.search(netloc):
-        token = _first_path_segment(parsed.path)
-        return ("greenhouse", token) if token else None
-
-    if _ASHBY_RE.search(netloc):
-        token = _first_path_segment(parsed.path)
-        return ("ashby", token) if token else None
-
-    if _LEVER_RE.search(netloc):
-        token = _first_path_segment(parsed.path)
-        return ("lever", token) if token else None
-
-    if _SMARTRECRUITERS_RE.search(netloc):
-        token = _first_path_segment(parsed.path)
-        return ("smartrecruiters", token) if token else None
-
-    match = _RECRUITEE_RE.match(netloc)
-    if match:
-        return ("recruitee", match.group(1))
-
-    match = _WORKDAY_RE.match(netloc)
-    if match:
-        # Workday needs both the tenant subdomain and the site path segment
-        # (e.g. "rec_rtx_ext_gateway") to build its CXS API endpoint later.
-        # Stored as "tenant/wdN/site" -- the (not-yet-built) Workday connector
-        # is responsible for parsing this composite token.
-        tenant, wd = match.group(1), match.group(2)
-        site = _first_path_segment(parsed.path)
-        if not site:
-            return None
-        return ("workday", f"{tenant}/{wd}/{site}")
-
-    return None
 
 
 def fetch_listings() -> list[dict]:

@@ -16,6 +16,10 @@ SUPABASE_URL = os.environ.get("SUPABASE_URL")
 SUPABASE_KEY = os.environ.get("SUPABASE_KEY")
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY")
 DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL")
+# JSearch (RapidAPI) -- optional, separate from the 6 free ATS connectors.
+# connectors/jsearch.py and scripts/fetch_jsearch.py both no-op cleanly if
+# this isn't set, so it's never required to run the core pipeline.
+RAPIDAPI_KEY = os.environ.get("RAPIDAPI_KEY")
 
 FIT_SCORE_NOTIFY_THRESHOLD = int(os.environ.get("FIT_SCORE_NOTIFY_THRESHOLD", "4"))
 

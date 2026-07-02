@@ -1,0 +1,74 @@
+name: JSearch (Google for Jobs) fetch
+
+on:
+  schedule:
+    # Every 3 days -- JSearch's free tier caps at 200 requests/month; 8
+    # queries x 10 runs/month = 80 requests, well under the cap. Separate
+    # cadence from the main pipeline.yml (every 3-6h) on purpose.
+    - cron: '0 12 */3 * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  fetch-jsearch:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -e .
+
+      - name: Fetch JSearch postings
+        # No-ops cleanly (logs and exits) if RAPIDAPI_KEY isn't set as a
+        # repo secret -- this workflow is safe to leave enabled even before
+        # you've signed up for RapidAPI.
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+        run: python scripts/fetch_jsearch.py
+
+      - name: Generate REPORT.md
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+        run: python scripts/report.py
+
+      - name: Generate docs/jobs.json
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+        run: python scripts/generate_jobs_json.py
+
+      - name: Commit REPORT.md and docs/jobs.json if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add REPORT.md docs/jobs.json
+          git diff --staged --quiet || git commit -m "Update REPORT.md and jobs.json (JSearch fetch)"
+          for i in 1 2 3 4 5; do
+            git push && exit 0
+            git fetch origin main
+            git rebase origin/main
+            sleep $((RANDOM % 10 + 1))
+          done
+          echo "::error::Failed to push after 5 attempts"
+          exit 1
+
+      - name: Deploy GitHub Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - id: deployment
+        uses: actions/deploy-pages@v4

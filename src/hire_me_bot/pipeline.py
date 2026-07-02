@@ -49,7 +49,7 @@ def _load_profile() -> dict:
         return json.load(f)
 
 
-def _passes_all_filters(posting: Posting) -> bool:
+def passes_all_filters(posting: Posting) -> bool:
     if not passes_keyword_filter(posting.title):
         return False
     if not is_usa_location(posting.location):
@@ -76,7 +76,7 @@ def _fetch_company(company: dict) -> list[Posting]:
             "Failed to fetch %s (%s), skipping this run", company["name"], company.get("source")
         )
         return []
-    return [p for p in postings if _passes_all_filters(p)]
+    return [p for p in postings if passes_all_filters(p)]
 
 
 def _fetch_all(companies: list[dict]) -> list[Posting]:
