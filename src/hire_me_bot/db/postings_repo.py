@@ -151,6 +151,23 @@ def get_applications_per_day() -> dict[str, int]:
     return counts
 
 
+def get_recent_not_applied(max_age_days: int) -> list[dict]:
+    """Recent postings you haven't acted on yet -- backs the jobs browser
+    (docs/jobs.html). Once you mark something applied/interviewing/etc via
+    the browser's button or track.py, it drops out of this list; it's still
+    in the table (and still shows in REPORT.md, which is a full audit log,
+    not a "what's left to apply to" view)."""
+    cutoff = (datetime.now(timezone.utc) - timedelta(days=max_age_days)).isoformat()
+    client = get_client()
+    return _paginate(
+        lambda: client.table(TABLE)
+        .select("*")
+        .eq("status", "not_applied")
+        .gte("posted_at", cutoff)
+        .order("first_seen_at", desc=True)
+    )
+
+
 def get_all_ordered(max_age_days: int) -> list[dict]:
     """Every posting with posted_at within max_age_days, newest-first by
     first_seen_at. Backs REPORT.md -- reports respect the same 2-day

@@ -8,6 +8,7 @@ import generate_jobs_json  # noqa: E402
 
 def _posting(**overrides):
     base = {
+        "id": 1,
         "company": "Stripe",
         "title": "SWE Intern",
         "location": "San Francisco, CA",
@@ -23,6 +24,7 @@ def _posting(**overrides):
 def test_to_entry_shape():
     entry = generate_jobs_json._to_entry(_posting())
     assert entry == {
+        "id": 1,
         "company": "Stripe",
         "role": "SWE Intern",
         "location": "San Francisco, CA",

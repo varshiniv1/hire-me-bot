@@ -138,6 +138,12 @@ class _FakeSelectQuery:
             self._log.append((col, val))
         return self
 
+    def eq(self, col, val):
+        return self
+
+    def order(self, col, desc=False):
+        return self
+
     def range(self, start, end):
         self._start = start
         self._end = end
@@ -203,6 +209,26 @@ def test_get_unnotified_above_threshold_filters_by_max_age(monkeypatch):
     assert len(posted_at_calls) == 1
     cutoff = datetime.fromisoformat(posted_at_calls[0][1])
     assert cutoff < datetime.now(timezone.utc) - timedelta(days=1, hours=23)
+
+
+def test_get_recent_not_applied_filters_by_age(monkeypatch):
+    from datetime import datetime, timedelta, timezone
+
+    log: list = []
+    monkeypatch.setattr(postings_repo, "get_client", lambda: _FakeSelectClient([], log))
+
+    postings_repo.get_recent_not_applied(max_age_days=2)
+
+    posted_at_calls = [entry for entry in log if entry[0] == "posted_at"]
+    assert len(posted_at_calls) == 1
+    cutoff = datetime.fromisoformat(posted_at_calls[0][1])
+    assert cutoff < datetime.now(timezone.utc) - timedelta(days=1, hours=23)
+
+
+def test_get_recent_not_applied_returns_rows(monkeypatch):
+    rows = [{"id": 1, "status": "not_applied"}]
+    monkeypatch.setattr(postings_repo, "get_client", lambda: _FakeSelectClient(rows))
+    assert postings_repo.get_recent_not_applied(max_age_days=2) == rows
 
 
 def test_paginate_fetches_every_page_past_supabase_default_cap(monkeypatch):

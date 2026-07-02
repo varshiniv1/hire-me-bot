@@ -40,17 +40,25 @@
   th { color: #8b949e; font-weight: 600; }
   tr:hover td { background: #161b22; }
   .company { font-weight: 600; }
-  .apply-btn {
+  .actions { display: flex; gap: 0.4rem; }
+  .apply-btn, .applied-btn {
     display: inline-block;
-    background: #21262d;
-    color: #58a6ff;
-    border: 1px solid #30363d;
     border-radius: 6px;
     padding: 0.3rem 0.8rem;
     text-decoration: none;
     font-size: 0.85rem;
+    cursor: pointer;
+    border: 1px solid #30363d;
+    font-family: inherit;
   }
+  .apply-btn { background: #21262d; color: #58a6ff; }
   .apply-btn:hover { background: #30363d; }
+  /* Neutral idle color, distinct from .done's filled green -- otherwise the
+     un-clicked button already looks like a "completed" confirmation. */
+  .applied-btn { background: #21262d; color: #c9d1d9; }
+  .applied-btn:hover { background: #30363d; border-color: #3fb950; color: #3fb950; }
+  .applied-btn:disabled { opacity: 0.6; cursor: default; }
+  .applied-btn.done { background: #238636; color: #fff; border-color: #238636; }
   .age { color: #8b949e; white-space: nowrap; }
   #empty { color: #8b949e; padding: 1rem 0; display: none; }
   #count { color: #8b949e; font-size: 0.85rem; margin-bottom: 0.5rem; }
@@ -59,7 +67,10 @@
 <body>
   <nav><a href="index.html">Application Stats</a><a href="jobs.html">Jobs</a></nav>
   <h1>Job Postings</h1>
-  <div id="subtitle">Everything found in the last few days, split by Internships vs Full-Time.</div>
+  <div id="subtitle">
+    Everything found in the last few days you haven't applied to yet, split by Internships vs Full-Time.
+    Click "Applied" once you've submitted -- it won't show up here again.
+  </div>
 
   <div id="tabs">
     <button class="tab-button active" data-tab="internship">Internships</button>
@@ -76,6 +87,14 @@
   <div id="empty">Nothing here right now.</div>
 
 <script>
+// The anon/public key is meant to be embedded in client-side code like this
+// (that's what it's for) -- it's locked down server-side via a Postgres
+// policy + column grant that only allows setting status/applied_at, nothing
+// else (see sql/schema.sql). It is NOT the service_role key, which stays
+// server-side only in GitHub Actions secrets and is never exposed here.
+const SUPABASE_URL = 'https://lyadqbhufusevbikviyh.supabase.co';
+const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imx5YWRxYmh1ZnVzZXZiaWt2aXloIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODI5NDAzOTIsImV4cCI6MjA5ODUxNjM5Mn0.O2BXhBYA2aJEvtJ_m2GA_S6R2jbpasKK-u0wfcO3rq8';
+
 let jobs = [];
 let activeTab = 'internship';
 
@@ -96,14 +115,56 @@ function render() {
 
   for (const job of filtered) {
     const tr = document.createElement('tr');
+    tr.dataset.id = job.id;
     tr.innerHTML = `
       <td class="company">${escapeHtml(job.company)}</td>
       <td>${escapeHtml(job.role)}</td>
       <td>${escapeHtml(job.location)}</td>
-      <td><a class="apply-btn" href="${escapeHtml(job.url)}" target="_blank" rel="noopener">Apply</a></td>
+      <td class="actions">
+        <a class="apply-btn" href="${escapeHtml(job.url)}" target="_blank" rel="noopener">Apply</a>
+        <button class="applied-btn" type="button">Applied</button>
+      </td>
       <td class="age">${escapeHtml(job.age)}</td>
     `;
+    tr.querySelector('.applied-btn').addEventListener('click', () => markApplied(job.id, tr));
     rows.appendChild(tr);
+  }
+}
+
+async function markApplied(jobId, rowElement) {
+  const button = rowElement.querySelector('.applied-btn');
+  button.disabled = true;
+  button.textContent = 'Marking...';
+
+  try {
+    const resp = await fetch(`${SUPABASE_URL}/rest/v1/postings?id=eq.${jobId}`, {
+      method: 'PATCH',
+      headers: {
+        'apikey': SUPABASE_ANON_KEY,
+        'Authorization': `Bearer ${SUPABASE_ANON_KEY}`,
+        'Content-Type': 'application/json',
+        // return=representation, not return=minimal: PostgREST returns 2xx
+        // "success" even when zero rows matched (e.g. blocked by RLS), so a
+        // bare status check can't tell a real update from a silent no-op --
+        // has to check that a row actually came back.
+        'Prefer': 'return=representation',
+      },
+      body: JSON.stringify({ status: 'applied', applied_at: new Date().toISOString() }),
+    });
+
+    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+    const updated = await resp.json();
+    if (!Array.isArray(updated) || updated.length === 0) {
+      throw new Error('No row was updated (RLS/permissions issue?)');
+    }
+
+    button.textContent = 'Applied';
+    button.classList.add('done');
+    jobs = jobs.filter(j => j.id !== jobId);
+    setTimeout(render, 400); // brief confirmation flash before the row disappears
+  } catch (e) {
+    button.disabled = false;
+    button.textContent = 'Retry';
   }
 }
 
