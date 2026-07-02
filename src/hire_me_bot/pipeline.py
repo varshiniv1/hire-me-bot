@@ -15,6 +15,7 @@ from hire_me_bot.connectors.recruitee import RecruiteeConnector
 from hire_me_bot.connectors.smartrecruiters import SmartRecruitersConnector
 from hire_me_bot.connectors.workday import WorkdayConnector
 from hire_me_bot.db import postings_repo
+from hire_me_bot.filtering.citizenship import requires_citizenship
 from hire_me_bot.filtering.clearance import requires_clearance
 from hire_me_bot.filtering.experience import requires_too_much_experience
 from hire_me_bot.filtering.keywords import passes_keyword_filter
@@ -48,6 +49,21 @@ def _load_profile() -> dict:
         return json.load(f)
 
 
+def _passes_all_filters(posting: Posting) -> bool:
+    if not passes_keyword_filter(posting.title):
+        return False
+    if not is_usa_location(posting.location):
+        return False
+    for text in (posting.title, posting.description):
+        if requires_clearance(text):
+            return False
+        if requires_citizenship(text):
+            return False
+        if requires_too_much_experience(text, settings.MAX_YEARS_EXPERIENCE):
+            return False
+    return True
+
+
 def _fetch_company(company: dict) -> list[Posting]:
     connector_cls = CONNECTOR_CLASSES.get(company.get("source"))
     if connector_cls is None:
@@ -60,16 +76,7 @@ def _fetch_company(company: dict) -> list[Posting]:
             "Failed to fetch %s (%s), skipping this run", company["name"], company.get("source")
         )
         return []
-    return [
-        p
-        for p in postings
-        if passes_keyword_filter(p.title)
-        and is_usa_location(p.location)
-        and not requires_clearance(p.title)
-        and not requires_clearance(p.description)
-        and not requires_too_much_experience(p.title, settings.MAX_YEARS_EXPERIENCE)
-        and not requires_too_much_experience(p.description, settings.MAX_YEARS_EXPERIENCE)
-    ]
+    return [p for p in postings if _passes_all_filters(p)]
 
 
 def _fetch_all(companies: list[dict]) -> list[Posting]:

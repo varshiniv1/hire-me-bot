@@ -37,6 +37,9 @@ of every posting found (so git history itself is a timestamped record).
   doesn't sound senior (`src/hire_me_bot/filtering/experience.py`).
 - **Clearance**: postings requiring a security clearance are excluded, title
   or JD body (`src/hire_me_bot/filtering/clearance.py`).
+- **Citizenship**: postings requiring U.S. citizenship (not just work
+  authorization) are excluded, title or JD body
+  (`src/hire_me_bot/filtering/citizenship.py`).
 - **Freshness**: postings are never deleted from the database, but only
   ones posted within the last `NOTIFY_MAX_AGE_DAYS` (default 4) get
   surfaced -- in Discord, `REPORT.md`, and the jobs browser. A listing

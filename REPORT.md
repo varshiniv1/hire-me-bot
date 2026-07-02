@@ -1,8 +1,8 @@
 # Job Postings Report
 
-305 postings from the last 4 days.
+204 postings from the last 4 days.
 
-## Internships (8)
+## Internships (7)
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
@@ -13,19 +13,15 @@
 | Palantir | Forward Deployed Software Engineer, Internship - Commercial | Chicago, IL | Lever | not_applied | [Apply](https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2) | 1d |
 | IMC | Software Engineer Intern - Summer 2027 | Chicago, United States | Greenhouse | not_applied | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823924101) | 0d |
 | IMC Trading | Software Engineer Intern - Summer 2027 | Chicago, United States | Greenhouse | not_applied | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823924101) | 0d |
-| Astranis | Software Engineer- Backend Intern (Fall 2026) | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4681183006) | 1d |
 
-## Full-Time (297)
+## Full-Time (197)
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
-| The Boeing Company | Software Developer (Associate or Mid-Level) | USA - Hazelwood, MO | Workday | not_applied | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Software-Developer--Associate-or-Mid-Level-_JR2026517412-1) | 0d |
 | Nielsen | Software Engineer (Full stack - Java, Spring Boot, and Angular) | Chennai, TN, in | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/NielsenIQ/744000135456130-software-engineer-full-stack-java-spring-boot-and-angular-) | 0d |
 | NielsenIQ | Software Engineer (Full stack - Java, Spring Boot, and Angular) | Chennai, TN, in | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/NielsenIQ/744000135456130-software-engineer-full-stack-java-spring-boot-and-angular-) | 0d |
 | Intapp | Software Engineer | Charlotte, NC | Workday | not_applied | [Apply](https://intapp.wd1.myworkdayjobs.com/Intapp/job/Charlotte-NC/Software-Engineer_R2025119-1) | 0d |
 | AECOM | Database Developer | New York, NY, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000135493645-database-developer) | 0d |
-| Northrop Grumman | Embedded Software Engineer - Level 1 and 2 | United States-Georgia-Warner Robins | Workday | not_applied | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Georgia-Warner-Robins/Embedded-Software-Engineer---Level-1-and-2_R10238500-1) | 1d |
-| Teledyne | SAP Integration Developer | US - Billerica, MA | Workday | not_applied | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Billerica-MA/SAP-Integration-Developer_REQ35555) | 2d |
 | Bass Pro Shops | RPG Developer 4 - Manufacturing - Onsite | Springfield, MO (Bass Pro Shops Base Camp) | Workday | not_applied | [Apply](https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/RPG-Developer-4---Manufacturing---Onsite_R247123) | 2d |
 | Acrisure | Software Engineer, Data (L1) | 816 Congress Ave Ste 1800  - AUSTIN, TX | Workday | not_applied | [Apply](https://acrisure.wd1.myworkdayjobs.com/Acrisure/job/816-Congress-Ave-Ste-1800----AUSTIN-TX/Software-Engineer--Data--L1-_JR113679) | 3d |
 | Wellmark | Associate Software Engineer - Member Experience Delivery (Open to hiring at the Software Engineer level) | Des Moines, IA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000134797351-associate-software-engineer-member-experience-delivery-open-to-hiring-at-the-software-engineer-level-?oga=true) | 3d |
@@ -40,8 +36,6 @@
 | Viridien | Software Asset Analyst | Houston, United States of America | Workday | not_applied | [Apply](https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/Software-Asset-Analyst_JR101358) | 3d |
 | Vestmark | Software Engineer | Boston, MA (Hybrid) | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/vestmark/jobs/8009953) | 2d |
 | Verisign | Software Engineer II | Reston,Virginia,United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/verisign/jobs/7765684003) | 0d |
-| Vantor | Software Development Engineer | Westminster, CO | Workday | not_applied | [Apply](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Senior-Software-Development-Engineer_R23921) | 3d |
-| Vantor | Software Development Engineer | Westminster, CO | Workday | not_applied | [Apply](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Software-Development-Engineer---ENDVT401_R24025) | 2d |
 | Toshiba Global Commerce | AI-Driven UI Developer- FLEX/CONTRACT | Durham, NC | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5175203007) | 3d |
 | TransPerfect | Software Developer (Sitecore) | US-Austin, TX | Workday | not_applied | [Apply](https://transperfect.wd5.myworkdayjobs.com/transperfect/job/US-Austin-TX/Software-Developer--Sitecore-_R2025-244189) | 2d |
 | The Walt Disney Company | Software Development Engineer in Test (SDET) | Remote Worker Location, USA | Workday | not_applied | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Remote-Worker-Location-USA/Software-Development-Engineer-in-Test--SDET-_10146997) | 2d |
@@ -111,103 +105,12 @@
 | Speechify | Software Engineer, Platform - Tempe, AZ, USA | Tempe, AZ, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974143004) | 3d |
 | Speechify | Software Engineer, Platform - Tulsa, OK, USA | Tulsa, OK, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974245004) | 3d |
 | Speechify | Software Engineer, Platform - Washington, DC, USA | Washington, DC, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974208004) | 3d |
-| SpaceX | Embedded Software Engineer, Laser Mesh Routing (Starlink)    | Palo Alto, CA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8578934002?gh_jid=8578934002) | 2d |
-| SpaceX | Embedded Software Engineer, Laser Mesh Routing (Starlink)    | Redmond, WA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8578936002?gh_jid=8578936002) | 2d |
-| SpaceX | Embedded Software Engineer, OS/Platform  (Starlink) | Redmond, WA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8552893002?gh_jid=8552893002) | 2d |
-| SpaceX | Embedded Software Engineer, OS/Platform (Starlink) | Bastrop, TX | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8511391002?gh_jid=8511391002) | 2d |
-| SpaceX | Embedded Software Engineer, Satellite Antenna (Starlink) | Redmond, WA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8603628002?gh_jid=8603628002) | 2d |
-| SpaceX | Factory Software Engineer (Starlink) | Bastrop, TX | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8574053002?gh_jid=8574053002) | 2d |
-| SpaceX | Flight Software Engineer (Starlink Mobile) | Redmond, WA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8556909002?gh_jid=8556909002) | 2d |
-| SpaceX | Flight Software Infrastructure Engineer (Starlink) | Redmond, WA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8477451002?gh_jid=8477451002) | 2d |
-| SpaceX | Full Stack Software Engineer (Application Software) | Bastrop, TX | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8495180002?gh_jid=8495180002) | 2d |
-| SpaceX | Full Stack Software Engineer (Application Software) | Redmond, WA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8600005002?gh_jid=8600005002) | 2d |
-| SpaceX | Full Stack Software Engineer (Application Software) | Hawthorne, CA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8495131002?gh_jid=8495131002) | 2d |
-| SpaceX | Full Stack Software Engineer (Components) | Hawthorne, CA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8421359002?gh_jid=8421359002) | 2d |
-| SpaceX | Full Stack Software Engineer, Data | Starbase, TX | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8553080002?gh_jid=8553080002) | 2d |
-| SpaceX | Full Stack Software Engineer, Data (Starlink) | Hawthorne, CA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8540435002?gh_jid=8540435002) | 2d |
-| SpaceX | Network Software Integration Engineer (Starlink)  | Redmond, WA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8599648002?gh_jid=8599648002) | 2d |
-| SpaceX | New Graduate Engineer, Software (Starlink) | Sunnyvale, CA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8446263002?gh_jid=8446263002) | 2d |
-| SpaceX | New Graduate Engineer, Software (Starlink) | Redmond, WA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8376990002?gh_jid=8376990002) | 2d |
-| SpaceX | New Graduate Engineer, Software (Starlink)  | Bastrop, TX | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8399140002?gh_jid=8399140002) | 2d |
-| SpaceX | OS/Platform Software Engineer (Starlink)    | Redmond, WA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8552882002?gh_jid=8552882002) | 2d |
-| SpaceX | Platform Engineer, Flight Software (Starlink)   | Redmond, WA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8478286002?gh_jid=8478286002) | 2d |
-| SpaceX | RF Silicon Software Engineer (RFIC Engineering) | Redmond, WA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8439627002?gh_jid=8439627002) | 2d |
-| SpaceX | Security Software Engineer (Starlink) | Hawthorne, CA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8577408002?gh_jid=8577408002) | 2d |
-| SpaceX | Security Software Engineer (Starlink) | Hawthorne, CA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8543817002?gh_jid=8543817002) | 2d |
-| SpaceX | Security Software Engineer (Starlink) | Redmond, WA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8543784002?gh_jid=8543784002) | 2d |
-| SpaceX | Security Software Engineer (Starlink) | Bastrop, TX | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8479234002?gh_jid=8479234002) | 2d |
-| SpaceX | Security Software Engineer (Starlink) | Redmond, WA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8543668002?gh_jid=8543668002) | 2d |
-| SpaceX | Simulation Software Engineer (Application Software) | Hawthorne, CA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8488034002?gh_jid=8488034002) | 2d |
-| SpaceX | Software Engineer | McGregor, TX | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8563110002?gh_jid=8563110002) | 2d |
-| SpaceX | Software Engineer, Beam Planning (Starlink)    | Palo Alto, CA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8578907002?gh_jid=8578907002) | 2d |
-| SpaceX | Software Engineer, Beam Planning (Starlink)    | Redmond, WA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8578929002?gh_jid=8578929002) | 2d |
-| SpaceX | Software Engineer, C++ (Dragon) | Hawthorne, CA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8601802002?gh_jid=8601802002) | 2d |
-| SpaceX | Software Engineer (Components) | Hawthorne, CA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8557032002?gh_jid=8557032002) | 2d |
-| SpaceX | Software Engineer, Continuous Integration (Starship) | Starbase, TX | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8533859002?gh_jid=8533859002) | 2d |
-| SpaceX | Software Engineer, Continuous Integration (Starship) | Hawthorne, CA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8533853002?gh_jid=8533853002) | 2d |
-| SpaceX | Software Engineer, C++ (Raptor)  | Hawthorne, CA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8598038002?gh_jid=8598038002) | 2d |
-| SpaceX | Software Engineer, C++ (Simulations) | Hawthorne, CA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8603609002?gh_jid=8603609002) | 2d |
-| SpaceX | Software Engineer, C++ (Starlink) | Redmond, WA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8477124002?gh_jid=8477124002) | 2d |
-| SpaceX | Software Engineer, C++ (Starlink) | Sunnyvale, CA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8451960002?gh_jid=8451960002) | 2d |
-| SpaceX | Software Engineer, Data (Starlink) | Hawthorne, CA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8476427002?gh_jid=8476427002) | 2d |
-| SpaceX | Software Engineer, Design Software (Starship) | Starbase, TX | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8466837002?gh_jid=8466837002) | 2d |
-| SpaceX | Software Engineer, Design Software (Starship) | Hawthorne, CA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8466905002?gh_jid=8466905002) | 2d |
-| SpaceX | Software Engineer, Development Test (Starlink) | Redmond, WA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8532395002?gh_jid=8532395002) | 2d |
-| SpaceX | Software Engineer, Embedded Software (Starlink) | Redmond, WA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8552752002?gh_jid=8552752002) | 2d |
-| SpaceX | Software Engineer (Flight Reliability) | Hawthorne, CA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8512876002?gh_jid=8512876002) | 2d |
-| SpaceX | Software Engineer, Flight Software (Starlink) | Redmond, WA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8551932002?gh_jid=8551932002) | 2d |
-| SpaceX | Software Engineer, Flight Software (Starship) | Starbase, TX | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8562284002?gh_jid=8562284002) | 2d |
-| SpaceX | Software Engineer, Flight Software (Starship) | Hawthorne, CA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8562450002?gh_jid=8562450002) | 2d |
-| SpaceX | Software Engineer, Hardware Test & Automation (Optical Payloads) | Redmond, WA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8545930002?gh_jid=8545930002) | 2d |
-| SpaceX | Software Engineer, Hardware Test & Automation (Starlink) | Redmond, WA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8565155002?gh_jid=8565155002) | 2d |
-| SpaceX | Software Engineer, High Performance Computing (Starlink) | Palo Alto, CA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8578909002?gh_jid=8578909002) | 2d |
-| SpaceX | Software Engineer, High Performance Computing (Starlink) | Redmond, WA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8578931002?gh_jid=8578931002) | 2d |
-| SpaceX | Software Engineer, Low Latency Computing (Starlink)    | Palo Alto, CA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8578910002?gh_jid=8578910002) | 2d |
-| SpaceX | Software Engineer, Low Latency Computing (Starlink)    | Redmond, WA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8578923002?gh_jid=8578923002) | 2d |
-| SpaceX | Software Engineer, PCBA (Starlink) | Redmond, WA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8584271002?gh_jid=8584271002) | 2d |
-| SpaceX | Software Engineer (Platform Team) | Bastrop, TX | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8560546002?gh_jid=8560546002) | 2d |
-| SpaceX | Software Engineer (Platform Team) | Starbase, TX | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8560537002?gh_jid=8560537002) | 2d |
-| SpaceX | Software Engineer (Platform Team) | Hawthorne, CA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8495882002?gh_jid=8495882002) | 2d |
-| SpaceX | Software Engineer (Platform Team) | Palo Alto, CA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8558859002?gh_jid=8558859002) | 2d |
-| SpaceX | Software Engineer (Platform Team) | Sunnyvale, CA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8558858002?gh_jid=8558858002) | 2d |
-| SpaceX | Software Engineer (Platform Team) | Redmond, WA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8558857002?gh_jid=8558857002) | 2d |
-| SpaceX | Software Engineer, Power Systems Controls (Starlink) | Redmond, WA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8395307002?gh_jid=8395307002) | 2d |
-| SpaceX | Software Engineer, Propulsion Simulation & Data Analysis | Hawthorne, CA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8581299002?gh_jid=8581299002) | 2d |
-| SpaceX | Software Engineer, Simulations (Application Software) | Hawthorne, CA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8487534002?gh_jid=8487534002) | 2d |
-| SpaceX | Software Engineer (Starlink) | Redmond, WA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8525359002?gh_jid=8525359002) | 2d |
-| SpaceX | Software Engineer (Starlink Mobile) | Redmond, WA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8568939002?gh_jid=8568939002) | 2d |
-| SpaceX | Software Engineer (Starlink Mobile)  | Sunnyvale, CA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8567634002?gh_jid=8567634002) | 2d |
-| SpaceX | Software Engineer, Starlink Network | Redmond, WA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8477137002?gh_jid=8477137002) | 2d |
-| SpaceX | Software Engineer, Starlink Network | Sunnyvale, CA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8458001002?gh_jid=8458001002) | 2d |
-| SpaceX | Software Engineer (Starship) | Starbase, TX | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8569125002?gh_jid=8569125002) | 2d |
-| SpaceX | Software Engineer (Starship) | Hawthorne, CA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8569160002?gh_jid=8569160002) | 2d |
-| SpaceX | Software Engineer, Telemetry (Starlink) | Hawthorne, CA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8451998002?gh_jid=8451998002) | 2d |
-| SpaceX | Software Engineer, Test Infrastructure (Application Software) | Hawthorne, CA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8585072002?gh_jid=8585072002) | 2d |
-| SpaceX | Software Engineer (Thermal & Fluid Analysis)  | Starbase, TX | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8562437002?gh_jid=8562437002) | 2d |
-| SpaceX | Software Infrastructure Engineer, Flight Software (Starlink) | Redmond, WA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8478283002?gh_jid=8478283002) | 2d |
-| SpaceX | Wireless Software Engineer (Starlink) | Sunnyvale, CA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8511186002?gh_jid=8511186002) | 2d |
-| SpaceX | Software Engineer, CDN  (Starlink) | Redmond, WA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8448505002?gh_jid=8448505002) | 1d |
-| SpaceX | Application Software Engineer, Manufacturing Systems | Redmond, WA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8600019002?gh_jid=8600019002) | 2d |
-| SpaceX | Application Software Engineer, Manufacturing | Hawthorne, CA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8603667002?gh_jid=8603667002) | 2d |
 | Signet Jewelers | Full Stack Developer (Remote) | Support Center - Akron, OH | Workday | not_applied | [Apply](https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Full-Stack-Developer--Remote-_REQ_81634) | 1d |
 | Signet Jewelers | Full Stack Developer (Remote) | Support Center - Akron, OH | Workday | not_applied | [Apply](https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Full-Stack-Developer--Remote-_REQ_81633) | 1d |
-| SpaceX | Application Software Engineer | Redmond, WA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8402778002?gh_jid=8402778002) | 2d |
-| SpaceX | Application Software Engineer | Memphis, TN | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8611191002?gh_jid=8611191002) | 2d |
-| SpaceX | Application Software Engineer | Palo Alto, CA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8611189002?gh_jid=8611189002) | 2d |
-| SpaceX | Application Software Engineer | Starbase, TX | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8611118002?gh_jid=8611118002) | 2d |
-| SpaceX | Application Software Engineer | Hawthorne, CA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8494238002?gh_jid=8494238002) | 2d |
-| SpaceX | Application Software Engineer | Bastrop, TX | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8494240002?gh_jid=8494240002) | 2d |
-| SpaceX | Application Software Engineer (C#/ Python), Data | Starbase, TX | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8604664002?gh_jid=8604664002) | 2d |
-| SpaceX | Application Software Engineer, Data | Starbase, TX | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8420526002?gh_jid=8420526002) | 2d |
-| SpaceX | Application Software Engineer, Inference | Palo Alto, CA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8598844002?gh_jid=8598844002) | 2d |
-| SpaceX | Application Software Engineer, Manufacturing Systems  | Bastrop, TX | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8600012002?gh_jid=8600012002) | 2d |
-| SpaceX | Application Software Engineer, Safety & Training  | Hawthorne, CA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8593365002?gh_jid=8593365002) | 2d |
-| SpaceX | Backend Software Engineer, GNC (Starlink)  | Redmond, WA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/spacex/jobs/8398679002?gh_jid=8398679002) | 2d |
 | Sony Interactive Entertainment | Software Engineer II (Java) | United States, Madison, WI | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5987690004) | 0d |
 | Sony Interactive Entertainment | Software Engineer II | United States, San Mateo, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5838328004) | 0d |
 | Solventum | Computer Assisted Medical Coding Content Developer (Remote) | US, Pennsylvania, Pittsburgh | Workday | not_applied | [Apply](https://healthcare.wd1.myworkdayjobs.com/Search/job/US-Pennsylvania-Pittsburgh/Computer-Assisted-Medical-Coding-Content-Developer--Remote-_R01129952) | 2d |
 | Snowflake | Software Engineer, Full Stack - Marketplace | US-CA-Menlo Park | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/snowflake/8fab4433-4a3f-4a14-8dfe-d497702c4be4) | 0d |
-| Smartsheet | Software Engineer II, FedRamp (Remote Eligible) |  -REMOTE, USA- | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7712828) | 0d |
 | Smartsheet | Software Engineer II - App Core (Remote Eligible) |  -REMOTE, USA- | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/8007934) | 0d |
 | Scale AI | Software Engineer, Identity | San Francisco, CA; New York, NY | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4710484005) | 1d |
 | Scout Motors | Specialist, Software Update and Validation Engineer | Blythewood, South Carolina, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/scoutmotors/jobs/5141668007) | 1d |
@@ -232,7 +135,6 @@
 | NielsenIQ | Software Engineer (ETL TESTER - DATA WAREHOUSING, DATA PROCESSING, SQL, UAT, SNOWFLAKE) | Chennai, TN, in | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/NielsenIQ/744000135280010-software-engineer-etl-tester-data-warehousing-data-processing-sql-uat-snowflake-?oga=true) | 1d |
 | PacificSource | Backend Software Developer I | Springfield, OR | Workday | not_applied | [Apply](https://pacificsource.wd5.myworkdayjobs.com/PacificSource/job/Springfield-OR/Backend-Software-Developer-I_2026-676) | 2d |
 | Palantir | Forward Deployed Software Engineer, New Grad - Commercial | Chicago, IL | Lever | not_applied | [Apply](https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40) | 2d |
-| Onto Innovation | Software Engineer 3 | Wilmington-MA (Jonspin) | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/onto/ONTO_Careers/job/Wilmington-MA-Jonspin/Software-Engineer-3_R-6089) | 3d |
 | Parachute Health | Software Engineer, IT and Security | U.S. (Remote)  | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/parachutehealth/jobs/5149037007) | 0d |
 | NiCE | Software Engineer, Advanced Services | USA - Sandy, UT | Greenhouse | not_applied | [Apply](https://boards.eu.greenhouse.io/nice/jobs/4893542101?gh_jid=4893542101) | 2d |
 | NICE | Software Engineer, Advanced Services | USA - Sandy, UT | Greenhouse | not_applied | [Apply](https://boards.eu.greenhouse.io/nice/jobs/4893542101?gh_jid=4893542101) | 2d |
@@ -255,10 +157,7 @@
 | HeartFlow | Software Engineer - Medical Applications & Algorithms | San Francisco, California, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/heartflowinc/jobs/6098696004) | 1d |
 | General Motors | Software Design Release Engineer-Suspension | Warren, Michigan, United States of America | Workday | not_applied | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Software-Design-Release-Engineer-Suspension_JR-202605727) | 2d |
 | GRVTY | UX Software Engineer | Cambridge, Massachusetts, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/grvty/jobs/4297904009) | 2d |
-| Hadrian | All Levels: Fullstack Software Engineer | Los Angeles, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/hadrian-automation/68286f52-3ea7-412e-a85f-04ab21c91994) | 2d |
 | Greystar Worldwide | Enterprise Automation & AI Developer | Remote, United States | Workday | not_applied | [Apply](https://greystar.wd1.myworkdayjobs.com/External/job/Remote-United-States/Enterprise-Automation---AI-Developer_R0190068) | 1d |
-| Hadrian | All Levels:  Frontend Software Engineer | Los Angeles, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/hadrian-automation/af629fd3-1162-4a8c-bab6-0083bd7f20fc) | 2d |
-| Hadrian | All Levels: Backend Software Engineer   | Los Angeles, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/hadrian-automation/ec8cc324-bca9-4f27-812b-70416d6340a4) | 2d |
 | GE Appliances | Software Engineering Co-op_Spring 2027 | USA, Louisville, KY | Workday | not_applied | [Apply](https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-26147) | 1d |
 | Gartner | Software Engineer (AWS/Kubernetes) - Cloud Center of Excellence | Irving, TX | Workday | not_applied | [Apply](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Software-Engineer--AWS-Kubernetes----Cloud-Center-of-Excellence_108616-1) | 1d |
 | Flextronics International | Software Development Engineer | USA, TX, Austin | Workday | not_applied | [Apply](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Software-Development-Engineer_WD223318) | 1d |
