@@ -229,6 +229,29 @@ async function markApplied(jobId, rowElement) {
 
     button.textContent = 'Applied';
     button.classList.add('done');
+
+    // Reflect immediately in the Applied tab too, not just remove from
+    // this one -- applied.json only regenerates on the next scheduled
+    // pipeline run (could be hours away), so without this the Applied tab
+    // would look stale right after clicking.
+    const appliedRow = updated[0];
+    const job = jobs.find(j => j.id === jobId);
+    if (job) {
+      appliedJobs = [
+        {
+          id: job.id,
+          company: job.company,
+          role: job.role,
+          location: job.location,
+          source: job.source,
+          status: appliedRow.status,
+          url: job.url,
+          applied_at: appliedRow.applied_at,
+        },
+        ...appliedJobs,
+      ];
+    }
+
     jobs = jobs.filter(j => j.id !== jobId);
     setTimeout(render, 400); // brief confirmation flash before the row disappears
   } catch (e) {
