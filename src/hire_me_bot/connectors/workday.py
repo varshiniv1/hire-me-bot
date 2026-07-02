@@ -2,6 +2,7 @@ import logging
 from datetime import datetime, timezone
 
 from hire_me_bot.connectors.base import Connector, Posting, strip_html
+from hire_me_bot.filtering.clearance import requires_clearance
 from hire_me_bot.filtering.keywords import passes_keyword_filter
 
 logger = logging.getLogger(__name__)
@@ -19,7 +20,11 @@ class WorkdayConnector(Connector):
     thousands of irrelevant postings every 3 hours would be wasteful and
     slow. (pipeline.py still re-applies the filter after normalize(), same
     as for every connector; this is purely a cost optimization, not a
-    behavior change.)
+    behavior change.) A title-level clearance check is applied here too --
+    the many defense contractors on Workday (RTX, Boeing, Northrop
+    Grumman, ...) commonly suffix clearance-required titles, so skipping
+    the detail fetch for those matters a lot for this connector
+    specifically.
     """
 
     source_name = "workday"
@@ -52,7 +57,11 @@ class WorkdayConnector(Connector):
             offset += len(page)
         logger.info("workday: fetched %d job summaries for %s", len(summaries), self.company)
 
-        matching = [s for s in summaries if passes_keyword_filter(s.get("title", ""))]
+        matching = [
+            s
+            for s in summaries
+            if passes_keyword_filter(s.get("title", "")) and not requires_clearance(s.get("title", ""))
+        ]
         logger.info(
             "workday: %d/%d summaries pass keyword filter for %s, fetching their details",
             len(matching),

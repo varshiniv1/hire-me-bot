@@ -2,6 +2,7 @@ import logging
 from datetime import datetime, timezone
 
 from hire_me_bot.connectors.base import Connector, Posting, strip_html
+from hire_me_bot.filtering.clearance import requires_clearance
 from hire_me_bot.filtering.keywords import passes_keyword_filter
 
 logger = logging.getLogger(__name__)
@@ -13,7 +14,11 @@ class SmartRecruitersConnector(Connector):
     """The list endpoint only returns summaries -- fetching every posting's
     full detail (needed for its description) before filtering would mean
     hundreds of wasted calls for a large board, so the keyword filter is
-    applied to each summary's title first, same as WorkdayConnector."""
+    applied to each summary's title first, same as WorkdayConnector. A
+    title-level clearance check (e.g. "(Clearance Required)") is applied
+    here too for the same reason -- description-level clearance mentions
+    still get caught later in pipeline.py's final filter, this is purely
+    an efficiency pre-filter for the common title-suffix case."""
 
     source_name = "smartrecruiters"
 
@@ -34,7 +39,11 @@ class SmartRecruitersConnector(Connector):
             offset += len(page)
         logger.info("smartrecruiters: fetched %d job summaries for %s", len(summaries), self.company)
 
-        matching = [s for s in summaries if passes_keyword_filter(s.get("name", ""))]
+        matching = [
+            s
+            for s in summaries
+            if passes_keyword_filter(s.get("name", "")) and not requires_clearance(s.get("name", ""))
+        ]
         logger.info(
             "smartrecruiters: %d/%d summaries pass keyword filter for %s, fetching their details",
             len(matching),
@@ -72,7 +81,11 @@ class SmartRecruitersConnector(Connector):
                 description_parts.append(strip_html(text))
         description = "\n\n".join(description_parts)
 
-        url = raw.get("applyUrl") or raw.get("postingUrl") or (raw.get("ref") or {}).get("jobAd", "")
+        # postingUrl first, not applyUrl: applyUrl is the same page with a
+        # "?oga=true" query param that jumps straight past the JD to the
+        # application form -- postingUrl shows the description first, same
+        # as every other connector's link.
+        url = raw.get("postingUrl") or raw.get("applyUrl") or (raw.get("ref") or {}).get("jobAd", "")
 
         posted_at = None
         released_date = raw.get("releasedDate")

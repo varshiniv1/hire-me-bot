@@ -3,10 +3,11 @@ import httpx
 from hire_me_bot.connectors.workday import WorkdayConnector
 
 JOBS_PAGE = {
-    "total": 2,
+    "total": 3,
     "jobPostings": [
         {"title": "Software Engineer Intern - Summer 2026", "externalPath": "/job/loc/Software-Engineer-Intern_R1"},
         {"title": "Senior Director of Sales", "externalPath": "/job/loc/Senior-Director-of-Sales_R2"},
+        {"title": "Software Engineer 1 (Clearance Required)", "externalPath": "/job/loc/Software-Engineer-Clearance_R3"},
     ],
 }
 
@@ -29,6 +30,8 @@ def _client_with_fixture():
             return httpx.Response(200, json=JOBS_PAGE)
         if request.method == "GET" and "Senior-Director-of-Sales" in str(request.url):
             raise AssertionError("should not fetch detail for a filtered-out summary")
+        if request.method == "GET" and "Software-Engineer-Clearance" in str(request.url):
+            raise AssertionError("should not fetch detail for a clearance-required summary")
         if request.method == "GET":
             return httpx.Response(200, json=DETAIL)
         raise AssertionError(f"unexpected request: {request.method} {request.url}")
