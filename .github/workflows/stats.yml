@@ -27,10 +27,17 @@ jobs:
           SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
         run: python scripts/generate_stats.py
 
-      - name: Commit stats.json if changed
+      - name: Record run timestamp
+        # GitHub auto-disables scheduled workflows after 60 days with no
+        # repo activity. stats.json alone might not change day-to-day (no
+        # new applications), so this file changes every single run
+        # unconditionally, guaranteeing a daily commit forever.
+        run: date -u +"%Y-%m-%dT%H:%M:%SZ" > docs/last_updated.txt
+
+      - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/stats.json
-          git diff --staged --quiet || git commit -m "Update application stats"
+          git add docs/stats.json docs/last_updated.txt
+          git commit -m "Update application stats"
           git push
