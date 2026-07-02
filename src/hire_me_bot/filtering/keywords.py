@@ -74,6 +74,12 @@ EXCLUSION_TERMS = [
     # "Developer Advocate") -- exclude those explicitly.
     r"\brelations\b",
     r"\badvocate\b",
+    # Per user request -- "Embedded Software Engineer" would otherwise pass
+    # via the "software" TECH_TERM, but embedded/firmware work is a
+    # different discipline than the general SWE/backend/frontend/full-stack
+    # roles being targeted.
+    r"\bembedded\b",
+    r"\bfirmware\b",
 ]
 
 _TECH_RE = re.compile("|".join(TECH_TERMS), re.IGNORECASE)
