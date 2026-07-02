@@ -12,9 +12,8 @@ def _posting(**overrides):
         "company": "Stripe",
         "title": "SWE Intern",
         "location": "San Francisco, CA",
-        "fit_score": 5,
+        "source": "greenhouse",
         "status": "not_applied",
-        "first_seen_at": "2026-06-01T12:00:00+00:00",
         "posted_at": "2026-06-01T12:00:00+00:00",
         "url": "https://stripe.com/jobs/1",
     }
@@ -22,26 +21,26 @@ def _posting(**overrides):
     return base
 
 
-def test_build_report_includes_all_postings_regardless_of_score():
-    postings = [_posting(fit_score=5), _posting(company="LowFit", fit_score=1)]
+def test_build_report_includes_all_postings():
+    postings = [_posting(), _posting(company="Ramp")]
     report_text = report.build_report(postings)
     assert "Stripe" in report_text
-    assert "LowFit" in report_text
+    assert "Ramp" in report_text
     assert "2 postings tracked" in report_text
 
 
-def test_build_report_includes_location_and_apply_link():
+def test_build_report_includes_location_source_and_apply_link():
     postings = [_posting()]
     report_text = report.build_report(postings)
     assert "San Francisco, CA" in report_text
-    assert "[apply](https://stripe.com/jobs/1)" in report_text
+    assert "Greenhouse" in report_text
+    assert "[Apply](https://stripe.com/jobs/1)" in report_text
 
 
-def test_build_report_handles_unscored_posting():
-    postings = [_posting(fit_score=None)]
+def test_build_report_row_shape():
+    postings = [_posting()]
     report_text = report.build_report(postings)
-    assert "| Stripe | SWE Intern | San Francisco, CA |" in report_text
-    assert "| - | not_applied |" in report_text
+    assert "| Stripe | SWE Intern | San Francisco, CA | Greenhouse | not_applied |" in report_text
 
 
 def test_build_report_escapes_pipe_characters():
@@ -50,15 +49,20 @@ def test_build_report_escapes_pipe_characters():
     assert "Engineer \\| Backend" in report_text
 
 
-def test_build_report_shows_posted_date_and_age():
+def test_build_report_shows_compact_age():
     now = datetime.now(timezone.utc)
-    postings = [_posting(posted_at=(now - timedelta(days=3)).isoformat())]
+    postings = [
+        _posting(posted_at=now.isoformat()),
+        _posting(company="Ramp", posted_at=(now - timedelta(days=13)).isoformat()),
+        _posting(company="Notion", posted_at=(now - timedelta(days=90)).isoformat()),
+    ]
     report_text = report.build_report(postings)
-    assert (now - timedelta(days=3)).strftime("%Y-%m-%d") in report_text
-    assert "3 days ago" in report_text
+    assert "| 0d |" in report_text
+    assert "| 13d |" in report_text
+    assert "| 3mo |" in report_text
 
 
 def test_build_report_handles_missing_posted_at():
     postings = [_posting(posted_at=None)]
     report_text = report.build_report(postings)
-    assert "| - | date unknown |" in report_text
+    assert "| ? |" in report_text
