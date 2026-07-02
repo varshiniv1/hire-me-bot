@@ -81,6 +81,11 @@
   </div>
 
 <script>
+// Same anon key as jobs.html -- locked down server-side to id/status/
+// applied_at only (see sql/schema.sql), no JD/company/title exposure.
+const SUPABASE_URL = 'https://lyadqbhufusevbikviyh.supabase.co';
+const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imx5YWRxYmh1ZnVzZXZiaWt2aXloIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODI5NDAzOTIsImV4cCI6MjA5ODUxNjM5Mn0.O2BXhBYA2aJEvtJ_m2GA_S6R2jbpasKK-u0wfcO3rq8';
+
 const DAYS_TO_SHOW = 365;
 
 function levelFor(count) {
@@ -95,14 +100,36 @@ function formatDate(d) {
   return d.toISOString().slice(0, 10);
 }
 
-async function render() {
-  let stats = {};
+// Live from Supabase (always current, reflects a click immediately on next
+// page load) with a fallback to the daily-generated stats.json snapshot if
+// the live query fails for any reason (offline, RLS misconfigured, etc.).
+async function loadStats() {
   try {
-    const resp = await fetch('stats.json', { cache: 'no-store' });
-    if (resp.ok) stats = await resp.json();
+    const resp = await fetch(
+      `${SUPABASE_URL}/rest/v1/postings?select=applied_at&status=eq.applied&applied_at=not.is.null&limit=50000`,
+      { headers: { apikey: SUPABASE_ANON_KEY, Authorization: `Bearer ${SUPABASE_ANON_KEY}` } }
+    );
+    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+    const rows = await resp.json();
+    const counts = {};
+    for (const row of rows) {
+      const day = row.applied_at.slice(0, 10);
+      counts[day] = (counts[day] || 0) + 1;
+    }
+    return counts;
   } catch (e) {
-    // stats.json not generated yet -- render an empty calendar rather than fail.
+    try {
+      const resp = await fetch('stats.json', { cache: 'no-store' });
+      if (resp.ok) return await resp.json();
+    } catch (e2) {
+      // Neither source available -- render an empty calendar rather than fail.
+    }
+    return {};
   }
+}
+
+async function render() {
+  const stats = await loadStats();
 
   const today = new Date();
   today.setUTCHours(0, 0, 0, 0);

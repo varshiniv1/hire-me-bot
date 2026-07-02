@@ -155,7 +155,15 @@ async function markApplied(jobId, rowElement) {
     if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
     const updated = await resp.json();
     if (!Array.isArray(updated) || updated.length === 0) {
-      throw new Error('No row was updated (RLS/permissions issue?)');
+      // The RLS UPDATE policy only matches rows still in 'not_applied' --
+      // zero rows back almost always means this job was already marked
+      // applied (e.g. from another device, or jobs.json is stale and this
+      // row was already actioned before the page's last refresh), not a
+      // permissions bug. Show it as such instead of an actionable "Retry".
+      button.textContent = 'Already Applied';
+      button.classList.add('done');
+      button.disabled = true;
+      return;
     }
 
     button.textContent = 'Applied';

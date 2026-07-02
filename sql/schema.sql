@@ -49,7 +49,12 @@ for each row execute function set_updated_at();
 alter table postings enable row level security;
 
 grant update (status, applied_at) on postings to anon;
-grant select (id, status) on postings to anon;
+-- applied_at also SELECT-granted (not just id/status) so the GitHub Pages
+-- stats page (docs/index.html) can query real application timestamps
+-- directly from Supabase and render live, instead of only reflecting a
+-- once-daily static docs/stats.json snapshot. Just a timestamp, not
+-- sensitive -- company/title/description/url are still never exposed.
+grant select (id, status, applied_at) on postings to anon;
 
 -- A SELECT policy is required for the UPDATE below to work at all: without
 -- one, RLS blocks all row visibility for anon (including the UPDATE
@@ -63,7 +68,7 @@ grant select (id, status) on postings to anon;
 -- throwaway scratch table before settling on this.) Company/title/
 -- description/url etc are not exposed by this -- the page reads full
 -- listings from the pre-generated jobs.json instead, this policy only
--- covers the id/status columns actually granted above.
+-- covers the id/status/applied_at columns actually granted above.
 drop policy if exists "anon can see not_applied postings" on postings;
 drop policy if exists "anon can see own status postings" on postings;
 create policy "anon can see own status postings"
