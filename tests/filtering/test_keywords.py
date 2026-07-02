@@ -79,11 +79,30 @@ def test_sde_passes():
     assert passes_keyword_filter("SDE New Grad")
 
 
-def test_bare_developer_title_passes():
-    # Functionally the same job as SWE/SDE at most companies even without
-    # the word "software" in the title.
+def test_backend_frontend_fullstack_developer_titles_pass():
     assert passes_keyword_filter("Backend Developer Intern")
-    assert passes_keyword_filter(".NET Developer New Grad")
+    assert passes_keyword_filter("Frontend Developer, New Grad")
+    assert passes_keyword_filter("Full Stack Developer")
+    assert passes_keyword_filter("Full-Stack Engineer, New Grad")
+
+
+def test_bare_developer_title_excluded():
+    # Narrowed to Software Engineer/SRE/Production Engineer/Backend/
+    # Frontend/Full-Stack roles only -- a bare "Developer" title without one
+    # of those signals (e.g. tied to a specific non-general-purpose platform)
+    # no longer qualifies on its own.
+    assert not passes_keyword_filter(".NET Developer New Grad")
+    assert not passes_keyword_filter("Salesforce Developer")
+    assert not passes_keyword_filter("ServiceNow Developer")
+    assert not passes_keyword_filter("React Developer")
+    assert not passes_keyword_filter("Database Developer")
+
+
+def test_sre_and_production_engineer_titles_pass():
+    assert passes_keyword_filter("Site Reliability Engineer I")
+    assert passes_keyword_filter("SRE, New Grad")
+    assert passes_keyword_filter("Production Engineer")
+    assert passes_keyword_filter("Production Engineering, Entry Level")
 
 
 def test_empty_title_fails():

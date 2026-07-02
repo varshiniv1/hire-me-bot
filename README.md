@@ -24,10 +24,14 @@ of every posting found (so git history itself is a timestamped record).
   internship/new-grad tracker repos (`scripts/seed_companies.py`), hand-edited
   from there in [`config/companies.yaml`](config/companies.yaml). Every
   company is crawled and scored identically -- no priority/bias.
-- **Role scope**: SWE/SDE only -- titles need "software", "SWE", "SDE",
-  "SDET", or a bare "Developer" (Backend/Frontend/.NET Developer etc). Data
-  Engineer, ML Engineer, and generic "programmer" are deliberately excluded
-  (see `src/hire_me_bot/filtering/keywords.py`).
+- **Role scope**: Software Engineer, SRE/Production Engineer, and Backend/
+  Frontend/Full-Stack roles only -- titles need "software", "SWE", "SDE",
+  "SDET", "site reliability"/"SRE", "production engineer", "backend",
+  "frontend", or "full-stack". A bare "Developer" is no longer sufficient
+  on its own (that used to catch things like "Salesforce Developer",
+  "ServiceNow Developer", ".NET Developer", which aren't general SWE roles).
+  Data Engineer, ML Engineer, and generic "programmer" are deliberately
+  excluded (see `src/hire_me_bot/filtering/keywords.py`).
 - **Location**: USA only (`src/hire_me_bot/filtering/location.py`) --
   ambiguous locations (bare "Remote", a city with no state/country, "N/A")
   are excluded rather than guessed at.

@@ -17,20 +17,30 @@ import re
 # Every term is wrapped in \b...\b: without it "intern" matches inside
 # "Internal Auditor" / "Internal Product Engineer" as a bare substring.
 #
-# Scoped to SWE/SDE roles specifically, per user request -- "software"
-# covers Software Engineer/Developer/Development Engineer, plus the SWE/SDE
-# abbreviations, SDET, and bare "Developer" titles (Backend/Frontend/.NET
-# Developer etc, since those are functionally the same job at most
-# companies). Data Engineer, Machine Learning Engineer, and generic
-# "programmer" are deliberately excluded now -- "programmer" in particular
-# was a real false positive (a live run matched "CAM Programmer", which is
-# CNC/manufacturing programming, not software).
+# Narrowed further per user request to: Software Engineer, SRE/Production
+# Engineer, and Backend/Frontend/Full-Stack roles specifically -- "software"
+# covers Software Engineer/Developer/Development Engineer plus the SWE/SDE
+# abbreviations and SDET. A bare "Developer" is no longer sufficient on its
+# own -- that used to catch things like "Salesforce Developer", "ServiceNow
+# Developer", ".NET Developer", "React Developer", "Database Developer",
+# which aren't the general SWE/backend/frontend/full-stack roles being
+# targeted. "Developer" titles still pass if backend/frontend/full-stack is
+# explicit in the title (e.g. "Backend Developer", "Full Stack Developer").
+# Data Engineer, Machine Learning Engineer, and generic "programmer" remain
+# excluded -- "programmer" in particular was a real false positive (a live
+# run matched "CAM Programmer", which is CNC/manufacturing programming, not
+# software).
 TECH_TERMS = [
     r"\bsoftware\b",
     r"\bswe\b",
     r"\bsde\b",
     r"\bsdet\b",
-    r"\bdeveloper\b",
+    r"\bsite reliability\b",
+    r"\bsre\b",
+    r"\bproduction engineer(?:ing)?\b",
+    r"\bback[- ]?end\b",
+    r"\bfront[- ]?end\b",
+    r"\bfull[- ]?stack\b",
 ]
 
 # Internship/new-grad framing -- informational, and combined with a
