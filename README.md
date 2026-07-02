@@ -10,9 +10,12 @@ Tue/Wed/Thu, every 6 hours the rest of the week -- forever (see
 Live pages (GitHub Pages, auto-updated every run):
 - **[Jobs browser](https://varshiniv1.github.io/hire-me-bot/jobs.html)** --
   tabbed Internships/Full-Time table with Apply links, styled after
-  SimplifyJobs' tracker repos.
+  SimplifyJobs' tracker repos, plus a third **Applied** tab tracking your
+  full application history (company, role, status, and the date you
+  applied) so it's never lost once a posting drops out of the other tabs.
 - **[Application stats calendar](https://varshiniv1.github.io/hire-me-bot/index.html)**
-  -- click any day to see how many applications went out that day.
+  -- click any day to see how many applications went out that day, updates
+  live from Supabase on every page load.
 
 Also auto-committed every run: [`REPORT.md`](REPORT.md), a git-trackable log
 of every posting found (so git history itself is a timestamped record).
