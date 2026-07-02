@@ -41,5 +41,24 @@ def test_developer_advocate_excluded():
     assert not passes_keyword_filter("Developer Advocate")
 
 
+def test_non_tech_internship_excluded():
+    # Real example from a live run: CVS Health's pharmacy internships matched
+    # the old filter purely on the word "Intern", with zero tech signal.
+    assert not passes_keyword_filter("Pharmacy Intern")
+    assert not passes_keyword_filter("Foreign Pharmacy Grad - International Pharmacy Intern")
+
+
+def test_non_tech_new_grad_excluded():
+    assert not passes_keyword_filter("Operations Associate, New Grad (Mexico)")
+
+
+def test_bare_campus_term_excluded():
+    assert not passes_keyword_filter("Campus Recruiter")
+
+
+def test_data_engineer_passes():
+    assert passes_keyword_filter("Data Engineer, New Grad")
+
+
 def test_empty_title_fails():
     assert not passes_keyword_filter("")
