@@ -3,7 +3,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
 
-from seed_companies import build_companies, detect_source_and_token  # noqa: E402
+from seed_companies import build_companies, detect_source_and_token, merge_companies  # noqa: E402
 
 
 def test_greenhouse_url():
@@ -68,3 +68,47 @@ def test_build_companies_picks_majority_source_per_company():
     ]
     companies = build_companies(listings)
     assert companies == [{"name": "Acme", "source": "lever", "token": "acme"}]
+
+
+def test_merge_adds_new_company_not_already_present():
+    existing = [{"name": "Acme", "source": "lever", "token": "acme"}]
+    detected = [
+        {"name": "Acme", "source": "lever", "token": "acme"},
+        {"name": "Beta", "source": "greenhouse", "token": "beta"},
+    ]
+    merged = merge_companies(existing, detected, excluded_names=set())
+    assert merged == [
+        {"name": "Acme", "source": "lever", "token": "acme"},
+        {"name": "Beta", "source": "greenhouse", "token": "beta"},
+    ]
+
+
+def test_merge_never_removes_or_modifies_existing_entries():
+    # Simulates a hand-renamed/hand-edited existing entry -- merge must
+    # preserve it exactly even if upstream now reports something different
+    # for the same (source, token).
+    existing = [{"name": "Acme Corp (Renamed)", "source": "lever", "token": "acme"}]
+    detected = [{"name": "Acme", "source": "lever", "token": "acme"}]
+    merged = merge_companies(existing, detected, excluded_names=set())
+    assert merged == [{"name": "Acme Corp (Renamed)", "source": "lever", "token": "acme"}]
+
+
+def test_merge_skips_excluded_company_names():
+    existing = []
+    detected = [{"name": "Sonsoft", "source": "smartrecruiters", "token": "sonsoft"}]
+    merged = merge_companies(existing, detected, excluded_names={"sonsoft"})
+    assert merged == []
+
+
+def test_merge_excluded_names_case_insensitive():
+    existing = []
+    detected = [{"name": "SONSOFT", "source": "smartrecruiters", "token": "sonsoft"}]
+    merged = merge_companies(existing, detected, excluded_names={"sonsoft"})
+    assert merged == []
+
+
+def test_merge_sorts_by_name_case_insensitive():
+    existing = [{"name": "zebra co", "source": "lever", "token": "zebra"}]
+    detected = [{"name": "Acme", "source": "greenhouse", "token": "acme"}]
+    merged = merge_companies(existing, detected, excluded_names=set())
+    assert [c["name"] for c in merged] == ["Acme", "zebra co"]

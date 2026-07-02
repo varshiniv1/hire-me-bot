@@ -1,0 +1,67 @@
+# Company names that scripts/seed_companies.py must never (re-)add, even if
+# they appear in the upstream SimplifyJobs listings. These were manually
+# identified and removed on 2026-07-02 as IT staffing/recruiting agencies --
+# they flood boards with generic contract postings across many client
+# cities, not genuine direct-employer SWE roles. Matched case-insensitively
+# against the company name.
+- 360 IT Professionals
+- 3S Business Corporation
+- AG Technologies
+- Arka Infotech
+- Artech Information System
+- Ask IT Consulting
+- Atria Group
+- Avance Consulting
+- Barkback
+- BCforward
+- Beta Soft Systems
+- Career Guidant
+- Collabera
+- Consultadd Public Services
+- CoServe Global Solutions
+- Deegit
+- DellFor Technologies
+- Direct Staffing
+- EROS Technologies
+- Experis
+- Global Channel Management
+- Horizon Technologies
+- HSSSoft
+- Huxley
+- Idealforce
+- Idexcel
+- Implify
+- Infojini
+- Integrated Resources
+- Jobsbridge
+- Kanshe Infotech
+- KGS Technology Group
+- KRG Technologies
+- Mindlance
+- Miracle Software Systems
+- North Star Staffing Solutions
+- Procom
+- Prosidian Consulting
+- Proximate Technologies
+- Quantix SCS
+- Radiant Info Systems
+- Randstad
+- Roljobs Technology Services
+- SA Technologies
+- Sajix
+- Saxon Global
+- SBT Global
+- Sensiple
+- Softpath System
+- Software Quality Experts
+- Sonsoft
+- Spruce InfoTech
+- STEM Expert
+- STEM Xpert
+- System Canada Technologies
+- Tech Tammina
+- Testing Xperts
+- TMS
+- US IT Solutions
+- USM Business Systems
+- vTech Solution

@@ -41,6 +41,7 @@ MAX_YEARS_EXPERIENCE = int(os.environ.get("MAX_YEARS_EXPERIENCE", "2"))
 SCORING_ENABLED = os.environ.get("SCORING_ENABLED", "false").lower() == "true"
 
 COMPANIES_CONFIG_PATH = REPO_ROOT / "config" / "companies.yaml"
+EXCLUDED_COMPANIES_CONFIG_PATH = REPO_ROOT / "config" / "excluded_companies.yaml"
 PROFILE_CONFIG_PATH = REPO_ROOT / "config" / "profile.json"
 
 # Batching thresholds for scoring/scorer.py
