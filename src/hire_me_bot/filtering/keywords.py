@@ -16,17 +16,21 @@ import re
 #
 # Every term is wrapped in \b...\b: without it "intern" matches inside
 # "Internal Auditor" / "Internal Product Engineer" as a bare substring.
+#
+# Scoped to SWE/SDE roles specifically, per user request -- "software"
+# covers Software Engineer/Developer/Development Engineer, plus the SWE/SDE
+# abbreviations, SDET, and bare "Developer" titles (Backend/Frontend/.NET
+# Developer etc, since those are functionally the same job at most
+# companies). Data Engineer, Machine Learning Engineer, and generic
+# "programmer" are deliberately excluded now -- "programmer" in particular
+# was a real false positive (a live run matched "CAM Programmer", which is
+# CNC/manufacturing programming, not software).
 TECH_TERMS = [
     r"\bsoftware\b",
     r"\bswe\b",
     r"\bsde\b",
     r"\bsdet\b",
-    r"\bprogrammer\b",
     r"\bdeveloper\b",
-    r"\bcomputer science\b",
-    r"\bdata engineer(?:ing)?\b",
-    r"\bmachine learning engineer\b",
-    r"\bml engineer\b",
 ]
 
 # Internship/new-grad framing -- informational, and combined with a

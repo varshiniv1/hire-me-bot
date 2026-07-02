@@ -56,8 +56,34 @@ def test_bare_campus_term_excluded():
     assert not passes_keyword_filter("Campus Recruiter")
 
 
-def test_data_engineer_passes():
-    assert passes_keyword_filter("Data Engineer, New Grad")
+def test_data_engineer_excluded():
+    # Narrowed to SWE/SDE roles only -- Data Engineer no longer qualifies.
+    assert not passes_keyword_filter("Data Engineer, New Grad")
+
+
+def test_machine_learning_engineer_excluded():
+    assert not passes_keyword_filter("Machine Learning Engineer, New Grad")
+
+
+def test_bare_programmer_excluded():
+    # Real false positive from a live run: CNC/manufacturing programming,
+    # not software.
+    assert not passes_keyword_filter("CAM Programmer (Contract)")
+
+
+def test_sdet_passes():
+    assert passes_keyword_filter("SDET Intern")
+
+
+def test_sde_passes():
+    assert passes_keyword_filter("SDE New Grad")
+
+
+def test_bare_developer_title_passes():
+    # Functionally the same job as SWE/SDE at most companies even without
+    # the word "software" in the title.
+    assert passes_keyword_filter("Backend Developer Intern")
+    assert passes_keyword_filter(".NET Developer New Grad")
 
 
 def test_empty_title_fails():
