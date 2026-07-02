@@ -68,3 +68,93 @@ def test_upsert_row_shape(monkeypatch):
     assert row["external_id"] == "1"
     assert row["description"] == "Requirements: Python."
     assert row["posted_at"] is None
+
+
+class _FakeUpdateQuery:
+    def __init__(self, log: list):
+        self._log = log
+        self._row = None
+
+    def update(self, row):
+        self._row = row
+        return self
+
+    def eq(self, col, val):
+        self._log.append({"row": self._row, "col": col, "val": val})
+        return self
+
+    def execute(self):
+        return None
+
+
+class _FakeUpdateClient:
+    def __init__(self):
+        self.calls: list = []
+
+    def table(self, name):
+        return _FakeUpdateQuery(self.calls)
+
+
+def test_update_status_sets_applied_at_when_applied(monkeypatch):
+    fake = _FakeUpdateClient()
+    monkeypatch.setattr(postings_repo, "get_client", lambda: fake)
+
+    postings_repo.update_status(1, "applied")
+
+    assert fake.calls[0]["col"] == "id"
+    assert fake.calls[0]["val"] == 1
+    assert fake.calls[0]["row"]["status"] == "applied"
+    assert "applied_at" in fake.calls[0]["row"]
+
+
+def test_update_status_does_not_set_applied_at_for_other_statuses(monkeypatch):
+    fake = _FakeUpdateClient()
+    monkeypatch.setattr(postings_repo, "get_client", lambda: fake)
+
+    postings_repo.update_status(1, "interviewing")
+
+    assert fake.calls[0]["row"] == {"status": "interviewing"}
+
+
+class _FakeSelectQuery:
+    def __init__(self, rows: list):
+        self._rows = rows
+
+    def select(self, *args):
+        return self
+
+    @property
+    def not_(self):
+        return self
+
+    def is_(self, col, val):
+        return self
+
+    def execute(self):
+        class Resp:
+            pass
+
+        resp = Resp()
+        resp.data = self._rows
+        return resp
+
+
+class _FakeSelectClient:
+    def __init__(self, rows: list):
+        self._rows = rows
+
+    def table(self, name):
+        return _FakeSelectQuery(self._rows)
+
+
+def test_get_applications_per_day_groups_by_date(monkeypatch):
+    rows = [
+        {"applied_at": "2026-06-30T10:00:00+00:00"},
+        {"applied_at": "2026-06-30T18:00:00+00:00"},
+        {"applied_at": "2026-07-01T09:00:00+00:00"},
+    ]
+    monkeypatch.setattr(postings_repo, "get_client", lambda: _FakeSelectClient(rows))
+
+    counts = postings_repo.get_applications_per_day()
+
+    assert counts == {"2026-06-30": 2, "2026-07-01": 1}

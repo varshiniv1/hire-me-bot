@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>hire-me-bot — Application Stats</title>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<style>
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    background: #0d1117;
+    color: #c9d1d9;
+    margin: 0;
+    padding: 2rem;
+  }
+  h1 { font-size: 1.25rem; margin-bottom: 0.25rem; }
+  #subtitle { color: #8b949e; margin-bottom: 1.5rem; }
+  #detail {
+    background: #161b22;
+    border: 1px solid #30363d;
+    border-radius: 6px;
+    padding: 0.75rem 1rem;
+    margin-bottom: 1rem;
+    min-height: 1.2rem;
+    font-size: 0.95rem;
+  }
+  #calendar-wrap { overflow-x: auto; }
+  #calendar {
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-rows: repeat(7, 12px);
+    gap: 3px;
+    width: max-content;
+  }
+  .day {
+    width: 12px;
+    height: 12px;
+    border-radius: 2px;
+    background: #161b22;
+    cursor: pointer;
+  }
+  .day:hover { outline: 1px solid #58a6ff; }
+  .day.empty { cursor: default; visibility: hidden; }
+  .day.level-0, .swatch.level-0 { background: #161b22; }
+  .day.level-1, .swatch.level-1 { background: #0e4429; }
+  .day.level-2, .swatch.level-2 { background: #006d32; }
+  .day.level-3, .swatch.level-3 { background: #26a641; }
+  .day.level-4, .swatch.level-4 { background: #39d353; }
+  .swatch { width: 12px; height: 12px; border-radius: 2px; display: inline-block; }
+  #months {
+    display: grid;
+    grid-auto-flow: column;
+    gap: 3px;
+    width: max-content;
+    margin-bottom: 4px;
+    font-size: 0.7rem;
+    color: #8b949e;
+  }
+  #legend { margin-top: 0.75rem; font-size: 0.8rem; color: #8b949e; display: flex; align-items: center; gap: 4px; }
+</style>
+</head>
+<body>
+  <h1>Job Application Stats</h1>
+  <div id="subtitle">Click any day to see how many applications went out that day.</div>
+  <div id="detail">Click a day to see application count.</div>
+  <div id="calendar-wrap">
+    <div id="months"></div>
+    <div id="calendar"></div>
+  </div>
+  <div id="legend">
+    Less
+    <span class="swatch level-0"></span>
+    <span class="swatch level-1"></span>
+    <span class="swatch level-2"></span>
+    <span class="swatch level-3"></span>
+    <span class="swatch level-4"></span>
+    More
+  </div>
+
+<script>
+const DAYS_TO_SHOW = 365;
+
+function levelFor(count) {
+  if (!count) return 0;
+  if (count === 1) return 1;
+  if (count <= 3) return 2;
+  if (count <= 6) return 3;
+  return 4;
+}
+
+function formatDate(d) {
+  return d.toISOString().slice(0, 10);
+}
+
+async function render() {
+  let stats = {};
+  try {
+    const resp = await fetch('stats.json', { cache: 'no-store' });
+    if (resp.ok) stats = await resp.json();
+  } catch (e) {
+    // stats.json not generated yet -- render an empty calendar rather than fail.
+  }
+
+  const today = new Date();
+  today.setUTCHours(0, 0, 0, 0);
+  const start = new Date(today);
+  start.setUTCDate(start.getUTCDate() - (DAYS_TO_SHOW - 1));
+  // Align the grid to start on a Sunday so weeks are consistent columns.
+  const startWeekday = start.getUTCDay();
+  start.setUTCDate(start.getUTCDate() - startWeekday);
+
+  const calendar = document.getElementById('calendar');
+  const monthsRow = document.getElementById('months');
+  const detail = document.getElementById('detail');
+
+  let cursor = new Date(start);
+  let lastMonth = -1;
+  let weekCount = 0;
+  while (cursor <= today) {
+    if (cursor.getUTCDay() === 0) {
+      weekCount++;
+      const month = cursor.getUTCMonth();
+      const label = document.createElement('div');
+      if (month !== lastMonth) {
+        label.textContent = cursor.toLocaleString('en-US', { month: 'short', timeZone: 'UTC' });
+        lastMonth = month;
+      }
+      monthsRow.appendChild(label);
+    }
+
+    const cell = document.createElement('div');
+    if (cursor < start || cursor > today) {
+      cell.className = 'day empty';
+    } else {
+      const dateStr = formatDate(cursor);
+      const count = stats[dateStr] || 0;
+      cell.className = `day level-${levelFor(count)}`;
+      cell.title = `${count} application${count === 1 ? '' : 's'} on ${dateStr}`;
+      cell.addEventListener('click', () => {
+        detail.textContent = `${count} application${count === 1 ? '' : 's'} on ${dateStr}`;
+      });
+    }
+    calendar.appendChild(cell);
+    cursor.setUTCDate(cursor.getUTCDate() + 1);
+  }
+}
+
+render();
+</script>
+</body>
+</html>

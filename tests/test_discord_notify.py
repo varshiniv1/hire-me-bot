@@ -41,7 +41,7 @@ def test_no_postings_sends_nothing(monkeypatch):
 def test_scoring_enabled_uses_threshold_query(monkeypatch):
     monkeypatch.setattr(settings, "DISCORD_WEBHOOK_URL", "https://discord.com/api/webhooks/x/y")
     monkeypatch.setattr(settings, "SCORING_ENABLED", True)
-    postings = [_posting(i) for i in range(12)]  # forces 4 batches at MAX_EMBEDS_PER_MESSAGE=3 (3+3+3+3)
+    postings = [_posting(i) for i in range(12)]  # forces 3 batches at MAX_EMBEDS_PER_MESSAGE=5 (5+5+2)
 
     calls = []
     monkeypatch.setattr(
@@ -67,7 +67,7 @@ def test_scoring_enabled_uses_threshold_query(monkeypatch):
     count = discord.send_notifications()
 
     assert count == 12
-    assert len(sent_payloads) == 4  # batched into 4 webhook calls
+    assert len(sent_payloads) == 3  # batched into 3 webhook calls
     assert sorted(marked) == list(range(12))
     assert calls == [settings.FIT_SCORE_NOTIFY_THRESHOLD]
 

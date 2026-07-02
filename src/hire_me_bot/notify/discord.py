@@ -10,14 +10,13 @@ logger = logging.getLogger(__name__)
 
 # Discord allows up to 10 embeds per message, but also caps the COMBINED
 # character count across every embed in one message at 6000 total (separate
-# from each embed's own 4096-char description limit). A longer JD preview
-# means fewer embeds safely fit per message before hitting that combined cap
-# -- worst case (max-length 256-char title + long location/URL) each embed
-# can run ~1500+ chars, so 3 per message stays safely under 6000 even then
-# (see test_batched_message_stays_under_discord_combined_embed_limit).
-_MAX_EMBEDS_PER_MESSAGE = 3
+# from each embed's own 4096-char description limit). A shorter JD preview
+# means more embeds safely fit per message before hitting that combined cap
+# (see test_batched_message_stays_under_discord_combined_embed_limit, which
+# guards this tradeoff against a future bump to either constant).
+_MAX_EMBEDS_PER_MESSAGE = 5
 
-_JD_PREVIEW_CHARS = 1000
+_JD_PREVIEW_CHARS = 500
 
 
 def _jd_preview(description: str) -> str:

@@ -105,8 +105,27 @@ def get_not_applied() -> list[dict]:
 
 
 def update_status(posting_id: int, status: str) -> None:
+    row = {"status": status}
+    if status == "applied":
+        # Drives the applications-per-day calendar -- set every time status
+        # becomes "applied" (not just the first time), since re-applying
+        # after a rejection is a real scenario worth counting again.
+        row["applied_at"] = datetime.now(timezone.utc).isoformat()
     client = get_client()
-    client.table(TABLE).update({"status": status}).eq("id", posting_id).execute()
+    client.table(TABLE).update(row).eq("id", posting_id).execute()
+
+
+def get_applications_per_day() -> dict[str, int]:
+    """Maps "YYYY-MM-DD" -> count of postings marked applied that day, for
+    the stats calendar. Small volume (personal job tracker, not a firehose),
+    so aggregating client-side rather than needing a DB view/RPC."""
+    client = get_client()
+    resp = client.table(TABLE).select("applied_at").not_.is_("applied_at", "null").execute()
+    counts: dict[str, int] = {}
+    for row in resp.data:
+        day = row["applied_at"][:10]
+        counts[day] = counts.get(day, 0) + 1
+    return counts
 
 
 def get_all_ordered() -> list[dict]:
