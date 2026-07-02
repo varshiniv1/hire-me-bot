@@ -1,4 +1,5 @@
 import logging
+from datetime import datetime, timezone
 
 import httpx
 
@@ -7,11 +8,16 @@ from hire_me_bot.db import postings_repo
 
 logger = logging.getLogger(__name__)
 
-# Discord allows up to 10 embeds per message -- batch postings into a message
-# each instead of one webhook call per posting, to stay well under rate limits.
-_MAX_EMBEDS_PER_MESSAGE = 10
+# Discord allows up to 10 embeds per message, but also caps the COMBINED
+# character count across every embed in one message at 6000 total (separate
+# from each embed's own 4096-char description limit). A longer JD preview
+# means fewer embeds safely fit per message before hitting that combined cap
+# -- worst case (max-length 256-char title + long location/URL) each embed
+# can run ~1500+ chars, so 3 per message stays safely under 6000 even then
+# (see test_batched_message_stays_under_discord_combined_embed_limit).
+_MAX_EMBEDS_PER_MESSAGE = 3
 
-_JD_PREVIEW_CHARS = 400
+_JD_PREVIEW_CHARS = 1000
 
 
 def _jd_preview(description: str) -> str:
@@ -21,14 +27,34 @@ def _jd_preview(description: str) -> str:
     return description[:_JD_PREVIEW_CHARS].rstrip() + "..."
 
 
+def _posted_days_ago_text(posted_at: str | None) -> str:
+    if not posted_at:
+        return "Posted date unknown"
+    try:
+        posted_dt = datetime.fromisoformat(posted_at.replace("Z", "+00:00"))
+    except ValueError:
+        return "Posted date unknown"
+    days = (datetime.now(timezone.utc) - posted_dt).days
+    if days <= 0:
+        return "Posted today"
+    if days == 1:
+        return "Posted 1 day ago"
+    return f"Posted {days} days ago"
+
+
 def _posting_to_embed(posting: dict) -> dict:
-    lines = [f"📍 {posting.get('location') or 'Location not specified'}"]
+    lines = [
+        f"Location: {posting.get('location') or 'Not specified'}",
+        _posted_days_ago_text(posting.get("posted_at")),
+    ]
     if posting.get("fit_score") is not None:
-        lines.append(f"⭐ Fit: {posting['fit_score']}/5")
+        lines.append(f"Fit: {posting['fit_score']}/5")
     jd_preview = _jd_preview(posting.get("description", ""))
     if jd_preview:
         lines.append("")
         lines.append(jd_preview)
+    lines.append("")
+    lines.append(f"[Apply here]({posting['url']})")
     return {
         "title": f"{posting['title']} @ {posting['company']}"[:256],
         "url": posting["url"],

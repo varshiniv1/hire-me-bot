@@ -13,6 +13,7 @@ def _posting(i: int, score: int | None = 5) -> dict:
         "url": f"https://example.com/{i}",
         "location": "Austin, TX",
         "description": "Requirements: Python, SQL.",
+        "posted_at": "2026-06-30T00:00:00+00:00",
         "fit_score": score,
     }
 
@@ -40,7 +41,7 @@ def test_no_postings_sends_nothing(monkeypatch):
 def test_scoring_enabled_uses_threshold_query(monkeypatch):
     monkeypatch.setattr(settings, "DISCORD_WEBHOOK_URL", "https://discord.com/api/webhooks/x/y")
     monkeypatch.setattr(settings, "SCORING_ENABLED", True)
-    postings = [_posting(i) for i in range(12)]  # forces 2 batches (10 + 2)
+    postings = [_posting(i) for i in range(12)]  # forces 4 batches at MAX_EMBEDS_PER_MESSAGE=3 (3+3+3+3)
 
     calls = []
     monkeypatch.setattr(
@@ -66,7 +67,7 @@ def test_scoring_enabled_uses_threshold_query(monkeypatch):
     count = discord.send_notifications()
 
     assert count == 12
-    assert len(sent_payloads) == 2  # batched into 2 webhook calls
+    assert len(sent_payloads) == 4  # batched into 4 webhook calls
     assert sorted(marked) == list(range(12))
     assert calls == [settings.FIT_SCORE_NOTIFY_THRESHOLD]
 
@@ -116,16 +117,35 @@ def test_embed_includes_role_company_location_and_jd_preview():
     assert "Austin, TX" in embed["description"]
     assert "Requirements: Python, SQL." in embed["description"]
     assert "Fit:" not in embed["description"]
+    assert "[Apply here](https://example.com/1)" in embed["description"]
 
 
 def test_embed_includes_fit_score_when_scored():
     posting = _posting(1, score=4)
     embed = discord._posting_to_embed(posting)
-    assert "⭐ Fit: 4/5" in embed["description"]
+    assert "Fit: 4/5" in embed["description"]
+
+
+def test_embed_has_no_emojis():
+    posting = _posting(1, score=4)
+    embed = discord._posting_to_embed(posting)
+    full_text = embed["title"] + embed["description"]
+    assert all(ord(ch) < 0x2190 for ch in full_text)  # below the emoji/symbol Unicode ranges
+
+
+def test_posted_days_ago_text():
+    from datetime import datetime, timedelta, timezone
+
+    now = datetime.now(timezone.utc)
+    assert discord._posted_days_ago_text(now.isoformat()) == "Posted today"
+    assert discord._posted_days_ago_text((now - timedelta(days=1)).isoformat()) == "Posted 1 day ago"
+    assert discord._posted_days_ago_text((now - timedelta(days=5)).isoformat()) == "Posted 5 days ago"
+    assert discord._posted_days_ago_text(None) == "Posted date unknown"
+    assert discord._posted_days_ago_text("not-a-date") == "Posted date unknown"
 
 
 def test_jd_preview_truncates_long_descriptions():
-    long_description = "x" * 1000
+    long_description = "x" * (discord._JD_PREVIEW_CHARS + 500)
     preview = discord._jd_preview(long_description)
     assert len(preview) == discord._JD_PREVIEW_CHARS + 3  # + "..."
     assert preview.endswith("...")
@@ -133,6 +153,28 @@ def test_jd_preview_truncates_long_descriptions():
 
 def test_jd_preview_leaves_short_descriptions_untouched():
     assert discord._jd_preview("Short JD.") == "Short JD."
+
+
+def test_batched_message_stays_under_discord_combined_embed_limit():
+    # Discord caps the COMBINED character count across all embeds in a single
+    # message at 6000, separate from each embed's own 4096-char description
+    # limit. Worst case: max-length title (256) + a long location/URL, repeated
+    # _MAX_EMBEDS_PER_MESSAGE times -- must stay comfortably under 6000, or a
+    # future bump to the preview length or batch size could get a real
+    # notification message silently rejected by Discord.
+    worst_case_posting = {
+        "id": 1,
+        "title": "x" * 256,
+        "company": "y" * 100,
+        "url": "https://example.com/" + "z" * 200,
+        "location": "Some Very Long Location String, NY",
+        "description": "d" * (discord._JD_PREVIEW_CHARS + 500),
+        "fit_score": 5,
+    }
+    embed = discord._posting_to_embed(worst_case_posting)
+    per_embed_size = len(embed["title"]) + len(embed["description"])
+    total = per_embed_size * discord._MAX_EMBEDS_PER_MESSAGE
+    assert total < 6000
 
 
 def test_failed_webhook_call_does_not_mark_notified(monkeypatch):
