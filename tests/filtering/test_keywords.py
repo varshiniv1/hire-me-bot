@@ -105,6 +105,12 @@ def test_sre_and_production_engineer_titles_pass():
     assert passes_keyword_filter("Production Engineering, Entry Level")
 
 
+def test_lead_and_leader_titles_excluded():
+    assert not passes_keyword_filter("Lead Software Engineer")
+    assert not passes_keyword_filter("Software Engineering Technical Leader")
+    assert not passes_keyword_filter("Leader, Software Engineering")
+
+
 def test_embedded_and_firmware_titles_excluded():
     assert not passes_keyword_filter("Embedded Software Engineer")
     assert not passes_keyword_filter("Embedded Software Engineer II")

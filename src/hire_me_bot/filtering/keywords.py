@@ -65,7 +65,10 @@ EXCLUSION_TERMS = [
     r"\bdistinguished\b",
     r"\bmanager\b",
     r"\bdirector\b",
-    r"\blead\b",
+    # "(?:er)?" catches "Leader"/"Technical Leader" too -- a real live example
+    # ("Software Engineering Technical Leader") slipped through since "lead"
+    # alone doesn't match inside "leader" (different word, same seniority).
+    r"\blead(?:er)?\b",
     r"\barchitect\b",
     r"\bvp\b",
     r"\bhead of\b",
