@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>hire-me-bot — Jobs</title>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<style>
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    background: #0d1117;
+    color: #c9d1d9;
+    margin: 0;
+    padding: 2rem;
+  }
+  h1 { font-size: 1.25rem; margin-bottom: 0.25rem; }
+  #subtitle { color: #8b949e; margin-bottom: 1rem; }
+  nav { margin-bottom: 1.5rem; font-size: 0.85rem; }
+  nav a { color: #58a6ff; text-decoration: none; margin-right: 1rem; }
+  nav a:hover { text-decoration: underline; }
+
+  #tabs { display: flex; gap: 0.5rem; margin-bottom: 1rem; }
+  .tab-button {
+    background: #161b22;
+    border: 1px solid #30363d;
+    color: #c9d1d9;
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.9rem;
+  }
+  .tab-button.active { background: #1f6feb; border-color: #1f6feb; color: #fff; }
+
+  table { width: 100%; border-collapse: collapse; background: #0d1117; }
+  th, td {
+    text-align: left;
+    padding: 0.6rem 0.75rem;
+    border-bottom: 1px solid #21262d;
+    font-size: 0.9rem;
+  }
+  th { color: #8b949e; font-weight: 600; }
+  tr:hover td { background: #161b22; }
+  .company { font-weight: 600; }
+  .apply-btn {
+    display: inline-block;
+    background: #21262d;
+    color: #58a6ff;
+    border: 1px solid #30363d;
+    border-radius: 6px;
+    padding: 0.3rem 0.8rem;
+    text-decoration: none;
+    font-size: 0.85rem;
+  }
+  .apply-btn:hover { background: #30363d; }
+  .age { color: #8b949e; white-space: nowrap; }
+  #empty { color: #8b949e; padding: 1rem 0; display: none; }
+  #count { color: #8b949e; font-size: 0.85rem; margin-bottom: 0.5rem; }
+</style>
+</head>
+<body>
+  <nav><a href="index.html">Application Stats</a><a href="jobs.html">Jobs</a></nav>
+  <h1>Job Postings</h1>
+  <div id="subtitle">Everything found in the last few days, split by Internships vs Full-Time.</div>
+
+  <div id="tabs">
+    <button class="tab-button active" data-tab="internship">Internships</button>
+    <button class="tab-button" data-tab="fulltime">Full-Time</button>
+  </div>
+
+  <div id="count"></div>
+  <table>
+    <thead>
+      <tr><th>Company</th><th>Role</th><th>Location</th><th>Application</th><th>Age</th></tr>
+    </thead>
+    <tbody id="rows"></tbody>
+  </table>
+  <div id="empty">Nothing here right now.</div>
+
+<script>
+let jobs = [];
+let activeTab = 'internship';
+
+function render() {
+  const rows = document.getElementById('rows');
+  const empty = document.getElementById('empty');
+  const count = document.getElementById('count');
+  rows.innerHTML = '';
+
+  const filtered = jobs.filter(j => activeTab === 'internship' ? j.is_internship : !j.is_internship);
+  count.textContent = `${filtered.length} posting${filtered.length === 1 ? '' : 's'}`;
+
+  if (filtered.length === 0) {
+    empty.style.display = 'block';
+    return;
+  }
+  empty.style.display = 'none';
+
+  for (const job of filtered) {
+    const tr = document.createElement('tr');
+    tr.innerHTML = `
+      <td class="company">${escapeHtml(job.company)}</td>
+      <td>${escapeHtml(job.role)}</td>
+      <td>${escapeHtml(job.location)}</td>
+      <td><a class="apply-btn" href="${escapeHtml(job.url)}" target="_blank" rel="noopener">Apply</a></td>
+      <td class="age">${escapeHtml(job.age)}</td>
+    `;
+    rows.appendChild(tr);
+  }
+}
+
+function escapeHtml(text) {
+  const div = document.createElement('div');
+  div.textContent = text == null ? '' : String(text);
+  return div.innerHTML;
+}
+
+for (const button of document.querySelectorAll('.tab-button')) {
+  button.addEventListener('click', () => {
+    document.querySelectorAll('.tab-button').forEach(b => b.classList.remove('active'));
+    button.classList.add('active');
+    activeTab = button.dataset.tab;
+    render();
+  });
+}
+
+async function load() {
+  try {
+    const resp = await fetch('jobs.json', { cache: 'no-store' });
+    if (resp.ok) jobs = await resp.json();
+  } catch (e) {
+    // jobs.json not generated yet -- render empty state rather than fail.
+  }
+  render();
+}
+
+load();
+</script>
+</body>
+</html>

@@ -38,15 +38,21 @@ jobs:
           SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
         run: python scripts/report.py
 
-      - name: Commit REPORT.md if changed
-        # Committed every run (not just daily like stats.yml) -- this is the
-        # git-trackable log of every posting found, with the timestamp of
-        # each commit doubling as "when did we see this." Only commits when
-        # content actually changed, so a quiet cycle doesn't add an empty
-        # commit every 3 hours.
+      - name: Generate docs/jobs.json
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+        run: python scripts/generate_jobs_json.py
+
+      - name: Commit REPORT.md and docs/jobs.json if changed
+        # Committed every run (not just daily like stats.yml) -- REPORT.md
+        # is the git-trackable log of every posting found, and jobs.json
+        # feeds the GitHub Pages job-browser page (docs/jobs.html). Only
+        # commits when content actually changed, so a quiet cycle doesn't
+        # add an empty commit every 3 hours.
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add REPORT.md
-          git diff --staged --quiet || git commit -m "Update REPORT.md"
+          git add REPORT.md docs/jobs.json
+          git diff --staged --quiet || git commit -m "Update REPORT.md and jobs.json"
           git push

@@ -1,5 +1,14 @@
 from datetime import datetime, timezone
 
+SOURCE_LABELS = {
+    "greenhouse": "Greenhouse",
+    "lever": "Lever",
+    "ashby": "Ashby",
+    "smartrecruiters": "SmartRecruiters",
+    "recruitee": "Recruitee",
+    "workday": "Workday",
+}
+
 
 def _days_since(posted_at: str | None) -> int | None:
     if not posted_at:

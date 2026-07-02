@@ -13,18 +13,9 @@ glance which bucket a posting falls into."""
 from hire_me_bot import settings
 from hire_me_bot.db import postings_repo
 from hire_me_bot.filtering.keywords import is_internship_title
-from hire_me_bot.format_utils import compact_age_text
+from hire_me_bot.format_utils import SOURCE_LABELS, compact_age_text
 
 REPORT_PATH = settings.REPO_ROOT / "REPORT.md"
-
-_SOURCE_LABELS = {
-    "greenhouse": "Greenhouse",
-    "lever": "Lever",
-    "ashby": "Ashby",
-    "smartrecruiters": "SmartRecruiters",
-    "recruitee": "Recruitee",
-    "workday": "Workday",
-}
 
 _TABLE_HEADER = [
     "| Company | Role | Location | Source | Status | Application | Age |",
@@ -40,7 +31,7 @@ def _format_row(posting: dict) -> str:
     company = _escape(posting["company"])
     role = _escape(posting["title"])
     location = _escape(posting.get("location") or "-")
-    source = _SOURCE_LABELS.get(posting.get("source"), posting.get("source", "-"))
+    source = SOURCE_LABELS.get(posting.get("source"), posting.get("source", "-"))
     age = compact_age_text(posting.get("posted_at"))
     return (
         f"| {company} | {role} | {location} | {source} | {posting['status']} "
