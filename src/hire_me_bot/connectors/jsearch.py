@@ -45,6 +45,12 @@ def _fetch_query(client: httpx.Client, query: str) -> list[dict]:
         params={"query": query, "num_pages": "1", "country": "us", "date_posted": "week"},
         headers={"X-RapidAPI-Key": settings.RAPIDAPI_KEY, "X-RapidAPI-Host": API_HOST},
     )
+    if resp.status_code >= 400:
+        # RapidAPI's error body (e.g. "not subscribed", "endpoint doesn't
+        # exist") is far more diagnostic than a bare status code -- log it
+        # before raising so a misconfigured key/host is debuggable from CI
+        # logs alone, without needing to reproduce locally with the secret.
+        logger.error("JSearch request failed (%d): %s", resp.status_code, resp.text[:500])
     resp.raise_for_status()
     return resp.json().get("data", [])
 
