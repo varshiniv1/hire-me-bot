@@ -12,6 +12,7 @@ DETAIL = {
     "name": "Software Engineer, New Grad",
     "location": {"city": "Austin", "region": "TX", "country": "US"},
     "applyUrl": "https://careers.acme.com/jobs/999",
+    "releasedDate": "2026-06-24T10:00:11.853Z",
     "jobAd": {
         "sections": {
             "jobDescription": {"text": "<p>About the role.</p>"},
@@ -43,3 +44,4 @@ def test_fetch_and_normalize():
     assert posting.location == "Austin, TX, US"
     assert posting.url == "https://careers.acme.com/jobs/999"
     assert "Requirements" in posting.description
+    assert posting.posted_at is not None

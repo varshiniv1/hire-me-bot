@@ -1,4 +1,5 @@
 import logging
+from datetime import datetime, timezone
 
 from hire_me_bot.connectors.base import Connector, Posting, strip_html
 from hire_me_bot.filtering.keywords import passes_keyword_filter
@@ -73,6 +74,14 @@ class SmartRecruitersConnector(Connector):
 
         url = raw.get("applyUrl") or raw.get("postingUrl") or (raw.get("ref") or {}).get("jobAd", "")
 
+        posted_at = None
+        released_date = raw.get("releasedDate")
+        if released_date:
+            try:
+                posted_at = datetime.fromisoformat(released_date.replace("Z", "+00:00"))
+            except ValueError:
+                pass
+
         return Posting(
             source=self.source_name,
             company=self.company,
@@ -81,5 +90,5 @@ class SmartRecruitersConnector(Connector):
             location=location_str,
             url=url,
             description=description,
-            posted_at=None,
+            posted_at=posted_at,
         )
