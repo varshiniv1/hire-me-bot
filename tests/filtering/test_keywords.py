@@ -123,6 +123,19 @@ def test_scientific_software_titles_excluded():
     assert not passes_keyword_filter("Scientific Software Engineer - Virtual Machine & Emulation")
 
 
+def test_engineer_level_iii_and_up_excluded():
+    assert not passes_keyword_filter("Software Engineer III, Forward Deployed")
+    assert not passes_keyword_filter("SDE IV")
+    assert not passes_keyword_filter("Software Engineer (L3)")
+    assert not passes_keyword_filter("Software Engineer, Level 5")
+
+
+def test_engineer_level_i_and_ii_still_pass():
+    assert passes_keyword_filter("Software Engineer I")
+    assert passes_keyword_filter("Software Engineer II - App Core (Remote Eligible)")
+    assert passes_keyword_filter("Software Engineer (L1)")
+
+
 def test_empty_title_fails():
     assert not passes_keyword_filter("")
 

@@ -88,6 +88,14 @@ EXCLUSION_TERMS = [
     # domain-science roles (compilers/emulation for quantum hardware, etc.),
     # not general SWE/backend/frontend/full-stack.
     r"\bscientific\b",
+    # Per user request -- cap at SDE/SWE/Engineer II (0-2 YoE); III+ and
+    # L3+/Level 3+ (common internal leveling at Google/Amazon-style orgs)
+    # signal 3+ years even without the word "senior" in the title. \b on
+    # both sides means "iii"/"iv" only match as standalone tokens (e.g.
+    # "Engineer III", "SDE IV"), not mid-word substrings like "Innovative".
+    r"\b(?:sde|swe|engineer|developer)\s*(?:iii|iv|v|3|4|5|6|7)\b",
+    r"\bl[3-9]\b",
+    r"\blevel\s*[3-9]\b",
 ]
 
 _TECH_RE = re.compile("|".join(TECH_TERMS), re.IGNORECASE)

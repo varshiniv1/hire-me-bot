@@ -99,17 +99,6 @@
     "is_internship": false
   },
   {
-    "id": 4555,
-    "company": "Rocket Lab USA",
-    "role": "Software Intern Fall 2026",
-    "location": "Albuquerque, NM",
-    "source": "Greenhouse",
-    "status": "not_applied",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7736776003",
-    "age": "0d",
-    "is_internship": true
-  },
-  {
     "id": 4554,
     "company": "Rocket Lab USA",
     "role": "Software Engineer II - MES",
@@ -119,6 +108,17 @@
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7737073003",
     "age": "0d",
     "is_internship": false
+  },
+  {
+    "id": 4555,
+    "company": "Rocket Lab USA",
+    "role": "Software Intern Fall 2026",
+    "location": "Albuquerque, NM",
+    "source": "Greenhouse",
+    "status": "not_applied",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7736776003",
+    "age": "0d",
+    "is_internship": true
   },
   {
     "id": 4553,
@@ -231,8 +231,8 @@
     "is_internship": false
   },
   {
-    "id": 5119,
-    "company": "Sony Interactive Entertainment",
+    "id": 4256,
+    "company": "PlayStation",
     "role": "Software Engineer II",
     "location": "United States, San Mateo, CA",
     "source": "Greenhouse",
@@ -242,8 +242,8 @@
     "is_internship": false
   },
   {
-    "id": 4256,
-    "company": "PlayStation",
+    "id": 5119,
+    "company": "Sony Interactive Entertainment",
     "role": "Software Engineer II",
     "location": "United States, San Mateo, CA",
     "source": "Greenhouse",
@@ -297,17 +297,6 @@
     "is_internship": false
   },
   {
-    "id": 4261,
-    "company": "PlayStation",
-    "role": "Software Engineer II (Java)",
-    "location": "United States, Madison, WI",
-    "source": "Greenhouse",
-    "status": "not_applied",
-    "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5987690004",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
     "id": 5124,
     "company": "Sony Interactive Entertainment",
     "role": "Software Engineer II (Java)",
@@ -319,8 +308,19 @@
     "is_internship": false
   },
   {
-    "id": 4105,
-    "company": "NielsenIQ",
+    "id": 4261,
+    "company": "PlayStation",
+    "role": "Software Engineer II (Java)",
+    "location": "United States, Madison, WI",
+    "source": "Greenhouse",
+    "status": "not_applied",
+    "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5987690004",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 4102,
+    "company": "Nielsen",
     "role": "Software Engineer (ETL TESTER - DATA WAREHOUSING, DATA PROCESSING, SQL, UAT, SNOWFLAKE)",
     "location": "Chennai, TN, in",
     "source": "SmartRecruiters",
@@ -330,8 +330,8 @@
     "is_internship": false
   },
   {
-    "id": 4102,
-    "company": "Nielsen",
+    "id": 4105,
+    "company": "NielsenIQ",
     "role": "Software Engineer (ETL TESTER - DATA WAREHOUSING, DATA PROCESSING, SQL, UAT, SNOWFLAKE)",
     "location": "Chennai, TN, in",
     "source": "SmartRecruiters",
@@ -418,46 +418,57 @@
     "is_internship": false
   },
   {
-    "id": 103,
-    "company": "Adtran",
-    "role": "Software Engineer I",
-    "location": "Atlanta, GA",
+    "id": 116,
+    "company": "Allstate Insurance Company",
+    "role": "AI Software Engineer",
+    "location": "USA - IL (Remote)",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://adtran.wd3.myworkdayjobs.com/ADTRAN/job/Atlanta-GA/Software-Engineer-I_R005699",
+    "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---IL-Remote/AI-Software-Engineer_R32187-1",
     "age": "1d",
     "is_internship": false
   },
   {
-    "id": 104,
-    "company": "Adtran",
-    "role": "Software Engineer I",
-    "location": "Atlanta, GA",
+    "id": 4558,
+    "company": "Rocket Companies",
+    "role": "Software Developer II - Digital Marketing Engineering",
+    "location": "Seattle, WA",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://adtran.wd3.myworkdayjobs.com/ADTRAN/job/Atlanta-GA/Software-Engineer-I_R005655-1",
+    "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Software-Developer-II---Digital-Marketing-Engineering_R-083617",
     "age": "1d",
     "is_internship": false
   },
   {
-    "id": 2488,
-    "company": "Gartner",
-    "role": "Software Engineer (AWS/Kubernetes) - Cloud Center of Excellence",
-    "location": "Irving, TX",
+    "id": 4562,
+    "company": "Rocket Mortgage",
+    "role": "Software Developer II - Digital Marketing Engineering",
+    "location": "Seattle, WA",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Software-Engineer--AWS-Kubernetes----Cloud-Center-of-Excellence_108616-1",
+    "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Software-Developer-II---Digital-Marketing-Engineering_R-083617",
     "age": "1d",
     "is_internship": false
   },
   {
-    "id": 2489,
-    "company": "GE Appliances",
-    "role": "Software Engineering Co-op_Spring 2027",
-    "location": "USA, Louisville, KY",
+    "id": 283,
+    "company": "Applied Materials",
+    "role": "2026 NCG - Software Engineer, BS/MS (Santa Clara, CA)",
+    "location": "Santa Clara,CA",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-26147",
+    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-NCG---Software-Engineer--BS-MS-_R2619063",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 6111,
+    "company": "Swift",
+    "role": "Jr. Software Development Engineer in Test (SDET)",
+    "location": "Manassas, United States",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Manassas-United-States/Jr-Software-Development-Engineer-in-Test--SDET-_2026-15625",
     "age": "1d",
     "is_internship": false
   },
@@ -469,6 +480,28 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/San-Jose-CA-USA/Software-Infrastructure-Engineer--Build---Release_J-00341067-1",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 103,
+    "company": "Adtran",
+    "role": "Software Engineer I",
+    "location": "Atlanta, GA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://adtran.wd3.myworkdayjobs.com/ADTRAN/job/Atlanta-GA/Software-Engineer-I_R005699",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 1883,
+    "company": "Fidelity Investments",
+    "role": "Full Stack Software Engineer (Typescript, Angular, Node.js, REST API)",
+    "location": "Salt Lake City, UT",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/fmr/targeted/job/Salt-Lake-City-UT/Full-Stack-Software-Engineer--Typescript--Angular--Nodejs--REST-API-_2125855-1",
     "age": "1d",
     "is_internship": false
   },
@@ -495,17 +528,6 @@
     "is_internship": false
   },
   {
-    "id": 1883,
-    "company": "Fidelity Investments",
-    "role": "Full Stack Software Engineer (Typescript, Angular, Node.js, REST API)",
-    "location": "Salt Lake City, UT",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/fmr/targeted/job/Salt-Lake-City-UT/Full-Stack-Software-Engineer--Typescript--Angular--Nodejs--REST-API-_2125855-1",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
     "id": 2422,
     "company": "Flextronics International",
     "role": "Software Development Engineer",
@@ -517,35 +539,35 @@
     "is_internship": false
   },
   {
-    "id": 6111,
-    "company": "Swift",
-    "role": "Jr. Software Development Engineer in Test (SDET)",
-    "location": "Manassas, United States",
+    "id": 2488,
+    "company": "Gartner",
+    "role": "Software Engineer (AWS/Kubernetes) - Cloud Center of Excellence",
+    "location": "Irving, TX",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Manassas-United-States/Jr-Software-Development-Engineer-in-Test--SDET-_2026-15625",
+    "url": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Software-Engineer--AWS-Kubernetes----Cloud-Center-of-Excellence_108616-1",
     "age": "1d",
     "is_internship": false
   },
   {
-    "id": 116,
-    "company": "Allstate Insurance Company",
-    "role": "AI Software Engineer",
-    "location": "USA - IL (Remote)",
+    "id": 2489,
+    "company": "GE Appliances",
+    "role": "Software Engineering Co-op_Spring 2027",
+    "location": "USA, Louisville, KY",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---IL-Remote/AI-Software-Engineer_R32187-1",
+    "url": "https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-26147",
     "age": "1d",
     "is_internship": false
   },
   {
-    "id": 283,
-    "company": "Applied Materials",
-    "role": "2026 NCG - Software Engineer, BS/MS (Santa Clara, CA)",
-    "location": "Santa Clara,CA",
+    "id": 104,
+    "company": "Adtran",
+    "role": "Software Engineer I",
+    "location": "Atlanta, GA",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-NCG---Software-Engineer--BS-MS-_R2619063",
+    "url": "https://adtran.wd3.myworkdayjobs.com/ADTRAN/job/Atlanta-GA/Software-Engineer-I_R005655-1",
     "age": "1d",
     "is_internship": false
   },
@@ -568,28 +590,6 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Full-Stack-Developer--Remote-_REQ_81634",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 4562,
-    "company": "Rocket Mortgage",
-    "role": "Software Developer II - Digital Marketing Engineering",
-    "location": "Seattle, WA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Software-Developer-II---Digital-Marketing-Engineering_R-083617",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 4558,
-    "company": "Rocket Companies",
-    "role": "Software Developer II - Digital Marketing Engineering",
-    "location": "Seattle, WA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Software-Developer-II---Digital-Marketing-Engineering_R-083617",
     "age": "1d",
     "is_internship": false
   },
@@ -656,7 +656,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/twilio/jobs/7661919",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -693,13 +693,13 @@
     "is_internship": false
   },
   {
-    "id": 6261,
-    "company": "TransPerfect",
-    "role": "Software Developer (Sitecore)",
-    "location": "US-Austin, TX",
+    "id": 2459,
+    "company": "Fidelity National Information Services",
+    "role": "DevOps Software Engineer Specialists",
+    "location": "US FL JAX 347",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://transperfect.wd5.myworkdayjobs.com/transperfect/job/US-Austin-TX/Software-Developer--Sitecore-_R2025-244189",
+    "url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/DevOps-Software-Engineer-Specialists_JR0307896",
     "age": "2d",
     "is_internship": false
   },
@@ -770,17 +770,6 @@
     "is_internship": false
   },
   {
-    "id": 2459,
-    "company": "Fidelity National Information Services",
-    "role": "DevOps Software Engineer Specialists",
-    "location": "US FL JAX 347",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/DevOps-Software-Engineer-Specialists_JR0307896",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
     "id": 2576,
     "company": "General Motors",
     "role": "Software Design Release Engineer-Suspension",
@@ -825,6 +814,17 @@
     "is_internship": false
   },
   {
+    "id": 6261,
+    "company": "TransPerfect",
+    "role": "Software Developer (Sitecore)",
+    "location": "US-Austin, TX",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://transperfect.wd5.myworkdayjobs.com/transperfect/job/US-Austin-TX/Software-Developer--Sitecore-_R2025-244189",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
     "id": 6283,
     "company": "The Walt Disney Company",
     "role": "Software Development Engineer in Test (SDET)",
@@ -858,17 +858,6 @@
     "is_internship": false
   },
   {
-    "id": 6435,
-    "company": "Velera",
-    "role": "Software Engineer IV (Full Stack .Net) - REMOTE",
-    "location": "Remote-USA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://velera.wd5.myworkdayjobs.com/VeleraCareers/job/Remote-USA/Software-Engineer-IV--Full-Stack-Net----REMOTE_9448",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
     "id": 6134,
     "company": "Tenstorrent",
     "role": "Software Intern - AI Compilers",
@@ -891,13 +880,13 @@
     "is_internship": true
   },
   {
-    "id": 886,
+    "id": 882,
     "company": "Chime",
-    "role": "Software Engineer, Instant Loans",
+    "role": "Software Engineer, Credit Risk Platform",
     "location": "San Francisco, CA, USA",
     "source": "Greenhouse",
     "status": "not_applied",
-    "url": "https://boards.greenhouse.io/chime/jobs/8433840002?gh_jid=8433840002",
+    "url": "https://boards.greenhouse.io/chime/jobs/8219793002?gh_jid=8219793002",
     "age": "2d",
     "is_internship": false
   },
@@ -913,13 +902,13 @@
     "is_internship": false
   },
   {
-    "id": 882,
+    "id": 886,
     "company": "Chime",
-    "role": "Software Engineer, Credit Risk Platform",
+    "role": "Software Engineer, Instant Loans",
     "location": "San Francisco, CA, USA",
     "source": "Greenhouse",
     "status": "not_applied",
-    "url": "https://boards.greenhouse.io/chime/jobs/8219793002?gh_jid=8219793002",
+    "url": "https://boards.greenhouse.io/chime/jobs/8433840002?gh_jid=8433840002",
     "age": "2d",
     "is_internship": false
   },
@@ -946,8 +935,8 @@
     "is_internship": true
   },
   {
-    "id": 3774,
-    "company": "NICE",
+    "id": 3781,
+    "company": "NiCE",
     "role": "Software Engineer, Advanced Services",
     "location": "USA - Sandy, UT",
     "source": "Greenhouse",
@@ -957,8 +946,8 @@
     "is_internship": false
   },
   {
-    "id": 3781,
-    "company": "NiCE",
+    "id": 3774,
+    "company": "NICE",
     "role": "Software Engineer, Advanced Services",
     "location": "USA - Sandy, UT",
     "source": "Greenhouse",
@@ -1078,13 +1067,13 @@
     "is_internship": false
   },
   {
-    "id": 3577,
+    "id": 3575,
     "company": "mthree",
     "role": "Junior Software Engineer",
     "location": "USA",
     "source": "Greenhouse",
     "status": "not_applied",
-    "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4383912006",
+    "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374589006",
     "age": "2d",
     "is_internship": false
   },
@@ -1100,13 +1089,13 @@
     "is_internship": false
   },
   {
-    "id": 3575,
+    "id": 3577,
     "company": "mthree",
     "role": "Junior Software Engineer",
     "location": "USA",
     "source": "Greenhouse",
     "status": "not_applied",
-    "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374589006",
+    "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4383912006",
     "age": "2d",
     "is_internship": false
   },
@@ -1716,17 +1705,6 @@
     "is_internship": false
   },
   {
-    "id": 106,
-    "company": "Allegion",
-    "role": "Software Test Automation Engineer II \u2013 Mobile",
-    "location": "Carmel, IN",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Software-Test-Automation-Engineer-II---Mobile_JR36602",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
     "id": 4560,
     "company": "Rocket Companies",
     "role": "Software Engineer II - Python",
@@ -1734,39 +1712,6 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Software-Engineer-II---Python_R-082958-1",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 4564,
-    "company": "Rocket Mortgage",
-    "role": "Software Engineer II - Python",
-    "location": "Detroit, MI",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Software-Engineer-II---Python_R-082958-1",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 9868,
-    "company": "Acrisure",
-    "role": "Software Engineer, Data (L1)",
-    "location": "816 Congress Ave Ste 1800  - AUSTIN, TX",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://acrisure.wd1.myworkdayjobs.com/Acrisure/job/816-Congress-Ave-Ste-1800----AUSTIN-TX/Software-Engineer--Data--L1-_JR113679",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 6499,
-    "company": "Viridien",
-    "role": "Software Asset Analyst",
-    "location": "Houston, United States of America",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/Software-Asset-Analyst_JR101358",
     "age": "3d",
     "is_internship": false
   },
@@ -1782,6 +1727,39 @@
     "is_internship": false
   },
   {
+    "id": 4564,
+    "company": "Rocket Mortgage",
+    "role": "Software Engineer II - Python",
+    "location": "Detroit, MI",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Software-Engineer-II---Python_R-082958-1",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 6499,
+    "company": "Viridien",
+    "role": "Software Asset Analyst",
+    "location": "Houston, United States of America",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/Software-Asset-Analyst_JR101358",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 9868,
+    "company": "Acrisure",
+    "role": "Software Engineer, Data (L1)",
+    "location": "816 Congress Ave Ste 1800  - AUSTIN, TX",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://acrisure.wd1.myworkdayjobs.com/Acrisure/job/816-Congress-Ave-Ste-1800----AUSTIN-TX/Software-Engineer--Data--L1-_JR113679",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
     "id": 816,
     "company": "Carnegie Mellon University",
     "role": "Systems Software Engineer - Computing Services",
@@ -1793,13 +1771,13 @@
     "is_internship": false
   },
   {
-    "id": 6581,
-    "company": "X-energy",
-    "role": "Software Engineer III, Forward Deployed",
-    "location": "Rockville, MD",
+    "id": 106,
+    "company": "Allegion",
+    "role": "Software Test Automation Engineer II \u2013 Mobile",
+    "location": "Carmel, IN",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://xenergy.wd5.myworkdayjobs.com/X-energyUS/job/Rockville-MD/Software-Engineer-III--Forward-Deployed_R101128",
+    "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Software-Test-Automation-Engineer-II---Mobile_JR36602",
     "age": "3d",
     "is_internship": false
   }
