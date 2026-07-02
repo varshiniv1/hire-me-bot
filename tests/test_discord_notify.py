@@ -34,7 +34,7 @@ def test_raises_if_webhook_not_configured(monkeypatch):
 def test_no_postings_sends_nothing(monkeypatch):
     monkeypatch.setattr(settings, "DISCORD_WEBHOOK_URL", "https://discord.com/api/webhooks/x/y")
     monkeypatch.setattr(settings, "SCORING_ENABLED", True)
-    monkeypatch.setattr(discord.postings_repo, "get_unnotified_above_threshold", lambda t: [])
+    monkeypatch.setattr(discord.postings_repo, "get_unnotified_above_threshold", lambda t, a: [])
     assert discord.send_notifications() == 0
 
 
@@ -48,9 +48,9 @@ def test_scoring_enabled_uses_threshold_query(monkeypatch):
     monkeypatch.setattr(
         discord.postings_repo,
         "get_unnotified_above_threshold",
-        lambda t: calls.append(t) or postings,
+        lambda t, a: calls.append((t, a)) or postings,
     )
-    monkeypatch.setattr(discord.postings_repo, "get_unnotified", lambda: (_ for _ in ()).throw(
+    monkeypatch.setattr(discord.postings_repo, "get_unnotified", lambda a: (_ for _ in ()).throw(
         AssertionError("should not call get_unnotified when scoring is enabled")
     ))
 
@@ -70,7 +70,7 @@ def test_scoring_enabled_uses_threshold_query(monkeypatch):
     assert count == 12
     assert len(sent_payloads) == 3  # batched into 3 webhook calls
     assert sorted(marked) == list(range(12))
-    assert calls == [settings.FIT_SCORE_NOTIFY_THRESHOLD]
+    assert calls == [(settings.FIT_SCORE_NOTIFY_THRESHOLD, settings.NOTIFY_MAX_AGE_DAYS)]
 
 
 def test_scoring_disabled_notifies_all_unnotified_regardless_of_score(monkeypatch):
@@ -78,11 +78,11 @@ def test_scoring_disabled_notifies_all_unnotified_regardless_of_score(monkeypatc
     monkeypatch.setattr(settings, "SCORING_ENABLED", False)
     postings = [_posting(1, score=None), _posting(2, score=None)]
 
-    monkeypatch.setattr(discord.postings_repo, "get_unnotified", lambda: postings)
+    monkeypatch.setattr(discord.postings_repo, "get_unnotified", lambda a: postings)
     monkeypatch.setattr(
         discord.postings_repo,
         "get_unnotified_above_threshold",
-        lambda t: (_ for _ in ()).throw(
+        lambda t, a: (_ for _ in ()).throw(
             AssertionError("should not call get_unnotified_above_threshold when scoring is disabled")
         ),
     )
@@ -188,7 +188,7 @@ def test_rate_limit_retries_instead_of_dropping_the_batch(monkeypatch):
     monkeypatch.setattr(discord.time, "sleep", lambda seconds: None)
 
     postings = [_posting(1)]
-    monkeypatch.setattr(discord.postings_repo, "get_unnotified", lambda: postings)
+    monkeypatch.setattr(discord.postings_repo, "get_unnotified", lambda a: postings)
 
     marked = []
     monkeypatch.setattr(discord.postings_repo, "mark_notified", lambda pid: marked.append(pid))
@@ -215,7 +215,7 @@ def test_failed_webhook_call_does_not_mark_notified(monkeypatch):
     monkeypatch.setattr(settings, "DISCORD_WEBHOOK_URL", "https://discord.com/api/webhooks/x/y")
     monkeypatch.setattr(settings, "SCORING_ENABLED", True)
     postings = [_posting(1)]
-    monkeypatch.setattr(discord.postings_repo, "get_unnotified_above_threshold", lambda t: postings)
+    monkeypatch.setattr(discord.postings_repo, "get_unnotified_above_threshold", lambda t, a: postings)
 
     marked = []
     monkeypatch.setattr(discord.postings_repo, "mark_notified", lambda pid: marked.append(pid))

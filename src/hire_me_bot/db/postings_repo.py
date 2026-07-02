@@ -1,4 +1,4 @@
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 from hire_me_bot.connectors.base import Posting
 from hire_me_bot.db.client import get_client
@@ -81,21 +81,31 @@ def update_score(posting_id: int, score: int) -> None:
     ).eq("id", posting_id).execute()
 
 
-def get_unnotified_above_threshold(threshold: int) -> list[dict]:
+def get_unnotified_above_threshold(threshold: int, max_age_days: int) -> list[dict]:
+    cutoff = (datetime.now(timezone.utc) - timedelta(days=max_age_days)).isoformat()
     client = get_client()
     return _paginate(
         lambda: client.table(TABLE)
         .select("*")
         .gte("fit_score", threshold)
         .is_("notified_at", "null")
+        .gte("posted_at", cutoff)
     )
 
 
-def get_unnotified() -> list[dict]:
+def get_unnotified(max_age_days: int) -> list[dict]:
     """All not-yet-notified postings regardless of fit_score -- used while
-    settings.SCORING_ENABLED is False, since fit_score never gets set."""
+    settings.SCORING_ENABLED is False, since fit_score never gets set.
+
+    Postings older than max_age_days (by posted_at) are excluded, as are
+    postings with no posted_at at all (can't confirm they're recent) --
+    they still exist in the table (never deleted), just never notified.
+    """
+    cutoff = (datetime.now(timezone.utc) - timedelta(days=max_age_days)).isoformat()
     client = get_client()
-    return _paginate(lambda: client.table(TABLE).select("*").is_("notified_at", "null"))
+    return _paginate(
+        lambda: client.table(TABLE).select("*").is_("notified_at", "null").gte("posted_at", cutoff)
+    )
 
 
 def mark_notified(posting_id: int) -> None:

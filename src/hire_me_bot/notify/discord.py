@@ -107,14 +107,20 @@ def send_notifications() -> int:
     notified (fit_score never gets set, so the threshold gate can't apply).
     Once scoring is wired back in, this goes back to only notifying postings
     scoring >= FIT_SCORE_NOTIFY_THRESHOLD.
+
+    Postings older than settings.NOTIFY_MAX_AGE_DAYS are never notified
+    (still stored forever, just not surfaced) -- catching a 3-week-old
+    listing for the first time isn't actionable the way a fresh one is.
     """
     if not settings.DISCORD_WEBHOOK_URL:
         raise RuntimeError("DISCORD_WEBHOOK_URL must be set to send notifications.")
 
     if settings.SCORING_ENABLED:
-        postings = postings_repo.get_unnotified_above_threshold(settings.FIT_SCORE_NOTIFY_THRESHOLD)
+        postings = postings_repo.get_unnotified_above_threshold(
+            settings.FIT_SCORE_NOTIFY_THRESHOLD, settings.NOTIFY_MAX_AGE_DAYS
+        )
     else:
-        postings = postings_repo.get_unnotified()
+        postings = postings_repo.get_unnotified(settings.NOTIFY_MAX_AGE_DAYS)
     if not postings:
         return 0
 

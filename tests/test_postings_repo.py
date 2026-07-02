@@ -117,10 +117,11 @@ def test_update_status_does_not_set_applied_at_for_other_statuses(monkeypatch):
 
 
 class _FakeSelectQuery:
-    def __init__(self, rows: list):
+    def __init__(self, rows: list, log: list | None = None):
         self._rows = rows
         self._start = 0
         self._end = None
+        self._log = log
 
     def select(self, *args):
         return self
@@ -130,6 +131,11 @@ class _FakeSelectQuery:
         return self
 
     def is_(self, col, val):
+        return self
+
+    def gte(self, col, val):
+        if self._log is not None:
+            self._log.append((col, val))
         return self
 
     def range(self, start, end):
@@ -147,11 +153,12 @@ class _FakeSelectQuery:
 
 
 class _FakeSelectClient:
-    def __init__(self, rows: list):
+    def __init__(self, rows: list, log: list | None = None):
         self._rows = rows
+        self._log = log
 
     def table(self, name):
-        return _FakeSelectQuery(self._rows)
+        return _FakeSelectQuery(self._rows, self._log)
 
 
 def test_get_applications_per_day_groups_by_date(monkeypatch):
@@ -165,6 +172,37 @@ def test_get_applications_per_day_groups_by_date(monkeypatch):
     counts = postings_repo.get_applications_per_day()
 
     assert counts == {"2026-06-30": 2, "2026-07-01": 1}
+
+
+def test_get_unnotified_filters_by_max_age(monkeypatch):
+    from datetime import datetime, timedelta, timezone
+
+    log: list = []
+    monkeypatch.setattr(postings_repo, "get_client", lambda: _FakeSelectClient([], log))
+
+    before = datetime.now(timezone.utc)
+    postings_repo.get_unnotified(max_age_days=2)
+    after = datetime.now(timezone.utc)
+
+    assert len(log) == 1
+    col, cutoff_str = log[0]
+    assert col == "posted_at"
+    cutoff = datetime.fromisoformat(cutoff_str)
+    assert before - timedelta(days=2) <= cutoff <= after - timedelta(days=2)
+
+
+def test_get_unnotified_above_threshold_filters_by_max_age(monkeypatch):
+    from datetime import datetime, timedelta, timezone
+
+    log: list = []
+    monkeypatch.setattr(postings_repo, "get_client", lambda: _FakeSelectClient([], log))
+
+    postings_repo.get_unnotified_above_threshold(threshold=4, max_age_days=2)
+
+    posted_at_calls = [entry for entry in log if entry[0] == "posted_at"]
+    assert len(posted_at_calls) == 1
+    cutoff = datetime.fromisoformat(posted_at_calls[0][1])
+    assert cutoff < datetime.now(timezone.utc) - timedelta(days=1, hours=23)
 
 
 def test_paginate_fetches_every_page_past_supabase_default_cap(monkeypatch):

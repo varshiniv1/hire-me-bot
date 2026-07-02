@@ -19,6 +19,13 @@ DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL")
 
 FIT_SCORE_NOTIFY_THRESHOLD = int(os.environ.get("FIT_SCORE_NOTIFY_THRESHOLD", "4"))
 
+# Postings never expire/get deleted (see sql/schema.sql, postings_repo has no
+# delete-on-age logic) -- this only limits what gets NOTIFIED. A posting
+# with no posted_at (parse failure) is treated as unconfirmed-recency and
+# excluded from notification, same as an unrecognized location is excluded
+# from the USA filter -- still visible via report.py either way.
+NOTIFY_MAX_AGE_DAYS = int(os.environ.get("NOTIFY_MAX_AGE_DAYS", "2"))
+
 # No LLM provider wired in yet (Anthropic API needs paid credits, not covered by
 # a Claude Pro subscription; a free-tier provider hasn't been picked yet). While
 # this is False: pipeline.py skips scoring entirely, and discord.py notifies on
