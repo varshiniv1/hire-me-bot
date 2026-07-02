@@ -50,9 +50,24 @@ jobs:
         # feeds the GitHub Pages job-browser page (docs/jobs.html). Only
         # commits when content actually changed, so a quiet cycle doesn't
         # add an empty commit every 3 hours.
+        #
+        # This run's checkout can be many minutes stale by the time the full
+        # company crawl finishes -- if main moved in the meantime (another
+        # run, a manual push), a plain `git push` gets rejected as
+        # non-fast-forward. Rebase onto the latest main and retry a few
+        # times rather than just failing the whole run over a generated
+        # file (real conflict here is effectively impossible since nothing
+        # else touches REPORT.md/jobs.json by hand).
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add REPORT.md docs/jobs.json
           git diff --staged --quiet || git commit -m "Update REPORT.md and jobs.json"
-          git push
+          for i in 1 2 3 4 5; do
+            git push && exit 0
+            git fetch origin main
+            git rebase origin/main
+            sleep $((RANDOM % 10 + 1))
+          done
+          echo "::error::Failed to push after 5 attempts"
+          exit 1
