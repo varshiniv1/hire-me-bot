@@ -41,6 +41,7 @@ def test_no_postings_sends_nothing(monkeypatch):
 def test_scoring_enabled_uses_threshold_query(monkeypatch):
     monkeypatch.setattr(settings, "DISCORD_WEBHOOK_URL", "https://discord.com/api/webhooks/x/y")
     monkeypatch.setattr(settings, "SCORING_ENABLED", True)
+    monkeypatch.setattr(discord.time, "sleep", lambda seconds: None)
     postings = [_posting(i) for i in range(12)]  # forces 3 batches at MAX_EMBEDS_PER_MESSAGE=5 (5+5+2)
 
     calls = []
@@ -175,6 +176,39 @@ def test_batched_message_stays_under_discord_combined_embed_limit():
     per_embed_size = len(embed["title"]) + len(embed["description"])
     total = per_embed_size * discord._MAX_EMBEDS_PER_MESSAGE
     assert total < 6000
+
+
+def test_rate_limit_retries_instead_of_dropping_the_batch(monkeypatch):
+    # A prior real run hit Discord's 429 after ~57 messages and silently
+    # dropped ~1900 remaining batches (logged an error and moved on, never
+    # retried) -- they never got marked notified, so the next scheduled run
+    # would have tried (and likely failed) all of them again.
+    monkeypatch.setattr(settings, "DISCORD_WEBHOOK_URL", "https://discord.com/api/webhooks/x/y")
+    monkeypatch.setattr(settings, "SCORING_ENABLED", False)
+    monkeypatch.setattr(discord.time, "sleep", lambda seconds: None)
+
+    postings = [_posting(1)]
+    monkeypatch.setattr(discord.postings_repo, "get_unnotified", lambda: postings)
+
+    marked = []
+    monkeypatch.setattr(discord.postings_repo, "mark_notified", lambda pid: marked.append(pid))
+
+    call_count = 0
+
+    def handler(request: httpx.Request) -> httpx.Response:
+        nonlocal call_count
+        call_count += 1
+        if call_count == 1:
+            return httpx.Response(429, json={"message": "rate limited", "retry_after": 0.1})
+        return httpx.Response(200, json={"ok": True})
+
+    _mock_client(monkeypatch, handler)
+
+    count = discord.send_notifications()
+
+    assert call_count == 2
+    assert count == 1
+    assert marked == [1]
 
 
 def test_failed_webhook_call_does_not_mark_notified(monkeypatch):

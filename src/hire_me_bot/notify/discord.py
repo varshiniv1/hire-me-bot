@@ -1,4 +1,5 @@
 import logging
+import time
 from datetime import datetime, timezone
 
 import httpx
@@ -7,6 +8,8 @@ from hire_me_bot import settings
 from hire_me_bot.db import postings_repo
 
 logger = logging.getLogger(__name__)
+
+_MAX_RATE_LIMIT_RETRIES = 5
 
 # Discord allows up to 10 embeds per message, but also caps the COMBINED
 # character count across every embed in one message at 6000 total (separate
@@ -66,6 +69,36 @@ def _chunk(items: list, size: int):
         yield items[i : i + size]
 
 
+def _post_with_retry(client: httpx.Client, payload: dict) -> httpx.Response:
+    """POST to the webhook, retrying on Discord's 429 rate-limit response
+    (honoring the retry_after it returns) instead of dropping the batch.
+
+    A prior run without this hit Discord's rate limit after ~57 messages and
+    silently skipped the remaining ~1900+ batches -- they never got flagged
+    as failed, they just never went out and never got marked notified,
+    which meant next run's get_unnotified() would try (and likely fail) all
+    of them again.
+    """
+    resp = client.post(settings.DISCORD_WEBHOOK_URL, json=payload)
+    for attempt in range(_MAX_RATE_LIMIT_RETRIES):
+        if resp.status_code != 429:
+            return resp
+        retry_after = 1.0
+        try:
+            retry_after = float(resp.json().get("retry_after", 1.0))
+        except (ValueError, KeyError):
+            pass
+        logger.warning(
+            "Discord rate limited, retrying in %.1fs (attempt %d/%d)",
+            retry_after,
+            attempt + 1,
+            _MAX_RATE_LIMIT_RETRIES,
+        )
+        time.sleep(retry_after + 0.25)
+        resp = client.post(settings.DISCORD_WEBHOOK_URL, json=payload)
+    return resp
+
+
 def send_notifications() -> int:
     """Push a Discord message for every unnotified posting, and mark each as
     notified. Returns the count sent.
@@ -87,9 +120,14 @@ def send_notifications() -> int:
 
     sent = 0
     with httpx.Client(timeout=15.0) as client:
-        for batch in _chunk(postings, _MAX_EMBEDS_PER_MESSAGE):
+        for i, batch in enumerate(_chunk(postings, _MAX_EMBEDS_PER_MESSAGE)):
+            if i > 0:
+                # Proactive pacing, not just reactive retry -- Discord's webhook
+                # rate limit is roughly 5 requests/2s, so spacing sends out
+                # means far fewer 429s to begin with on a large backlog.
+                time.sleep(0.3)
             payload = {"embeds": [_posting_to_embed(p) for p in batch]}
-            resp = client.post(settings.DISCORD_WEBHOOK_URL, json=payload)
+            resp = _post_with_retry(client, payload)
             if resp.status_code >= 300:
                 logger.error("Discord webhook failed (%s): %s", resp.status_code, resp.text)
                 continue

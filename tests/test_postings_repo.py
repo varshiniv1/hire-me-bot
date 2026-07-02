@@ -119,6 +119,8 @@ def test_update_status_does_not_set_applied_at_for_other_statuses(monkeypatch):
 class _FakeSelectQuery:
     def __init__(self, rows: list):
         self._rows = rows
+        self._start = 0
+        self._end = None
 
     def select(self, *args):
         return self
@@ -130,12 +132,17 @@ class _FakeSelectQuery:
     def is_(self, col, val):
         return self
 
+    def range(self, start, end):
+        self._start = start
+        self._end = end
+        return self
+
     def execute(self):
         class Resp:
             pass
 
         resp = Resp()
-        resp.data = self._rows
+        resp.data = self._rows[self._start : self._end + 1]
         return resp
 
 
@@ -158,3 +165,16 @@ def test_get_applications_per_day_groups_by_date(monkeypatch):
     counts = postings_repo.get_applications_per_day()
 
     assert counts == {"2026-06-30": 2, "2026-07-01": 1}
+
+
+def test_paginate_fetches_every_page_past_supabase_default_cap(monkeypatch):
+    # Supabase/PostgREST silently caps an unranged select at 1000 rows --
+    # regression guard that _paginate actually pages through everything
+    # rather than trusting a single .execute() call.
+    monkeypatch.setattr(postings_repo, "_PAGE_SIZE", 1000)
+    rows = [{"applied_at": f"2026-01-01T00:00:0{i % 10}+00:00"} for i in range(2500)]
+    monkeypatch.setattr(postings_repo, "get_client", lambda: _FakeSelectClient(rows))
+
+    counts = postings_repo.get_applications_per_day()
+
+    assert sum(counts.values()) == 2500

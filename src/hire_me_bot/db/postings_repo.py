@@ -5,6 +5,31 @@ from hire_me_bot.db.client import get_client
 
 TABLE = "postings"
 
+# PostgREST (Supabase's REST layer) caps an unranged select at 1000 rows by
+# default -- a query that matches more than that silently returns only the
+# first page instead of erroring, which is easy to miss until row counts
+# grow. Every "give me all matching rows" query below pages through
+# .range() explicitly instead of trusting a single .execute() to return
+# everything.
+_PAGE_SIZE = 1000
+
+
+def _paginate(build_query) -> list[dict]:
+    """build_query() must return a fresh (already-filtered, not yet ranged)
+    Supabase query builder on each call, since .range() has to be applied
+    per page."""
+    all_rows: list[dict] = []
+    offset = 0
+    while True:
+        resp = build_query().range(offset, offset + _PAGE_SIZE - 1).execute()
+        if not resp.data:
+            break
+        all_rows.extend(resp.data)
+        if len(resp.data) < _PAGE_SIZE:
+            break
+        offset += _PAGE_SIZE
+    return all_rows
+
 
 def _posting_to_row(posting: Posting) -> dict:
     return {
@@ -46,8 +71,7 @@ def upsert_postings(postings: list[Posting]) -> None:
 
 def get_unscored() -> list[dict]:
     client = get_client()
-    resp = client.table(TABLE).select("*").is_("fit_score", "null").execute()
-    return resp.data
+    return _paginate(lambda: client.table(TABLE).select("*").is_("fit_score", "null"))
 
 
 def update_score(posting_id: int, score: int) -> None:
@@ -59,22 +83,19 @@ def update_score(posting_id: int, score: int) -> None:
 
 def get_unnotified_above_threshold(threshold: int) -> list[dict]:
     client = get_client()
-    resp = (
-        client.table(TABLE)
+    return _paginate(
+        lambda: client.table(TABLE)
         .select("*")
         .gte("fit_score", threshold)
         .is_("notified_at", "null")
-        .execute()
     )
-    return resp.data
 
 
 def get_unnotified() -> list[dict]:
     """All not-yet-notified postings regardless of fit_score -- used while
     settings.SCORING_ENABLED is False, since fit_score never gets set."""
     client = get_client()
-    resp = client.table(TABLE).select("*").is_("notified_at", "null").execute()
-    return resp.data
+    return _paginate(lambda: client.table(TABLE).select("*").is_("notified_at", "null"))
 
 
 def mark_notified(posting_id: int) -> None:
@@ -89,19 +110,12 @@ def search_by_company(fuzzy_name: str) -> list[dict]:
     of status, so track.py can move applied -> interviewing etc, not just log new
     applications."""
     client = get_client()
-    resp = (
-        client.table(TABLE)
-        .select("*")
-        .ilike("company", f"%{fuzzy_name}%")
-        .execute()
-    )
-    return resp.data
+    return _paginate(lambda: client.table(TABLE).select("*").ilike("company", f"%{fuzzy_name}%"))
 
 
 def get_not_applied() -> list[dict]:
     client = get_client()
-    resp = client.table(TABLE).select("*").eq("status", "not_applied").execute()
-    return resp.data
+    return _paginate(lambda: client.table(TABLE).select("*").eq("status", "not_applied"))
 
 
 def update_status(posting_id: int, status: str) -> None:
@@ -117,12 +131,11 @@ def update_status(posting_id: int, status: str) -> None:
 
 def get_applications_per_day() -> dict[str, int]:
     """Maps "YYYY-MM-DD" -> count of postings marked applied that day, for
-    the stats calendar. Small volume (personal job tracker, not a firehose),
-    so aggregating client-side rather than needing a DB view/RPC."""
+    the stats calendar."""
     client = get_client()
-    resp = client.table(TABLE).select("applied_at").not_.is_("applied_at", "null").execute()
+    rows = _paginate(lambda: client.table(TABLE).select("applied_at").not_.is_("applied_at", "null"))
     counts: dict[str, int] = {}
-    for row in resp.data:
+    for row in rows:
         day = row["applied_at"][:10]
         counts[day] = counts.get(day, 0) + 1
     return counts
@@ -130,5 +143,4 @@ def get_applications_per_day() -> dict[str, int]:
 
 def get_all_ordered() -> list[dict]:
     client = get_client()
-    resp = client.table(TABLE).select("*").order("first_seen_at", desc=True).execute()
-    return resp.data
+    return _paginate(lambda: client.table(TABLE).select("*").order("first_seen_at", desc=True))
