@@ -37,9 +37,9 @@
 | Sony Interactive Entertainment | Software Engineer II | United States, San Mateo, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5838328004) | 0d |
 | PlayStation | Software Engineer II | United States, San Mateo, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5838328004) | 0d |
 | General Matter | Software Engineer (Hardware Test & Automation) | Los Angeles, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/4819852008) | 0d |
-| The New York Times | Software Engineer, News Multimodal | New York, NY | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4693057005) | 0d |
-| The New York Times | Software Engineer - AI Platforms and Products (Frontend) | New York, NY | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4680447005) | 0d |
-| The New York Times | Software Engineer, Scoop Core | New York, NY | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4673616005) | 0d |
+| The New York Times | Software Engineer, News Multimodal | New York, NY | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4693057005) | 1d |
+| The New York Times | Software Engineer - AI Platforms and Products (Frontend) | New York, NY | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4680447005) | 1d |
+| The New York Times | Software Engineer, Scoop Core | New York, NY | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4673616005) | 1d |
 | PlayStation | Software Engineer II (Java) | United States, Madison, WI | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5987690004) | 1d |
 | Sony Interactive Entertainment | Software Engineer II (Java) | United States, Madison, WI | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5987690004) | 1d |
 | Twilio | Software Engineer (L1) | Remote - US | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7681338) | 1d |
@@ -103,10 +103,10 @@
 | xAI | Software Engineer - Networking Software and Services | Palo Alto, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/4946696007) | 2d |
 | Attain Partners | Software Engineer | United States - Remote | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/attainpartners/jobs/5284768008) | 2d |
 | PhysicsX | Forward Deployed Software Engineer | San Francisco, United States | Greenhouse | not_applied | [Apply](https://job-boards.eu.greenhouse.io/physicsx/jobs/4880930101) | 2d |
-| mthree | Junior Software Engineer | USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4622899006) | 2d |
-| mthree | Junior Software Engineer | USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374540006) | 2d |
-| mthree | Junior Software Engineer | USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4383912006) | 2d |
-| mthree | Junior Software Engineer | USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374589006) | 2d |
+| mthree | Junior Software Engineer | USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4622899006) | 3d |
+| mthree | Junior Software Engineer | USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374540006) | 3d |
+| mthree | Junior Software Engineer | USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4383912006) | 3d |
+| mthree | Junior Software Engineer | USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374589006) | 3d |
 | GRVTY | UX Software Engineer | Cambridge, Massachusetts, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/grvty/jobs/4297904009) | 3d |
 | Palantir | Forward Deployed Software Engineer, New Grad - Commercial | Chicago, IL | Lever | not_applied | [Apply](https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40) | 3d |
 | Wellmark | Associate Software Engineer - Member Experience Delivery (Open to hiring at the Software Engineer level) | Des Moines, IA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000134797351-associate-software-engineer-member-experience-delivery-open-to-hiring-at-the-software-engineer-level-?oga=true) | 3d |
