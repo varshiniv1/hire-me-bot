@@ -51,11 +51,17 @@ jobs:
           SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
         run: python scripts/generate_jobs_json.py
 
+      - name: Generate docs/applied.json
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+        run: python scripts/generate_applied_json.py
+
       - name: Commit REPORT.md and docs/jobs.json if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add REPORT.md docs/jobs.json
+          git add REPORT.md docs/jobs.json docs/applied.json
           git diff --staged --quiet || git commit -m "Update REPORT.md and jobs.json (JSearch fetch)"
           for i in 1 2 3 4 5; do
             git push && exit 0

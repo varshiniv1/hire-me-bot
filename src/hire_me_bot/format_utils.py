@@ -7,6 +7,7 @@ SOURCE_LABELS = {
     "smartrecruiters": "SmartRecruiters",
     "recruitee": "Recruitee",
     "workday": "Workday",
+    "jsearch": "JSearch",
 }
 
 

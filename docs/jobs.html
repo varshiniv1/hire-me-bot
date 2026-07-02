@@ -69,18 +69,19 @@
   <h1>Job Postings</h1>
   <div id="subtitle">
     Everything found in the last few days you haven't applied to yet, split by Internships vs Full-Time.
-    Click "Applied" once you've submitted -- it won't show up here again.
+    Click "Applied" once you've submitted -- it won't show up here again, but you can review it (and the date) under the Applied tab.
   </div>
 
   <div id="tabs">
     <button class="tab-button active" data-tab="internship">Internships</button>
     <button class="tab-button" data-tab="fulltime">Full-Time</button>
+    <button class="tab-button" data-tab="applied">Applied</button>
   </div>
 
   <div id="count"></div>
   <table>
     <thead>
-      <tr><th>Company</th><th>Role</th><th>Location</th><th>Application</th><th>Age</th></tr>
+      <tr id="header-row"><th>Company</th><th>Role</th><th>Location</th><th>Application</th><th>Age</th></tr>
     </thead>
     <tbody id="rows"></tbody>
   </table>
@@ -96,13 +97,56 @@ const SUPABASE_URL = 'https://lyadqbhufusevbikviyh.supabase.co';
 const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imx5YWRxYmh1ZnVzZXZiaWt2aXloIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODI5NDAzOTIsImV4cCI6MjA5ODUxNjM5Mn0.O2BXhBYA2aJEvtJ_m2GA_S6R2jbpasKK-u0wfcO3rq8';
 
 let jobs = [];
+let appliedJobs = [];
 let activeTab = 'internship';
 
-function render() {
+function formatAppliedDate(isoString) {
+  if (!isoString) return '-';
+  return isoString.slice(0, 10);
+}
+
+function renderApplied() {
   const rows = document.getElementById('rows');
   const empty = document.getElementById('empty');
   const count = document.getElementById('count');
+  const headerRow = document.getElementById('header-row');
   rows.innerHTML = '';
+  headerRow.innerHTML = '<th>Company</th><th>Role</th><th>Location</th><th>Status</th><th>Applied On</th>';
+
+  count.textContent = `${appliedJobs.length} posting${appliedJobs.length === 1 ? '' : 's'}`;
+
+  if (appliedJobs.length === 0) {
+    empty.style.display = 'block';
+    return;
+  }
+  empty.style.display = 'none';
+
+  for (const job of appliedJobs) {
+    const tr = document.createElement('tr');
+    tr.dataset.id = job.id;
+    tr.innerHTML = `
+      <td class="company"><a href="${escapeHtml(job.url)}" target="_blank" rel="noopener" style="color:inherit">${escapeHtml(job.company)}</a></td>
+      <td>${escapeHtml(job.role)}</td>
+      <td>${escapeHtml(job.location)}</td>
+      <td>${escapeHtml(job.status)}</td>
+      <td class="age">${escapeHtml(formatAppliedDate(job.applied_at))}</td>
+    `;
+    rows.appendChild(tr);
+  }
+}
+
+function render() {
+  if (activeTab === 'applied') {
+    renderApplied();
+    return;
+  }
+
+  const rows = document.getElementById('rows');
+  const empty = document.getElementById('empty');
+  const count = document.getElementById('count');
+  const headerRow = document.getElementById('header-row');
+  rows.innerHTML = '';
+  headerRow.innerHTML = '<th>Company</th><th>Role</th><th>Location</th><th>Application</th><th>Age</th>';
 
   const filtered = jobs.filter(j => activeTab === 'internship' ? j.is_internship : !j.is_internship);
   count.textContent = `${filtered.length} posting${filtered.length === 1 ? '' : 's'}`;
@@ -197,6 +241,12 @@ async function load() {
     if (resp.ok) jobs = await resp.json();
   } catch (e) {
     // jobs.json not generated yet -- render empty state rather than fail.
+  }
+  try {
+    const resp = await fetch('applied.json', { cache: 'no-store' });
+    if (resp.ok) appliedJobs = await resp.json();
+  } catch (e) {
+    // applied.json not generated yet -- render empty state rather than fail.
   }
   render();
 }

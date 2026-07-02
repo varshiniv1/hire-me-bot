@@ -141,6 +141,9 @@ class _FakeSelectQuery:
     def eq(self, col, val):
         return self
 
+    def neq(self, col, val):
+        return self
+
     def order(self, col, desc=False):
         return self
 
@@ -229,6 +232,22 @@ def test_get_recent_not_applied_returns_rows(monkeypatch):
     rows = [{"id": 1, "status": "not_applied"}]
     monkeypatch.setattr(postings_repo, "get_client", lambda: _FakeSelectClient(rows))
     assert postings_repo.get_recent_not_applied(max_age_days=2) == rows
+
+
+def test_get_applied_history_returns_rows(monkeypatch):
+    rows = [{"id": 1, "status": "applied", "applied_at": "2026-07-01T00:00:00+00:00"}]
+    monkeypatch.setattr(postings_repo, "get_client", lambda: _FakeSelectClient(rows))
+    assert postings_repo.get_applied_history() == rows
+
+
+def test_get_applied_history_not_age_limited(monkeypatch):
+    # Unlike get_recent_not_applied/get_all_ordered, this must not filter
+    # by posted_at -- application history shouldn't disappear just because
+    # the original posting is old.
+    log: list = []
+    monkeypatch.setattr(postings_repo, "get_client", lambda: _FakeSelectClient([], log))
+    postings_repo.get_applied_history()
+    assert not any(entry[0] == "posted_at" for entry in log)
 
 
 def test_paginate_fetches_every_page_past_supabase_default_cap(monkeypatch):

@@ -168,6 +168,18 @@ def get_recent_not_applied(max_age_days: int) -> list[dict]:
     )
 
 
+def get_applied_history() -> list[dict]:
+    """Every posting you've acted on (status != 'not_applied'), newest
+    applied_at first -- backs the "Applied" tab on docs/jobs.html so you can
+    review what you applied to and when. Not age-limited, unlike
+    get_recent_not_applied/get_all_ordered -- your application history
+    shouldn't quietly disappear just because a posting is old."""
+    client = get_client()
+    return _paginate(
+        lambda: client.table(TABLE).select("*").neq("status", "not_applied").order("applied_at", desc=True)
+    )
+
+
 def get_all_ordered(max_age_days: int) -> list[dict]:
     """Every posting with posted_at within max_age_days, newest-first by
     posted_at (actual posting age, not crawl-discovery time). Backs
