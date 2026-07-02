@@ -51,10 +51,14 @@ of every posting found (so git history itself is a timestamped record).
 - **Location**: USA only (`src/hire_me_bot/filtering/location.py`) --
   ambiguous locations (bare "Remote", a city with no state/country, "N/A")
   are excluded rather than guessed at.
-- **Experience level**: entry-level/new-grad only -- postings whose JD states
-  a minimum of more than `MAX_YEARS_EXPERIENCE` (default 2) years are
-  excluded (e.g. "3-5 years of experience"), even if the title itself
-  doesn't sound senior (`src/hire_me_bot/filtering/experience.py`).
+- **Experience level**: entry-level/new-grad only, strictly up to
+  `MAX_YEARS_EXPERIENCE` (default 2) years -- postings whose JD states a
+  requirement above that are excluded (e.g. "3-5 years of experience"), even
+  if the title itself doesn't sound senior. For a range like "1-3 years",
+  the upper bound (3) is what's checked against the cap, not just the lower
+  bound -- a role open to candidates with up to 3 years doesn't qualify as
+  strictly entry-level even though its floor is low
+  (`src/hire_me_bot/filtering/experience.py`).
 - **Clearance**: postings requiring a security clearance are excluded, title
   or JD body (`src/hire_me_bot/filtering/clearance.py`).
 - **Citizenship**: postings requiring U.S. citizenship (not just work

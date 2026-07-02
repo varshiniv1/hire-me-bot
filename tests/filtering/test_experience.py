@@ -13,7 +13,16 @@ def test_plus_years_flagged():
 
 def test_entry_level_range_not_flagged():
     assert not requires_too_much_experience("0-2 years of experience")
-    assert not requires_too_much_experience("1-3 years of relevant experience preferred")
+    assert not requires_too_much_experience("1-2 years of relevant experience preferred")
+
+
+def test_range_upper_bound_above_cap_flagged_even_if_lower_bound_is_within_cap():
+    # Strictly up to 2 years -- "1-3 years" must be rejected even though its
+    # lower bound (1) is within cap, since the role is openly asking for
+    # candidates up to 3 years in, not just 1.
+    assert requires_too_much_experience("1-3 years of relevant experience preferred")
+    assert requires_too_much_experience("2-4 years of professional experience.")
+    assert requires_too_much_experience("0-3 years of experience.")
 
 
 def test_no_experience_mention_not_flagged():
