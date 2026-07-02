@@ -30,8 +30,8 @@ of every posting found (so git history itself is a timestamped record).
   "frontend", or "full-stack". A bare "Developer" is no longer sufficient
   on its own (that used to catch things like "Salesforce Developer",
   "ServiceNow Developer", ".NET Developer", which aren't general SWE roles).
-  Data Engineer, ML Engineer, generic "programmer", and Embedded/Firmware
-  roles are deliberately excluded (see
+  Data Engineer, ML Engineer, generic "programmer", Embedded/Firmware, and
+  Scientific Software roles are deliberately excluded (see
   `src/hire_me_bot/filtering/keywords.py`).
 - **Location**: USA only (`src/hire_me_bot/filtering/location.py`) --
   ambiguous locations (bare "Remote", a city with no state/country, "N/A")

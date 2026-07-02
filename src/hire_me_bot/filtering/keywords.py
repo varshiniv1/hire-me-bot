@@ -80,6 +80,11 @@ EXCLUSION_TERMS = [
     # roles being targeted.
     r"\bembedded\b",
     r"\bfirmware\b",
+    # Per user request -- "Scientific Software Engineer" would otherwise
+    # pass via the "software" TECH_TERM, but these are typically
+    # domain-science roles (compilers/emulation for quantum hardware, etc.),
+    # not general SWE/backend/frontend/full-stack.
+    r"\bscientific\b",
 ]
 
 _TECH_RE = re.compile("|".join(TECH_TERMS), re.IGNORECASE)

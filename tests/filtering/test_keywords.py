@@ -112,6 +112,11 @@ def test_embedded_and_firmware_titles_excluded():
     assert not passes_keyword_filter("Embedded Systems Software Developer")
 
 
+def test_scientific_software_titles_excluded():
+    assert not passes_keyword_filter("Scientific Software Engineer - Compiler")
+    assert not passes_keyword_filter("Scientific Software Engineer - Virtual Machine & Emulation")
+
+
 def test_empty_title_fails():
     assert not passes_keyword_filter("")
 
