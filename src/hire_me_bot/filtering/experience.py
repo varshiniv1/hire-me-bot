@@ -9,7 +9,7 @@ import re
 # also match). Requires "experience" within a short window after "years"
 # so unrelated mentions ("founded 10 years ago") don't false-positive.
 _YOE_RE = re.compile(
-    r"(\d+)\+?\s*(?:-\s*\d+\+?\s*)?\s*years?\s+(?:of\s+)?(?:[a-zA-Z,/&\s]{0,40}?)experience",
+    r"(\d+)\+?\s*(?:-\s*\d+\+?\s*)?\s*years?\s+(?:of\s+)?(?:[a-zA-Z,/&'\s-]{0,40}?)experience",
     re.IGNORECASE,
 )
 

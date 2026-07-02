@@ -34,3 +34,11 @@ def test_min_years_required_extracts_all_matches():
 def test_custom_max_years_threshold():
     assert not requires_too_much_experience("3-5 years of experience", max_years=5)
     assert requires_too_much_experience("3-5 years of experience", max_years=2)
+
+
+def test_hyphenated_and_multi_word_phrasing_flagged():
+    # Hyphens ("hands-on") and multiple words with punctuation between "of"
+    # and "experience" must not break the match.
+    assert requires_too_much_experience("5+ years of hands-on experience in software development")
+    assert requires_too_much_experience("5+ years of hands-on, professional experience")
+    assert requires_too_much_experience("Minimum of 5 years of experience")
