@@ -1,8 +1,8 @@
 """Regenerates docs/jobs.json for the GitHub Pages job-browser page
 (docs/jobs.html) -- a styled, tabbed (Internships / Full-Time) table view,
 since a plain .md file can't render clickable Apply buttons the way a real
-webpage can. Same 2-day freshness window as Discord notifications and
-REPORT.md, plus only postings you haven't already acted on -- once you
+webpage can. Same freshness window as Discord notifications and
+REPORT.md (settings.NOTIFY_MAX_AGE_DAYS), plus only postings you haven't already acted on -- once you
 mark something applied (via the page's button or track.py), it drops out
 here even if it's still within the freshness window."""
 

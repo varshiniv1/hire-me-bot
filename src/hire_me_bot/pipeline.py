@@ -16,6 +16,7 @@ from hire_me_bot.connectors.smartrecruiters import SmartRecruitersConnector
 from hire_me_bot.connectors.workday import WorkdayConnector
 from hire_me_bot.db import postings_repo
 from hire_me_bot.filtering.clearance import requires_clearance
+from hire_me_bot.filtering.experience import requires_too_much_experience
 from hire_me_bot.filtering.keywords import passes_keyword_filter
 from hire_me_bot.filtering.location import is_usa_location
 from hire_me_bot.notify import discord
@@ -66,6 +67,8 @@ def _fetch_company(company: dict) -> list[Posting]:
         and is_usa_location(p.location)
         and not requires_clearance(p.title)
         and not requires_clearance(p.description)
+        and not requires_too_much_experience(p.title, settings.MAX_YEARS_EXPERIENCE)
+        and not requires_too_much_experience(p.description, settings.MAX_YEARS_EXPERIENCE)
     ]
 
 

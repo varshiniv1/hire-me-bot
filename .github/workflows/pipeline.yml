@@ -2,7 +2,11 @@ name: hire-me-bot pipeline
 
 on:
   schedule:
-    - cron: '0 */3 * * *'
+    # Every 3h Tue/Wed/Thu (2,3,4), every 6h the rest of the week (0,1,5,6).
+    # Cron day-of-week is UTC, not Eastern -- close enough for this purpose,
+    # not worth the DST-shifting complexity of exact Eastern alignment.
+    - cron: '0 */3 * * 2,3,4'
+    - cron: '0 */6 * * 0,1,5,6'
   workflow_dispatch: {}
 
 env:

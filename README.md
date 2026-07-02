@@ -3,8 +3,9 @@
 A self-updating pipeline that watches company job boards for **SWE/SDE**
 internship and new-grad roles in the **USA**, dedupes them, and pushes a
 Discord notification for every fresh match -- grouped under Internships and
-Full-Time headers. Runs for free every 3 hours on GitHub Actions, forever
-(see [Staying alive forever](#staying-alive-forever)).
+Full-Time headers. Runs for free on GitHub Actions -- every 3 hours
+Tue/Wed/Thu, every 6 hours the rest of the week -- forever (see
+[Staying alive forever](#staying-alive-forever)).
 
 Live pages (GitHub Pages, auto-updated every run):
 - **[Jobs browser](https://varshiniv1.github.io/hire-me-bot/jobs.html)** --
@@ -30,8 +31,14 @@ of every posting found (so git history itself is a timestamped record).
 - **Location**: USA only (`src/hire_me_bot/filtering/location.py`) --
   ambiguous locations (bare "Remote", a city with no state/country, "N/A")
   are excluded rather than guessed at.
+- **Experience level**: entry-level/new-grad only -- postings whose JD states
+  a minimum of more than `MAX_YEARS_EXPERIENCE` (default 2) years are
+  excluded (e.g. "3-5 years of experience"), even if the title itself
+  doesn't sound senior (`src/hire_me_bot/filtering/experience.py`).
+- **Clearance**: postings requiring a security clearance are excluded, title
+  or JD body (`src/hire_me_bot/filtering/clearance.py`).
 - **Freshness**: postings are never deleted from the database, but only
-  ones posted within the last `NOTIFY_MAX_AGE_DAYS` (default 2) get
+  ones posted within the last `NOTIFY_MAX_AGE_DAYS` (default 4) get
   surfaced -- in Discord, `REPORT.md`, and the jobs browser. A listing
   you're only now discovering that's 3 weeks old isn't actionable the way a
   fresh one is.
@@ -59,7 +66,8 @@ of every posting found (so git history itself is a timestamped record).
 
 - One-off local run: `python -m hire_me_bot.pipeline`
 - Scheduled: [`.github/workflows/pipeline.yml`](.github/workflows/pipeline.yml)
-  runs it every 3 hours via GitHub Actions cron, plus supports manual
+  runs it every 3 hours Tue/Wed/Thu and every 6 hours the rest of the week
+  (UTC) via GitHub Actions cron, plus supports manual
   `workflow_dispatch`. Add the four secrets above to the repo's Actions
   secrets for this to work in CI.
 - [`.github/workflows/stats.yml`](.github/workflows/stats.yml) regenerates

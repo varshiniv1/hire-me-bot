@@ -128,3 +128,42 @@ def test_clearance_required_postings_are_filtered_out(monkeypatch):
 
     assert len(result) == 1
     assert result[0].external_id == "1"
+
+
+def test_too_much_experience_postings_are_filtered_out(monkeypatch):
+    postings = [
+        Posting(
+            "greenhouse", "Acme", "1", "Software Engineer I", "Austin, TX", "https://x/1",
+            "0-2 years of experience required.", None,
+        ),
+        Posting(
+            "greenhouse", "Acme", "2", "Software Engineer II", "Austin, TX", "https://x/2",
+            "3-5 years of professional experience in software development.", None,
+        ),
+        Posting(
+            "greenhouse", "Acme", "3", "Software Engineer III", "Austin, TX", "https://x/3",
+            "8+ years of software development experience, including 3+ years in a technical leadership role.",
+            None,
+        ),
+    ]
+
+    class FakeConnector:
+        def __init__(self, company, token):
+            pass
+
+        def __enter__(self):
+            return self
+
+        def __exit__(self, *a):
+            pass
+
+        def fetch(self):
+            return postings
+
+    monkeypatch.setitem(pipeline.CONNECTOR_CLASSES, "greenhouse", FakeConnector)
+    company = {"name": "Acme", "source": "greenhouse", "token": "acme"}
+
+    result = pipeline._fetch_company(company)
+
+    assert len(result) == 1
+    assert result[0].external_id == "1"

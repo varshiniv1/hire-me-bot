@@ -170,7 +170,7 @@ def get_recent_not_applied(max_age_days: int) -> list[dict]:
 
 def get_all_ordered(max_age_days: int) -> list[dict]:
     """Every posting with posted_at within max_age_days, newest-first by
-    first_seen_at. Backs REPORT.md -- reports respect the same 2-day
+    first_seen_at. Backs REPORT.md -- reports respect the same
     freshness window as Discord notifications (postings are never deleted,
     this is purely about what gets surfaced)."""
     cutoff = (datetime.now(timezone.utc) - timedelta(days=max_age_days)).isoformat()
