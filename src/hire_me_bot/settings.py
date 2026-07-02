@@ -19,6 +19,13 @@ DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL")
 
 FIT_SCORE_NOTIFY_THRESHOLD = int(os.environ.get("FIT_SCORE_NOTIFY_THRESHOLD", "4"))
 
+# No LLM provider wired in yet (Anthropic API needs paid credits, not covered by
+# a Claude Pro subscription; a free-tier provider hasn't been picked yet). While
+# this is False: pipeline.py skips scoring entirely, and discord.py notifies on
+# every new keyword-matched posting instead of gating on fit_score >= threshold.
+# Flip back on once a provider is wired into scoring/claude_client.py.
+SCORING_ENABLED = os.environ.get("SCORING_ENABLED", "false").lower() == "true"
+
 COMPANIES_CONFIG_PATH = REPO_ROOT / "config" / "companies.yaml"
 PROFILE_CONFIG_PATH = REPO_ROOT / "config" / "profile.json"
 

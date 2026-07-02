@@ -89,9 +89,12 @@ def run() -> None:
 
     postings_repo.upsert_postings(fetched)
 
-    unscored = postings_repo.get_unscored()
-    logger.info("%d postings need scoring", len(unscored))
-    score_new_postings(unscored, profile)
+    if settings.SCORING_ENABLED:
+        unscored = postings_repo.get_unscored()
+        logger.info("%d postings need scoring", len(unscored))
+        score_new_postings(unscored, profile)
+    else:
+        logger.info("Scoring disabled (no LLM provider wired in yet), skipping")
 
     notified_count = discord.send_notifications()
     logger.info("Sent Discord notifications for %d postings", notified_count)

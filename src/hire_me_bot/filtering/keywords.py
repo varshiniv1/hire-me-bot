@@ -34,6 +34,11 @@ EXCLUSION_TERMS = [
     r"\barchitect\b",
     r"\bvp\b",
     r"\bhead of\b",
+    # "developer"/"engineer" as a bare inclusion term also matches DevRel-style
+    # titles that aren't actual SWE roles (e.g. "Developer Relations",
+    # "Developer Advocate") -- exclude those explicitly.
+    r"\brelations\b",
+    r"\badvocate\b",
 ]
 
 _INCLUSION_RE = re.compile("|".join(INCLUSION_TERMS), re.IGNORECASE)

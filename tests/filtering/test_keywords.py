@@ -33,5 +33,13 @@ def test_head_of_exclusion_does_not_false_positive_on_overhead():
     assert not passes_keyword_filter("Overhead Crane Operator")
 
 
+def test_developer_relations_excluded():
+    assert not passes_keyword_filter("Developer Relations")
+
+
+def test_developer_advocate_excluded():
+    assert not passes_keyword_filter("Developer Advocate")
+
+
 def test_empty_title_fails():
     assert not passes_keyword_filter("")

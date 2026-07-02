@@ -69,6 +69,14 @@ def get_unnotified_above_threshold(threshold: int) -> list[dict]:
     return resp.data
 
 
+def get_unnotified() -> list[dict]:
+    """All not-yet-notified postings regardless of fit_score -- used while
+    settings.SCORING_ENABLED is False, since fit_score never gets set."""
+    client = get_client()
+    resp = client.table(TABLE).select("*").is_("notified_at", "null").execute()
+    return resp.data
+
+
 def mark_notified(posting_id: int) -> None:
     client = get_client()
     client.table(TABLE).update(

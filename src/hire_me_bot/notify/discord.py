@@ -13,7 +13,7 @@ _MAX_EMBEDS_PER_MESSAGE = 10
 
 
 def _posting_to_embed(posting: dict) -> dict:
-    subtitle = f"Fit score: {posting['fit_score']}/5"
+    subtitle = f"Fit score: {posting['fit_score']}/5" if posting.get("fit_score") is not None else "Unscored"
     if posting.get("location"):
         subtitle += f" | {posting['location']}"
     return {
@@ -29,12 +29,21 @@ def _chunk(items: list, size: int):
 
 
 def send_notifications() -> int:
-    """Push a Discord message for every unnotified posting scoring >= the
-    configured threshold, and mark each as notified. Returns the count sent."""
+    """Push a Discord message for every unnotified posting, and mark each as
+    notified. Returns the count sent.
+
+    While settings.SCORING_ENABLED is False, every keyword-matched posting is
+    notified (fit_score never gets set, so the threshold gate can't apply).
+    Once scoring is wired back in, this goes back to only notifying postings
+    scoring >= FIT_SCORE_NOTIFY_THRESHOLD.
+    """
     if not settings.DISCORD_WEBHOOK_URL:
         raise RuntimeError("DISCORD_WEBHOOK_URL must be set to send notifications.")
 
-    postings = postings_repo.get_unnotified_above_threshold(settings.FIT_SCORE_NOTIFY_THRESHOLD)
+    if settings.SCORING_ENABLED:
+        postings = postings_repo.get_unnotified_above_threshold(settings.FIT_SCORE_NOTIFY_THRESHOLD)
+    else:
+        postings = postings_repo.get_unnotified()
     if not postings:
         return 0
 
