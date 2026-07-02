@@ -12,7 +12,8 @@ create table if not exists postings (
     posted_at       timestamptz,
     first_seen_at   timestamptz not null default now(),
     status          text not null default 'not_applied'
-                        check (status in ('not_applied','applied','interviewing','rejected','offer')),
+                        constraint postings_status_check
+                        check (status in ('not_applied','applied','interviewing','rejected','offer','dismissed')),
     fit_score       smallint check (fit_score between 1 and 5),
     scored_at       timestamptz,
     notified_at     timestamptz,                 -- null = not yet Discord-notified
@@ -75,12 +76,19 @@ create policy "anon can see own status postings"
 on postings
 for select
 to anon
-using (status in ('not_applied', 'applied'));
+using (status in ('not_applied', 'applied', 'dismissed'));
 
+-- 'dismissed' added alongside 'applied' so the jobs.html "X" (irrelevant,
+-- hide permanently) button can transition a posting the same way the
+-- Applied button does -- the row stays (so the source+company+external_id
+-- dedup key keeps a still-live posting from reappearing on the next
+-- crawl), it just drops out of jobs.json going forward. Deliberately not
+-- a real DELETE: the same posting would just get re-inserted as "new" on
+-- the next crawl since nothing would be left to block it.
 drop policy if exists "anon can mark postings applied" on postings;
 create policy "anon can mark postings applied"
 on postings
 for update
 to anon
 using (status = 'not_applied')
-with check (status = 'applied');
+with check (status in ('applied', 'dismissed'));

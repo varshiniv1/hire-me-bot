@@ -59,6 +59,20 @@
   .applied-btn:hover { background: #30363d; border-color: #3fb950; color: #3fb950; }
   .applied-btn:disabled { opacity: 0.6; cursor: default; }
   .applied-btn.done { background: #238636; color: #fff; border-color: #238636; }
+  .dismiss-btn {
+    display: inline-block;
+    border-radius: 6px;
+    padding: 0.3rem 0.55rem;
+    cursor: pointer;
+    border: 1px solid #30363d;
+    background: #21262d;
+    color: #8b949e;
+    font-family: inherit;
+    font-size: 0.85rem;
+    line-height: 1;
+  }
+  .dismiss-btn:hover { background: #30363d; border-color: #f85149; color: #f85149; }
+  .dismiss-btn:disabled { opacity: 0.5; cursor: default; }
   .age { color: #8b949e; white-space: nowrap; }
   #empty { color: #8b949e; padding: 1rem 0; display: none; }
   #count { color: #8b949e; font-size: 0.85rem; margin-bottom: 0.5rem; }
@@ -70,6 +84,7 @@
   <div id="subtitle">
     Everything found in the last few days you haven't applied to yet, split by Internships vs Full-Time.
     Click "Applied" once you've submitted -- it won't show up here again, but you can review it (and the date) under the Applied tab.
+    Click "&times;" to permanently hide an irrelevant posting.
   </div>
 
   <div id="tabs">
@@ -167,10 +182,12 @@ function render() {
       <td class="actions">
         <a class="apply-btn" href="${escapeHtml(job.url)}" target="_blank" rel="noopener">Apply</a>
         <button class="applied-btn" type="button">Applied</button>
+        <button class="dismiss-btn" type="button" title="Not relevant -- hide permanently">&times;</button>
       </td>
       <td class="age">${escapeHtml(job.age)}</td>
     `;
     tr.querySelector('.applied-btn').addEventListener('click', () => markApplied(job.id, tr));
+    tr.querySelector('.dismiss-btn').addEventListener('click', () => dismissPosting(job.id, tr));
     rows.appendChild(tr);
   }
 }
@@ -217,6 +234,42 @@ async function markApplied(jobId, rowElement) {
   } catch (e) {
     button.disabled = false;
     button.textContent = 'Retry';
+  }
+}
+
+async function dismissPosting(jobId, rowElement) {
+  const button = rowElement.querySelector('.dismiss-btn');
+  button.disabled = true;
+
+  try {
+    const resp = await fetch(`${SUPABASE_URL}/rest/v1/postings?id=eq.${jobId}`, {
+      method: 'PATCH',
+      headers: {
+        'apikey': SUPABASE_ANON_KEY,
+        'Authorization': `Bearer ${SUPABASE_ANON_KEY}`,
+        'Content-Type': 'application/json',
+        'Prefer': 'return=representation',
+      },
+      body: JSON.stringify({ status: 'dismissed' }),
+    });
+
+    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+    const updated = await resp.json();
+    if (!Array.isArray(updated) || updated.length === 0) {
+      // Same reasoning as markApplied: zero rows back means this posting
+      // already left 'not_applied' (applied/dismissed elsewhere, stale
+      // jobs.json) -- just drop it from view rather than show an error.
+      rowElement.remove();
+      return;
+    }
+
+    // Marked dismissed in Supabase -- the source+company+external_id
+    // dedup key keeps it from reappearing on the next crawl even though
+    // the row itself stays. Just drop it from view immediately.
+    jobs = jobs.filter(j => j.id !== jobId);
+    render();
+  } catch (e) {
+    button.disabled = false;
   }
 }
 
