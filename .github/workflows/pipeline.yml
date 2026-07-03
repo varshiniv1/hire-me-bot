@@ -14,15 +14,10 @@ env:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 jobs:
   run-pipeline:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment1.outputs.page_url || steps.deployment2.outputs.page_url || steps.deployment3.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
 
@@ -73,6 +68,13 @@ jobs:
         # times rather than just failing the whole run over a generated
         # file (real conflict here is effectively impossible since nothing
         # else touches REPORT.md/jobs.json by hand).
+        #
+        # No separate "deploy to Pages" step after this -- GitHub Pages is
+        # configured as branch-based (source: main /docs), so it rebuilds
+        # and republishes automatically whenever this push lands. That
+        # sidesteps the actions/deploy-pages Deployments API, which was
+        # intermittently failing with a bare "Deployment failed, try again
+        # later." unrelated to anything in this repo.
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -86,38 +88,3 @@ jobs:
           done
           echo "::error::Failed to push after 5 attempts"
           exit 1
-
-      - name: Deploy GitHub Pages
-        # Pushes made with the default GITHUB_TOKEN (like the commit above)
-        # don't trigger other workflows' `push` events -- a separate
-        # deploy-pages.yml watching for pushes to docs/** would never
-        # actually fire from this job's own commit. Deploying directly in
-        # the same run sidesteps that entirely.
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: docs
-
-      # actions/deploy-pages occasionally fails with a bare "Deployment
-      # failed, try again later." -- a transient error on GitHub's Pages
-      # backend, unrelated to anything in this repo (confirmed via
-      # githubstatus.com Pages incidents). The postings themselves are
-      # already safely in Supabase by this point regardless -- this only
-      # retries the public docs/jobs.html website deploy. 3 attempts with
-      # backoff so a single transient blip doesn't fail the whole run and
-      # require manually re-triggering.
-      - id: deployment1
-        continue-on-error: true
-        uses: actions/deploy-pages@v4
-      - name: Wait before deploy retry 1
-        if: steps.deployment1.outcome == 'failure'
-        run: sleep 30
-      - id: deployment2
-        if: steps.deployment1.outcome == 'failure'
-        continue-on-error: true
-        uses: actions/deploy-pages@v4
-      - name: Wait before deploy retry 2
-        if: steps.deployment1.outcome == 'failure' && steps.deployment2.outcome == 'failure'
-        run: sleep 60
-      - id: deployment3
-        if: steps.deployment1.outcome == 'failure' && steps.deployment2.outcome == 'failure'
-        uses: actions/deploy-pages@v4
