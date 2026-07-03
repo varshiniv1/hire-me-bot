@@ -1,5 +1,27 @@
 [
   {
+    "id": 23344,
+    "company": "Jobs for Humanity",
+    "role": "Software Engineer (Mobile & Web Applications)",
+    "location": "Houston, us",
+    "source": "SmartRecruiters",
+    "status": "not_applied",
+    "url": "https://jobs.smartrecruiters.com/JobsForHumanity/744000135752989-software-engineer-mobile-web-applications-",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
+    "id": 23803,
+    "company": "Syncreon Consulting",
+    "role": "Front-End Development II - Angular v18+ and TypeScript - W2 Position",
+    "location": "Jersey City, NJ, us",
+    "source": "SmartRecruiters",
+    "status": "not_applied",
+    "url": "https://jobs.smartrecruiters.com/SyncreonConsulting/744000135744865-front-end-development-ii-angular-v18-and-typescript-w2-position",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
     "id": 21949,
     "company": "Zscaler",
     "role": "Software Development Engineer",
@@ -7,6 +29,17 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/zscaler/jobs/5177411007",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
+    "id": 22863,
+    "company": "U.S. Bank",
+    "role": "Software Engineer 2 ( React and Python)",
+    "location": "Hopkins, MN",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Software-Engineer-2---React-and-Python-_2026-0019276",
     "age": "0d",
     "is_internship": false
   },
@@ -33,13 +66,13 @@
     "is_internship": false
   },
   {
-    "id": 22863,
+    "id": 23840,
     "company": "U.S. Bank",
-    "role": "Software Engineer 2 ( React and Python)",
+    "role": "Software Engineer- Mainframe",
     "location": "Hopkins, MN",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Software-Engineer-2---React-and-Python-_2026-0019276",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Software-Engineer--Mainframe_2026-0019239",
     "age": "0d",
     "is_internship": false
   },
@@ -117,7 +150,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://boards.greenhouse.io/apptronik/jobs/5985132004?gh_jid=5985132004",
-    "age": "0d",
+    "age": "1d",
     "is_internship": true
   },
   {
@@ -128,105 +161,6 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/coherehealth/jobs/7787107003",
-    "age": "0d",
-    "is_internship": false
-  },
-  {
-    "id": 15641,
-    "company": "Intapp",
-    "role": "Software Engineer",
-    "location": "Charlotte, NC",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://intapp.wd1.myworkdayjobs.com/Intapp/job/Charlotte-NC/Software-Engineer_R2025119-1",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 19105,
-    "company": "Brigham Young University - Provo",
-    "role": "Software Engineer",
-    "location": "Provo, UT",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://byu.wd1.myworkdayjobs.com/byu-careers/job/Provo-UT/Software-Engineer_JR-10549-1",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 19106,
-    "company": "Brigham Young University",
-    "role": "Software Engineer",
-    "location": "Provo, UT",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://byu.wd1.myworkdayjobs.com/byu-careers/job/Provo-UT/Software-Engineer_JR-10549-1",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 19133,
-    "company": "Cigna Group",
-    "role": "Software Engineering Advisor \u2013 eviCore",
-    "location": "Franklin, TN",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Franklin-TN/Software-Engineering-Advisor---eviCore_26006638",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 17074,
-    "company": "Booz Allen",
-    "role": "Gaming Experience Full Stack Developer",
-    "location": "Washington, DC",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Gaming-Experience-Full-Stack-Developer_R0243512",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 17075,
-    "company": "Booz Allen",
-    "role": "Salesforce Software Developer",
-    "location": "McLean, VA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Salesforce-Software-Developer_R0243615",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 19281,
-    "company": "Hewlett Packard Enterprise",
-    "role": "Systems/Software Engineer II",
-    "location": "Chippewa Falls, Wisconsin, United States of America",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Chippewa-Falls-Wisconsin-United-States-of-America/Systems-Software-Engineer-II_1208245",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 17345,
-    "company": "Medtronic",
-    "role": "Quality Systems Specialist \u2013 Affera Software",
-    "location": "Mounds View, Minnesota, United States of America",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://medtronic.wd1.myworkdayjobs.com/RedeploymentMedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Quality-Systems-Specialist---Affera-Software_R70976",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 19440,
-    "company": "NVIDIA",
-    "role": "GPU Development Tools System Software Engineer",
-    "location": "US, CA, Santa Clara",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Development-Tools-System-Software-Engineer_JR2015871-1",
     "age": "1d",
     "is_internship": false
   },
@@ -264,6 +198,72 @@
     "is_internship": false
   },
   {
+    "id": 19281,
+    "company": "Hewlett Packard Enterprise",
+    "role": "Systems/Software Engineer II",
+    "location": "Chippewa Falls, Wisconsin, United States of America",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Chippewa-Falls-Wisconsin-United-States-of-America/Systems-Software-Engineer-II_1208245",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 17345,
+    "company": "Medtronic",
+    "role": "Quality Systems Specialist \u2013 Affera Software",
+    "location": "Mounds View, Minnesota, United States of America",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://medtronic.wd1.myworkdayjobs.com/RedeploymentMedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Quality-Systems-Specialist---Affera-Software_R70976",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 19105,
+    "company": "Brigham Young University - Provo",
+    "role": "Software Engineer",
+    "location": "Provo, UT",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://byu.wd1.myworkdayjobs.com/byu-careers/job/Provo-UT/Software-Engineer_JR-10549-1",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 19106,
+    "company": "Brigham Young University",
+    "role": "Software Engineer",
+    "location": "Provo, UT",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://byu.wd1.myworkdayjobs.com/byu-careers/job/Provo-UT/Software-Engineer_JR-10549-1",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 19440,
+    "company": "NVIDIA",
+    "role": "GPU Development Tools System Software Engineer",
+    "location": "US, CA, Santa Clara",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Development-Tools-System-Software-Engineer_JR2015871-1",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 17075,
+    "company": "Booz Allen",
+    "role": "Salesforce Software Developer",
+    "location": "McLean, VA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Salesforce-Software-Developer_R0243615",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
     "id": 19956,
     "company": "The Walt Disney Company",
     "role": "Software Engineer II",
@@ -275,6 +275,17 @@
     "is_internship": false
   },
   {
+    "id": 17074,
+    "company": "Booz Allen",
+    "role": "Gaming Experience Full Stack Developer",
+    "location": "Washington, DC",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Gaming-Experience-Full-Stack-Developer_R0243512",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
     "id": 19439,
     "company": "NVIDIA",
     "role": "Robotics Software Engineer - Robot Simulation and Benchmarking",
@@ -282,6 +293,28 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Robotics-Software-Engineer---Robot-Simulation-and-Benchmarking_JR2020637",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 19133,
+    "company": "Cigna Group",
+    "role": "Software Engineering Advisor \u2013 eviCore",
+    "location": "Franklin, TN",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Franklin-TN/Software-Engineering-Advisor---eviCore_26006638",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 15641,
+    "company": "Intapp",
+    "role": "Software Engineer",
+    "location": "Charlotte, NC",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://intapp.wd1.myworkdayjobs.com/Intapp/job/Charlotte-NC/Software-Engineer_R2025119-1",
     "age": "1d",
     "is_internship": false
   },
@@ -315,7 +348,7 @@
     "source": "Ashby",
     "status": "not_applied",
     "url": "https://jobs.ashbyhq.com/snowflake/8fab4433-4a3f-4a14-8dfe-d497702c4be4",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -326,7 +359,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/censys/jobs/8538086002",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -337,19 +370,8 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/censys/jobs/8500307002",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
-  },
-  {
-    "id": 2988,
-    "company": "IMC Trading",
-    "role": "Software Engineer Intern - Summer 2027",
-    "location": "Chicago, United States",
-    "source": "Greenhouse",
-    "status": "not_applied",
-    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101",
-    "age": "1d",
-    "is_internship": true
   },
   {
     "id": 2978,
@@ -359,7 +381,18 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101",
-    "age": "1d",
+    "age": "2d",
+    "is_internship": true
+  },
+  {
+    "id": 2988,
+    "company": "IMC Trading",
+    "role": "Software Engineer Intern - Summer 2027",
+    "location": "Chicago, United States",
+    "source": "Greenhouse",
+    "status": "not_applied",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101",
+    "age": "2d",
     "is_internship": true
   },
   {
@@ -396,6 +429,28 @@
     "is_internship": false
   },
   {
+    "id": 103,
+    "company": "Adtran",
+    "role": "Software Engineer I",
+    "location": "Atlanta, GA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://adtran.wd3.myworkdayjobs.com/ADTRAN/job/Atlanta-GA/Software-Engineer-I_R005699",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 104,
+    "company": "Adtran",
+    "role": "Software Engineer I",
+    "location": "Atlanta, GA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://adtran.wd3.myworkdayjobs.com/ADTRAN/job/Atlanta-GA/Software-Engineer-I_R005655-1",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
     "id": 116,
     "company": "Allstate Insurance Company",
     "role": "AI Software Engineer",
@@ -414,28 +469,6 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Manassas-United-States/Jr-Software-Development-Engineer-in-Test--SDET-_2026-15625",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 104,
-    "company": "Adtran",
-    "role": "Software Engineer I",
-    "location": "Atlanta, GA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://adtran.wd3.myworkdayjobs.com/ADTRAN/job/Atlanta-GA/Software-Engineer-I_R005655-1",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 103,
-    "company": "Adtran",
-    "role": "Software Engineer I",
-    "location": "Atlanta, GA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://adtran.wd3.myworkdayjobs.com/ADTRAN/job/Atlanta-GA/Software-Engineer-I_R005699",
     "age": "2d",
     "is_internship": false
   },
@@ -590,7 +623,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/doordashusa/jobs/5630454",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -601,7 +634,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/memx/jobs/4534911008",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -612,7 +645,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/heartflowinc/jobs/6098696004",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -623,7 +656,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/twilio/jobs/7661919",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -660,24 +693,24 @@
     "is_internship": false
   },
   {
-    "id": 1741,
-    "company": "Epiq Systems",
-    "role": "Software Engineer",
-    "location": "Overland Park, KS",
+    "id": 6420,
+    "company": "University of Wisconsin-Madison",
+    "role": "CRM Software Engineer",
+    "location": "Madison, WI",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://epiqsystems.wd503.myworkdayjobs.com/Epiq_Careers/job/Overland-Park-KS/AI-Software-Engineer_R0032144",
+    "url": "https://wisconsin.wd1.myworkdayjobs.com/UW_Madison/job/Madison-WI/CRM-Software-Engineer_JR10012523",
     "age": "3d",
     "is_internship": false
   },
   {
-    "id": 22220,
-    "company": "Fidelity National Information Services",
-    "role": "Managed Service Change Analyst Specialists: Site Reliability Engineer (SRE)",
-    "location": "US FL JAX 347",
+    "id": 17105,
+    "company": "ASML",
+    "role": "DUV FLS Production Engineer",
+    "location": "Wilton, CT, USA",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Managed-Service-Change-Analyst-Specialists--Site-Reliability-Engineer--SRE-_JR0307931",
+    "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/DUV-FLS-Production-Engineer_J-00346629",
     "age": "3d",
     "is_internship": false
   },
@@ -693,17 +726,6 @@
     "is_internship": false
   },
   {
-    "id": 6281,
-    "company": "The Walt Disney Company",
-    "role": "Software Engineer II",
-    "location": "Seattle, WA, USA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Seattle-WA-USA/Software-Engineer-II_10150525",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
     "id": 815,
     "company": "Carnegie Mellon University",
     "role": "Software Engineer",
@@ -715,13 +737,13 @@
     "is_internship": false
   },
   {
-    "id": 6420,
-    "company": "University of Wisconsin-Madison",
-    "role": "CRM Software Engineer",
-    "location": "Madison, WI",
+    "id": 1741,
+    "company": "Epiq Systems",
+    "role": "Software Engineer",
+    "location": "Overland Park, KS",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://wisconsin.wd1.myworkdayjobs.com/UW_Madison/job/Madison-WI/CRM-Software-Engineer_JR10012523",
+    "url": "https://epiqsystems.wd503.myworkdayjobs.com/Epiq_Careers/job/Overland-Park-KS/AI-Software-Engineer_R0032144",
     "age": "3d",
     "is_internship": false
   },
@@ -733,50 +755,6 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Mobile-Software-Engineer-Hybrid_2018217-1",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 2459,
-    "company": "Fidelity National Information Services",
-    "role": "DevOps Software Engineer Specialists",
-    "location": "US FL JAX 347",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/DevOps-Software-Engineer-Specialists_JR0307896",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 2576,
-    "company": "General Motors",
-    "role": "Software Design Release Engineer-Suspension",
-    "location": "Warren, Michigan, United States of America",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Software-Design-Release-Engineer-Suspension_JR-202605727",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 3571,
-    "company": "Mitsubishi UFG",
-    "role": "Investment Banking Analyst  - Software & Services",
-    "location": "Los Angeles, CA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Los-Angeles-CA/Intrepid-Analyst--Software---Services-_10077418-WD",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 3582,
-    "company": "MUFG",
-    "role": "Investment Banking Analyst  - Software & Services",
-    "location": "Los Angeles, CA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Los-Angeles-CA/Intrepid-Analyst--Software---Services-_10077418-WD",
     "age": "3d",
     "is_internship": false
   },
@@ -803,6 +781,39 @@
     "is_internship": false
   },
   {
+    "id": 2459,
+    "company": "Fidelity National Information Services",
+    "role": "DevOps Software Engineer Specialists",
+    "location": "US FL JAX 347",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/DevOps-Software-Engineer-Specialists_JR0307896",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 6281,
+    "company": "The Walt Disney Company",
+    "role": "Software Engineer II",
+    "location": "Seattle, WA, USA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Seattle-WA-USA/Software-Engineer-II_10150525",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 2576,
+    "company": "General Motors",
+    "role": "Software Design Release Engineer-Suspension",
+    "location": "Warren, Michigan, United States of America",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Software-Design-Release-Engineer-Suspension_JR-202605727",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
     "id": 95,
     "company": "Air Liquide",
     "role": "Software & Controls Engineer",
@@ -810,6 +821,39 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Chanhassen-MN---Manufacturing---AES/Software---Controls-Engineer_R10091817",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 3571,
+    "company": "Mitsubishi UFG",
+    "role": "Investment Banking Analyst  - Software & Services",
+    "location": "Los Angeles, CA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Los-Angeles-CA/Intrepid-Analyst--Software---Services-_10077418-WD",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 3582,
+    "company": "MUFG",
+    "role": "Investment Banking Analyst  - Software & Services",
+    "location": "Los Angeles, CA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Los-Angeles-CA/Intrepid-Analyst--Software---Services-_10077418-WD",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 22220,
+    "company": "Fidelity National Information Services",
+    "role": "Managed Service Change Analyst Specialists: Site Reliability Engineer (SRE)",
+    "location": "US FL JAX 347",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Managed-Service-Change-Analyst-Specialists--Site-Reliability-Engineer--SRE-_JR0307931",
     "age": "3d",
     "is_internship": false
   },
@@ -825,15 +869,15 @@
     "is_internship": false
   },
   {
-    "id": 17105,
-    "company": "ASML",
-    "role": "DUV FLS Production Engineer",
-    "location": "Wilton, CT, USA",
-    "source": "Workday",
+    "id": 6134,
+    "company": "Tenstorrent",
+    "role": "Software Intern - AI Compilers",
+    "location": "Austin, Texas, United States",
+    "source": "Greenhouse",
     "status": "not_applied",
-    "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/DUV-FLS-Production-Engineer_J-00346629",
+    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4968219007",
     "age": "3d",
-    "is_internship": false
+    "is_internship": true
   },
   {
     "id": 6133,
@@ -847,15 +891,15 @@
     "is_internship": true
   },
   {
-    "id": 6134,
-    "company": "Tenstorrent",
-    "role": "Software Intern - AI Compilers",
-    "location": "Austin, Texas, United States",
+    "id": 888,
+    "company": "Chime",
+    "role": "Software Engineer, MyPay",
+    "location": "San Francisco, CA, USA",
     "source": "Greenhouse",
     "status": "not_applied",
-    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4968219007",
+    "url": "https://boards.greenhouse.io/chime/jobs/8499450002?gh_jid=8499450002",
     "age": "3d",
-    "is_internship": true
+    "is_internship": false
   },
   {
     "id": 886,
@@ -865,17 +909,6 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://boards.greenhouse.io/chime/jobs/8433840002?gh_jid=8433840002",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 888,
-    "company": "Chime",
-    "role": "Software Engineer, MyPay",
-    "location": "San Francisco, CA, USA",
-    "source": "Greenhouse",
-    "status": "not_applied",
-    "url": "https://boards.greenhouse.io/chime/jobs/8499450002?gh_jid=8499450002",
     "age": "3d",
     "is_internship": false
   },
@@ -900,126 +933,5 @@
     "url": "https://job-boards.greenhouse.io/truveta/jobs/5659745004",
     "age": "3d",
     "is_internship": true
-  },
-  {
-    "id": 19414,
-    "company": "NiCE",
-    "role": "Software Engineer, Advanced Services",
-    "location": "USA - Sandy, UT",
-    "source": "Greenhouse",
-    "status": "not_applied",
-    "url": "https://boards.eu.greenhouse.io/nice/jobs/4893542101?gh_jid=4893542101",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 19412,
-    "company": "NICE",
-    "role": "Software Engineer, Advanced Services",
-    "location": "USA - Sandy, UT",
-    "source": "Greenhouse",
-    "status": "not_applied",
-    "url": "https://boards.eu.greenhouse.io/nice/jobs/4893542101?gh_jid=4893542101",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 6559,
-    "company": "xAI",
-    "role": "Software Engineer, Ads Product ",
-    "location": "Palo Alto, CA",
-    "source": "Greenhouse",
-    "status": "not_applied",
-    "url": "https://job-boards.greenhouse.io/xai/jobs/5152408007",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 6560,
-    "company": "xAI",
-    "role": "Software Engineer - Data",
-    "location": "Palo Alto, CA",
-    "source": "Greenhouse",
-    "status": "not_applied",
-    "url": "https://job-boards.greenhouse.io/xai/jobs/5124616007",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 17945,
-    "company": "xAI",
-    "role": "Backend Engineer - API",
-    "location": "Palo Alto, CA",
-    "source": "Greenhouse",
-    "status": "not_applied",
-    "url": "https://job-boards.greenhouse.io/xai/jobs/5119111007",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 6561,
-    "company": "xAI",
-    "role": "Software Engineer - Internal Tools",
-    "location": "Palo Alto, CA",
-    "source": "Greenhouse",
-    "status": "not_applied",
-    "url": "https://job-boards.greenhouse.io/xai/jobs/5052038007",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 6558,
-    "company": "xAI",
-    "role": "Exceptional Software Engineer",
-    "location": "Austin, TX; New York, NY; Palo Alto, CA; Seattle, WA",
-    "source": "Greenhouse",
-    "status": "not_applied",
-    "url": "https://job-boards.greenhouse.io/xai/jobs/4956028007",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 17947,
-    "company": "xAI",
-    "role": "Site Reliability Engineer - Cybersecurity",
-    "location": "Palo Alto, CA",
-    "source": "Greenhouse",
-    "status": "not_applied",
-    "url": "https://job-boards.greenhouse.io/xai/jobs/4803447007",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 6563,
-    "company": "xAI",
-    "role": "Software Engineer - Networking Software and Services",
-    "location": "Palo Alto, CA",
-    "source": "Greenhouse",
-    "status": "not_applied",
-    "url": "https://job-boards.greenhouse.io/xai/jobs/4946696007",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 2659,
-    "company": "GRVTY",
-    "role": "UX Software Engineer",
-    "location": "Cambridge, Massachusetts, United States",
-    "source": "Greenhouse",
-    "status": "not_applied",
-    "url": "https://job-boards.greenhouse.io/grvty/jobs/4297904009",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 4159,
-    "company": "Palantir",
-    "role": "Forward Deployed Software Engineer, New Grad - Commercial",
-    "location": "Chicago, IL",
-    "source": "Lever",
-    "status": "not_applied",
-    "url": "https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40",
-    "age": "3d",
-    "is_internship": false
   }
 ]
