@@ -1,6 +1,6 @@
 # Job Postings Report
 
-210 postings from the last 4 days.
+160 postings from the last 4 days.
 
 ## Internships (8)
 
@@ -11,14 +11,16 @@
 | IMC | Software Engineer Intern - Summer 2027 | Chicago, United States | Greenhouse | not_applied | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823924101) | 1d |
 | IMC Trading | Software Engineer Intern - Summer 2027 | Chicago, United States | Greenhouse | not_applied | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823924101) | 1d |
 | Palantir | Forward Deployed Software Engineer, Internship - Commercial | Chicago, IL | Lever | not_applied | [Apply](https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2) | 2d |
-| Tenstorrent | Software Intern - AI Compilers | Austin, Texas, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4968219007) | 3d |
 | Tenstorrent | Software Intern - AI Compilers | Santa Clara, California, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501189007) | 3d |
+| Tenstorrent | Software Intern - AI Compilers | Austin, Texas, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4968219007) | 3d |
 | Truveta | Software Engineering Intern | Seattle, WA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/truveta/jobs/5659745004) | 3d |
 
-## Full-Time (202)
+## Full-Time (152)
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
+| Zscaler | Software Development Engineer | San Jose, California, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5177411007) | 0d |
+| BigCommerce | Backend Software Engineer II (AI Specialization) | Austin, TX | Workday | not_applied | [Apply](https://bigcommerce.wd12.myworkdayjobs.com/Commerce/job/Austin-TX/Backend-Software-Engineer-II--AI-Specialization-_JR102782) | 0d |
 | Sierra | Software Engineer, Agent - Insurance | San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/Sierra/000618f7-e0d0-43dc-ae15-2b20d948852f) | 0d |
 | Sierra | Software Engineer, Agent - Financial Services | San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/Sierra/ab98160c-9918-483c-af74-310535448972) | 0d |
 | Zoox | Part-time Student Worker – Software Development Engineer in Test | Foster City, CA | Lever | not_applied | [Apply](https://jobs.lever.co/zoox/019b636a-23c9-4366-90fd-5a95ad9e5049) | 0d |
@@ -37,30 +39,30 @@
 | Scout Motors | Specialist, Production Engineer | Blythewood, SC | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/scoutmotors/jobs/5144260007) | 0d |
 | Verisign | Junior Software Engineer  | Reston,Virginia,United States | Greenhouse | applied | [Apply](https://job-boards.greenhouse.io/verisign/jobs/7766899003) | 1d |
 | Verisign | Software Engineer II | Reston,Virginia,United States | Greenhouse | applied | [Apply](https://job-boards.greenhouse.io/verisign/jobs/7765684003) | 1d |
-| NVIDIA | System Software Engineer, GPU Development Tools | US, CA, Santa Clara | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--GPU-Development-Tools_JR2016197) | 1d |
-| NVIDIA | System Software Engineer, GPU Development Tools | US, CA, Santa Clara | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--GPU-Development-Tools_JR2015188) | 1d |
-| NVIDIA | GPU Development Tools System Software Engineer | US, CA, Santa Clara | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Development-Tools-System-Software-Engineer_JR2015871-1) | 1d |
-| NVIDIA | Software Engineer, NVIDIA OpenShell | US, CA, Remote | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Software-Engineer--NVIDIA-OpenShell_JR2017604) | 1d |
-| NVIDIA | Software Engineer - DPU Platform | US, MA, Westford | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MA-Westford/Software-Engineer---DPU-Platform_JR2015949-1) | 1d |
-| Brown & Brown Insurance | Front End Adjuster | Dallas, TX, USA | Workday | dismissed | [Apply](https://bbinsurance.wd1.myworkdayjobs.com/Careers/job/Dallas-TX-USA/Front-End-Adjuster_R26_0000002129) | 1d |
 | Intapp | Software Engineer | Charlotte, NC | Workday | not_applied | [Apply](https://intapp.wd1.myworkdayjobs.com/Intapp/job/Charlotte-NC/Software-Engineer_R2025119-1) | 1d |
 | Brigham Young University - Provo | Software Engineer | Provo, UT | Workday | not_applied | [Apply](https://byu.wd1.myworkdayjobs.com/byu-careers/job/Provo-UT/Software-Engineer_JR-10549-1) | 1d |
 | Brigham Young University | Software Engineer | Provo, UT | Workday | not_applied | [Apply](https://byu.wd1.myworkdayjobs.com/byu-careers/job/Provo-UT/Software-Engineer_JR-10549-1) | 1d |
-| Micron Technology | Industrial Engineer, US Front-End Expansion Planning | Boise, ID - ID1 | Workday | not_applied | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/US-FE-Expansion-Planning-Engineer_JR95856) | 1d |
 | Cigna Group | Software Engineering Advisor – eviCore | Franklin, TN | Workday | not_applied | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Franklin-TN/Software-Engineering-Advisor---eviCore_26006638) | 1d |
 | Carrier Global | Site Reliability Engineer | GA18: 1150 Roberts Boulevard, Kennesaw, GA, 30144 USA | Workday | applied | [Apply](https://carrier.wd5.myworkdayjobs.com/jobs/job/GA18-1150-Roberts-Boulevard-Kennesaw-GA-30144-USA/Site-Reliability-Engineer_30206686) | 1d |
 | Booz Allen | Gaming Experience Full Stack Developer | Washington, DC | Workday | not_applied | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Gaming-Experience-Full-Stack-Developer_R0243512) | 1d |
 | Booz Allen | Salesforce Software Developer | McLean, VA | Workday | not_applied | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Salesforce-Software-Developer_R0243615) | 1d |
 | Hewlett Packard Enterprise | Systems/Software Engineer II | Chippewa Falls, Wisconsin, United States of America | Workday | not_applied | [Apply](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Chippewa-Falls-Wisconsin-United-States-of-America/Systems-Software-Engineer-II_1208245) | 1d |
-| MUFG | Software Engineer - Java Full Stack - Associate/AVP | Jersey City, NJ | Workday | dismissed | [Apply](https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Jersey-City-NJ/Software-Engineer---Java-Full-Stack---Associate-AVP_10074805-WD) | 1d |
 | Medtronic | Software Quality Engineer I | Mounds View, Minnesota, United States of America | Workday | applied | [Apply](https://medtronic.wd1.myworkdayjobs.com/RedeploymentMedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Software-Quality-Engineer-I_R71062) | 1d |
 | Mitsubishi UFG | Software Engineer - Java Full Stack - Associate/AVP | Jersey City, NJ | Workday | dismissed | [Apply](https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Jersey-City-NJ/Software-Engineer---Java-Full-Stack---Associate-AVP_10074805-WD) | 1d |
-| ASML | Wilton Factory Optics Fabrication Technician - CWW Back End Days | Wilton, CT, USA | Workday | dismissed | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Wilton-Factory-Optics-Fabrication-Technician---CWW-Back-End-Days_J-00346715-1) | 1d |
-| Citi | Full Stack Developer - Assistant Vice President | Tampa Florida United States | Workday | dismissed | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Digital-S-W-Eng-Sr-Analyst---Assistant-Vice-President_26940476) | 1d |
-| NVIDIA | Robotics Software Engineer - Robot Simulation and Benchmarking | US, CA, Santa Clara | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Robotics-Software-Engineer---Robot-Simulation-and-Benchmarking_JR2020637) | 1d |
 | Medtronic | Quality Systems Specialist – Affera Software | Mounds View, Minnesota, United States of America | Workday | not_applied | [Apply](https://medtronic.wd1.myworkdayjobs.com/RedeploymentMedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Quality-Systems-Specialist---Affera-Software_R70976) | 1d |
-| The Walt Disney Company | Software Engineer II | New York, NY, USA | Workday | not_applied | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Software-Engineer-II_10147340) | 1d |
+| NVIDIA | System Software Engineer, GPU Development Tools | US, CA, Santa Clara | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--GPU-Development-Tools_JR2016197) | 1d |
+| NVIDIA | System Software Engineer, GPU Development Tools | US, CA, Santa Clara | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--GPU-Development-Tools_JR2015188) | 1d |
+| NVIDIA | GPU Development Tools System Software Engineer | US, CA, Santa Clara | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Development-Tools-System-Software-Engineer_JR2015871-1) | 1d |
+| NVIDIA | Software Engineer, NVIDIA OpenShell | US, CA, Remote | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Software-Engineer--NVIDIA-OpenShell_JR2017604) | 1d |
+| NVIDIA | Software Engineer - DPU Platform | US, MA, Westford | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MA-Westford/Software-Engineer---DPU-Platform_JR2015949-1) | 1d |
 | Hewlett Packard Enterprise | Network Systems Software Development Engineer | Sunnyvale, California, United States of America | Workday | not_applied | [Apply](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Sunnyvale-California-United-States-of-America/Network-Systems-Software-Engineer_1206326) | 1d |
+| The Walt Disney Company | Software Engineer II | New York, NY, USA | Workday | not_applied | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Software-Engineer-II_10147340) | 1d |
+| NVIDIA | Robotics Software Engineer - Robot Simulation and Benchmarking | US, CA, Santa Clara | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Robotics-Software-Engineer---Robot-Simulation-and-Benchmarking_JR2020637) | 1d |
+| Brown & Brown Insurance | Front End Adjuster | Dallas, TX, USA | Workday | dismissed | [Apply](https://bbinsurance.wd1.myworkdayjobs.com/Careers/job/Dallas-TX-USA/Front-End-Adjuster_R26_0000002129) | 1d |
+| Citi | Full Stack Developer - Assistant Vice President | Tampa Florida United States | Workday | dismissed | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Digital-S-W-Eng-Sr-Analyst---Assistant-Vice-President_26940476) | 1d |
+| ASML | Wilton Factory Optics Fabrication Technician - CWW Back End Days | Wilton, CT, USA | Workday | dismissed | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Wilton-Factory-Optics-Fabrication-Technician---CWW-Back-End-Days_J-00346715-1) | 1d |
+| MUFG | Software Engineer - Java Full Stack - Associate/AVP | Jersey City, NJ | Workday | dismissed | [Apply](https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Jersey-City-NJ/Software-Engineer---Java-Full-Stack---Associate-AVP_10074805-WD) | 1d |
+| Micron Technology | Industrial Engineer, US Front-End Expansion Planning | Boise, ID - ID1 | Workday | not_applied | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/US-FE-Expansion-Planning-Engineer_JR95856) | 1d |
 | xAI | Software Engineer: Network (C++) | Palo Alto, CA; Seattle, WA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/xai/jobs/5178709007) | 1d |
 | Smartsheet | Software Engineer II - App Core (Remote Eligible) |  -REMOTE, USA- | Greenhouse | applied | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/8007934) | 1d |
 | MatX | Software Engineer - Compiler | Mountain View, CA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/matx/jobs/4003260008) | 1d |
@@ -81,31 +83,31 @@
 | The New York Times | Software Engineer, News Multimodal | New York, NY | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4693057005) | 1d |
 | The New York Times | Software Engineer - AI Platforms and Products (Frontend) | New York, NY | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4680447005) | 1d |
 | The New York Times | Software Engineer, Scoop Core | New York, NY | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4673616005) | 1d |
-| PlayStation | Software Engineer II (Java) | United States, Madison, WI | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5987690004) | 1d |
 | Sony Interactive Entertainment | Software Engineer II (Java) | United States, Madison, WI | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5987690004) | 1d |
+| PlayStation | Software Engineer II (Java) | United States, Madison, WI | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5987690004) | 1d |
 | Eataly | Front End Sales Associate / Cashier - Eataly Flatiron | New York, NY, us | SmartRecruiters | dismissed | [Apply](https://jobs.smartrecruiters.com/Eataly/744000135263828-front-end-sales-associate-cashier-eataly-flatiron) | 1d |
 | Twilio | Software Engineer (L1) | Remote - US | Greenhouse | applied | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7681338) | 1d |
 | Scout Motors | Specialist, Software Update and Validation Engineer | Blythewood, South Carolina, United States | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/scoutmotors/jobs/5141668007) | 1d |
 | Anduril | Software Engineer, Agent Platform | Washington, District of Columbia, United States | Greenhouse | dismissed | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5174717007?gh_jid=5174717007) | 1d |
 | Babel Street | Data Warehouse Software Engineer I | Remote - United States; Reston, VA, United States; Somerville, Massachusetts, United States | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/babelstreet/jobs/8030833) | 1d |
-| AppLovin | Backend Engineer, New Grad  | Palo Alto, CA | Greenhouse | applied | [Apply](https://boards.greenhouse.io/applovin/jobs/4451556006?gh_jid=4451556006) | 1d |
-| AppLovin | Backend Engineer II | Palo Alto, CA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/applovin/jobs/4375888006?gh_jid=4375888006) | 1d |
-| Mercury | Software Engineer - Product | San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6101145004) | 1d |
-| Chime | Software Engineer, Risk: Identity, Suspensions, & Closures | Chicago, IL, USA | Greenhouse | dismissed | [Apply](https://boards.greenhouse.io/chime/jobs/8604563002?gh_jid=8604563002) | 1d |
-| Xaira Therapeutics | Software Engineer, X-Scientist | South San Francisco, California, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xairatherapeutics/jobs/5161853007) | 1d |
-| Allstate Insurance Company | AI Software Engineer | USA - IL (Remote) | Workday | not_applied | [Apply](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---IL-Remote/AI-Software-Engineer_R32187-1) | 2d |
-| Rocket Companies | Software Developer II - Digital Marketing Engineering | Seattle, WA | Workday | not_applied | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Software-Developer-II---Digital-Marketing-Engineering_R-083617) | 2d |
-| Adtran | Software Engineer I | Atlanta, GA | Workday | not_applied | [Apply](https://adtran.wd3.myworkdayjobs.com/ADTRAN/job/Atlanta-GA/Software-Engineer-I_R005699) | 2d |
-| Signet Jewelers | Full Stack Developer (Remote) | Support Center - Akron, OH | Workday | not_applied | [Apply](https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Full-Stack-Developer--Remote-_REQ_81633) | 2d |
-| Signet Jewelers | Full Stack Developer (Remote) | Support Center - Akron, OH | Workday | dismissed | [Apply](https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Full-Stack-Developer--Remote-_REQ_81634) | 2d |
-| Rocket Mortgage | Software Developer II - Digital Marketing Engineering | Seattle, WA | Workday | not_applied | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Software-Developer-II---Digital-Marketing-Engineering_R-083617) | 2d |
-| Adtran | Software Engineer I | Atlanta, GA | Workday | not_applied | [Apply](https://adtran.wd3.myworkdayjobs.com/ADTRAN/job/Atlanta-GA/Software-Engineer-I_R005655-1) | 2d |
+| AppLovin | Backend Engineer, New Grad  | Palo Alto, CA | Greenhouse | applied | [Apply](https://boards.greenhouse.io/applovin/jobs/4451556006?gh_jid=4451556006) | 2d |
+| AppLovin | Backend Engineer II | Palo Alto, CA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/applovin/jobs/4375888006?gh_jid=4375888006) | 2d |
+| Mercury | Software Engineer - Product | San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6101145004) | 2d |
+| Chime | Software Engineer, Risk: Identity, Suspensions, & Closures | Chicago, IL, USA | Greenhouse | dismissed | [Apply](https://boards.greenhouse.io/chime/jobs/8604563002?gh_jid=8604563002) | 2d |
+| Xaira Therapeutics | Software Engineer, X-Scientist | South San Francisco, California, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xairatherapeutics/jobs/5161853007) | 2d |
+| ASML | Software Infrastructure Engineer, Build & Release | San Jose, CA, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/San-Jose-CA-USA/Software-Infrastructure-Engineer--Build---Release_J-00341067-1) | 2d |
 | Applied Materials | 2026 NCG - Software Engineer, BS/MS (Santa Clara, CA) | Santa Clara,CA | Workday | applied | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-NCG---Software-Engineer--BS-MS-_R2619063) | 2d |
 | Swift | Jr. Software Development Engineer in Test (SDET) | Manassas, United States | Workday | not_applied | [Apply](https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Manassas-United-States/Jr-Software-Development-Engineer-in-Test--SDET-_2026-15625) | 2d |
 | ASML | Optical Fabrication Technician CWW Back End Nights (6:00pm-6:00am Thursday- Saturday, every other Wednesday) - 15% Differential | Wilton, CT, USA | Workday | dismissed | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-CWW-Back-End-Nights--6-00pm-6-00am-Thursday--Saturday--every-other-Wednesday----15--Differential_J-00344516) | 2d |
-| ASML | Software Infrastructure Engineer, Build & Release | San Jose, CA, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/San-Jose-CA-USA/Software-Infrastructure-Engineer--Build---Release_J-00341067-1) | 2d |
+| Signet Jewelers | Full Stack Developer (Remote) | Support Center - Akron, OH | Workday | not_applied | [Apply](https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Full-Stack-Developer--Remote-_REQ_81633) | 2d |
+| Allstate Insurance Company | AI Software Engineer | USA - IL (Remote) | Workday | not_applied | [Apply](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---IL-Remote/AI-Software-Engineer_R32187-1) | 2d |
+| Adtran | Software Engineer I | Atlanta, GA | Workday | not_applied | [Apply](https://adtran.wd3.myworkdayjobs.com/ADTRAN/job/Atlanta-GA/Software-Engineer-I_R005699) | 2d |
+| Signet Jewelers | Full Stack Developer (Remote) | Support Center - Akron, OH | Workday | dismissed | [Apply](https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Full-Stack-Developer--Remote-_REQ_81634) | 2d |
+| Rocket Mortgage | Software Developer II - Digital Marketing Engineering | Seattle, WA | Workday | not_applied | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Software-Developer-II---Digital-Marketing-Engineering_R-083617) | 2d |
+| Rocket Companies | Software Developer II - Digital Marketing Engineering | Seattle, WA | Workday | not_applied | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Software-Developer-II---Digital-Marketing-Engineering_R-083617) | 2d |
 | Fidelity Investments | Full Stack Software Engineer (Typescript, Angular, Node.js, REST API) | Salt Lake City, UT | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/targeted/job/Salt-Lake-City-UT/Full-Stack-Software-Engineer--Typescript--Angular--Nodejs--REST-API-_2125855-1) | 2d |
 | Flex | Software Development Engineer | USA, TX, Austin | Workday | dismissed | [Apply](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Software-Development-Engineer_WD223318) | 2d |
+| Adtran | Software Engineer I | Atlanta, GA | Workday | not_applied | [Apply](https://adtran.wd3.myworkdayjobs.com/ADTRAN/job/Atlanta-GA/Software-Engineer-I_R005655-1) | 2d |
 | Cisco | Software Engineer | San Jose, California, US | Workday | not_applied | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer_2016728) | 2d |
 | Flextronics International | Software Development Engineer | USA, TX, Austin | Workday | not_applied | [Apply](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Software-Development-Engineer_WD223318) | 2d |
 | Gartner | Software Engineer (AWS/Kubernetes) - Cloud Center of Excellence | Irving, TX | Workday | not_applied | [Apply](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Software-Engineer--AWS-Kubernetes----Cloud-Center-of-Excellence_108616-1) | 2d |
@@ -120,29 +122,29 @@
 | Vestmark | Software Engineer | Boston, MA (Hybrid) | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/vestmark/jobs/8009953) | 2d |
 | Avride | Software Engineer – ML Platform | Austin, TX | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/avride/jobs/4205615009) | 2d |
 | Avride | C++ Software Engineer – Motion Planning | Austin, TX | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/avride/jobs/4013017009) | 2d |
+| The Walt Disney Company | Software Development Engineer in Test (SDET) | Remote Worker Location, USA | Workday | not_applied | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Remote-Worker-Location-USA/Software-Development-Engineer-in-Test--SDET-_10146997) | 3d |
+| Argonne National Laboratory | Assistant Software Engineer - Autonomous Discovery Platforms (MADSCi) | Lemont, IL USA | Workday | not_applied | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Assistant-Software-Engineer---Autonomous-Discovery-Platforms--MADSCi-_422848) | 3d |
+| Air Liquide | Software & Controls Engineer | Chanhassen, MN - Manufacturing - AES | Workday | not_applied | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Chanhassen-MN---Manufacturing---AES/Software---Controls-Engineer_R10091817) | 3d |
+| ASML | DUV FLS Production Engineer | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/DUV-FLS-Production-Engineer_J-00346629) | 3d |
+| Carnegie Mellon University | Software Engineer | Pittsburgh, PA | Workday | not_applied | [Apply](https://cmu.wd5.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Software-Engineer_2024794) | 3d |
+| Epiq Systems | Software Engineer | Overland Park, KS | Workday | not_applied | [Apply](https://epiqsystems.wd503.myworkdayjobs.com/Epiq_Careers/job/Overland-Park-KS/AI-Software-Engineer_R0032144) | 3d |
+| Cisco | Mobile Software Engineer Hybrid | RTP, North Carolina, US | Workday | not_applied | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Mobile-Software-Engineer-Hybrid_2018217-1) | 3d |
 | Fidelity National Information Services | Mainframe Software Engineer I | US GA CMH ONE RIVERFRONT | Workday | dismissed | [Apply](https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-GA-CMH-ONE-RIVERFRONT/Mainframe-Software-Engineer-I_JR0307488-1) | 3d |
 | Fidelity National Information Services | DevOps Software Engineer Specialists | US FL JAX 347 | Workday | not_applied | [Apply](https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/DevOps-Software-Engineer-Specialists_JR0307896) | 3d |
 | General Motors | Software Design Release Engineer-Suspension | Warren, Michigan, United States of America | Workday | not_applied | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Software-Design-Release-Engineer-Suspension_JR-202605727) | 3d |
-| ASML | DUV FLS Production Engineer | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/DUV-FLS-Production-Engineer_J-00346629) | 3d |
-| Argonne National Laboratory | Full Stack Materials Database Programmer for ML/AI Integration | Lemont, IL USA | Workday | not_applied | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Full-Stack-Materials-Database-Programmer-for-ML-AI-Integration_423031) | 3d |
 | Mitsubishi UFG | Investment Banking Analyst  - Software & Services | Los Angeles, CA | Workday | not_applied | [Apply](https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Los-Angeles-CA/Intrepid-Analyst--Software---Services-_10077418-WD) | 3d |
-| Air Liquide | Software & Controls Engineer | Chanhassen, MN - Manufacturing - AES | Workday | not_applied | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Chanhassen-MN---Manufacturing---AES/Software---Controls-Engineer_R10091817) | 3d |
-| Carnegie Mellon University | Software Engineer | Pittsburgh, PA | Workday | not_applied | [Apply](https://cmu.wd5.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Software-Engineer_2024794) | 3d |
-| TransPerfect | Software Developer (Sitecore) | US-Austin, TX | Workday | not_applied | [Apply](https://transperfect.wd5.myworkdayjobs.com/transperfect/job/US-Austin-TX/Software-Developer--Sitecore-_R2025-244189) | 3d |
-| PacificSource | Backend Software Developer I | Springfield, OR | Workday | applied | [Apply](https://pacificsource.wd5.myworkdayjobs.com/PacificSource/job/Springfield-OR/Backend-Software-Developer-I_2026-676) | 3d |
 | MUFG | Investment Banking Analyst  - Software & Services | Los Angeles, CA | Workday | not_applied | [Apply](https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Los-Angeles-CA/Intrepid-Analyst--Software---Services-_10077418-WD) | 3d |
-| Argonne National Laboratory | Assistant Software Engineer - Autonomous Discovery Platforms (MADSCi) | Lemont, IL USA | Workday | not_applied | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Assistant-Software-Engineer---Autonomous-Discovery-Platforms--MADSCi-_422848) | 3d |
-| The Walt Disney Company | Software Development Engineer in Test (SDET) | Remote Worker Location, USA | Workday | not_applied | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Remote-Worker-Location-USA/Software-Development-Engineer-in-Test--SDET-_10146997) | 3d |
-| Epiq Systems | Software Engineer | Overland Park, KS | Workday | not_applied | [Apply](https://epiqsystems.wd503.myworkdayjobs.com/Epiq_Careers/job/Overland-Park-KS/AI-Software-Engineer_R0032144) | 3d |
+| PacificSource | Backend Software Developer I | Springfield, OR | Workday | applied | [Apply](https://pacificsource.wd5.myworkdayjobs.com/PacificSource/job/Springfield-OR/Backend-Software-Developer-I_2026-676) | 3d |
+| Argonne National Laboratory | Full Stack Materials Database Programmer for ML/AI Integration | Lemont, IL USA | Workday | not_applied | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Full-Stack-Materials-Database-Programmer-for-ML-AI-Integration_423031) | 3d |
+| TransPerfect | Software Developer (Sitecore) | US-Austin, TX | Workday | not_applied | [Apply](https://transperfect.wd5.myworkdayjobs.com/transperfect/job/US-Austin-TX/Software-Developer--Sitecore-_R2025-244189) | 3d |
 | The Walt Disney Company | Software Engineer II | Seattle, WA, USA | Workday | not_applied | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Seattle-WA-USA/Software-Engineer-II_10150525) | 3d |
-| Cisco | Mobile Software Engineer Hybrid | RTP, North Carolina, US | Workday | not_applied | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Mobile-Software-Engineer-Hybrid_2018217-1) | 3d |
 | University of Wisconsin-Madison | CRM Software Engineer | Madison, WI | Workday | not_applied | [Apply](https://wisconsin.wd1.myworkdayjobs.com/UW_Madison/job/Madison-WI/CRM-Software-Engineer_JR10012523) | 3d |
-| Chime | Software Engineer, MyPay | San Francisco, CA, USA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/chime/jobs/8499450002?gh_jid=8499450002) | 3d |
 | Chime | Software Engineer, Instant Loans | San Francisco, CA, USA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/chime/jobs/8433840002?gh_jid=8433840002) | 3d |
 | Chime | Software Engineer, Credit Risk Platform | San Francisco, CA, USA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/chime/jobs/8219793002?gh_jid=8219793002) | 3d |
+| Chime | Software Engineer, MyPay | San Francisco, CA, USA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/chime/jobs/8499450002?gh_jid=8499450002) | 3d |
 | AbbVie | Manufacturing Software Controls Engineer | Cincinnati, OH, us | SmartRecruiters | dismissed | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990013846376-manufacturing-software-controls-engineer?oga=true) | 3d |
-| NiCE | Software Engineer, Advanced Services | USA - Sandy, UT | Greenhouse | not_applied | [Apply](https://boards.eu.greenhouse.io/nice/jobs/4893542101?gh_jid=4893542101) | 3d |
 | NICE | Software Engineer, Advanced Services | USA - Sandy, UT | Greenhouse | not_applied | [Apply](https://boards.eu.greenhouse.io/nice/jobs/4893542101?gh_jid=4893542101) | 3d |
+| NiCE | Software Engineer, Advanced Services | USA - Sandy, UT | Greenhouse | not_applied | [Apply](https://boards.eu.greenhouse.io/nice/jobs/4893542101?gh_jid=4893542101) | 3d |
 | Vercel | Software Engineer, Backend | Remote - United States | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/vercel/jobs/5430088004) | 3d |
 | DebtBook | Software Engineer | Charlotte, NC | Greenhouse | applied | [Apply](https://job-boards.greenhouse.io/debtbook/jobs/4710317005) | 3d |
 | xAI | Software Engineer, Ads Product  | Palo Alto, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/5152408007) | 3d |
@@ -155,70 +157,18 @@
 | Attain Partners | Software Engineer | United States - Remote | Greenhouse | applied | [Apply](https://job-boards.greenhouse.io/attainpartners/jobs/5284768008) | 3d |
 | PhysicsX | Forward Deployed Software Engineer | San Francisco, United States | Greenhouse | dismissed | [Apply](https://job-boards.eu.greenhouse.io/physicsx/jobs/4880930101) | 3d |
 | mthree | Site Reliability Engineer / Production Support Analyst | Salt Lake City, Utah, United States | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4687363006) | 3d |
+| mthree | Production Support/SRE Analyst | Houston, TX | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4617731006) | 3d |
+| mthree | Production Support/SRE Analyst | USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4616129006) | 3d |
+| mthree | Production Support/SRE Analyst | Salt Lake City, Utah, United States | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4589040006) | 3d |
 | mthree | Production Support/SRE Analyst | USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4609034006) | 3d |
 | mthree | Junior Software Engineer | USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4622899006) | 3d |
-| mthree | Production Support/SRE Analyst | USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4616129006) | 3d |
-| mthree | Production Support/SRE Analyst | Houston, TX | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4617731006) | 3d |
-| mthree | Production Support/SRE Analyst | Salt Lake City, Utah, United States | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4589040006) | 3d |
 | mthree | Production Support/SRE Analyst | USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374536006) | 3d |
-| mthree | Site Reliability Engineer / Production Support Analyst | USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374788006) | 3d |
-| mthree | Junior Software Engineer | USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4383912006) | 3d |
 | mthree | Junior Software Engineer | USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374589006) | 3d |
+| mthree | Junior Software Engineer | USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4383912006) | 3d |
 | mthree | Junior Software Engineer | USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374540006) | 3d |
+| mthree | Site Reliability Engineer / Production Support Analyst | USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374788006) | 3d |
 | mthree | Production Support/SRE Analyst | USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374341006) | 3d |
 | GRVTY | UX Software Engineer | Cambridge, Massachusetts, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/grvty/jobs/4297904009) | 3d |
 | Palantir | Forward Deployed Software Engineer, New Grad - Commercial | Chicago, IL | Lever | not_applied | [Apply](https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40) | 3d |
 | Wellmark | Associate Software Engineer - Member Experience Delivery (Open to hiring at the Software Engineer level) | Des Moines, IA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000134797351-associate-software-engineer-member-experience-delivery-open-to-hiring-at-the-software-engineer-level-?oga=true) | 3d |
-| Speechify | Software Engineer, iOS Core Product - Seattle, WA, USA | Seattle, WA, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981017004) | 3d |
-| Speechify | Software Engineer, iOS Core Product - Chicago, IL, USA | Chicago, IL, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981023004) | 3d |
-| Speechify | Software Engineer, iOS Core Product - Long Beach, CA, USA | Long Beach, CA, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981034004) | 3d |
-| Speechify | Software Engineer, iOS Core Product - Salt Lake City, UT, USA | Salt Lake City, UT, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981045004) | 3d |
-| Speechify | Software Engineer, iOS Core Product - San Jose, CA, USA | San Jose, CA, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981056004) | 3d |
-| Speechify | Software Engineer, iOS Core Product - Houston, TX, USA | Houston, TX, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981062004) | 3d |
-| Speechify | Software Engineer, iOS Core Product - Boulder, CO, USA | Boulder, CO, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981068004) | 3d |
-| Speechify | Software Engineer, iOS Core Product - Saint Paul, MN, USA | Saint Paul, MN, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981075004) | 3d |
-| Speechify | Software Engineer, iOS Core Product - Ann Arbor, MI, USA | Ann Arbor, MI, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981082004) | 3d |
-| Speechify | Software Engineer, iOS Core Product - Columbus, OH, USA | Columbus, OH, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981088004) | 3d |
-| Speechify | Software Engineer, iOS Core Product - Pasadena, CA, USA | Pasadena, CA, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981094004) | 3d |
-| Speechify | Software Engineer, iOS Core Product - St. Louis, MO, USA | St. Louis, MO, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981100004) | 3d |
-| Speechify | Software Engineer, iOS Core Product - Cambridge, MA, USA | Cambridge, MA, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981106004) | 3d |
-| Speechify | Software Engineer, iOS Core Product - Providence, RI, USA | Providence, RI, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981125004) | 3d |
-| Speechify | Software Engineer, iOS Core Product - Alexandria, VA, USA | Alexandria, VA, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981131004) | 3d |
-| Speechify | Software Engineer, iOS Core Product - Richmond, VA, USA | Richmond, VA, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981137004) | 3d |
-| Speechify | Software Engineer, iOS Core Product - Eugene, OR, USA | Eugene, OR, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981173004) | 3d |
-| Speechify | Software Engineer, iOS Core Product - Albuquerque, NM, USA | Albuquerque, NM, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981187004) | 3d |
-| Speechify | Software Engineer, iOS Core Product - Champaign, IL, USA | Champaign, IL, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981199004) | 3d |
-| Speechify | Software Engineer, iOS Core Product - New Orleans, LA, USA | New Orleans, LA, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981210004) | 3d |
-| Speechify | Software Engineer, iOS Core Product - West Palm Beach, FL, USA | West Palm Beach, FL, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981219004) | 3d |
-| Speechify | Software Engineer, iOS Core Product - Oklahoma City, OK, USA | Oklahoma City, OK, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981227004) | 3d |
-| Speechify | Software Engineer, iOS Core Product - Riverside, CA, USA | Riverside, CA, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981234004) | 3d |
-| Speechify | Software Engineer, iOS Core Product - Burlington, VT, USA | Burlington, VT, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981240004) | 3d |
-| Speechify | Software Engineer, iOS Core Product - Savannah, GA, USA | Savannah, GA, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981246004) | 3d |
-| Speechify | Software Engineer, iOS Core Product - Charleston, SC, USA | Charleston, SC, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981253004) | 3d |
-| Speechify | Software Engineer, Platform - San Francisco, CA, USA | San Francisco, CA, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5976208004) | 3d |
-| Speechify | Software Engineer, Platform - Bellevue, WA, USA | Bellevue, WA, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5976202004) | 3d |
-| Speechify | Software Engineer, Platform - Atlanta, GA, USA | Atlanta, GA, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5976196004) | 3d |
-| Speechify | Software Engineer, Platform - Oakland, CA, USA | Oakland, CA, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974121004) | 3d |
-| Speechify | Software Engineer, Platform - Santa Clara, CA, USA | Santa Clara, CA, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974128004) | 3d |
-| Speechify | Software Engineer, Platform - Long Beach, CA, USA | Long Beach, CA, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974136004) | 3d |
-| Speechify | Software Engineer, Platform - Tempe, AZ, USA | Tempe, AZ, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974143004) | 3d |
-| Speechify | Software Engineer, Platform - Bakersfield, CA, USA | Bakersfield, CA, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974146004) | 3d |
-| Speechify | Software Engineer, Platform - Austin, TX, USA | Austin, TX, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974147004) | 3d |
-| Speechify | Software Engineer, Platform - Houston, TX, USA | Houston, TX, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974157004) | 3d |
-| Speechify | Software Engineer, Platform - Bend, OR, USA | Bend, OR, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974164004) | 3d |
-| Speechify | Software Engineer, Platform - Fort Collins, CO, USA | Fort Collins, CO, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974176004) | 3d |
-| Speechify | Software Engineer, Platform - Madison, WI, USA | Madison, WI, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974181004) | 3d |
-| Speechify | Software Engineer, Platform - Columbus, OH, USA | Columbus, OH, USA | Greenhouse | applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974193004) | 3d |
-| Speechify | Software Engineer, Platform - Stony Brook, NY, USA | Stony Brook, NY, USA | Greenhouse | applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974196004) | 3d |
-| Speechify | Software Engineer, Platform - Providence, RI, USA | Providence, RI, USA | Greenhouse | applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974204004) | 3d |
-| Speechify | Software Engineer, Platform - Washington, DC, USA | Washington, DC, USA | Greenhouse | applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974208004) | 3d |
-| Speechify | Software Engineer, Platform - Omaha, NE, USA | Omaha, NE, USA | Greenhouse | applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974211004) | 3d |
-| Speechify | Software Engineer, Platform - Richmond, VA, USA | Richmond, VA, USA | Greenhouse | applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974216004) | 3d |
-| Speechify | Software Engineer, Platform - Newark, NJ, USA | Newark, NJ, USA | Greenhouse | applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974226004) | 3d |
-| Speechify | Software Engineer, Platform - Pittsburgh, PA, USA | Pittsburgh, PA, USA | Greenhouse | applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974234004) | 3d |
-| Speechify | Software Engineer, Platform - St. Petersburg, FL, USA | St. Petersburg, FL, USA | Greenhouse | applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974235004) | 3d |
-| Speechify | Software Engineer, Platform - Tulsa, OK, USA | Tulsa, OK, USA | Greenhouse | applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974245004) | 3d |
-| Speechify | Software Engineer, Platform - Chattanooga, TN, USA | Chattanooga, TN, USA | Greenhouse | applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974257004) | 3d |
-| Speechify | Software Engineer, Platform - Huntsville, AL, USA | Huntsville, AL, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974265004) | 3d |
-| Speechify | Software Engineer, Platform - New Orleans, LA, USA | New Orleans, LA, USA | Greenhouse | applied | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974267004) | 3d |
 
