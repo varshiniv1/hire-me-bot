@@ -337,7 +337,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7736776003",
-    "age": "1d",
+    "age": "2d",
     "is_internship": true
   },
   {
@@ -612,7 +612,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2",
-    "age": "2d",
+    "age": "3d",
     "is_internship": true
   },
   {
@@ -726,17 +726,6 @@
     "is_internship": false
   },
   {
-    "id": 815,
-    "company": "Carnegie Mellon University",
-    "role": "Software Engineer",
-    "location": "Pittsburgh, PA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://cmu.wd5.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Software-Engineer_2024794",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
     "id": 1741,
     "company": "Epiq Systems",
     "role": "Software Engineer",
@@ -770,17 +759,6 @@
     "is_internship": false
   },
   {
-    "id": 6283,
-    "company": "The Walt Disney Company",
-    "role": "Software Development Engineer in Test (SDET)",
-    "location": "Remote Worker Location, USA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Remote-Worker-Location-USA/Software-Development-Engineer-in-Test--SDET-_10146997",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
     "id": 2459,
     "company": "Fidelity National Information Services",
     "role": "DevOps Software Engineer Specialists",
@@ -788,6 +766,17 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/DevOps-Software-Engineer-Specialists_JR0307896",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 6283,
+    "company": "The Walt Disney Company",
+    "role": "Software Development Engineer in Test (SDET)",
+    "location": "Remote Worker Location, USA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Remote-Worker-Location-USA/Software-Development-Engineer-in-Test--SDET-_10146997",
     "age": "3d",
     "is_internship": false
   },
@@ -869,6 +858,17 @@
     "is_internship": false
   },
   {
+    "id": 815,
+    "company": "Carnegie Mellon University",
+    "role": "Software Engineer",
+    "location": "Pittsburgh, PA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://cmu.wd5.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Software-Engineer_2024794",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
     "id": 6134,
     "company": "Tenstorrent",
     "role": "Software Intern - AI Compilers",
@@ -902,17 +902,6 @@
     "is_internship": false
   },
   {
-    "id": 886,
-    "company": "Chime",
-    "role": "Software Engineer, Instant Loans",
-    "location": "San Francisco, CA, USA",
-    "source": "Greenhouse",
-    "status": "not_applied",
-    "url": "https://boards.greenhouse.io/chime/jobs/8433840002?gh_jid=8433840002",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
     "id": 882,
     "company": "Chime",
     "role": "Software Engineer, Credit Risk Platform",
@@ -924,14 +913,14 @@
     "is_internship": false
   },
   {
-    "id": 6276,
-    "company": "Truveta",
-    "role": "Software Engineering Intern",
-    "location": "Seattle, WA",
+    "id": 886,
+    "company": "Chime",
+    "role": "Software Engineer, Instant Loans",
+    "location": "San Francisco, CA, USA",
     "source": "Greenhouse",
     "status": "not_applied",
-    "url": "https://job-boards.greenhouse.io/truveta/jobs/5659745004",
+    "url": "https://boards.greenhouse.io/chime/jobs/8433840002?gh_jid=8433840002",
     "age": "3d",
-    "is_internship": true
+    "is_internship": false
   }
 ]
