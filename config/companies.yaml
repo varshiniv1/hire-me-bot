@@ -1265,6 +1265,9 @@
 - name: Blackstone
   source: workday
   token: blackstone/wd1/bx_external_site
+- name: Blackstone
+  source: workday
+  token: blackstone/wd1/Blackstone_Campus_Careers
 - name: blend360
   source: smartrecruiters
   token: Blend360
@@ -1760,6 +1763,9 @@
 - name: Castleton Commodities International
   source: workday
   token: osv-cci/wd1/en-US
+- name: Catalist
+  source: lever
+  token: catalist
 - name: Catapult
   source: greenhouse
   token: catapultsports
@@ -1853,6 +1859,9 @@
 - name: CGS Federal (Contact Government Services)
   source: lever
   token: cgsfederal
+- name: CGS Immersive
+  source: greenhouse
+  token: immersive
 - name: Chamberlain Group
   source: workday
   token: chamberlain/wd1/Chamberlain_Group
@@ -1952,6 +1961,9 @@
 - name: Cisco
   source: workday
   token: cisco/wd5/cisco_careers
+- name: Cision
+  source: greenhouse
+  token: cision
 - name: Cisive
   source: workday
   token: cisive/wd108/Cisive
@@ -2429,6 +2441,9 @@
 - name: CTEH
   source: workday
   token: montrose/wd1/cteh
+- name: CTGT
+  source: ashby
+  token: ctgt
 - name: CTI
   source: greenhouse
   token: cti
@@ -2750,6 +2765,9 @@
 - name: Dropbox
   source: greenhouse
   token: embed
+- name: Droyd Robotics
+  source: ashby
+  token: droyd
 - name: DRW
   source: greenhouse
   token: drweng
@@ -3473,6 +3491,9 @@
 - name: Fospha
   source: greenhouse
   token: fosphamarketing
+- name: FOTH
+  source: lever
+  token: foth
 - name: Found Energy
   source: greenhouse
   token: foundenergy
@@ -4421,6 +4442,9 @@
 - name: InfiniteQuant
   source: smartrecruiters
   token: InfiniteQuant
+- name: Inflection
+  source: greenhouse
+  token: inflectionai
 - name: Informa Group
   source: smartrecruiters
   token: InformaGroupPlc
@@ -4907,6 +4931,9 @@
 - name: kos.ai
   source: ashby
   token: kos.ai
+- name: Kpler
+  source: lever
+  token: kpler
 - name: Kraft Heinz
   source: workday
   token: heinz/wd1/KraftHeinz_Careers
@@ -5204,6 +5231,9 @@
 - name: Louisiana State University (LSU)
   source: workday
   token: lsu/wd1/lsuwaiver
+- name: Lovable
+  source: ashby
+  token: lovable
 - name: loveholidays
   source: ashby
   token: loveholidays
@@ -5459,6 +5489,9 @@
 - name: MatX
   source: greenhouse
   token: matx
+- name: Maven Clinic
+  source: greenhouse
+  token: mavenclinic
 - name: Maven Securities
   source: greenhouse
   token: emergingtalent
@@ -5504,6 +5537,9 @@
 - name: McKinney
   source: greenhouse
   token: jobsmckinneycom
+- name: McMaster-Carr
+  source: greenhouse
+  token: mcmastercarr
 - name: MECCA
   source: workday
   token: mecca/wd3/en-US
@@ -5519,6 +5555,9 @@
 - name: MedElite
   source: greenhouse
   token: medelitellc
+- name: Medical College of Wisconsin
+  source: workday
+  token: mcw/wd503/ExternalCareers
 - name: Medical Informatics Engineering
   source: greenhouse
   token: medicalinformaticsengineering
@@ -5579,6 +5618,9 @@
 - name: Merative
   source: workday
   token: merative/wd12/External_Career_Site
+- name: Merative
+  source: smartrecruiters
+  token: TruvenHealthAnalyticsanIBMCompany
 - name: Mercedes-Benz
   source: lever
   token: MBRDNA
@@ -5744,6 +5786,9 @@
 - name: Moloco
   source: greenhouse
   token: moloco
+- name: Moment Energy
+  source: greenhouse
+  token: momentenergy
 - name: Momentive
   source: workday
   token: momentive/wd1/MC
@@ -5786,6 +5831,9 @@
 - name: Moss
   source: ashby
   token: moss
+- name: Moss & Associates
+  source: workday
+  token: mosscm/wd1/moss_careers
 - name: Motorola
   source: workday
   token: motorolasolutions/wd5/Careers
@@ -5864,6 +5912,9 @@
 - name: Nash
   source: ashby
   token: Nash
+- name: Natera
+  source: greenhouse
+  token: natera
 - name: National Information Solutions Cooperative (NISC)
   source: greenhouse
   token: nisc
@@ -6794,6 +6845,9 @@
 - name: PredictX
   source: lever
   token: pibenchmark
+- name: Preference Model
+  source: ashby
+  token: Preference-Model
 - name: Premera Blue Cross
   source: workday
   token: premera/wd5/premera
@@ -7121,6 +7175,9 @@
 - name: Rehlko
   source: workday
   token: rehlko/wd12/Reh
+- name: Relation Therapeutics
+  source: ashby
+  token: relationrx
 - name: Relativity
   source: workday
   token: kcura/wd1/en-US
@@ -7244,6 +7301,9 @@
 - name: Rite Hite
   source: workday
   token: ritehite/wd12/RHH
+- name: Rivet Industries
+  source: ashby
+  token: rivet
 - name: Rivian and Volkswagen Group Technologies
   source: ashby
   token: rivianvw.tech
@@ -7274,6 +7334,9 @@
 - name: Rocket Companies
   source: workday
   token: quickenloans/wd5/rocket_careers
+- name: Rocket EMS
+  source: greenhouse
+  token: rocketems
 - name: Rocket Lab USA
   source: greenhouse
   token: rocketlab
@@ -7757,6 +7820,9 @@
 - name: SingleStore
   source: greenhouse
   token: singlestore
+- name: Sitreps
+  source: greenhouse
+  token: sitrepsllc
 - name: SitusAMC
   source: workday
   token: situsamc/wd1/SitusAMC
@@ -7946,12 +8012,18 @@
 - name: SpaceX
   source: greenhouse
   token: spacex
+- name: SPAICE Technology
+  source: ashby
+  token: spaice-tech
 - name: Span
   source: ashby
   token: span
 - name: Sparksoft
   source: greenhouse
   token: sparksoftcorporation
+- name: Specter
+  source: ashby
+  token: specter
 - name: SpecterOps
   source: greenhouse
   token: specterops
@@ -8075,6 +8147,9 @@
 - name: State of Nebraska
   source: workday
   token: son/wd108/NebraskaStateCareers
+- name: State of North Carolina
+  source: workday
+  token: nc/wd108/NC_Careers
 - name: State of Wisconsin Investment Board
   source: workday
   token: swib/wd12/en-US
@@ -8087,6 +8162,9 @@
 - name: SteerBridge
   source: lever
   token: steerbridge
+- name: STEM Healthcare
+  source: greenhouse
+  token: stemhealthcare
 - name: StepStone Group
   source: greenhouse
   token: embed
@@ -8648,6 +8726,9 @@
 - name: Toyota Research Institute
   source: lever
   token: tri
+- name: Traackr
+  source: lever
+  token: traackr
 - name: Trace3
   source: greenhouse
   token: trace3
@@ -8672,6 +8753,9 @@
 - name: Transcarent
   source: greenhouse
   token: transcarent
+- name: Transcend
+  source: greenhouse
+  token: transcendinc
 - name: TransMarket Group
   source: greenhouse
   token: transmarketgroup
@@ -9149,6 +9233,9 @@
 - name: Vermont Information Processing
   source: greenhouse
   token: vipvermontinformationprocessing2
+- name: Verne Robotics
+  source: ashby
+  token: Verne Robotics
 - name: Versapay
   source: lever
   token: versapay
@@ -9374,6 +9461,9 @@
 - name: WellSky
   source: workday
   token: wellsky/wd1/WellSkyCareers
+- name: Welo Global
+  source: lever
+  token: weloglobal
 - name: Welocalize
   source: workday
   token: welocalize/wd1/welocalize
