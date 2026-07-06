@@ -1,11 +1,23 @@
 # hire-me-bot
 
+[![Pipeline](https://github.com/varshiniv1/hire-me-bot/actions/workflows/pipeline.yml/badge.svg)](https://github.com/varshiniv1/hire-me-bot/actions/workflows/pipeline.yml)
+[![Stats](https://github.com/varshiniv1/hire-me-bot/actions/workflows/stats.yml/badge.svg)](https://github.com/varshiniv1/hire-me-bot/actions/workflows/stats.yml)
+![Python](https://img.shields.io/badge/python-3.11%2B-blue)
+
 A self-updating pipeline that watches company job boards for **SWE/SDE**
 internship and new-grad roles in the **USA**, dedupes them, and pushes a
 Discord notification for every fresh match -- grouped under Internships and
 Full-Time headers. Runs for free on GitHub Actions -- every 3 hours
-Tue/Wed/Thu, every 6 hours the rest of the week -- forever (see
-[Staying alive forever](#staying-alive-forever)).
+Tue/Wed/Thu, every 6 hours the rest of the week.
+
+## Contents
+
+- [What gets tracked](#what-gets-tracked)
+- [Setup](#setup)
+- [Running](#running)
+- [Notifications](#notifications)
+- [Tracking applications](#tracking-applications)
+- [Full status view](#full-status-view)
 
 Live pages (GitHub Pages, auto-updated every run):
 - **[Jobs browser](https://varshiniv1.github.io/hire-me-bot/jobs.html)** --
@@ -65,10 +77,11 @@ of every posting found (so git history itself is a timestamped record).
   authorization) are excluded, title or JD body
   (`src/hire_me_bot/filtering/citizenship.py`).
 - **Freshness**: postings are never deleted from the database, but only
-  ones posted within the last `NOTIFY_MAX_AGE_DAYS` (default 4) get
-  surfaced -- in Discord, `REPORT.md`, and the jobs browser. A listing
-  you're only now discovering that's 3 weeks old isn't actionable the way a
-  fresh one is.
+  recent ones get surfaced -- within `NOTIFY_MAX_AGE_DAYS` (default 6) for
+  Discord and `REPORT.md`, and within `JOBS_MAX_AGE_DAYS` (default 7) for
+  the jobs browser, which you check back on rather than getting pinged
+  from, so it can hold postings a little longer. A listing you're only now
+  discovering that's 3 weeks old isn't actionable the way a fresh one is.
 
 ## Setup
 
@@ -76,17 +89,13 @@ of every posting found (so git history itself is a timestamped record).
    in its SQL editor. Copy the project URL and **service role** key.
 2. Create a Discord channel and an [incoming webhook](https://support.discord.com/hc/en-us/articles/228383668)
    for it.
-3. (Optional for now -- see [Scoring](#scoring)) Have an Anthropic API key handy.
-4. Copy `.env.example` to `.env` and fill in `SUPABASE_URL`, `SUPABASE_KEY`,
-   `ANTHROPIC_API_KEY`, `DISCORD_WEBHOOK_URL`.
-5. `pip install -e ".[dev]"`
-6. Fill in [`config/profile.json`](config/profile.json) with your target role
-   type, tech stack, and location preferences -- this is what fit-scoring
-   uses once it's enabled.
-7. Seed your company list: `python scripts/seed_companies.py`. Hand-edit
+3. Copy `.env.example` to `.env` and fill in `SUPABASE_URL`, `SUPABASE_KEY`,
+   `DISCORD_WEBHOOK_URL`.
+4. `pip install -e ".[dev]"`
+5. Seed your company list: `python scripts/seed_companies.py`. Hand-edit
    [`config/companies.yaml`](config/companies.yaml) afterward to add/remove
    companies.
-8. Enable [GitHub Pages](https://docs.github.com/en/pages) for this repo,
+6. Enable [GitHub Pages](https://docs.github.com/en/pages) for this repo,
    serving from `main` / `/docs`, so the jobs browser and calendar go live.
 
 ## Running
@@ -95,7 +104,7 @@ of every posting found (so git history itself is a timestamped record).
 - Scheduled: [`.github/workflows/pipeline.yml`](.github/workflows/pipeline.yml)
   runs it every 3 hours Tue/Wed/Thu and every 6 hours the rest of the week
   (UTC) via GitHub Actions cron, plus supports manual
-  `workflow_dispatch`. Add the four secrets above to the repo's Actions
+  `workflow_dispatch`. Add the secrets above to the repo's Actions
   secrets for this to work in CI.
 - [`.github/workflows/stats.yml`](.github/workflows/stats.yml) regenerates
   the application-stats calendar data once a day.
@@ -111,18 +120,6 @@ Every run, Discord gets:
 
 Each job card is just the role/company (as the link), location, and how
 long ago it was posted -- no clutter.
-
-## Scoring
-
-Fit-scoring against `config/profile.json` via Claude is built
-(`src/hire_me_bot/scoring/`) but **disabled by default**
-(`SCORING_ENABLED=false`) -- the Anthropic API requires paid credits, which
-a Claude Pro/Max subscription doesn't cover. While disabled, every
-keyword-and-location-matched posting gets notified (no score gate) and
-`fit_score` stays null. Set `SCORING_ENABLED=true` (and fund the Anthropic
-account, or swap in a different provider in `scoring/claude_client.py`) to
-turn it back on -- notifications then only fire for postings scoring
-`>= FIT_SCORE_NOTIFY_THRESHOLD` (default 4).
 
 ## Tracking applications
 
@@ -150,12 +147,3 @@ scheduled run.
 `python scripts/generate_jobs_json.py` regenerates `docs/jobs.json`, which
 feeds the [jobs browser](https://varshiniv1.github.io/hire-me-bot/jobs.html)
 page.
-
-## Staying alive forever
-
-GitHub auto-disables scheduled workflows after 60 days with no repo
-activity. `stats.yml` runs daily and always commits a timestamp file
-(`docs/last_updated.txt`) regardless of whether anything else changed,
-which guarantees commit activity well under that threshold -- so both cron
-workflows keep running indefinitely without any manual upkeep. This repo is
-public, so GitHub Actions minutes are free and unlimited either way.

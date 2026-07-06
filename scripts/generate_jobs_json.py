@@ -1,10 +1,11 @@
 """Regenerates docs/jobs.json for the GitHub Pages job-browser page
 (docs/jobs.html) -- a styled, tabbed (Internships / Full-Time) table view,
 since a plain .md file can't render clickable Apply buttons the way a real
-webpage can. Same freshness window as Discord notifications and
-REPORT.md (settings.NOTIFY_MAX_AGE_DAYS), plus only postings you haven't already acted on -- once you
-mark something applied (via the page's button or track.py), it drops out
-here even if it's still within the freshness window."""
+webpage can. Uses its own, wider freshness window (settings.JOBS_MAX_AGE_DAYS)
+than Discord notifications and REPORT.md (settings.NOTIFY_MAX_AGE_DAYS),
+plus only postings you haven't already acted on -- once you mark something
+applied (via the page's button or track.py), it drops out here even if it's
+still within the freshness window."""
 
 import json
 
@@ -31,7 +32,7 @@ def _to_entry(posting: dict) -> dict:
 
 
 def main() -> None:
-    postings = postings_repo.get_recent_not_applied(settings.NOTIFY_MAX_AGE_DAYS)
+    postings = postings_repo.get_recent_not_applied(settings.JOBS_MAX_AGE_DAYS)
     entries = [_to_entry(p) for p in postings]
     JOBS_PATH.parent.mkdir(parents=True, exist_ok=True)
     with open(JOBS_PATH, "w", encoding="utf-8") as f:

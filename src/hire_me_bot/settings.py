@@ -28,7 +28,13 @@ FIT_SCORE_NOTIFY_THRESHOLD = int(os.environ.get("FIT_SCORE_NOTIFY_THRESHOLD", "4
 # with no posted_at (parse failure) is treated as unconfirmed-recency and
 # excluded from notification, same as an unrecognized location is excluded
 # from the USA filter -- still visible via report.py either way.
-NOTIFY_MAX_AGE_DAYS = int(os.environ.get("NOTIFY_MAX_AGE_DAYS", "4"))
+NOTIFY_MAX_AGE_DAYS = int(os.environ.get("NOTIFY_MAX_AGE_DAYS", "6"))
+
+# Separate, wider window for the jobs browser (docs/jobs.html) -- unlike
+# Discord/REPORT.md, which are about surfacing what's new, the browser is
+# something you check back on, so it can afford to hold postings a bit
+# longer before they age out.
+JOBS_MAX_AGE_DAYS = int(os.environ.get("JOBS_MAX_AGE_DAYS", "7"))
 
 # Postings whose JD states a minimum years-of-experience above this are
 # excluded (e.g. "3-5 years of experience" with this at 2) -- catches
