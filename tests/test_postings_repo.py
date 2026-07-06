@@ -142,6 +142,8 @@ class _FakeSelectQuery:
         return self
 
     def neq(self, col, val):
+        if self._log is not None:
+            self._log.append((col, val))
         return self
 
     def order(self, col, desc=False):
@@ -248,6 +250,16 @@ def test_get_applied_history_not_age_limited(monkeypatch):
     monkeypatch.setattr(postings_repo, "get_client", lambda: _FakeSelectClient([], log))
     postings_repo.get_applied_history()
     assert not any(entry[0] == "posted_at" for entry in log)
+
+
+def test_get_applied_history_excludes_dismissed(monkeypatch):
+    # Dismissed postings ("x" button on jobs.html) should never count as
+    # applied, or show up in the Applied tab at all.
+    log: list = []
+    monkeypatch.setattr(postings_repo, "get_client", lambda: _FakeSelectClient([], log))
+    postings_repo.get_applied_history()
+    status_filters = [val for col, val in log if col == "status"]
+    assert "dismissed" in status_filters
 
 
 def test_paginate_fetches_every_page_past_supabase_default_cap(monkeypatch):

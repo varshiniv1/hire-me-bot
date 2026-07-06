@@ -169,14 +169,21 @@ def get_recent_not_applied(max_age_days: int) -> list[dict]:
 
 
 def get_applied_history() -> list[dict]:
-    """Every posting you've acted on (status != 'not_applied'), newest
-    applied_at first -- backs the "Applied" tab on docs/jobs.html so you can
-    review what you applied to and when. Not age-limited, unlike
+    """Every posting you've actually applied to (status not in
+    'not_applied'/'dismissed'), newest applied_at first -- backs the
+    "Applied" tab on docs/jobs.html so you can review what you applied to
+    and when. Dismissed postings are hidden entirely, not just excluded
+    from counts -- clicking "x" should make a posting disappear for good,
+    not resurface it here. Not age-limited, unlike
     get_recent_not_applied/get_all_ordered -- your application history
     shouldn't quietly disappear just because a posting is old."""
     client = get_client()
     return _paginate(
-        lambda: client.table(TABLE).select("*").neq("status", "not_applied").order("applied_at", desc=True)
+        lambda: client.table(TABLE)
+        .select("*")
+        .neq("status", "not_applied")
+        .neq("status", "dismissed")
+        .order("applied_at", desc=True)
     )
 
 
