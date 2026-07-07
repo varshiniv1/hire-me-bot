@@ -1,5 +1,27 @@
 [
   {
+    "id": 40302,
+    "company": "Regions Bank",
+    "role": "Software Engineer - COBOL/Unix/Perl",
+    "location": "Hoover, AL - Riverchase Operations Center (Birmingham, AL)",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Software-Engineer---COBOL-Unix-Perl_R103593-1",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
+    "id": 40301,
+    "company": "Regions Bank",
+    "role": "Front-End React.js Engineer - DevSecOps",
+    "location": "Hoover, AL - Riverchase Operations Center (Birmingham, AL)",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Front-End-Reactjs-Engineer---DevSecOps_R104001",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
     "id": 39337,
     "company": "Snowflake",
     "role": "Software Engineer",
@@ -88,46 +110,35 @@
     "is_internship": false
   },
   {
-    "id": 38159,
-    "company": "NVIDIA",
-    "role": "Performance Engineer Intern, Systems Software-  Fall 2026",
-    "location": "US, MO, St. Louis",
+    "id": 40074,
+    "company": "Cisco",
+    "role": "Software Engineer, Solutions Engineering",
+    "location": "Milpitas, California, US",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779",
-    "age": "1d",
-    "is_internship": true
-  },
-  {
-    "id": 37934,
-    "company": "DXC Technology",
-    "role": "Front End Engineer",
-    "location": "USA - NY - ANY CITY",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/USA---NY---ANY-CITY/Front-End-Engineer_51584345",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Software-Engineer--Solutions-Engineering_2017148-1",
     "age": "1d",
     "is_internship": false
   },
   {
-    "id": 37043,
-    "company": "Hy-Vee",
-    "role": "Software Engineer II - Data",
-    "location": "Helpful Smiles Technology Center (HST), James Street, Grimes, IA",
+    "id": 39828,
+    "company": "Broadcom Limited",
+    "role": "Software Engineer",
+    "location": "USA-CA - Promontory B",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Helpful-Smiles-Technology-Center-HST-James-Street-Grimes-IA/Software-Engineer-II---Data_R239712",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA---Promontory-B/Software-Engineer_R025847",
     "age": "1d",
     "is_internship": false
   },
   {
-    "id": 35713,
-    "company": "U.S. Bank",
-    "role": "Software Engineer - Salesforce Development (Multiple openings) in McLean, VA.",
-    "location": "McLean, VA",
+    "id": 40073,
+    "company": "Cisco",
+    "role": "Software Engineer",
+    "location": "RTP, North Carolina, US",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/McLean-VA/Software-Engineer---Salesforce-Development--Multiple-openings--in-McLean--VA_2026-0019282",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Engineer_2007035",
     "age": "1d",
     "is_internship": false
   },
@@ -139,17 +150,6 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer---AI-Research-Clusters_JR2017905",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 38852,
-    "company": "ASML",
-    "role": "Manufacturing Software Engineer",
-    "location": "San Diego, CA, USA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/San-Diego-CA-USA/Manufacturing-Software-Engineer_J-00346633-1",
     "age": "1d",
     "is_internship": false
   },
@@ -172,6 +172,105 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer-AV-HIL-Platform-and-Services--University-Grad-_JR-202604577",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 35713,
+    "company": "U.S. Bank",
+    "role": "Software Engineer - Salesforce Development (Multiple openings) in McLean, VA.",
+    "location": "McLean, VA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/McLean-VA/Software-Engineer---Salesforce-Development--Multiple-openings--in-McLean--VA_2026-0019282",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 37043,
+    "company": "Hy-Vee",
+    "role": "Software Engineer II - Data",
+    "location": "Helpful Smiles Technology Center (HST), James Street, Grimes, IA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Helpful-Smiles-Technology-Center-HST-James-Street-Grimes-IA/Software-Engineer-II---Data_R239712",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 37934,
+    "company": "DXC Technology",
+    "role": "Front End Engineer",
+    "location": "USA - NY - ANY CITY",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/USA---NY---ANY-CITY/Front-End-Engineer_51584345",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 38159,
+    "company": "NVIDIA",
+    "role": "Performance Engineer Intern, Systems Software-  Fall 2026",
+    "location": "US, MO, St. Louis",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779",
+    "age": "1d",
+    "is_internship": true
+  },
+  {
+    "id": 40123,
+    "company": "Motorola",
+    "role": "Software Engineer",
+    "location": "West Valley City, UT",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/West-Valley-City-UT/Software-Engineer_R66421-1",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 40072,
+    "company": "Cisco",
+    "role": "Software Engineer II (Full Time) \u2013 Devices Technology Group \u2013 United States",
+    "location": "RTP, North Carolina, US",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Engineer-II--Full-Time----Devices-Technology-Group---United-States_2011259",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 40070,
+    "company": "Cisco",
+    "role": "Software Engineer, Backend",
+    "location": "San Francisco, California, US",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Francisco-California-US/Software-Engineer--Backend_2016066-1",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 38852,
+    "company": "ASML",
+    "role": "Manufacturing Software Engineer",
+    "location": "San Diego, CA, USA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/San-Diego-CA-USA/Manufacturing-Software-Engineer_J-00346633-1",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 40069,
+    "company": "Cisco",
+    "role": "Software Engineer",
+    "location": "Milpitas, California, US",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Software-Engineer_2007184-1",
     "age": "1d",
     "is_internship": false
   },
@@ -403,7 +502,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://boards.greenhouse.io/applovin/jobs/4375888006?gh_jid=4375888006",
-    "age": "5d",
+    "age": "6d",
     "is_internship": false
   },
   {
@@ -414,7 +513,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5161853007",
-    "age": "5d",
+    "age": "6d",
     "is_internship": false
   },
   {
