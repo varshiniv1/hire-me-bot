@@ -104,9 +104,16 @@ _EXCLUSION_RE = re.compile("|".join(EXCLUSION_TERMS), re.IGNORECASE)
 # Subset of CAREER_STAGE_TERMS that specifically signals an internship/co-op
 # (as opposed to "new grad"/"entry level", which are full-time framing) --
 # used to split postings into Internships vs Full-Time for reporting.
+# Apprenticeship/Fellowship/Residency are grad-friendly functional
+# equivalents some companies use instead of "internship" -- bucketed the
+# same way (e.g. "Software Engineering Residency", "Engineering
+# Fellowship").
 _INTERNSHIP_TERMS = [
     r"\bintern(?:ship)?s?\b",
     r"\bco[- ]?op\b",
+    r"\bapprentice(?:ship)?s?\b",
+    r"\bfellow(?:ship)?s?\b",
+    r"\bresidency\b",
 ]
 _INTERNSHIP_RE = re.compile("|".join(_INTERNSHIP_TERMS), re.IGNORECASE)
 

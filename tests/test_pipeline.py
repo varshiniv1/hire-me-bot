@@ -168,6 +168,85 @@ def test_citizenship_required_postings_are_filtered_out(monkeypatch):
     assert result[0].external_id == "1"
 
 
+def test_current_enrollment_required_postings_are_filtered_out(monkeypatch):
+    postings = [
+        Posting(
+            "greenhouse", "Acme", "1", "Software Engineer Intern", "Austin, TX", "https://x/1",
+            "Great opportunity for students.", None,
+        ),
+        Posting(
+            "greenhouse", "Acme", "2", "Software Engineer Intern", "Austin, TX", "https://x/2",
+            "Must be currently enrolled and returning to school after the internship.", None,
+        ),
+        Posting(
+            "greenhouse", "Acme", "3", "Software Engineer Intern", "Austin, TX", "https://x/3",
+            "Expected graduation date: December 2027.", None,
+        ),
+    ]
+
+    class FakeConnector:
+        def __init__(self, company, token):
+            pass
+
+        def __enter__(self):
+            return self
+
+        def __exit__(self, *a):
+            pass
+
+        def fetch(self):
+            return postings
+
+    monkeypatch.setitem(pipeline.CONNECTOR_CLASSES, "greenhouse", FakeConnector)
+    company = {"name": "Acme", "source": "greenhouse", "token": "acme"}
+
+    result = pipeline._fetch_company(company)
+
+    assert len(result) == 1
+    assert result[0].external_id == "1"
+
+
+def test_summer_locked_internships_are_filtered_out(monkeypatch):
+    postings = [
+        Posting(
+            "greenhouse", "Acme", "1", "Software Engineering Intern - Off-Cycle", "Austin, TX",
+            "https://x/1", "desc", None,
+        ),
+        Posting(
+            "greenhouse", "Acme", "2", "Software Engineering Intern - Summer 2026", "Austin, TX",
+            "https://x/2", "desc", None,
+        ),
+        Posting(
+            "greenhouse", "Acme", "3", "Software Engineering Summer Intern", "Austin, TX",
+            "https://x/3", "desc", None,
+        ),
+        Posting(
+            "greenhouse", "Acme", "4", "Software Engineer II", "Austin, TX",
+            "https://x/4", "This role runs a summer hackathon every year.", None,
+        ),
+    ]
+
+    class FakeConnector:
+        def __init__(self, company, token):
+            pass
+
+        def __enter__(self):
+            return self
+
+        def __exit__(self, *a):
+            pass
+
+        def fetch(self):
+            return postings
+
+    monkeypatch.setitem(pipeline.CONNECTOR_CLASSES, "greenhouse", FakeConnector)
+    company = {"name": "Acme", "source": "greenhouse", "token": "acme"}
+
+    result = pipeline._fetch_company(company)
+
+    assert {p.external_id for p in result} == {"1", "4"}
+
+
 def test_too_much_experience_postings_are_filtered_out(monkeypatch):
     postings = [
         Posting(

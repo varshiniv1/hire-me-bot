@@ -21,12 +21,18 @@ logger = logging.getLogger(__name__)
 
 API_HOST = "jsearch.p.rapidapi.com"
 
-# Kept short deliberately -- 8 queries x 10 runs/month (every 3 days) = 80
+# Kept short deliberately -- 11 queries x 10 runs/month (every 3 days) = 110
 # requests, well under the 200/month free-tier cap with room to grow.
 # Precise role-type/seniority/experience/clearance/citizenship filtering
 # happens afterward via pipeline.passes_all_filters, the exact same filters
 # the ATS connectors use -- these queries just need to cast a reasonably
 # relevant net, not be exhaustive.
+#
+# The last 3 target off-cycle/grad-friendly internships specifically --
+# Big Tech's ATS boards (covered by the 6 direct connectors) are almost
+# entirely locked to the summer academic-calendar pipeline, but smaller/
+# mid-size companies posting off-cycle programs are more likely to show up
+# via a search aggregator like this than a direct connector.
 SEARCH_QUERIES = [
     "software engineer new grad",
     "software engineer entry level",
@@ -36,6 +42,9 @@ SEARCH_QUERIES = [
     "site reliability engineer new grad",
     "software engineering internship",
     "software engineering co-op",
+    "software engineering off-cycle internship",
+    "software engineering internship recent graduate",
+    "software engineering fellowship",
 ]
 
 

@@ -76,6 +76,21 @@ of every posting found (so git history itself is a timestamped record).
 - **Citizenship**: postings requiring U.S. citizenship (not just work
   authorization) are excluded, title or JD body
   (`src/hire_me_bot/filtering/citizenship.py`).
+- **Current enrollment**: postings requiring current student status --
+  "currently enrolled", "enrolled student(s)", "must return/returning to
+  school/campus", "expected graduation" (any date -- a graduated candidate
+  has none to give), "currently pursuing a degree" -- are excluded, title or
+  JD body (`src/hire_me_bot/filtering/enrollment.py`).
+- **Summer-cycle internships**: traditional summer academic-calendar
+  internships (recruit ~6-9 months out, aimed at students returning to
+  campus after) are excluded -- an explicit "Summer 2026"/"Summer 2027"/...
+  tag, or a bare "Summer Intern(ship)" mention with no year, title or JD
+  body. Off-cycle/Fall/Winter/Immediate-Start/Rolling/Year-round internships
+  are unaffected (`src/hire_me_bot/filtering/academic_calendar.py`).
+  Apprenticeship/Fellowship/Residency postings (grad-friendly functional
+  equivalents some companies use instead of "internship") are recognized as
+  internships for Internships/Full-Time bucketing
+  (`src/hire_me_bot/filtering/keywords.py`).
 - **Freshness**: postings are never deleted from the database, but only
   recent ones get surfaced -- within `NOTIFY_MAX_AGE_DAYS` (default 6) for
   Discord and `REPORT.md`, and within `JOBS_MAX_AGE_DAYS` (default 7) for

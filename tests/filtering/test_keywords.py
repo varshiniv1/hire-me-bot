@@ -147,3 +147,13 @@ def test_is_internship_title():
     assert not is_internship_title("New Grad Software Engineer")
     assert not is_internship_title("Software Engineer I")
     assert not is_internship_title("")
+
+
+def test_is_internship_title_recognizes_grad_friendly_synonyms():
+    # Apprenticeship/Fellowship/Residency are functional equivalents some
+    # companies use instead of "internship" for grad-friendly programs.
+    assert is_internship_title("Software Engineering Apprenticeship")
+    assert is_internship_title("Software Engineer Apprentice")
+    assert is_internship_title("Engineering Fellowship")
+    assert is_internship_title("Software Engineering Fellow")
+    assert is_internship_title("Software Engineering Residency")

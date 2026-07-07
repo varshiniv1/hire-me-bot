@@ -15,10 +15,12 @@ from hire_me_bot.connectors.recruitee import RecruiteeConnector
 from hire_me_bot.connectors.smartrecruiters import SmartRecruitersConnector
 from hire_me_bot.connectors.workday import WorkdayConnector
 from hire_me_bot.db import postings_repo
+from hire_me_bot.filtering.academic_calendar import is_summer_locked
 from hire_me_bot.filtering.citizenship import requires_citizenship
 from hire_me_bot.filtering.clearance import requires_clearance
+from hire_me_bot.filtering.enrollment import requires_current_enrollment
 from hire_me_bot.filtering.experience import requires_too_much_experience
-from hire_me_bot.filtering.keywords import passes_keyword_filter
+from hire_me_bot.filtering.keywords import is_internship_title, passes_keyword_filter
 from hire_me_bot.filtering.location import is_usa_location
 from hire_me_bot.notify import discord
 from hire_me_bot.scoring.scorer import score_new_postings
@@ -61,6 +63,13 @@ def passes_all_filters(posting: Posting) -> bool:
             return False
         if requires_too_much_experience(text, settings.MAX_YEARS_EXPERIENCE):
             return False
+        if requires_current_enrollment(text):
+            return False
+    # Off-cycle/Fall/Winter/rolling internships (and full-time postings,
+    # which this never matches) are unaffected -- only the traditional
+    # summer academic-calendar cycle is excluded, see filtering/academic_calendar.py.
+    if is_internship_title(posting.title) and is_summer_locked(posting.title, posting.description):
+        return False
     return True
 
 
