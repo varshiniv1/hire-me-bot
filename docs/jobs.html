@@ -76,6 +76,57 @@
   .age { color: #8b949e; white-space: nowrap; }
   #empty { color: #8b949e; padding: 1rem 0; display: none; }
   #count { color: #8b949e; font-size: 0.85rem; margin-bottom: 0.5rem; }
+
+  .ext-btn {
+    background: #161b22;
+    border: 1px solid #30363d;
+    color: #58a6ff;
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    font-family: inherit;
+    margin-left: auto;
+  }
+  .ext-btn:hover { background: #21262d; }
+
+  #external-form {
+    display: none;
+    gap: 0.5rem;
+    align-items: center;
+    flex-wrap: wrap;
+    background: #161b22;
+    border: 1px solid #30363d;
+    border-radius: 6px;
+    padding: 0.75rem;
+    margin-bottom: 1rem;
+  }
+  #external-form input {
+    background: #0d1117;
+    border: 1px solid #30363d;
+    color: #c9d1d9;
+    padding: 0.4rem 0.6rem;
+    border-radius: 6px;
+    font-size: 0.85rem;
+    font-family: inherit;
+  }
+  #ext-company, #ext-title { flex: 1 1 160px; }
+  #ext-url { flex: 2 1 240px; }
+  #ext-source { flex: 1 1 130px; }
+  #ext-submit, #ext-cancel {
+    border-radius: 6px;
+    padding: 0.4rem 0.8rem;
+    font-size: 0.85rem;
+    cursor: pointer;
+    border: 1px solid #30363d;
+    font-family: inherit;
+  }
+  #ext-submit { background: #238636; color: #fff; border-color: #238636; }
+  #ext-submit:hover { background: #2ea043; }
+  #ext-submit:disabled { opacity: 0.6; cursor: default; }
+  #ext-cancel { background: #21262d; color: #c9d1d9; }
+  #ext-cancel:hover { background: #30363d; }
+  #ext-error { color: #f85149; font-size: 0.85rem; width: 100%; }
 </style>
 </head>
 <body>
@@ -85,12 +136,24 @@
     Everything found in the last few days you haven't applied to yet, split by Internships vs Full-Time.
     Click "Applied" once you've submitted -- it won't show up here again, but you can review it (and the date) under the Applied tab.
     Click "&times;" to permanently hide an irrelevant posting.
+    Click "+ External" to record something you applied to outside this list (e.g. found directly on Indeed) straight into the Applied tab.
   </div>
 
   <div id="tabs">
     <button class="tab-button active" data-tab="internship">Internships</button>
     <button class="tab-button" data-tab="fulltime">Full-Time</button>
     <button class="tab-button" data-tab="applied">Applied</button>
+    <button id="external-toggle" class="ext-btn" type="button">+ External</button>
+  </div>
+
+  <div id="external-form">
+    <input id="ext-company" placeholder="Company" />
+    <input id="ext-title" placeholder="Title" />
+    <input id="ext-url" placeholder="Link (URL)" />
+    <input id="ext-source" placeholder="Source (optional)" />
+    <button id="ext-submit" type="button">Applied</button>
+    <button id="ext-cancel" type="button">Cancel</button>
+    <div id="ext-error"></div>
   </div>
 
   <div id="count"></div>
@@ -104,10 +167,12 @@
 
 <script>
 // The anon/public key is meant to be embedded in client-side code like this
-// (that's what it's for) -- it's locked down server-side via a Postgres
-// policy + column grant that only allows setting status/applied_at, nothing
-// else (see sql/schema.sql). It is NOT the service_role key, which stays
-// server-side only in GitHub Actions secrets and is never exposed here.
+// (that's what it's for) -- it's locked down server-side via Postgres
+// policies + column grants that only allow updating status/applied_at, or
+// inserting a brand-new row that's already status='applied' (the "+
+// External" form below), nothing else (see sql/schema.sql). It is NOT the
+// service_role key, which stays server-side only in GitHub Actions secrets
+// and is never exposed here.
 const SUPABASE_URL = 'https://lyadqbhufusevbikviyh.supabase.co';
 const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imx5YWRxYmh1ZnVzZXZiaWt2aXloIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODI5NDAzOTIsImV4cCI6MjA5ODUxNjM5Mn0.O2BXhBYA2aJEvtJ_m2GA_S6R2jbpasKK-u0wfcO3rq8';
 
@@ -300,6 +365,111 @@ function escapeHtml(text) {
   const div = document.createElement('div');
   div.textContent = text == null ? '' : String(text);
   return div.innerHTML;
+}
+
+function resetExternalForm() {
+  document.getElementById('ext-company').value = '';
+  document.getElementById('ext-title').value = '';
+  document.getElementById('ext-url').value = '';
+  document.getElementById('ext-source').value = '';
+  document.getElementById('ext-error').textContent = '';
+}
+
+document.getElementById('external-toggle').addEventListener('click', () => {
+  const form = document.getElementById('external-form');
+  const showing = form.style.display === 'flex';
+  form.style.display = showing ? 'none' : 'flex';
+  if (!showing) document.getElementById('ext-company').focus();
+});
+
+document.getElementById('ext-cancel').addEventListener('click', () => {
+  document.getElementById('external-form').style.display = 'none';
+  resetExternalForm();
+});
+
+document.getElementById('ext-submit').addEventListener('click', addExternalApplied);
+
+async function addExternalApplied() {
+  const company = document.getElementById('ext-company').value.trim();
+  const title = document.getElementById('ext-title').value.trim();
+  const url = document.getElementById('ext-url').value.trim();
+  const source = document.getElementById('ext-source').value.trim() || 'manual';
+  const errorEl = document.getElementById('ext-error');
+  errorEl.textContent = '';
+
+  if (!company || !title || !url) {
+    errorEl.textContent = 'Company, title, and link are all required.';
+    return;
+  }
+
+  const submitBtn = document.getElementById('ext-submit');
+  submitBtn.disabled = true;
+  submitBtn.textContent = 'Adding...';
+
+  try {
+    // external_id is the url itself -- there's no ATS-assigned id for
+    // something that never went through a connector, and it doubles as the
+    // dedup key (same source+company+external_id constraint upsert_postings
+    // relies on) so pasting the same link twice fails loudly instead of
+    // silently duplicating.
+    const resp = await fetch(`${SUPABASE_URL}/rest/v1/postings`, {
+      method: 'POST',
+      headers: {
+        'apikey': SUPABASE_ANON_KEY,
+        'Authorization': `Bearer ${SUPABASE_ANON_KEY}`,
+        'Content-Type': 'application/json',
+        'Prefer': 'return=representation',
+      },
+      body: JSON.stringify({
+        source,
+        company,
+        external_id: url,
+        title,
+        location: null,
+        url,
+        description: '',
+        posted_at: null,
+        status: 'applied',
+        applied_at: new Date().toISOString(),
+      }),
+    });
+
+    if (resp.status === 409) {
+      errorEl.textContent = 'Already added -- that company/link is already on record.';
+      return;
+    }
+    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+
+    const inserted = await resp.json();
+    const row = Array.isArray(inserted) ? inserted[0] : inserted;
+
+    appliedJobs = [
+      {
+        id: row.id,
+        company,
+        role: title,
+        location: '-',
+        source,
+        status: row.status,
+        url,
+        applied_at: row.applied_at,
+      },
+      ...appliedJobs,
+    ];
+
+    document.getElementById('external-form').style.display = 'none';
+    resetExternalForm();
+
+    document.querySelectorAll('.tab-button').forEach(b => b.classList.remove('active'));
+    document.querySelector('[data-tab="applied"]').classList.add('active');
+    activeTab = 'applied';
+    render();
+  } catch (e) {
+    errorEl.textContent = 'Something went wrong -- try again.';
+  } finally {
+    submitBtn.disabled = false;
+    submitBtn.textContent = 'Applied';
+  }
 }
 
 for (const button of document.querySelectorAll('.tab-button')) {

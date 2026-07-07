@@ -92,3 +92,23 @@ for update
 to anon
 using (status = 'not_applied')
 with check (status in ('applied', 'dismissed'));
+
+-- Lets the jobs browser's "+ External" form record something you applied to
+-- outside the crawled pipeline (found directly on Indeed/LinkedIn, which
+-- aren't scraped -- see README) straight into the Applied tab, the same way
+-- scripts/add_applied.py does server-side. Scoped to INSERT only, and only
+-- for rows that already come in as 'applied' -- there's no anon path to
+-- insert a 'not_applied' row, so this can't be used to seed the jobs
+-- browser with stuff that never went through filtering. The existing
+-- "anon can see own status postings" SELECT policy above already covers
+-- status='applied', so return=representation on the insert works without
+-- any additional policy.
+grant insert (source, company, external_id, title, location, url, description, posted_at, status, applied_at)
+    on postings to anon;
+
+drop policy if exists "anon can add applied postings" on postings;
+create policy "anon can add applied postings"
+on postings
+for insert
+to anon
+with check (status = 'applied');
