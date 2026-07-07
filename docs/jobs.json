@@ -11,28 +11,6 @@
     "is_internship": false
   },
   {
-    "id": 40301,
-    "company": "Regions Bank",
-    "role": "Front-End React.js Engineer - DevSecOps",
-    "location": "Hoover, AL - Riverchase Operations Center (Birmingham, AL)",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Front-End-Reactjs-Engineer---DevSecOps_R104001",
-    "age": "0d",
-    "is_internship": false
-  },
-  {
-    "id": 39337,
-    "company": "Snowflake",
-    "role": "Software Engineer",
-    "location": "US-WA-Bellevue",
-    "source": "Ashby",
-    "status": "not_applied",
-    "url": "https://jobs.ashbyhq.com/snowflake/7d626629-fe04-4cce-94c1-0b1a13c1d1fd",
-    "age": "0d",
-    "is_internship": false
-  },
-  {
     "id": 39671,
     "company": "xAI",
     "role": "Software Engineer - Training/Inference (C++)",
@@ -44,17 +22,6 @@
     "is_internship": false
   },
   {
-    "id": 38941,
-    "company": "Flock Safety",
-    "role": "Software Engineer II, Forward Deployment ",
-    "location": "Remote - USA",
-    "source": "Ashby",
-    "status": "not_applied",
-    "url": "https://jobs.ashbyhq.com/Flock%20Safety/5083671c-8a9a-409b-8e1a-f85b462fa2dd",
-    "age": "0d",
-    "is_internship": false
-  },
-  {
     "id": 38039,
     "company": "Jane Street",
     "role": "Software Engineer",
@@ -62,17 +29,6 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/janestreet/jobs/8419303002",
-    "age": "0d",
-    "is_internship": false
-  },
-  {
-    "id": 38282,
-    "company": "Realtor.com",
-    "role": "Software Test Engineer",
-    "location": "Austin, Texas, United States",
-    "source": "Greenhouse",
-    "status": "not_applied",
-    "url": "https://boards.greenhouse.io/rdccareers/jobs/7733492003?gh_jid=7733492003",
     "age": "0d",
     "is_internship": false
   },
@@ -110,50 +66,6 @@
     "is_internship": false
   },
   {
-    "id": 40074,
-    "company": "Cisco",
-    "role": "Software Engineer, Solutions Engineering",
-    "location": "Milpitas, California, US",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Software-Engineer--Solutions-Engineering_2017148-1",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 39828,
-    "company": "Broadcom Limited",
-    "role": "Software Engineer",
-    "location": "USA-CA - Promontory B",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA---Promontory-B/Software-Engineer_R025847",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 40073,
-    "company": "Cisco",
-    "role": "Software Engineer",
-    "location": "RTP, North Carolina, US",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Engineer_2007035",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 39140,
-    "company": "NVIDIA",
-    "role": "Software Engineer - AI Research Clusters",
-    "location": "US, CA, Santa Clara",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer---AI-Research-Clusters_JR2017905",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
     "id": 39139,
     "company": "NVIDIA",
     "role": "AI Software Engineer",
@@ -161,39 +73,6 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Software-Engineer_JR2015357",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 38979,
-    "company": "General Motors",
-    "role": "Software Engineer AV HIL Platform and Services (Early Career))",
-    "location": "Sunnyvale, California, United States of America",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer-AV-HIL-Platform-and-Services--University-Grad-_JR-202604577",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 35713,
-    "company": "U.S. Bank",
-    "role": "Software Engineer - Salesforce Development (Multiple openings) in McLean, VA.",
-    "location": "McLean, VA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/McLean-VA/Software-Engineer---Salesforce-Development--Multiple-openings--in-McLean--VA_2026-0019282",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 37043,
-    "company": "Hy-Vee",
-    "role": "Software Engineer II - Data",
-    "location": "Helpful Smiles Technology Center (HST), James Street, Grimes, IA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Helpful-Smiles-Technology-Center-HST-James-Street-Grimes-IA/Software-Engineer-II---Data_R239712",
     "age": "1d",
     "is_internship": false
   },
@@ -209,6 +88,17 @@
     "is_internship": false
   },
   {
+    "id": 35713,
+    "company": "U.S. Bank",
+    "role": "Software Engineer - Salesforce Development (Multiple openings) in McLean, VA.",
+    "location": "McLean, VA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/McLean-VA/Software-Engineer---Salesforce-Development--Multiple-openings--in-McLean--VA_2026-0019282",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
     "id": 38159,
     "company": "NVIDIA",
     "role": "Performance Engineer Intern, Systems Software-  Fall 2026",
@@ -218,6 +108,39 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779",
     "age": "1d",
     "is_internship": true
+  },
+  {
+    "id": 40069,
+    "company": "Cisco",
+    "role": "Software Engineer",
+    "location": "Milpitas, California, US",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Software-Engineer_2007184-1",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 40072,
+    "company": "Cisco",
+    "role": "Software Engineer II (Full Time) \u2013 Devices Technology Group \u2013 United States",
+    "location": "RTP, North Carolina, US",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Engineer-II--Full-Time----Devices-Technology-Group---United-States_2011259",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 39828,
+    "company": "Broadcom Limited",
+    "role": "Software Engineer",
+    "location": "USA-CA - Promontory B",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA---Promontory-B/Software-Engineer_R025847",
+    "age": "1d",
+    "is_internship": false
   },
   {
     "id": 40123,
@@ -231,13 +154,24 @@
     "is_internship": false
   },
   {
-    "id": 40072,
-    "company": "Cisco",
-    "role": "Software Engineer II (Full Time) \u2013 Devices Technology Group \u2013 United States",
-    "location": "RTP, North Carolina, US",
+    "id": 37043,
+    "company": "Hy-Vee",
+    "role": "Software Engineer II - Data",
+    "location": "Helpful Smiles Technology Center (HST), James Street, Grimes, IA",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Engineer-II--Full-Time----Devices-Technology-Group---United-States_2011259",
+    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Helpful-Smiles-Technology-Center-HST-James-Street-Grimes-IA/Software-Engineer-II---Data_R239712",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 39140,
+    "company": "NVIDIA",
+    "role": "Software Engineer - AI Research Clusters",
+    "location": "US, CA, Santa Clara",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer---AI-Research-Clusters_JR2017905",
     "age": "1d",
     "is_internship": false
   },
@@ -264,17 +198,6 @@
     "is_internship": false
   },
   {
-    "id": 40069,
-    "company": "Cisco",
-    "role": "Software Engineer",
-    "location": "Milpitas, California, US",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Software-Engineer_2007184-1",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
     "id": 23803,
     "company": "Syncreon Consulting",
     "role": "Front-End Development II - Angular v18+ and TypeScript - W2 Position",
@@ -282,7 +205,7 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/SyncreonConsulting/744000135744865-front-end-development-ii-angular-v18-and-typescript-w2-position",
-    "age": "3d",
+    "age": "4d",
     "is_internship": false
   },
   {
@@ -517,13 +440,13 @@
     "is_internship": false
   },
   {
-    "id": 485,
-    "company": "ASML",
-    "role": "Software Infrastructure Engineer, Build & Release",
-    "location": "San Jose, CA, USA",
+    "id": 103,
+    "company": "Adtran",
+    "role": "Software Engineer I",
+    "location": "Atlanta, GA",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/San-Jose-CA-USA/Software-Infrastructure-Engineer--Build---Release_J-00341067-1",
+    "url": "https://adtran.wd3.myworkdayjobs.com/ADTRAN/job/Atlanta-GA/Software-Engineer-I_R005699",
     "age": "6d",
     "is_internship": false
   },
@@ -557,17 +480,6 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://adtran.wd3.myworkdayjobs.com/ADTRAN/job/Atlanta-GA/Software-Engineer-I_R005655-1",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 1883,
-    "company": "Fidelity Investments",
-    "role": "Full Stack Software Engineer (Typescript, Angular, Node.js, REST API)",
-    "location": "Salt Lake City, UT",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/fmr/targeted/job/Salt-Lake-City-UT/Full-Stack-Software-Engineer--Typescript--Angular--Nodejs--REST-API-_2125855-1",
     "age": "6d",
     "is_internship": false
   },
@@ -649,13 +561,24 @@
     "is_internship": false
   },
   {
-    "id": 103,
-    "company": "Adtran",
-    "role": "Software Engineer I",
-    "location": "Atlanta, GA",
+    "id": 485,
+    "company": "ASML",
+    "role": "Software Infrastructure Engineer, Build & Release",
+    "location": "San Jose, CA, USA",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://adtran.wd3.myworkdayjobs.com/ADTRAN/job/Atlanta-GA/Software-Engineer-I_R005699",
+    "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/San-Jose-CA-USA/Software-Infrastructure-Engineer--Build---Release_J-00341067-1",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 1883,
+    "company": "Fidelity Investments",
+    "role": "Full Stack Software Engineer (Typescript, Angular, Node.js, REST API)",
+    "location": "Salt Lake City, UT",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/fmr/targeted/job/Salt-Lake-City-UT/Full-Stack-Software-Engineer--Typescript--Angular--Nodejs--REST-API-_2125855-1",
     "age": "6d",
     "is_internship": false
   },
@@ -744,39 +667,6 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/twilio/jobs/7661919",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 19931,
-    "company": "Vestmark",
-    "role": "Software Engineer",
-    "location": "Boston, MA (Hybrid)",
-    "source": "Greenhouse",
-    "status": "not_applied",
-    "url": "https://job-boards.greenhouse.io/vestmark/jobs/8009953",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 386,
-    "company": "Avride",
-    "role": "C++ Software Engineer \u2013 Motion Planning",
-    "location": "Austin, TX",
-    "source": "Greenhouse",
-    "status": "not_applied",
-    "url": "https://job-boards.greenhouse.io/avride/jobs/4013017009",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 393,
-    "company": "Avride",
-    "role": "Software Engineer \u2013 ML Platform",
-    "location": "Austin, TX",
-    "source": "Greenhouse",
-    "status": "not_applied",
-    "url": "https://job-boards.greenhouse.io/avride/jobs/4205615009",
     "age": "6d",
     "is_internship": false
   }
