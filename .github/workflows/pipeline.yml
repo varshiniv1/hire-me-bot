@@ -19,9 +19,9 @@ jobs:
   run-pipeline:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: '3.11'
 
@@ -62,12 +62,17 @@ jobs:
         # add an empty commit every 3 hours.
         #
         # This run's checkout can be many minutes stale by the time the full
-        # company crawl finishes -- if main moved in the meantime (another
-        # run, a manual push), a plain `git push` gets rejected as
-        # non-fast-forward. Rebase onto the latest main and retry a few
-        # times rather than just failing the whole run over a generated
-        # file (real conflict here is effectively impossible since nothing
-        # else touches REPORT.md/jobs.json by hand).
+        # company crawl finishes -- if main moved in the meantime (this repo
+        # also has jsearch.yml regenerating and committing these exact same
+        # 3 files on its own schedule), a plain `git push` gets rejected as
+        # non-fast-forward. A `git rebase` retry used to live here, but that
+        # produces a genuine textual conflict rather than resolving cleanly:
+        # both sides independently rewrote the whole file from a DB read, so
+        # there's nothing for git to line-merge. Since these files are pure
+        # derived output (Supabase is the actual source of truth), the fix
+        # on conflict is to discard this run's commit, catch up to the new
+        # main, and regenerate fresh against it -- not to try reconciling
+        # two independently-regenerated copies.
         #
         # No separate "deploy to Pages" step after this -- GitHub Pages is
         # configured as branch-based (source: main /docs), so it rebuilds
@@ -75,6 +80,9 @@ jobs:
         # sidesteps the actions/deploy-pages Deployments API, which was
         # intermittently failing with a bare "Deployment failed, try again
         # later." unrelated to anything in this repo.
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -83,7 +91,12 @@ jobs:
           for i in 1 2 3 4 5; do
             git push && exit 0
             git fetch origin main
-            git rebase origin/main
+            git reset --hard origin/main
+            python scripts/report.py
+            python scripts/generate_jobs_json.py
+            python scripts/generate_applied_json.py
+            git add REPORT.md docs/jobs.json docs/applied.json
+            git diff --staged --quiet || git commit -m "Update REPORT.md and jobs.json"
             sleep $((RANDOM % 10 + 1))
           done
           echo "::error::Failed to push after 5 attempts"

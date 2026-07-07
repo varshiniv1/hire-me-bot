@@ -15,9 +15,9 @@ jobs:
   fetch-jsearch:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: '3.11'
 
@@ -53,6 +53,18 @@ jobs:
         run: python scripts/generate_applied_json.py
 
       - name: Commit REPORT.md and docs/jobs.json if changed
+        # pipeline.yml regenerates and commits these exact same 3 files on
+        # its own schedule -- if it lands a push while this run is still
+        # going, a plain `git push` gets rejected as non-fast-forward. A
+        # `git rebase` retry can't resolve that here: both sides
+        # independently rewrote the whole file from a DB read, so there's a
+        # genuine textual conflict, not something a line-merge can settle.
+        # Since these files are pure derived output (Supabase is the actual
+        # source of truth), the fix on conflict is to discard this run's
+        # commit, catch up to the new main, and regenerate fresh against it.
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -61,7 +73,12 @@ jobs:
           for i in 1 2 3 4 5; do
             git push && exit 0
             git fetch origin main
-            git rebase origin/main
+            git reset --hard origin/main
+            python scripts/report.py
+            python scripts/generate_jobs_json.py
+            python scripts/generate_applied_json.py
+            git add REPORT.md docs/jobs.json docs/applied.json
+            git diff --staged --quiet || git commit -m "Update REPORT.md and jobs.json (JSearch fetch)"
             sleep $((RANDOM % 10 + 1))
           done
           echo "::error::Failed to push after 5 attempts"
