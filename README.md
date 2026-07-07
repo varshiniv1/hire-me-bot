@@ -137,6 +137,14 @@ Optional PowerShell alias (add to your `$PROFILE`):
 function track { python scripts/track.py @args }
 ```
 
+For a posting that was never crawled at all -- e.g. something you found
+directly on Indeed/LinkedIn, which aren't scraped (see
+[What gets tracked](#what-gets-tracked)) -- `track.py` has nothing to match
+against. `python scripts/add_applied.py <company> <title> <url> [source]`
+(or with no args, prompts for each field) inserts it straight in as already
+`applied`, so it shows up in the Applied tab and the stats calendar too.
+`source` defaults to `manual` if omitted.
+
 ## Full status view
 
 `python scripts/report.py` writes [`REPORT.md`](REPORT.md) -- Internships and

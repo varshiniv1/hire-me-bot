@@ -69,6 +69,33 @@ def upsert_postings(postings: list[Posting]) -> None:
         ).execute()
 
 
+def add_manual_applied(company: str, title: str, url: str, source: str = "manual") -> dict:
+    """Directly records a posting you applied to outside the crawled pipeline
+    (e.g. something found on Indeed/LinkedIn, which aren't scraped -- see
+    README) as already 'applied', so it shows up in the Applied tab and the
+    stats calendar without ever having gone through upsert_postings. Uses the
+    url itself as external_id since there's no ATS-assigned id to key off of;
+    the same (source, company, url) triple can't be added twice thanks to the
+    same dedup constraint upsert_postings relies on -- callers should let that
+    raise rather than silently overwriting an existing entry.
+    """
+    row = {
+        "source": source,
+        "company": company,
+        "external_id": url,
+        "title": title,
+        "location": None,
+        "url": url,
+        "description": "",
+        "posted_at": None,
+        "status": "applied",
+        "applied_at": datetime.now(timezone.utc).isoformat(),
+    }
+    client = get_client()
+    resp = client.table(TABLE).insert(row).execute()
+    return resp.data[0]
+
+
 def get_unscored() -> list[dict]:
     client = get_client()
     return _paginate(lambda: client.table(TABLE).select("*").is_("fit_score", "null"))

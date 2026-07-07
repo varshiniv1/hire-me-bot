@@ -116,6 +116,63 @@ def test_update_status_does_not_set_applied_at_for_other_statuses(monkeypatch):
     assert fake.calls[0]["row"] == {"status": "interviewing"}
 
 
+class _FakeInsertQuery:
+    def __init__(self, log: list, response_row: dict):
+        self._log = log
+        self._response_row = response_row
+
+    def insert(self, row):
+        self._log.append(row)
+        return self
+
+    def execute(self):
+        class Resp:
+            pass
+
+        resp = Resp()
+        resp.data = [self._response_row]
+        return resp
+
+
+class _FakeInsertClient:
+    def __init__(self, response_row: dict):
+        self.calls: list = []
+        self._response_row = response_row
+
+    def table(self, name):
+        return _FakeInsertQuery(self.calls, self._response_row)
+
+
+def test_add_manual_applied_row_shape(monkeypatch):
+    fake = _FakeInsertClient({"id": 1, "company": "Indeed Co", "title": "SWE Intern"})
+    monkeypatch.setattr(postings_repo, "get_client", lambda: fake)
+
+    result = postings_repo.add_manual_applied(
+        "Indeed Co", "SWE Intern", "https://indeed.com/job/1", "indeed"
+    )
+
+    row = fake.calls[0]
+    assert row["source"] == "indeed"
+    assert row["company"] == "Indeed Co"
+    assert row["external_id"] == "https://indeed.com/job/1"
+    assert row["title"] == "SWE Intern"
+    assert row["url"] == "https://indeed.com/job/1"
+    assert row["description"] == ""
+    assert row["posted_at"] is None
+    assert row["status"] == "applied"
+    assert "applied_at" in row
+    assert result == {"id": 1, "company": "Indeed Co", "title": "SWE Intern"}
+
+
+def test_add_manual_applied_defaults_source_to_manual(monkeypatch):
+    fake = _FakeInsertClient({"id": 2})
+    monkeypatch.setattr(postings_repo, "get_client", lambda: fake)
+
+    postings_repo.add_manual_applied("Some Co", "SWE", "https://example.com/x")
+
+    assert fake.calls[0]["source"] == "manual"
+
+
 class _FakeSelectQuery:
     def __init__(self, rows: list, log: list | None = None):
         self._rows = rows
