@@ -49,8 +49,12 @@ SEARCH_QUERIES = [
 
 
 def _fetch_query(client: httpx.Client, query: str) -> list[dict]:
+    # RapidAPI retired the old "/search" route in favor of "/search-v2"
+    # (cursor-based pagination) -- same auth, params, and response shape,
+    # just a versioned path. The old route now 404s with a RapidAPI-level
+    # "Endpoint '/search' does not exist" error.
     resp = client.get(
-        f"https://{API_HOST}/search",
+        f"https://{API_HOST}/search-v2",
         params={"query": query, "num_pages": "1", "country": "us", "date_posted": "week"},
         headers={"X-RapidAPI-Key": settings.RAPIDAPI_KEY, "X-RapidAPI-Host": API_HOST},
     )
