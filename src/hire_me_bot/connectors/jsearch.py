@@ -50,9 +50,10 @@ SEARCH_QUERIES = [
 
 def _fetch_query(client: httpx.Client, query: str) -> list[dict]:
     # RapidAPI retired the old "/search" route in favor of "/search-v2"
-    # (cursor-based pagination) -- same auth, params, and response shape,
-    # just a versioned path. The old route now 404s with a RapidAPI-level
-    # "Endpoint '/search' does not exist" error.
+    # (cursor-based pagination) -- same auth and params, but the response
+    # envelope now nests the job list one level deeper: {"data": {"jobs":
+    # [...]}} instead of {"data": [...]}. The old route now 404s with a
+    # RapidAPI-level "Endpoint '/search' does not exist" error.
     resp = client.get(
         f"https://{API_HOST}/search-v2",
         params={"query": query, "num_pages": "1", "country": "us", "date_posted": "week"},
@@ -65,7 +66,7 @@ def _fetch_query(client: httpx.Client, query: str) -> list[dict]:
         # logs alone, without needing to reproduce locally with the secret.
         logger.error("JSearch request failed (%d): %s", resp.status_code, resp.text[:500])
     resp.raise_for_status()
-    return resp.json().get("data", [])
+    return resp.json().get("data", {}).get("jobs", [])
 
 
 def _parse_posted_at(raw: dict) -> datetime | None:
