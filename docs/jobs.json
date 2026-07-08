@@ -132,8 +132,8 @@
     "is_internship": false
   },
   {
-    "id": 42321,
-    "company": "Sony Interactive Entertainment",
+    "id": 42211,
+    "company": "PlayStation",
     "role": "Software Engineer II",
     "location": "United States, Los Angeles, CA",
     "source": "Greenhouse",
@@ -143,8 +143,8 @@
     "is_internship": false
   },
   {
-    "id": 42211,
-    "company": "PlayStation",
+    "id": 42321,
+    "company": "Sony Interactive Entertainment",
     "role": "Software Engineer II",
     "location": "United States, Los Angeles, CA",
     "source": "Greenhouse",
@@ -209,6 +209,17 @@
     "is_internship": false
   },
   {
+    "id": 46434,
+    "company": "U.S. Bank",
+    "role": "Software Engineer 2 (DevOps Engineer)",
+    "location": "Irving, TX",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irving-TX/Software-Engineer-2--DevOps-Engineer-_2026-0015012",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
     "id": 41826,
     "company": "Carrier Global",
     "role": "Web Application Full Stack Developer",
@@ -231,13 +242,13 @@
     "is_internship": false
   },
   {
-    "id": 40302,
-    "company": "Regions Bank",
-    "role": "Software Engineer - COBOL/Unix/Perl",
-    "location": "Hoover, AL - Riverchase Operations Center (Birmingham, AL)",
+    "id": 42839,
+    "company": "Continental Resources",
+    "role": "Production Engineer - Permian Basin",
+    "location": "Oklahoma City, OK",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Software-Engineer---COBOL-Unix-Perl_R103593-1",
+    "url": "https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/Production-Engineer---Permian-Basin_R02529",
     "age": "1d",
     "is_internship": false
   },
@@ -308,17 +319,6 @@
     "is_internship": false
   },
   {
-    "id": 42015,
-    "company": "KeyBank",
-    "role": "Software Development Engineer in Test",
-    "location": "Brooklyn, OH",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Software-Development-Engineer-in-Test_R-40581",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
     "id": 43053,
     "company": "MiTek",
     "role": "Software Engineer",
@@ -330,13 +330,13 @@
     "is_internship": false
   },
   {
-    "id": 41863,
-    "company": "Citi",
-    "role": "Full Stack Java Developer-C11",
-    "location": "Jersey City New Jersey United States",
+    "id": 42015,
+    "company": "KeyBank",
+    "role": "Software Development Engineer in Test",
+    "location": "Brooklyn, OH",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Full-Stack-Java-Developer-C11_26976744",
+    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Software-Development-Engineer-in-Test_R-40581",
     "age": "1d",
     "is_internship": false
   },
@@ -363,13 +363,24 @@
     "is_internship": false
   },
   {
-    "id": 42839,
-    "company": "Continental Resources",
-    "role": "Production Engineer - Permian Basin",
-    "location": "Oklahoma City, OK",
+    "id": 41863,
+    "company": "Citi",
+    "role": "Full Stack Java Developer-C11",
+    "location": "Jersey City New Jersey United States",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/Production-Engineer---Permian-Basin_R02529",
+    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Full-Stack-Java-Developer-C11_26976744",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 40302,
+    "company": "Regions Bank",
+    "role": "Software Engineer - COBOL/Unix/Perl",
+    "location": "Hoover, AL - Riverchase Operations Center (Birmingham, AL)",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Software-Engineer---COBOL-Unix-Perl_R103593-1",
     "age": "1d",
     "is_internship": false
   },
@@ -462,6 +473,28 @@
     "is_internship": false
   },
   {
+    "id": 38159,
+    "company": "NVIDIA",
+    "role": "Performance Engineer Intern, Systems Software-  Fall 2026",
+    "location": "US, MO, St. Louis",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779",
+    "age": "2d",
+    "is_internship": true
+  },
+  {
+    "id": 38852,
+    "company": "ASML",
+    "role": "Manufacturing Software Engineer",
+    "location": "San Diego, CA, USA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/San-Diego-CA-USA/Manufacturing-Software-Engineer_J-00346633-1",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
     "id": 39139,
     "company": "NVIDIA",
     "role": "AI Software Engineer",
@@ -484,13 +517,46 @@
     "is_internship": false
   },
   {
-    "id": 37934,
-    "company": "DXC Technology",
-    "role": "Front End Engineer",
-    "location": "USA - NY - ANY CITY",
+    "id": 40833,
+    "company": "Chamberlain Group",
+    "role": "Software Engineer I - AI",
+    "location": "Oak Brook, IL",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/USA---NY---ANY-CITY/Front-End-Engineer_51584345",
+    "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Software-Engineer-I---AI_JR30291",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 37043,
+    "company": "Hy-Vee",
+    "role": "Software Engineer II - Data",
+    "location": "Helpful Smiles Technology Center (HST), James Street, Grimes, IA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Helpful-Smiles-Technology-Center-HST-James-Street-Grimes-IA/Software-Engineer-II---Data_R239712",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 35713,
+    "company": "U.S. Bank",
+    "role": "Software Engineer - Salesforce Development (Multiple openings) in McLean, VA.",
+    "location": "McLean, VA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/McLean-VA/Software-Engineer---Salesforce-Development--Multiple-openings--in-McLean--VA_2026-0019282",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 41929,
+    "company": "Fidelity Investments",
+    "role": "Full Stack Engineer",
+    "location": "Westlake, TX",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/fmr/targeted/job/Westlake-TX/Full-Stack-Engineer_2131144-1",
     "age": "2d",
     "is_internship": false
   },
@@ -550,68 +616,13 @@
     "is_internship": false
   },
   {
-    "id": 37043,
-    "company": "Hy-Vee",
-    "role": "Software Engineer II - Data",
-    "location": "Helpful Smiles Technology Center (HST), James Street, Grimes, IA",
+    "id": 37934,
+    "company": "DXC Technology",
+    "role": "Front End Engineer",
+    "location": "USA - NY - ANY CITY",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Helpful-Smiles-Technology-Center-HST-James-Street-Grimes-IA/Software-Engineer-II---Data_R239712",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 40833,
-    "company": "Chamberlain Group",
-    "role": "Software Engineer I - AI",
-    "location": "Oak Brook, IL",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Software-Engineer-I---AI_JR30291",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 35713,
-    "company": "U.S. Bank",
-    "role": "Software Engineer - Salesforce Development (Multiple openings) in McLean, VA.",
-    "location": "McLean, VA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/McLean-VA/Software-Engineer---Salesforce-Development--Multiple-openings--in-McLean--VA_2026-0019282",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 38159,
-    "company": "NVIDIA",
-    "role": "Performance Engineer Intern, Systems Software-  Fall 2026",
-    "location": "US, MO, St. Louis",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779",
-    "age": "2d",
-    "is_internship": true
-  },
-  {
-    "id": 41929,
-    "company": "Fidelity Investments",
-    "role": "Full Stack Engineer",
-    "location": "Westlake, TX",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/fmr/targeted/job/Westlake-TX/Full-Stack-Engineer_2131144-1",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 38852,
-    "company": "ASML",
-    "role": "Manufacturing Software Engineer",
-    "location": "San Diego, CA, USA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/San-Diego-CA-USA/Manufacturing-Software-Engineer_J-00346633-1",
+    "url": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/USA---NY---ANY-CITY/Front-End-Engineer_51584345",
     "age": "2d",
     "is_internship": false
   },
@@ -660,17 +671,6 @@
     "is_internship": true
   },
   {
-    "id": 15641,
-    "company": "Intapp",
-    "role": "Software Engineer",
-    "location": "Charlotte, NC",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://intapp.wd1.myworkdayjobs.com/Intapp/job/Charlotte-NC/Software-Engineer_R2025119-1",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
     "id": 20990,
     "company": "Micron Technology",
     "role": "Industrial Engineer, US Front-End Expansion Planning",
@@ -678,6 +678,17 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/US-FE-Expansion-Planning-Engineer_JR95856",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 15641,
+    "company": "Intapp",
+    "role": "Software Engineer",
+    "location": "Charlotte, NC",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://intapp.wd1.myworkdayjobs.com/Intapp/job/Charlotte-NC/Software-Engineer_R2025119-1",
     "age": "6d",
     "is_internship": false
   },
@@ -814,17 +825,6 @@
     "is_internship": false
   },
   {
-    "id": 2978,
-    "company": "IMC",
-    "role": "Software Engineer Intern - Summer 2027",
-    "location": "Chicago, United States",
-    "source": "Greenhouse",
-    "status": "not_applied",
-    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101",
-    "age": "6d",
-    "is_internship": true
-  },
-  {
     "id": 2988,
     "company": "IMC Trading",
     "role": "Software Engineer Intern - Summer 2027",
@@ -836,25 +836,14 @@
     "is_internship": true
   },
   {
-    "id": 19058,
-    "company": "AppLovin",
-    "role": "Backend Engineer II",
-    "location": "Palo Alto, CA",
+    "id": 2978,
+    "company": "IMC",
+    "role": "Software Engineer Intern - Summer 2027",
+    "location": "Chicago, United States",
     "source": "Greenhouse",
     "status": "not_applied",
-    "url": "https://boards.greenhouse.io/applovin/jobs/4375888006?gh_jid=4375888006",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101",
     "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 6556,
-    "company": "Xaira Therapeutics",
-    "role": "Software Engineer, X-Scientist",
-    "location": "South San Francisco, California, United States",
-    "source": "Greenhouse",
-    "status": "not_applied",
-    "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5161853007",
-    "age": "6d",
-    "is_internship": false
+    "is_internship": true
   }
 ]

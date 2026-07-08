@@ -1,6 +1,6 @@
 # Job Postings Report
 
-153 postings from the last 6 days.
+154 postings from the last 6 days.
 
 ## Internships (2)
 
@@ -9,7 +9,7 @@
 | NVIDIA | Performance Engineer Intern, Systems Software-  Fall 2026 | US, MO, St. Louis | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779) | 2d |
 | Apptronik | Robotics Software Intern – Real-Time Controls | Austin, TX | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/apptronik/jobs/5985132004?gh_jid=5985132004) | 5d |
 
-## Full-Time (151)
+## Full-Time (152)
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
@@ -37,10 +37,10 @@
 | Continental Resources | Production Engineer - Permian Basin | Oklahoma City, OK | Workday | not_applied | [Apply](https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/Production-Engineer---Permian-Basin_R02529) | 1d |
 | General Motors | Software Integration Engineer | Milford, Michigan, United States of America | Workday | not_applied | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Integration-Engineer_JR-202608501) | 1d |
 | Hitachi Energy | Software Engineer | Remote - Michigan, United States | Workday | not_applied | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---Michigan-United-States/Software-Engineer_R0134246) | 1d |
-| Carrier Global | Java Software Engineer | CAG10: ALC HQ, 1025 Cobb Place Boulevard, Kennesaw, GA, 30145 USA | Workday | not_applied | [Apply](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAG10-ALC-HQ-1025-Cobb-Place-Boulevard-Kennesaw-GA-30145-USA/Java-Software-Engineer_30205497) | 1d |
 | Hewlett Packard Enterprise | SASE Cloud Software Engineer - AI & Backend | San Jose, California, United States of America | Workday | not_applied | [Apply](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/San-Jose-California-United-States-of-America/SASE-Cloud-Software-Engineer---AI---Backend_1208148-1) | 1d |
 | Philips | Software Engineer - Image Reconstruction (C++/CUDA) | Orange (OH), Ohio, United States | Workday | not_applied | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Orange-OH-Ohio-United-States/Software-Engineer---Image-Processing--C-----GPU-_582793) | 1d |
 | U.S. Bank | Software Engineer 1 (Backend UI and AI) | Earth City, MO | Workday | not_applied | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Earth-City-MO/Software-Engineer-1--Backend-UI-and-AI-_2026-0018795) | 1d |
+| U.S. Bank | Software Engineer 2 (DevOps Engineer) | Irving, TX | Workday | not_applied | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irving-TX/Software-Engineer-2--DevOps-Engineer-_2026-0015012) | 1d |
 | KeyBank | Software Development Engineer in Test | Brooklyn, OH | Workday | not_applied | [Apply](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Software-Development-Engineer-in-Test_R-40581) | 1d |
 | Citi | Full Stack Java Developer-C11 | Jersey City New Jersey United States | Workday | not_applied | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Full-Stack-Java-Developer-C11_26976744) | 1d |
 | Carrier Global | Web Application Full Stack Developer | CAGAO: Carrier-Home Georgia Remote Location, Remote City, GA, 30303 USA | Workday | not_applied | [Apply](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAGAO-Carrier-Home-Georgia-Remote-Location-Remote-City-GA-30303-USA/Web-Application-Full-Stack-Developer_30205640) | 1d |
@@ -51,6 +51,7 @@
 | The Hartford | GIS Software Engineer | Hartford, CT | Workday | not_applied | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/GIS-Software-Engineer_R2626066) | 1d |
 | ASML | System Integration and Test Engineer- CWW Backend Nights | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/System-Integration-and-Test-Engineer--CWW-Back-end-Nights_J-00346825) | 1d |
 | MiTek | Software Engineer | Greenwood Village, CO, USA | Workday | not_applied | [Apply](https://mii.wd5.myworkdayjobs.com/MiTek/job/Greenwood-Village-CO-USA/Software-Engineer_R06236) | 1d |
+| Carrier Global | Java Software Engineer | CAG10: ALC HQ, 1025 Cobb Place Boulevard, Kennesaw, GA, 30145 USA | Workday | not_applied | [Apply](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAG10-ALC-HQ-1025-Cobb-Place-Boulevard-Kennesaw-GA-30145-USA/Java-Software-Engineer_30205497) | 1d |
 | Snowflake | Software Engineer | US-WA-Bellevue | Ashby | applied | [Apply](https://jobs.ashbyhq.com/snowflake/7d626629-fe04-4cce-94c1-0b1a13c1d1fd) | 1d |
 | xAI | Software Engineer - Training/Inference (C++) | Palo Alto, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/4533894007) | 1d |
 | Flock Safety | Software Engineer II, Forward Deployment  | Remote - USA | Ashby | applied | [Apply](https://jobs.ashbyhq.com/Flock%20Safety/5083671c-8a9a-409b-8e1a-f85b462fa2dd) | 1d |
@@ -65,6 +66,7 @@
 | Anthropic | Software Engineer, Research Infrastructure | San Francisco, CA \| New York City, NY | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5283063008) | 1d |
 | FluidStack | Development Engineer, Facility Software Automation | Austin, TX | Ashby | applied | [Apply](https://jobs.ashbyhq.com/fluidstack/06061cfc-79d2-49dd-8c3e-f1b6b64fb85e) | 1d |
 | FluidStack | Software Engineer, Facility Software Automation | Austin, TX | Ashby | applied | [Apply](https://jobs.ashbyhq.com/fluidstack/d99d2a67-bcec-4c85-809b-b0162e8b8fa4) | 2d |
+| DXC Technology | Front End Engineer | USA - NY - ANY CITY | Workday | not_applied | [Apply](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/USA---NY---ANY-CITY/Front-End-Engineer_51584345) | 2d |
 | Fidelity Investments | Full Stack Engineer | Westlake, TX | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/targeted/job/Westlake-TX/Full-Stack-Engineer_2131144-1) | 2d |
 | Chamberlain Group | Software Engineer I - AI | Oak Brook, IL | Workday | not_applied | [Apply](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Software-Engineer-I---AI_JR30291) | 2d |
 | Cisco | Software Engineer | RTP, North Carolina, US | Workday | dismissed | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Engineer_2007035) | 2d |
@@ -83,7 +85,6 @@
 | Rocket Companies | Android Mobile Software Developer II (Remote or Hybrid) | Seattle, WA | Workday | dismissed | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Android-Mobile-Software-Developer-II--Remote-or-Hybrid-_R-083289) | 2d |
 | Rocket Companies | iOS Mobile Software Developer II (Remote or Hybrid) | Seattle, WA | Workday | dismissed | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/iOS-Mobile-Software-Developer-II--Remote-or-Hybrid-_R-082530) | 2d |
 | Rocket Mortgage | Android Mobile Software Developer II (Remote or Hybrid) | Seattle, WA | Workday | dismissed | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Android-Mobile-Software-Developer-II--Remote-or-Hybrid-_R-083289) | 2d |
-| DXC Technology | Front End Engineer | USA - NY - ANY CITY | Workday | not_applied | [Apply](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/USA---NY---ANY-CITY/Front-End-Engineer_51584345) | 2d |
 | Motorola | Software Engineer | Salt Lake City, UT (UT17) | Workday | dismissed | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Salt-Lake-City-UT-UT17/Software-Engineer_R64168) | 2d |
 | Hy-Vee | Software Engineer II - Data | Helpful Smiles Technology Center (HST), James Street, Grimes, IA | Workday | not_applied | [Apply](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Helpful-Smiles-Technology-Center-HST-James-Street-Grimes-IA/Software-Engineer-II---Data_R239712) | 2d |
 | Red Hat | Software Sales Specialist - Red Hat Hybrid Cloud Platforms | Remote US CA | Workday | dismissed | [Apply](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-US-CA/Software-Sales-Specialist---Red-Hat-Hybrid-Cloud-Platforms_R-058040-1) | 2d |
@@ -143,7 +144,7 @@
 | Speechify | Software Engineer, Platform - Charlotte, NC, USA | Charlotte, NC, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974233004) | 4d |
 | Jobs for Humanity | Software Engineer (Mobile & Web Applications) | Houston, us | SmartRecruiters | dismissed | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000135752989-software-engineer-mobile-web-applications-) | 4d |
 | Syncreon Consulting | Front-End Development II - Angular v18+ and TypeScript - W2 Position | Jersey City, NJ, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/SyncreonConsulting/744000135744865-front-end-development-ii-angular-v18-and-typescript-w2-position) | 4d |
-| Zscaler | Software Development Engineer | San Jose, California, USA | Greenhouse | applied | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5177411007) | 4d |
+| Zscaler | Software Development Engineer | San Jose, California, USA | Greenhouse | applied | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5177411007) | 5d |
 | U.S. Bank | Software Engineer- Mainframe | Hopkins, MN | Workday | dismissed | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Software-Engineer--Mainframe_2026-0019239) | 5d |
 | Regions Bank | Software Engineer - Full Stack / .NET | Hoover, AL - Riverchase Operations Center (Birmingham, AL) | Workday | dismissed | [Apply](https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Software-Engineer---Full-Stack---NET_R103456-1) | 5d |
 | U.S. Bank | Software Engineer 2 ( React and Python) | Hopkins, MN | Workday | applied | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Software-Engineer-2---React-and-Python-_2026-0019276) | 5d |
