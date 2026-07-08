@@ -216,7 +216,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4906492101",
-    "age": "0d",
+    "age": "1d",
     "is_internship": false
   },
   {
@@ -638,17 +638,6 @@
     "is_internship": false
   },
   {
-    "id": 48594,
-    "company": "TJX",
-    "role": "Full-Time Front-End Coordinator",
-    "location": "Gig Harbor, WA 98335",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Gig-Harbor-WA-98335/Full-Time-Front-End-Coordinator_REQ133148-1",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
     "id": 48595,
     "company": "TJX",
     "role": "Front-End Associate",
@@ -656,6 +645,17 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Charlotte-NC-28210/Front-End-Associate_REQ132981",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 48594,
+    "company": "TJX",
+    "role": "Full-Time Front-End Coordinator",
+    "location": "Gig Harbor, WA 98335",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Gig-Harbor-WA-98335/Full-Time-Front-End-Coordinator_REQ133148-1",
     "age": "3d",
     "is_internship": false
   },
@@ -744,30 +744,8 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://boards.greenhouse.io/apptronik/jobs/5985132004?gh_jid=5985132004",
-    "age": "5d",
+    "age": "6d",
     "is_internship": true
-  },
-  {
-    "id": 19439,
-    "company": "NVIDIA",
-    "role": "Robotics Software Engineer - Robot Simulation and Benchmarking",
-    "location": "US, CA, Santa Clara",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Robotics-Software-Engineer---Robot-Simulation-and-Benchmarking_JR2020637",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 20990,
-    "company": "Micron Technology",
-    "role": "Industrial Engineer, US Front-End Expansion Planning",
-    "location": "Boise, ID - ID1",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/US-FE-Expansion-Planning-Engineer_JR95856",
-    "age": "6d",
-    "is_internship": false
   },
   {
     "id": 19280,
@@ -792,24 +770,24 @@
     "is_internship": false
   },
   {
-    "id": 48600,
-    "company": "TJX",
-    "role": "PT- Front End Supervisor",
-    "location": "Mechanicsburg, PA 17050",
+    "id": 19440,
+    "company": "NVIDIA",
+    "role": "GPU Development Tools System Software Engineer",
+    "location": "US, CA, Santa Clara",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Mechanicsburg-PA-17050/PT--Front-End-Supervisor_REQ132406",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Development-Tools-System-Software-Engineer_JR2015871-1",
     "age": "6d",
     "is_internship": false
   },
   {
-    "id": 15641,
-    "company": "Intapp",
-    "role": "Software Engineer",
-    "location": "Charlotte, NC",
+    "id": 19439,
+    "company": "NVIDIA",
+    "role": "Robotics Software Engineer - Robot Simulation and Benchmarking",
+    "location": "US, CA, Santa Clara",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://intapp.wd1.myworkdayjobs.com/Intapp/job/Charlotte-NC/Software-Engineer_R2025119-1",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Robotics-Software-Engineer---Robot-Simulation-and-Benchmarking_JR2020637",
     "age": "6d",
     "is_internship": false
   },
@@ -825,13 +803,13 @@
     "is_internship": false
   },
   {
-    "id": 19440,
-    "company": "NVIDIA",
-    "role": "GPU Development Tools System Software Engineer",
-    "location": "US, CA, Santa Clara",
+    "id": 48600,
+    "company": "TJX",
+    "role": "PT- Front End Supervisor",
+    "location": "Mechanicsburg, PA 17050",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Development-Tools-System-Software-Engineer_JR2015871-1",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Mechanicsburg-PA-17050/PT--Front-End-Supervisor_REQ132406",
     "age": "6d",
     "is_internship": false
   },
@@ -843,6 +821,28 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Software-Engineer--NVIDIA-OpenShell_JR2017604",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 20990,
+    "company": "Micron Technology",
+    "role": "Industrial Engineer, US Front-End Expansion Planning",
+    "location": "Boise, ID - ID1",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/US-FE-Expansion-Planning-Engineer_JR95856",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 15641,
+    "company": "Intapp",
+    "role": "Software Engineer",
+    "location": "Charlotte, NC",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://intapp.wd1.myworkdayjobs.com/Intapp/job/Charlotte-NC/Software-Engineer_R2025119-1",
     "age": "6d",
     "is_internship": false
   },
@@ -867,27 +867,5 @@
     "url": "https://jobs.ashbyhq.com/snowflake/8fab4433-4a3f-4a14-8dfe-d497702c4be4",
     "age": "6d",
     "is_internship": false
-  },
-  {
-    "id": 2978,
-    "company": "IMC",
-    "role": "Software Engineer Intern - Summer 2027",
-    "location": "Chicago, United States",
-    "source": "Greenhouse",
-    "status": "not_applied",
-    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101",
-    "age": "6d",
-    "is_internship": true
-  },
-  {
-    "id": 2988,
-    "company": "IMC Trading",
-    "role": "Software Engineer Intern - Summer 2027",
-    "location": "Chicago, United States",
-    "source": "Greenhouse",
-    "status": "not_applied",
-    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101",
-    "age": "6d",
-    "is_internship": true
   }
 ]
