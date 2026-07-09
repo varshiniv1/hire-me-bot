@@ -21,18 +21,30 @@ logger = logging.getLogger(__name__)
 
 API_HOST = "jsearch.p.rapidapi.com"
 
-# Kept short deliberately -- 11 queries x 10 runs/month (every 3 days) = 110
-# requests, well under the 200/month free-tier cap with room to grow.
+# Kept short deliberately -- 14 queries x 10 runs/month (every 3 days) = 140
+# requests, still under the 200/month free-tier cap with some room to spare.
 # Precise role-type/seniority/experience/clearance/citizenship filtering
 # happens afterward via pipeline.passes_all_filters, the exact same filters
 # the ATS connectors use -- these queries just need to cast a reasonably
 # relevant net, not be exhaustive.
 #
-# The last 3 target off-cycle/grad-friendly internships specifically --
+# Queries 7-11 target off-cycle/grad-friendly internships specifically --
 # Big Tech's ATS boards (covered by the 6 direct connectors) are almost
 # entirely locked to the summer academic-calendar pipeline, but smaller/
 # mid-size companies posting off-cycle programs are more likely to show up
 # via a search aggregator like this than a direct connector.
+#
+# The last 3 are company-name-scoped -- Google, Meta, and Microsoft have no
+# Greenhouse/Lever/Ashby/SmartRecruiters/Recruitee/Workday presence (see
+# connectors/detect.py), so they're otherwise invisible to this whole
+# pipeline; folding the company name into the query measurably improves
+# how often their listings surface vs. the generic queries above (verified
+# live: "software engineer new grad Meta" surfaced real Meta postings that
+# the generic queries didn't catch). Not exhaustive/guaranteed -- coverage
+# depends on what Google-for-Jobs has indexed that week -- but it's the
+# best available signal without a bespoke scraper for each company's
+# proprietary career site (see connectors/amazon.py for the one exception
+# where a stable public API made a direct connector worth building).
 SEARCH_QUERIES = [
     "software engineer new grad",
     "software engineer entry level",
@@ -45,6 +57,9 @@ SEARCH_QUERIES = [
     "software engineering off-cycle internship",
     "software engineering internship recent graduate",
     "software engineering fellowship",
+    "software engineer new grad Google",
+    "software engineer new grad Meta",
+    "software engineer new grad Microsoft",
 ]
 
 

@@ -7,6 +7,7 @@ from zoneinfo import ZoneInfo
 import yaml
 
 from hire_me_bot import settings
+from hire_me_bot.connectors.amazon import AmazonConnector
 from hire_me_bot.connectors.ashby import AshbyConnector
 from hire_me_bot.connectors.base import Posting
 from hire_me_bot.connectors.greenhouse import GreenhouseConnector
@@ -34,6 +35,7 @@ CONNECTOR_CLASSES = {
     "workday": WorkdayConnector,
     "smartrecruiters": SmartRecruitersConnector,
     "recruitee": RecruiteeConnector,
+    "amazon": AmazonConnector,
 }
 
 # All I/O-bound HTTP calls against ~3000+ companies -- fetch concurrently, but

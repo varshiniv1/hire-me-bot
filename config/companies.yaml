@@ -476,6 +476,9 @@
 - name: AMAROK Security
   source: greenhouse
   token: amarok
+- name: Amazon
+  source: amazon
+  token: ""
 - name: Ambarella
   source: workday
   token: ambarella/wd108/ambarella
