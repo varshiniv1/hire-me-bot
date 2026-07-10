@@ -214,11 +214,22 @@ def get_applied_history() -> list[dict]:
     )
 
 
+def delete_by_url_substring(substring: str) -> int:
+    """One-off cleanup for a spam/republisher source identified after the
+    fact (e.g. jobleads.com). Postings otherwise stay forever -- see
+    get_all_ordered below -- this is a deliberate, targeted exception, not a
+    general aging/deletion policy. Returns the number of rows deleted."""
+    client = get_client()
+    resp = client.table(TABLE).delete().ilike("url", f"%{substring}%").execute()
+    return len(resp.data)
+
+
 def get_all_ordered(max_age_days: int) -> list[dict]:
     """Every posting with posted_at within max_age_days, newest-first by
     posted_at (actual posting age, not crawl-discovery time). Backs
     REPORT.md -- reports respect the same freshness window as Discord
-    notifications (postings are never deleted, this is purely about what
+    notifications (postings are never deleted except via the explicit
+    delete_by_url_substring escape hatch above, this is purely about what
     gets surfaced)."""
     cutoff = (datetime.now(timezone.utc) - timedelta(days=max_age_days)).isoformat()
     client = get_client()

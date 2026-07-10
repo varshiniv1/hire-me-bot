@@ -111,6 +111,14 @@ def normalize(raw: dict) -> Posting | None:
     if detect_source_and_token(apply_link) is not None:
         return None
 
+    # jobleads.com is a lead-gen republisher, not an employer -- it re-posts
+    # (often stale/duplicate) listings from other boards under whatever
+    # employer name it scraped, so the "employer_name" here isn't reliable
+    # and the apply flow routes through their own signup/paywall rather than
+    # the real employer. Flagged as spam -- drop unconditionally.
+    if "jobleads.com" in apply_link.lower():
+        return None
+
     # The query already scopes country=us, but don't trust that blindly --
     # skip (don't guess) if country is missing or not confirmed US.
     if (raw.get("job_country") or "").upper() != "US":
