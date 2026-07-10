@@ -1,5 +1,16 @@
 [
   {
+    "id": 63286,
+    "company": "Realtor.com",
+    "role": "Software Engineer ",
+    "location": "Austin, Texas, United States",
+    "source": "Greenhouse",
+    "status": "not_applied",
+    "url": "https://boards.greenhouse.io/rdccareers/jobs/7800190003?gh_jid=7800190003",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
     "id": 59328,
     "company": "Amazon",
     "role": "Software Dev Engineer 2, AWS EKS",
@@ -11,6 +22,28 @@
     "is_internship": false
   },
   {
+    "id": 62834,
+    "company": "Booz Allen",
+    "role": "Backend Infrastructure & Agentic AI Software Engineer",
+    "location": "Washington, DC",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Backend-Infrastructure---Agentic-AI-Software-Engineer_R0243893",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
+    "id": 63159,
+    "company": "Nightwing Intelligence Solutions",
+    "role": "Software Quality Assurance Specialist/Applications Tester",
+    "location": "Sterling, VA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/Software-Quality-Assurance-Specialist-Applications-Tester_JR101833",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
     "id": 59333,
     "company": "Amazon",
     "role": "Software Development Engineer II, AWS EKS",
@@ -18,6 +51,28 @@
     "source": "amazon",
     "status": "not_applied",
     "url": "https://account.amazon.jobs/jobs/10470609/apply",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
+    "id": 62322,
+    "company": "Amazon",
+    "role": "Software Engineer II, Autonomy Platform, Data and Tools",
+    "location": "North Reading, Massachusetts, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10470557/apply",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
+    "id": 63638,
+    "company": "The Walt Disney Company",
+    "role": "Product Software Engineer I",
+    "location": "Bristol, CT, USA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Bristol-CT-USA/Product-Software-Engineer-I_10155293",
     "age": "0d",
     "is_internship": false
   },
@@ -55,8 +110,8 @@
     "is_internship": false
   },
   {
-    "id": 57166,
-    "company": "NiCE",
+    "id": 57164,
+    "company": "NICE",
     "role": "Software Engineer \u2013 Java, Angular, AWS",
     "location": "USA - Sandy, UT",
     "source": "Greenhouse",
@@ -66,8 +121,8 @@
     "is_internship": false
   },
   {
-    "id": 57164,
-    "company": "NICE",
+    "id": 57166,
+    "company": "NiCE",
     "role": "Software Engineer \u2013 Java, Angular, AWS",
     "location": "USA - Sandy, UT",
     "source": "Greenhouse",
@@ -106,17 +161,6 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://www.linkedin.com/jobs/view/software-engineer-systemml-ai-networking-at-meta-4414084980",
-    "age": "0d",
-    "is_internship": false
-  },
-  {
-    "id": 53772,
-    "company": "Jack & Jill",
-    "role": "Founding Software Engineer at well-funded industrial AI startup",
-    "location": "San Francisco, California, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/founding-software-engineer-at-well-funded-industrial-ai-startup-at-jack-jill-4437328525",
     "age": "1d",
     "is_internship": false
   },
@@ -132,46 +176,35 @@
     "is_internship": false
   },
   {
-    "id": 53752,
-    "company": "Acme Markets",
-    "role": "Front End Entry Level",
-    "location": "Elkton, Maryland, USA",
+    "id": 53772,
+    "company": "Jack & Jill",
+    "role": "Founding Software Engineer at well-funded industrial AI startup",
+    "location": "San Francisco, California, USA",
     "source": "JSearch",
     "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-acme-markets-4438547191",
+    "url": "https://www.linkedin.com/jobs/view/founding-software-engineer-at-well-funded-industrial-ai-startup-at-jack-jill-4437328525",
     "age": "1d",
     "is_internship": false
   },
   {
-    "id": 53748,
-    "company": "Safeway",
-    "role": "Front End Entry Level",
-    "location": "Cupertino, California, USA",
-    "source": "JSearch",
+    "id": 59149,
+    "company": "U.S. Bank",
+    "role": "Software Engineer 1",
+    "location": "Irving, TX",
+    "source": "Workday",
     "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-safeway-4438535678",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irving-TX/Software-Engineer-1_2026-0019268",
     "age": "1d",
     "is_internship": false
   },
   {
-    "id": 59301,
+    "id": 56347,
     "company": "Amazon",
-    "role": "Software Development Engineer, Amazon Application Recovery Controller",
-    "location": "Seattle, Washington, USA",
+    "role": "Software Development Engineer, AWS Security Communications",
+    "location": "Herndon, Virginia, USA",
     "source": "amazon",
     "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10470594/apply",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 56319,
-    "company": "Amazon",
-    "role": "Software Development Engineer, Amazon Ads Demand Tech, Forecasting and Guidance",
-    "location": "Mountain View, California, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10470084/apply",
+    "url": "https://account.amazon.jobs/jobs/10470225/apply",
     "age": "1d",
     "is_internship": false
   },
@@ -187,6 +220,17 @@
     "is_internship": false
   },
   {
+    "id": 55365,
+    "company": "Brown & Brown Insurance",
+    "role": "Full Stack Developer (.Net)",
+    "location": "Remote - USA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://bbinsurance.wd1.myworkdayjobs.com/Careers/job/Remote---USA/Full-Stack-Developer--Net-_R26_0000002365",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
     "id": 56304,
     "company": "Amazon",
     "role": "Software Dev Engineer II, Shield",
@@ -194,6 +238,61 @@
     "source": "amazon",
     "status": "not_applied",
     "url": "https://account.amazon.jobs/jobs/10470302/apply",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 53867,
+    "company": "BTI Solutions",
+    "role": "AI Full Stack Developer",
+    "location": "San Jose, CA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://btisolutions.wd12.myworkdayjobs.com/External/job/San-Jose-CA/AI-Full-Stack-Developer_JR101908-1",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 62949,
+    "company": "Cisco",
+    "role": "Software Engineer",
+    "location": "RTP, North Carolina, US",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Engineer_2018266-1",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 53949,
+    "company": "ASML",
+    "role": "Mechatronics Maintenance Technician- CWW Back End Nights",
+    "location": "Wilton, CT, USA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Mechatronics-Maintenance-Technician--CWW-Back-End-Nights_J-00345922",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 54288,
+    "company": "PIMCO",
+    "role": "Software Engineer, Short Term Technology",
+    "location": "Newport Beach, CA USA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/Software-Engineer--Short-Term-Technology_R106469",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 53748,
+    "company": "Safeway",
+    "role": "Front End Entry Level",
+    "location": "Cupertino, California, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-safeway-4438535678",
     "age": "1d",
     "is_internship": false
   },
@@ -220,39 +319,6 @@
     "is_internship": false
   },
   {
-    "id": 54894,
-    "company": "Amazon",
-    "role": "Software Development Engineer, Fire TV",
-    "location": "Sunnyvale, California, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10469556/apply",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 55365,
-    "company": "Brown & Brown Insurance",
-    "role": "Full Stack Developer (.Net)",
-    "location": "Remote - USA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://bbinsurance.wd1.myworkdayjobs.com/Careers/job/Remote---USA/Full-Stack-Developer--Net-_R26_0000002365",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 54819,
-    "company": "Amazon",
-    "role": "Software Dev Engineer II, Amazon Aurora DSQL",
-    "location": "Seattle, Washington, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10469617/apply",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
     "id": 59318,
     "company": "Amazon",
     "role": "Software Development Engineer, AWS",
@@ -264,101 +330,57 @@
     "is_internship": false
   },
   {
-    "id": 56347,
+    "id": 59301,
     "company": "Amazon",
-    "role": "Software Development Engineer, AWS Security Communications",
-    "location": "Herndon, Virginia, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10470225/apply",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 54857,
-    "company": "Amazon",
-    "role": "Software Development Engineer  , Customer Service Security Capabilities Engineering (CS-SCE)",
+    "role": "Software Development Engineer, Amazon Application Recovery Controller",
     "location": "Seattle, Washington, USA",
     "source": "amazon",
     "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10469951/apply",
+    "url": "https://account.amazon.jobs/jobs/10470594/apply",
     "age": "1d",
     "is_internship": false
   },
   {
-    "id": 58111,
-    "company": "Amazon",
-    "role": "Software Development Engineer, Ads AI Core Infra",
-    "location": "New York, New York, USA",
-    "source": "amazon",
+    "id": 54326,
+    "company": "Republic Services",
+    "role": "Front End Loader Driver - CDL (B)",
+    "location": "N Charleston, SC, USA",
+    "source": "Workday",
     "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10470511/apply",
+    "url": "https://republic.wd5.myworkdayjobs.com/Republic/job/N-Charleston-SC-USA/Front-End-Loader-Driver---CDL--B-_R-179092",
     "age": "1d",
     "is_internship": false
   },
   {
-    "id": 57863,
+    "id": 53755,
+    "company": "VONS",
+    "role": "Front End Entry Level",
+    "location": "La Mesa, California, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-vons-4438547203",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 53752,
+    "company": "Acme Markets",
+    "role": "Front End Entry Level",
+    "location": "Elkton, Maryland, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-acme-markets-4438547191",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 54819,
     "company": "Amazon",
-    "role": "Software Development Engineer, Amazon Cloud Management Foundations",
+    "role": "Software Dev Engineer II, Amazon Aurora DSQL",
     "location": "Seattle, Washington, USA",
     "source": "amazon",
     "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10470513/apply",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 57858,
-    "company": "Amazon",
-    "role": "Software Development Engineer (Elastic Kubernetes Service), EKS Scalability & Performance",
-    "location": "Seattle, Washington, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10470404/apply",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 57798,
-    "company": "Amazon",
-    "role": "Software Development Engineer, Sponsored Products and Brands",
-    "location": "Palo Alto, California, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10470406/apply",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 57657,
-    "company": "VSP Vision",
-    "role": "Test Software Engineer",
-    "location": "Remote US",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://vsp.wd1.myworkdayjobs.com/VSPVisionCareers/job/Remote-US/Test-Software-Engineer_R-9639",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 57619,
-    "company": "The Hartford",
-    "role": "AI Engineer - Full Stack",
-    "location": "Hartford, CT",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/AI-Engineer---Full-Stack_R2626078",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 57295,
-    "company": "Philips",
-    "role": "Software Development Engineer (Orlando, FL)",
-    "location": "Orlando, Florida, United States",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Orlando-Florida-United-States/Software-Development-Engineer--Orlando--FL-_587139-1",
+    "url": "https://account.amazon.jobs/jobs/10469617/apply",
     "age": "1d",
     "is_internship": false
   },
@@ -429,57 +451,13 @@
     "is_internship": false
   },
   {
-    "id": 53867,
-    "company": "BTI Solutions",
-    "role": "AI Full Stack Developer",
-    "location": "San Jose, CA",
-    "source": "Workday",
+    "id": 56319,
+    "company": "Amazon",
+    "role": "Software Development Engineer, Amazon Ads Demand Tech, Forecasting and Guidance",
+    "location": "Mountain View, California, USA",
+    "source": "amazon",
     "status": "not_applied",
-    "url": "https://btisolutions.wd12.myworkdayjobs.com/External/job/San-Jose-CA/AI-Full-Stack-Developer_JR101908-1",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 53949,
-    "company": "ASML",
-    "role": "Mechatronics Maintenance Technician- CWW Back End Nights",
-    "location": "Wilton, CT, USA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Mechatronics-Maintenance-Technician--CWW-Back-End-Nights_J-00345922",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 54288,
-    "company": "PIMCO",
-    "role": "Software Engineer, Short Term Technology",
-    "location": "Newport Beach, CA USA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/Software-Engineer--Short-Term-Technology_R106469",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 59149,
-    "company": "U.S. Bank",
-    "role": "Software Engineer 1",
-    "location": "Irving, TX",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irving-TX/Software-Engineer-1_2026-0019268",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 53755,
-    "company": "VONS",
-    "role": "Front End Entry Level",
-    "location": "La Mesa, California, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-vons-4438547203",
+    "url": "https://account.amazon.jobs/jobs/10470084/apply",
     "age": "1d",
     "is_internship": false
   },
@@ -517,13 +495,101 @@
     "is_internship": false
   },
   {
-    "id": 54326,
-    "company": "Republic Services",
-    "role": "Front End Loader Driver - CDL (B)",
-    "location": "N Charleston, SC, USA",
+    "id": 54857,
+    "company": "Amazon",
+    "role": "Software Development Engineer  , Customer Service Security Capabilities Engineering (CS-SCE)",
+    "location": "Seattle, Washington, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10469951/apply",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 58111,
+    "company": "Amazon",
+    "role": "Software Development Engineer, Ads AI Core Infra",
+    "location": "New York, New York, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10470511/apply",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 57863,
+    "company": "Amazon",
+    "role": "Software Development Engineer, Amazon Cloud Management Foundations",
+    "location": "Seattle, Washington, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10470513/apply",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 57858,
+    "company": "Amazon",
+    "role": "Software Development Engineer (Elastic Kubernetes Service), EKS Scalability & Performance",
+    "location": "Seattle, Washington, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10470404/apply",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 57798,
+    "company": "Amazon",
+    "role": "Software Development Engineer, Sponsored Products and Brands",
+    "location": "Palo Alto, California, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10470406/apply",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 57657,
+    "company": "VSP Vision",
+    "role": "Test Software Engineer",
+    "location": "Remote US",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://republic.wd5.myworkdayjobs.com/Republic/job/N-Charleston-SC-USA/Front-End-Loader-Driver---CDL--B-_R-179092",
+    "url": "https://vsp.wd1.myworkdayjobs.com/VSPVisionCareers/job/Remote-US/Test-Software-Engineer_R-9639",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 54894,
+    "company": "Amazon",
+    "role": "Software Development Engineer, Fire TV",
+    "location": "Sunnyvale, California, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10469556/apply",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 57619,
+    "company": "The Hartford",
+    "role": "AI Engineer - Full Stack",
+    "location": "Hartford, CT",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/AI-Engineer---Full-Stack_R2626078",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 57295,
+    "company": "Philips",
+    "role": "Software Development Engineer (Orlando, FL)",
+    "location": "Orlando, Florida, United States",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Orlando-Florida-United-States/Software-Development-Engineer--Orlando--FL-_587139-1",
     "age": "1d",
     "is_internship": false
   },
@@ -605,17 +671,6 @@
     "is_internship": false
   },
   {
-    "id": 47797,
-    "company": "Bosch",
-    "role": "Sales Executive - Mobility Software & Services",
-    "location": "Farmington Hills, MI, us",
-    "source": "SmartRecruiters",
-    "status": "not_applied",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000136481032-sales-executive-mobility-software-services",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
     "id": 48586,
     "company": "Robert Bosch",
     "role": "Sales Executive - Mobility Software & Services",
@@ -623,7 +678,7 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000136481032-sales-executive-mobility-software-services",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -634,7 +689,7 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000136481032-sales-executive-mobility-software-services",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -645,7 +700,18 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000136481032-sales-executive-mobility-software-services",
-    "age": "1d",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 47797,
+    "company": "Bosch",
+    "role": "Sales Executive - Mobility Software & Services",
+    "location": "Farmington Hills, MI, us",
+    "source": "SmartRecruiters",
+    "status": "not_applied",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000136481032-sales-executive-mobility-software-services",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -656,7 +722,7 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://www.linkedin.com/jobs/view/fullstack-developer-java-python-at-kpg99-inc-4438231643",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -671,158 +737,15 @@
     "is_internship": false
   },
   {
-    "id": 51411,
-    "company": "Rocket Companies",
-    "role": "iOS Mobile Software Developer I",
-    "location": "Seattle, WA",
+    "id": 55681,
+    "company": "Johnson & Johnson",
+    "role": "Software Engineer, Real-time Software",
+    "location": "Santa Clara, California, United States of America",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/iOS-Mobile-Software-Developer-I_R-083670-1",
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineer--Real-time-Software_R-086265-1",
     "age": "2d",
     "is_internship": false
-  },
-  {
-    "id": 54903,
-    "company": "Amazon",
-    "role": "Software Development Engineer, Ads Sales Assistant",
-    "location": "Seattle, Washington, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10469105/apply",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 46825,
-    "company": "Cisco",
-    "role": "Software Engineer",
-    "location": "RTP, North Carolina, US",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Engineer_2018282",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 54808,
-    "company": "Amazon",
-    "role": "Software Development Engineer, Developer Agents and Experiences",
-    "location": "Seattle, Washington, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10468947/apply",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 54812,
-    "company": "Amazon",
-    "role": "Software Development Engineer II, AWS EBS Backup Snapshot & Edge ",
-    "location": "Seattle, Washington, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10469156/apply",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 48925,
-    "company": "General Motors",
-    "role": "Software Engineer",
-    "location": "Warren, Michigan, United States of America",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Software-Engineer_JR-202614511",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 48928,
-    "company": "Cisco",
-    "role": "Site Reliability Engineer (Hybrid)",
-    "location": "RTP, North Carolina, US",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Site-Reliability-Engineer_2014845",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 49117,
-    "company": "NVIDIA",
-    "role": "Enterprise Product Engineer - Fullstack",
-    "location": "US, CA, Santa Clara",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Enterprise-Product-Engineer---Fullstack_JR2017906",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 49256,
-    "company": "Regions Bank",
-    "role": "Software Engineer - Data [Birmingham or Atlanta]",
-    "location": "Hoover, AL - Riverchase Operations Center (Birmingham, AL)",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Software-Engineer---Data--Birmingham-or-Atlanta-_R102468-1",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 49634,
-    "company": "The Walt Disney Company",
-    "role": "Product Software Engineer I",
-    "location": "Santa Monica, CA, USA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Santa-Monica-CA-USA/Product-Software-Engineer-I_10151711",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 49731,
-    "company": "TJX",
-    "role": "Frontend Associate",
-    "location": "Wilmington, NC 28403",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Wilmington-NC-28403/Frontend-Associate_REQ134233",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 49732,
-    "company": "TJX",
-    "role": "PT Front End Associate",
-    "location": "Knightdale, NC 27545",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Knightdale-NC-27545/PT-Front-End-Associate_REQ134185",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 49733,
-    "company": "TJX",
-    "role": "Part Time FrontEnd Coordinator",
-    "location": "Fair Oaks, CA 95628",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Fair-Oaks-CA-95628/Part-Time-FrontEnd-Coordinator_REQ134183-1",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 49845,
-    "company": "Knexus Research Corporation",
-    "role": "Skillbridge Internship- AI Software Engineer",
-    "location": "Vienna, Virginia, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://jooble.org/jdp/-725470358308316787",
-    "age": "2d",
-    "is_internship": true
   },
   {
     "id": 50297,
@@ -832,50 +755,6 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---GPU_JR2017734",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 50298,
-    "company": "NVIDIA",
-    "role": "System Software Engineer - GPU",
-    "location": "US, CA, Santa Clara",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---GPU_JR2002051",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 50515,
-    "company": "SS&C",
-    "role": "Data Platform Software Engineer",
-    "location": "Kansas City, MO",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/Kansas-City-MO/Data-Platform-Software-Engineer_R44578",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 47082,
-    "company": "Regions Bank",
-    "role": "Software Engineer - Full Stack / .NET",
-    "location": "Hoover, AL - Riverchase Operations Center (Birmingham, AL)",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Software-Engineer---Full-Stack---NET_R103675-1",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 55681,
-    "company": "Johnson & Johnson",
-    "role": "Software Engineer, Real-time Software",
-    "location": "Santa Clara, California, United States of America",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineer--Real-time-Software_R-086265-1",
     "age": "2d",
     "is_internship": false
   },
@@ -913,17 +792,6 @@
     "is_internship": false
   },
   {
-    "id": 49832,
-    "company": "Albertsons Companies",
-    "role": "Front End Entry Level",
-    "location": "Lake Oswego, Oregon, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-albertsons-companies-4438117184",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
     "id": 54867,
     "company": "Amazon",
     "role": "Software Development Engineer II, AWS EBS Backup Snapshot & Edge ",
@@ -931,17 +799,6 @@
     "source": "amazon",
     "status": "not_applied",
     "url": "https://account.amazon.jobs/jobs/10468889/apply",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 49852,
-    "company": "Jobright.ai",
-    "role": "Software Developer, New Grad",
-    "location": "Reston, Virginia, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://jobs.digitalhire.com/job-listing/opening/6zai3Jzrx6OO5M87SZeKi0",
     "age": "2d",
     "is_internship": false
   },
@@ -957,24 +814,13 @@
     "is_internship": false
   },
   {
-    "id": 47957,
-    "company": "Motorola",
-    "role": "Associate Enterprise Account Executive \u2013 Cloud Software Sales",
-    "location": "Chicago, IL",
-    "source": "Workday",
+    "id": 49832,
+    "company": "Albertsons Companies",
+    "role": "Front End Entry Level",
+    "location": "Lake Oswego, Oregon, USA",
+    "source": "JSearch",
     "status": "not_applied",
-    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Associate-Enterprise-Account-Executive---Cloud-Software-Sales_R65287",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 49974,
-    "company": "Bristol Myers Squibb",
-    "role": "Full Stack AI Engineer",
-    "location": "Princeton - NJ - US",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Princeton---NJ---US/Full-Stack-AI-Engineer_R1604278-1",
+    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-albertsons-companies-4438117184",
     "age": "2d",
     "is_internship": false
   },
@@ -990,6 +836,138 @@
     "is_internship": false
   },
   {
+    "id": 49852,
+    "company": "Jobright.ai",
+    "role": "Software Developer, New Grad",
+    "location": "Reston, Virginia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://jobs.digitalhire.com/job-listing/opening/6zai3Jzrx6OO5M87SZeKi0",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 50298,
+    "company": "NVIDIA",
+    "role": "System Software Engineer - GPU",
+    "location": "US, CA, Santa Clara",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---GPU_JR2002051",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 54931,
+    "company": "Amazon",
+    "role": "Software Development Engineer II, AWS Events Technology Mobile App Team",
+    "location": "Seattle, Washington, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10469235/apply",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 54903,
+    "company": "Amazon",
+    "role": "Software Development Engineer, Ads Sales Assistant",
+    "location": "Seattle, Washington, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10469105/apply",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 49974,
+    "company": "Bristol Myers Squibb",
+    "role": "Full Stack AI Engineer",
+    "location": "Princeton - NJ - US",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Princeton---NJ---US/Full-Stack-AI-Engineer_R1604278-1",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 49845,
+    "company": "Knexus Research Corporation",
+    "role": "Skillbridge Internship- AI Software Engineer",
+    "location": "Vienna, Virginia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://jooble.org/jdp/-725470358308316787",
+    "age": "2d",
+    "is_internship": true
+  },
+  {
+    "id": 54936,
+    "company": "Amazon",
+    "role": "Software Development Engineer II, SCOT - Automated Inventory Mgmt",
+    "location": "Bellevue, Washington, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10469394/apply",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 50515,
+    "company": "SS&C",
+    "role": "Data Platform Software Engineer",
+    "location": "Kansas City, MO",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/Kansas-City-MO/Data-Platform-Software-Engineer_R44578",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 54808,
+    "company": "Amazon",
+    "role": "Software Development Engineer, Developer Agents and Experiences",
+    "location": "Seattle, Washington, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10468947/apply",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 48928,
+    "company": "Cisco",
+    "role": "Site Reliability Engineer (Hybrid)",
+    "location": "RTP, North Carolina, US",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Site-Reliability-Engineer_2014845",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 48925,
+    "company": "General Motors",
+    "role": "Software Engineer",
+    "location": "Warren, Michigan, United States of America",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Software-Engineer_JR-202614511",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 48498,
+    "company": "The Walt Disney Company",
+    "role": "Product Software Engineer II",
+    "location": "New York, NY, USA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Product-Software-Engineer-II_10153799-2",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
     "id": 47976,
     "company": "NVIDIA",
     "role": "System Software Engineer, Distributed Systems",
@@ -997,6 +975,94 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Distributed-Systems_JR2013472",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 47957,
+    "company": "Motorola",
+    "role": "Associate Enterprise Account Executive \u2013 Cloud Software Sales",
+    "location": "Chicago, IL",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Associate-Enterprise-Account-Executive---Cloud-Software-Sales_R65287",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 47082,
+    "company": "Regions Bank",
+    "role": "Software Engineer - Full Stack / .NET",
+    "location": "Hoover, AL - Riverchase Operations Center (Birmingham, AL)",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Software-Engineer---Full-Stack---NET_R103675-1",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 46825,
+    "company": "Cisco",
+    "role": "Software Engineer",
+    "location": "RTP, North Carolina, US",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Engineer_2018282",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 49733,
+    "company": "TJX",
+    "role": "Part Time FrontEnd Coordinator",
+    "location": "Fair Oaks, CA 95628",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Fair-Oaks-CA-95628/Part-Time-FrontEnd-Coordinator_REQ134183-1",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 49732,
+    "company": "TJX",
+    "role": "PT Front End Associate",
+    "location": "Knightdale, NC 27545",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Knightdale-NC-27545/PT-Front-End-Associate_REQ134185",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 49731,
+    "company": "TJX",
+    "role": "Frontend Associate",
+    "location": "Wilmington, NC 28403",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Wilmington-NC-28403/Frontend-Associate_REQ134233",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 51406,
+    "company": "Rocket Mortgage",
+    "role": "iOS Mobile Software Developer I",
+    "location": "Seattle, WA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/iOS-Mobile-Software-Developer-I_R-083670-1",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 51411,
+    "company": "Rocket Companies",
+    "role": "iOS Mobile Software Developer I",
+    "location": "Seattle, WA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/iOS-Mobile-Software-Developer-I_R-083670-1",
     "age": "2d",
     "is_internship": false
   },
@@ -1067,46 +1133,46 @@
     "is_internship": false
   },
   {
-    "id": 48498,
+    "id": 49634,
     "company": "The Walt Disney Company",
-    "role": "Product Software Engineer II",
-    "location": "New York, NY, USA",
+    "role": "Product Software Engineer I",
+    "location": "Santa Monica, CA, USA",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Product-Software-Engineer-II_10153799-2",
+    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Santa-Monica-CA-USA/Product-Software-Engineer-I_10151711",
     "age": "2d",
     "is_internship": false
   },
   {
-    "id": 54936,
-    "company": "Amazon",
-    "role": "Software Development Engineer II, SCOT - Automated Inventory Mgmt",
-    "location": "Bellevue, Washington, USA",
-    "source": "amazon",
+    "id": 49256,
+    "company": "Regions Bank",
+    "role": "Software Engineer - Data [Birmingham or Atlanta]",
+    "location": "Hoover, AL - Riverchase Operations Center (Birmingham, AL)",
+    "source": "Workday",
     "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10469394/apply",
+    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Software-Engineer---Data--Birmingham-or-Atlanta-_R102468-1",
     "age": "2d",
     "is_internship": false
   },
   {
-    "id": 54931,
+    "id": 54812,
     "company": "Amazon",
-    "role": "Software Development Engineer II, AWS Events Technology Mobile App Team",
+    "role": "Software Development Engineer II, AWS EBS Backup Snapshot & Edge ",
     "location": "Seattle, Washington, USA",
     "source": "amazon",
     "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10469235/apply",
+    "url": "https://account.amazon.jobs/jobs/10469156/apply",
     "age": "2d",
     "is_internship": false
   },
   {
-    "id": 51406,
-    "company": "Rocket Mortgage",
-    "role": "iOS Mobile Software Developer I",
-    "location": "Seattle, WA",
+    "id": 49117,
+    "company": "NVIDIA",
+    "role": "Enterprise Product Engineer - Fullstack",
+    "location": "US, CA, Santa Clara",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/iOS-Mobile-Software-Developer-I_R-083670-1",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Enterprise-Product-Engineer---Fullstack_JR2017906",
     "age": "2d",
     "is_internship": false
   },
@@ -1122,17 +1188,6 @@
     "is_internship": false
   },
   {
-    "id": 49824,
-    "company": "BeaconFire Inc.",
-    "role": "Entry Level- Fullstack Developer AI Integration",
-    "location": "New York, New York, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/entry-level-fullstack-developer-ai-integration-at-beaconfire-inc-4426404675",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
     "id": 49818,
     "company": "StubHub",
     "role": "Software Engineer I - Core Platform - Streaming & Storage",
@@ -1140,6 +1195,17 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://www.linkedin.com/jobs/view/software-engineer-i-core-platform-streaming-storage-at-stubhub-4437851702",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 49824,
+    "company": "BeaconFire Inc.",
+    "role": "Entry Level- Fullstack Developer AI Integration",
+    "location": "New York, New York, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/entry-level-fullstack-developer-ai-integration-at-beaconfire-inc-4426404675",
     "age": "2d",
     "is_internship": false
   },
@@ -1210,24 +1276,35 @@
     "is_internship": false
   },
   {
-    "id": 53740,
-    "company": "Canonical",
-    "role": "Python and Kubernetes Software Engineer - Data, AI/ML & Analytics",
-    "location": "Washington, District of Columbia, USA",
-    "source": "JSearch",
+    "id": 42789,
+    "company": "ASML",
+    "role": "System Integration and Test Engineer- CWW Backend Nights",
+    "location": "Wilton, CT, USA",
+    "source": "Workday",
     "status": "not_applied",
-    "url": "https://www.whatjobs.com/jobs/python-and-kubernetes-software-engineer/washington-district-of-columbia?id=2866566413",
+    "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/System-Integration-and-Test-Engineer--CWW-Back-end-Nights_J-00346825",
     "age": "3d",
     "is_internship": false
   },
   {
-    "id": 43250,
-    "company": "Regions Bank",
-    "role": "Front-End Software Engineer (UI/.NET MVC/Razor) - [see locations]",
-    "location": "Hoover, AL - Riverchase Operations Center (Birmingham, AL)",
-    "source": "Workday",
+    "id": 54814,
+    "company": "Amazon",
+    "role": "SDE II, AWS- IAM Identity",
+    "location": "Austin, Texas, USA",
+    "source": "amazon",
     "status": "not_applied",
-    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Front-End-Software-Engineer--UI-NET-MVC-Razor-----see-locations-_R102918",
+    "url": "https://account.amazon.jobs/jobs/10468051/apply",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 54939,
+    "company": "Amazon",
+    "role": "Software Development Engineer, Middle Mile Scheduling Technology",
+    "location": "Bellevue, Washington, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10467024/apply",
     "age": "3d",
     "is_internship": false
   },
@@ -1254,57 +1331,13 @@
     "is_internship": false
   },
   {
-    "id": 44878,
-    "company": "Hewlett Packard Enterprise",
-    "role": "SASE Cloud Software Engineer - AI & Backend",
-    "location": "San Jose, California, United States of America",
-    "source": "Workday",
+    "id": 54818,
+    "company": "Amazon",
+    "role": "Software Dev Engineer - AWS Identity Access Management, AWS IAM Propagation",
+    "location": "Seattle, Washington, USA",
+    "source": "amazon",
     "status": "not_applied",
-    "url": "https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/San-Jose-California-United-States-of-America/SASE-Cloud-Software-Engineer---AI---Backend_1208148-1",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 45134,
-    "company": "Philips",
-    "role": "Software Engineer - Image Reconstruction (C++/CUDA)",
-    "location": "Orange (OH), Ohio, United States",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Orange-OH-Ohio-United-States/Software-Engineer---Image-Processing--C-----GPU-_582793",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 48589,
-    "company": "TJX",
-    "role": "HomeGoods Front End Associate",
-    "location": "Overland Park, KS 66223",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Overland-Park-KS-66223/HomeGoods-Front-End-Associate_REQ134021",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 48590,
-    "company": "TJX",
-    "role": "Front End Returns Associate",
-    "location": "Tucson, AZ 85743",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Tucson-AZ-85743/Front-End-Returns-Associate_REQ133882",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 49830,
-    "company": "Safeway",
-    "role": "Front End Entry Level",
-    "location": "Westminster, Maryland, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-safeway-4437730749",
+    "url": "https://account.amazon.jobs/jobs/10468214/apply",
     "age": "3d",
     "is_internship": false
   },
@@ -1320,46 +1353,35 @@
     "is_internship": false
   },
   {
-    "id": 41156,
-    "company": "NVIDIA",
-    "role": "VLSI Design Automation Software Engineer",
-    "location": "US, MA, Westford",
+    "id": 48590,
+    "company": "TJX",
+    "role": "Front End Returns Associate",
+    "location": "Tucson, AZ 85743",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MA-Westford/VLSI-Design-Automation-Software-Engineer_JR2016784",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Tucson-AZ-85743/Front-End-Returns-Associate_REQ133882",
     "age": "3d",
     "is_internship": false
   },
   {
-    "id": 42045,
-    "company": "Light & Wonder",
-    "role": "Associate Software QA Engineer",
-    "location": "Las Vegas, NV",
-    "source": "Workday",
+    "id": 54836,
+    "company": "Amazon",
+    "role": "Software Dev Engineer II, AMZ Foundational Security Services",
+    "location": "Herndon, Virginia, USA",
+    "source": "amazon",
     "status": "not_applied",
-    "url": "https://lnw.wd5.myworkdayjobs.com/LightWonderExternalCareers/job/Las-Vegas-NV/Associate-Software-QA-Engineer_R322338",
+    "url": "https://account.amazon.jobs/jobs/10468279/apply",
     "age": "3d",
     "is_internship": false
   },
   {
-    "id": 42789,
-    "company": "ASML",
-    "role": "System Integration and Test Engineer- CWW Backend Nights",
-    "location": "Wilton, CT, USA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/System-Integration-and-Test-Engineer--CWW-Back-end-Nights_J-00346825",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 53753,
-    "company": "Safeway",
-    "role": "Front End Entry Level",
-    "location": "La Plata, Maryland, USA",
+    "id": 53740,
+    "company": "Canonical",
+    "role": "Python and Kubernetes Software Engineer - Data, AI/ML & Analytics",
+    "location": "Washington, District of Columbia, USA",
     "source": "JSearch",
     "status": "not_applied",
-    "url": "https://www.indeed.com/viewjob?jk=cae8524593c19a28",
+    "url": "https://www.whatjobs.com/jobs/python-and-kubernetes-software-engineer/washington-district-of-columbia?id=2866566413",
     "age": "3d",
     "is_internship": false
   },
@@ -1375,13 +1397,13 @@
     "is_internship": false
   },
   {
-    "id": 53757,
-    "company": "Randalls",
-    "role": "Entry-Level Front End Associate: Grow in Service",
-    "location": "McKinney, Texas, USA",
-    "source": "JSearch",
+    "id": 44878,
+    "company": "Hewlett Packard Enterprise",
+    "role": "SASE Cloud Software Engineer - AI & Backend",
+    "location": "San Jose, California, United States of America",
+    "source": "Workday",
     "status": "not_applied",
-    "url": "https://bebee.com/us/jobs/entry-level-front-end-associate-grow-in-service-randalls-mckinney-tx-united-states--appcast-7428_d4dd9b9524827df3d5ee9d821b462e2498acbb995217bef8222aa92f0513c524",
+    "url": "https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/San-Jose-California-United-States-of-America/SASE-Cloud-Software-Engineer---AI---Backend_1208148-1",
     "age": "3d",
     "is_internship": false
   },
@@ -1397,61 +1419,6 @@
     "is_internship": false
   },
   {
-    "id": 54809,
-    "company": "Amazon",
-    "role": "Software Development Engineer, AWS Marketplace",
-    "location": "Denver, Colorado, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10467480/apply",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 54810,
-    "company": "Amazon",
-    "role": "Software Development Engineer, SupplyTech Sciences - Amazon Advertising",
-    "location": "Seattle, Washington, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10468257/apply",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 54811,
-    "company": "Amazon",
-    "role": "Software Development Engineer, SupplyTech Sciences - Amazon Advertising",
-    "location": "Seattle, Washington, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10468256/apply",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 54814,
-    "company": "Amazon",
-    "role": "SDE II, AWS- IAM Identity",
-    "location": "Austin, Texas, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10468051/apply",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 54818,
-    "company": "Amazon",
-    "role": "Software Dev Engineer - AWS Identity Access Management, AWS IAM Propagation",
-    "location": "Seattle, Washington, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10468214/apply",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
     "id": 54826,
     "company": "Amazon",
     "role": "Software Development Engineer, Amazon Bedrock AgentCore",
@@ -1459,6 +1426,17 @@
     "source": "amazon",
     "status": "not_applied",
     "url": "https://account.amazon.jobs/jobs/10467661/apply",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 55194,
+    "company": "Amazon",
+    "role": "Software Development Engineer II, SCOT-OSS, Retail Capacity",
+    "location": "New York, New York, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10468037/apply",
     "age": "3d",
     "is_internship": false
   },
@@ -1474,46 +1452,24 @@
     "is_internship": false
   },
   {
-    "id": 54838,
+    "id": 54809,
     "company": "Amazon",
-    "role": "Software Dev Engineer II, AMZ Foundational Security Services",
-    "location": "Herndon, Virginia, USA",
+    "role": "Software Development Engineer, AWS Marketplace",
+    "location": "Denver, Colorado, USA",
     "source": "amazon",
     "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10468278/apply",
+    "url": "https://account.amazon.jobs/jobs/10467480/apply",
     "age": "3d",
     "is_internship": false
   },
   {
-    "id": 54846,
-    "company": "Amazon",
-    "role": "Software Development Engineer II, AWS SMGS- Galaxi",
-    "location": "Seattle, Washington, USA",
-    "source": "amazon",
+    "id": 49830,
+    "company": "Safeway",
+    "role": "Front End Entry Level",
+    "location": "Westminster, Maryland, USA",
+    "source": "JSearch",
     "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10467411/apply",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 54864,
-    "company": "Amazon",
-    "role": "Software Engineer, Programming Foundations, ASBX",
-    "location": "Arlington, Virginia, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10467928/apply",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 54870,
-    "company": "Amazon",
-    "role": "Software Development Engineer, Measurement, Ad Tech, and Data Science ",
-    "location": "New York, New York, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10468062/apply",
+    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-safeway-4437730749",
     "age": "3d",
     "is_internship": false
   },
@@ -1540,35 +1496,145 @@
     "is_internship": false
   },
   {
-    "id": 54939,
-    "company": "Amazon",
-    "role": "Software Development Engineer, Middle Mile Scheduling Technology",
-    "location": "Bellevue, Washington, USA",
-    "source": "amazon",
+    "id": 53753,
+    "company": "Safeway",
+    "role": "Front End Entry Level",
+    "location": "La Plata, Maryland, USA",
+    "source": "JSearch",
     "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10467024/apply",
+    "url": "https://www.indeed.com/viewjob?jk=cae8524593c19a28",
     "age": "3d",
     "is_internship": false
   },
   {
-    "id": 54836,
+    "id": 43250,
+    "company": "Regions Bank",
+    "role": "Front-End Software Engineer (UI/.NET MVC/Razor) - [see locations]",
+    "location": "Hoover, AL - Riverchase Operations Center (Birmingham, AL)",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Front-End-Software-Engineer--UI-NET-MVC-Razor-----see-locations-_R102918",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 41156,
+    "company": "NVIDIA",
+    "role": "VLSI Design Automation Software Engineer",
+    "location": "US, MA, Westford",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MA-Westford/VLSI-Design-Automation-Software-Engineer_JR2016784",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 54810,
+    "company": "Amazon",
+    "role": "Software Development Engineer, SupplyTech Sciences - Amazon Advertising",
+    "location": "Seattle, Washington, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10468257/apply",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 45134,
+    "company": "Philips",
+    "role": "Software Engineer - Image Reconstruction (C++/CUDA)",
+    "location": "Orange (OH), Ohio, United States",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Orange-OH-Ohio-United-States/Software-Engineer---Image-Processing--C-----GPU-_582793",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 53757,
+    "company": "Randalls",
+    "role": "Entry-Level Front End Associate: Grow in Service",
+    "location": "McKinney, Texas, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://bebee.com/us/jobs/entry-level-front-end-associate-grow-in-service-randalls-mckinney-tx-united-states--appcast-7428_d4dd9b9524827df3d5ee9d821b462e2498acbb995217bef8222aa92f0513c524",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 48589,
+    "company": "TJX",
+    "role": "HomeGoods Front End Associate",
+    "location": "Overland Park, KS 66223",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Overland-Park-KS-66223/HomeGoods-Front-End-Associate_REQ134021",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 54838,
     "company": "Amazon",
     "role": "Software Dev Engineer II, AMZ Foundational Security Services",
     "location": "Herndon, Virginia, USA",
     "source": "amazon",
     "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10468279/apply",
+    "url": "https://account.amazon.jobs/jobs/10468278/apply",
     "age": "3d",
     "is_internship": false
   },
   {
-    "id": 55194,
+    "id": 54846,
     "company": "Amazon",
-    "role": "Software Development Engineer II, SCOT-OSS, Retail Capacity",
+    "role": "Software Development Engineer II, AWS SMGS- Galaxi",
+    "location": "Seattle, Washington, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10467411/apply",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 42045,
+    "company": "Light & Wonder",
+    "role": "Associate Software QA Engineer",
+    "location": "Las Vegas, NV",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://lnw.wd5.myworkdayjobs.com/LightWonderExternalCareers/job/Las-Vegas-NV/Associate-Software-QA-Engineer_R322338",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 54811,
+    "company": "Amazon",
+    "role": "Software Development Engineer, SupplyTech Sciences - Amazon Advertising",
+    "location": "Seattle, Washington, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10468256/apply",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 54864,
+    "company": "Amazon",
+    "role": "Software Engineer, Programming Foundations, ASBX",
+    "location": "Arlington, Virginia, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10467928/apply",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 54870,
+    "company": "Amazon",
+    "role": "Software Development Engineer, Measurement, Ad Tech, and Data Science ",
     "location": "New York, New York, USA",
     "source": "amazon",
     "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10468037/apply",
+    "url": "https://account.amazon.jobs/jobs/10468062/apply",
     "age": "3d",
     "is_internship": false
   },
@@ -1628,6 +1694,28 @@
     "is_internship": false
   },
   {
+    "id": 49848,
+    "company": "TeamWorx Security",
+    "role": "DoD SkillBridge: Software Developer or Engineer",
+    "location": "Columbia, Maryland, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/dod-skillbridge-software-developer-or-engineer-at-teamworx-security-4144463212",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 53758,
+    "company": "Haggen",
+    "role": "Entry-Level Front End Associate Grow with Us",
+    "location": "Woodinville, Washington, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://bebee.com/us/jobs/entry-level-front-end-associate-grow-with-us-haggen-woodinville-wa-united-states--appcast-7428_a538e87ce781871d7ed15196844c20d08487f475901c379071459a5f2986be25",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
     "id": 54813,
     "company": "Amazon",
     "role": "Software Development Engineer, AWS Partnerships",
@@ -1637,17 +1725,6 @@
     "url": "https://account.amazon.jobs/jobs/10466825/apply",
     "age": "4d",
     "is_internship": false
-  },
-  {
-    "id": 49847,
-    "company": "Framework Ventures",
-    "role": "Software Engineering Intern Institutional",
-    "location": "Gaithersburg, Maryland, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.learn4good.com/jobs/gaithersburg/maryland/software_development/5262881891/e/",
-    "age": "4d",
-    "is_internship": true
   },
   {
     "id": 54815,
@@ -1672,112 +1749,13 @@
     "is_internship": false
   },
   {
-    "id": 49837,
-    "company": "LCG, Inc.",
-    "role": "AI Developer / Full Stack Developer Associate",
-    "location": "Bethesda, Maryland, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/ai-developer-full-stack-developer-associate-at-lcg-inc-4437848580",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
-    "id": 35713,
-    "company": "U.S. Bank",
-    "role": "Software Engineer - Salesforce Development (Multiple openings) in McLean, VA.",
-    "location": "McLean, VA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/McLean-VA/Software-Engineer---Salesforce-Development--Multiple-openings--in-McLean--VA_2026-0019282",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
-    "id": 54858,
+    "id": 54821,
     "company": "Amazon",
-    "role": "Software Development Engineer, Developer Agents and Experiences",
+    "role": "Software Development Engineer, AWS Invoicing",
     "location": "Seattle, Washington, USA",
     "source": "amazon",
     "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10466701/apply",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
-    "id": 54825,
-    "company": "Amazon",
-    "role": "Software Development Engineer, JP Global Mile acceleration",
-    "location": "Seattle, Washington, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10466966/apply",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
-    "id": 53758,
-    "company": "Haggen",
-    "role": "Entry-Level Front End Associate Grow with Us",
-    "location": "Woodinville, Washington, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://bebee.com/us/jobs/entry-level-front-end-associate-grow-with-us-haggen-woodinville-wa-united-states--appcast-7428_a538e87ce781871d7ed15196844c20d08487f475901c379071459a5f2986be25",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
-    "id": 48592,
-    "company": "TJX",
-    "role": "Retail Front End Supervisor",
-    "location": "Delafield, WI 53018",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Delafield-WI-53018/Retail-Front-End-Supervisor_REQ133215",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
-    "id": 55101,
-    "company": "Amazon",
-    "role": "Software Development Engineer, Network Capacity Demand",
-    "location": "Seattle, Washington, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10466998/apply",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
-    "id": 41929,
-    "company": "Fidelity Investments",
-    "role": "Full Stack Engineer",
-    "location": "Westlake, TX",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/fmr/targeted/job/Westlake-TX/Full-Stack-Engineer_2131144-1",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
-    "id": 55336,
-    "company": "Amazon",
-    "role": "HPC Platform Engineer, Software, Center for Quantum Computing",
-    "location": "San Francisco, California, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10466636/apply",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
-    "id": 40833,
-    "company": "Chamberlain Group",
-    "role": "Software Engineer I - AI",
-    "location": "Oak Brook, IL",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Software-Engineer-I---AI_JR30291",
+    "url": "https://account.amazon.jobs/jobs/10466626/apply",
     "age": "4d",
     "is_internship": false
   },
@@ -1793,13 +1771,90 @@
     "is_internship": false
   },
   {
-    "id": 48593,
-    "company": "TJX",
-    "role": "Retail - Full Time Front End Supervisor",
-    "location": "Auburn Hills, MI 48326",
+    "id": 54825,
+    "company": "Amazon",
+    "role": "Software Development Engineer, JP Global Mile acceleration",
+    "location": "Seattle, Washington, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10466966/apply",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 54830,
+    "company": "Amazon",
+    "role": "Software Development Engineer, AWS Marketplace",
+    "location": "New York, New York, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10466422/apply",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 54831,
+    "company": "Amazon",
+    "role": "Software Development Engineer, Prime Video",
+    "location": "New York, New York, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10466381/apply",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 54858,
+    "company": "Amazon",
+    "role": "Software Development Engineer, Developer Agents and Experiences",
+    "location": "Seattle, Washington, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10466701/apply",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 54881,
+    "company": "Amazon",
+    "role": "Software Development Engineer, Music Metrics & Data Platform",
+    "location": "San Francisco, California, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10465926/apply",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 41929,
+    "company": "Fidelity Investments",
+    "role": "Full Stack Engineer",
+    "location": "Westlake, TX",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Auburn-Hills-MI-48326/Retail---Full-Time-Front-End-Supervisor_REQ133165",
+    "url": "https://wd1.myworkdaysite.com/recruiting/fmr/targeted/job/Westlake-TX/Full-Stack-Engineer_2131144-1",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 40833,
+    "company": "Chamberlain Group",
+    "role": "Software Engineer I - AI",
+    "location": "Oak Brook, IL",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Software-Engineer-I---AI_JR30291",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 55101,
+    "company": "Amazon",
+    "role": "Software Development Engineer, Network Capacity Demand",
+    "location": "Seattle, Washington, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10466998/apply",
     "age": "4d",
     "is_internship": false
   },
@@ -1811,6 +1866,17 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://www.ziprecruiter.com/c/BCC-NIH/Job/Full-Stack-Developer/-in-Bethesda,MD?jid=386285bee9b91787",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 55336,
+    "company": "Amazon",
+    "role": "HPC Platform Engineer, Software, Center for Quantum Computing",
+    "location": "San Francisco, California, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10466636/apply",
     "age": "4d",
     "is_internship": false
   },
@@ -1837,6 +1903,17 @@
     "is_internship": false
   },
   {
+    "id": 40070,
+    "company": "Cisco",
+    "role": "Software Engineer, Backend",
+    "location": "San Francisco, California, US",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Francisco-California-US/Software-Engineer--Backend_2016066-1",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
     "id": 55100,
     "company": "Amazon",
     "role": "Software Development Engineer, Network Capacity Demand",
@@ -1855,28 +1932,6 @@
     "source": "amazon",
     "status": "not_applied",
     "url": "https://account.amazon.jobs/jobs/10466781/apply",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
-    "id": 48591,
-    "company": "TJX",
-    "role": "Front End Coordinator",
-    "location": "Dubuque, IA 52002",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Dubuque-IA-52002/Front-End-Coordinator_REQ133258",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
-    "id": 40070,
-    "company": "Cisco",
-    "role": "Software Engineer, Backend",
-    "location": "San Francisco, California, US",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Francisco-California-US/Software-Engineer--Backend_2016066-1",
     "age": "4d",
     "is_internship": false
   },
@@ -1925,17 +1980,6 @@
     "is_internship": false
   },
   {
-    "id": 54830,
-    "company": "Amazon",
-    "role": "Software Development Engineer, AWS Marketplace",
-    "location": "New York, New York, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10466422/apply",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
     "id": 49883,
     "company": "S27a",
     "role": "AI & Backend Cloud Engineering Fellowship; Hands",
@@ -1954,28 +1998,6 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/San-Diego-CA-USA/Manufacturing-Software-Engineer_J-00346633-1",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
-    "id": 49826,
-    "company": "Converge Lab",
-    "role": "Backend Engineer \u2014 AI-Driven Hardware & LLMs",
-    "location": "Sunnyvale, California, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.whatjobs.com/jobs/backend-engineer-ai-driven-hardware/sunnyvale-california?id=2864144272",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
-    "id": 54831,
-    "company": "Amazon",
-    "role": "Software Development Engineer, Prime Video",
-    "location": "New York, New York, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10466381/apply",
     "age": "4d",
     "is_internship": false
   },
@@ -2002,17 +2024,6 @@
     "is_internship": true
   },
   {
-    "id": 54881,
-    "company": "Amazon",
-    "role": "Software Development Engineer, Music Metrics & Data Platform",
-    "location": "San Francisco, California, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10465926/apply",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
     "id": 37934,
     "company": "DXC Technology",
     "role": "Front End Engineer",
@@ -2020,17 +2031,6 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/USA---NY---ANY-CITY/Front-End-Engineer_51584345",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
-    "id": 49848,
-    "company": "TeamWorx Security",
-    "role": "DoD SkillBridge: Software Developer or Engineer",
-    "location": "Columbia, Maryland, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/dod-skillbridge-software-developer-or-engineer-at-teamworx-security-4144463212",
     "age": "4d",
     "is_internship": false
   },
@@ -2046,15 +2046,136 @@
     "is_internship": false
   },
   {
-    "id": 54821,
-    "company": "Amazon",
-    "role": "Software Development Engineer, AWS Invoicing",
-    "location": "Seattle, Washington, USA",
-    "source": "amazon",
+    "id": 49847,
+    "company": "Framework Ventures",
+    "role": "Software Engineering Intern Institutional",
+    "location": "Gaithersburg, Maryland, USA",
+    "source": "JSearch",
     "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10466626/apply",
+    "url": "https://www.learn4good.com/jobs/gaithersburg/maryland/software_development/5262881891/e/",
+    "age": "4d",
+    "is_internship": true
+  },
+  {
+    "id": 49837,
+    "company": "LCG, Inc.",
+    "role": "AI Developer / Full Stack Developer Associate",
+    "location": "Bethesda, Maryland, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/ai-developer-full-stack-developer-associate-at-lcg-inc-4437848580",
     "age": "4d",
     "is_internship": false
+  },
+  {
+    "id": 35713,
+    "company": "U.S. Bank",
+    "role": "Software Engineer - Salesforce Development (Multiple openings) in McLean, VA.",
+    "location": "McLean, VA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/McLean-VA/Software-Engineer---Salesforce-Development--Multiple-openings--in-McLean--VA_2026-0019282",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 49826,
+    "company": "Converge Lab",
+    "role": "Backend Engineer \u2014 AI-Driven Hardware & LLMs",
+    "location": "Sunnyvale, California, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.whatjobs.com/jobs/backend-engineer-ai-driven-hardware/sunnyvale-california?id=2864144272",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 48592,
+    "company": "TJX",
+    "role": "Retail Front End Supervisor",
+    "location": "Delafield, WI 53018",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Delafield-WI-53018/Retail-Front-End-Supervisor_REQ133215",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 48593,
+    "company": "TJX",
+    "role": "Retail - Full Time Front End Supervisor",
+    "location": "Auburn Hills, MI 48326",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Auburn-Hills-MI-48326/Retail---Full-Time-Front-End-Supervisor_REQ133165",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 48591,
+    "company": "TJX",
+    "role": "Front End Coordinator",
+    "location": "Dubuque, IA 52002",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Dubuque-IA-52002/Front-End-Coordinator_REQ133258",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 49841,
+    "company": "Palantir Technologies",
+    "role": "Software Engineer Intern: Build AI & Cloud Platforms",
+    "location": "Washington, District of Columbia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.whatjobs.com/jobs/software-engineer-intern-build-ai/washington-district-of-columbia?id=2860313142",
+    "age": "5d",
+    "is_internship": true
+  },
+  {
+    "id": 49842,
+    "company": "Palantir Technologies",
+    "role": "Software Engineer Intern: Build Data-Driven Platforms",
+    "location": "Washington, District of Columbia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.whatjobs.com/jobs/software-engineer-intern-build-data-driven/washington-district-of-columbia?id=2860102652",
+    "age": "5d",
+    "is_internship": true
+  },
+  {
+    "id": 53775,
+    "company": "Meta",
+    "role": "Production Engineer (University Grad)",
+    "location": "New York, New York, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/production-engineer-university-grad-at-meta-4425725033",
+    "age": "5d",
+    "is_internship": false
+  },
+  {
+    "id": 49816,
+    "company": "U.S. Bank National Association",
+    "role": "Software Engineer - Salesforce Development (Multiple openings) in McLean, VA.",
+    "location": "McLean, Virginia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://careers.usbank.com/global/en/job/UBNAGLOBAL20260019282EXTERNALENGLOBAL/Software-Engineer-Salesforce-Development-Multiple-openings-in-McLean-VA",
+    "age": "5d",
+    "is_internship": false
+  },
+  {
+    "id": 53769,
+    "company": "Feedinkoo",
+    "role": "Software Engineering Fellowship, Internship (Remote) at Jobright.ai",
+    "location": "New York, New York, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://bebee.com/us/jobs/software-engineering-fellowship-internship-remote-at-jobrightai-feedinkoo-new-york--lensa-7428_bfca90af30cba7b16caa3e80b822c5b1b49202b5b39d8a7942c3d58c3b972c2e",
+    "age": "5d",
+    "is_internship": true
   },
   {
     "id": 49849,
@@ -2079,17 +2200,6 @@
     "is_internship": false
   },
   {
-    "id": 53769,
-    "company": "Feedinkoo",
-    "role": "Software Engineering Fellowship, Internship (Remote) at Jobright.ai",
-    "location": "New York, New York, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://bebee.com/us/jobs/software-engineering-fellowship-internship-remote-at-jobrightai-feedinkoo-new-york--lensa-7428_bfca90af30cba7b16caa3e80b822c5b1b49202b5b39d8a7942c3d58c3b972c2e",
-    "age": "5d",
-    "is_internship": true
-  },
-  {
     "id": 48595,
     "company": "TJX",
     "role": "Front-End Associate",
@@ -2101,13 +2211,13 @@
     "is_internship": false
   },
   {
-    "id": 53775,
-    "company": "Meta",
-    "role": "Production Engineer (University Grad)",
-    "location": "New York, New York, USA",
+    "id": 49875,
+    "company": "TEKsystems",
+    "role": "Entry-Level SRE: Automate, Scale & Stabilize Apps",
+    "location": "USA",
     "source": "JSearch",
     "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/production-engineer-university-grad-at-meta-4425725033",
+    "url": "https://www.jobleads.com/us/job/entry-level-sre-automate-scale-stabilize-apps--united-states--e59a5257b2451127ea7df3f94ec5e865d",
     "age": "5d",
     "is_internship": false
   },
@@ -2123,47 +2233,14 @@
     "is_internship": false
   },
   {
-    "id": 49816,
-    "company": "U.S. Bank National Association",
-    "role": "Software Engineer - Salesforce Development (Multiple openings) in McLean, VA.",
-    "location": "McLean, Virginia, USA",
-    "source": "JSearch",
+    "id": 54817,
+    "company": "Amazon",
+    "role": "Software Development Engineer, Conversational Ads Experience",
+    "location": "Seattle, Washington, USA",
+    "source": "amazon",
     "status": "not_applied",
-    "url": "https://careers.usbank.com/global/en/job/UBNAGLOBAL20260019282EXTERNALENGLOBAL/Software-Engineer-Salesforce-Development-Multiple-openings-in-McLean-VA",
-    "age": "5d",
-    "is_internship": false
-  },
-  {
-    "id": 49842,
-    "company": "Palantir Technologies",
-    "role": "Software Engineer Intern: Build Data-Driven Platforms",
-    "location": "Washington, District of Columbia, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.whatjobs.com/jobs/software-engineer-intern-build-data-driven/washington-district-of-columbia?id=2860102652",
-    "age": "5d",
-    "is_internship": true
-  },
-  {
-    "id": 49841,
-    "company": "Palantir Technologies",
-    "role": "Software Engineer Intern: Build AI & Cloud Platforms",
-    "location": "Washington, District of Columbia, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.whatjobs.com/jobs/software-engineer-intern-build-ai/washington-district-of-columbia?id=2860313142",
-    "age": "5d",
-    "is_internship": true
-  },
-  {
-    "id": 49875,
-    "company": "TEKsystems",
-    "role": "Entry-Level SRE: Automate, Scale & Stabilize Apps",
-    "location": "USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.jobleads.com/us/job/entry-level-sre-automate-scale-stabilize-apps--united-states--e59a5257b2451127ea7df3f94ec5e865d",
-    "age": "5d",
+    "url": "https://account.amazon.jobs/jobs/10465843/apply",
+    "age": "6d",
     "is_internship": false
   },
   {
@@ -2174,28 +2251,6 @@
     "source": "amazon",
     "status": "not_applied",
     "url": "https://account.amazon.jobs/jobs/10465851/apply",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 54835,
-    "company": "Amazon",
-    "role": "Software Development Engineer, Ads AI Core Infra",
-    "location": "Seattle, Washington, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10465850/apply",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 54817,
-    "company": "Amazon",
-    "role": "Software Development Engineer, Conversational Ads Experience",
-    "location": "Seattle, Washington, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10465843/apply",
     "age": "6d",
     "is_internship": false
   },
@@ -2211,13 +2266,13 @@
     "is_internship": false
   },
   {
-    "id": 53777,
-    "company": "Meta",
-    "role": "Software Engineer (New Grad)",
-    "location": "New York, New York, USA",
+    "id": 49821,
+    "company": "Virginia Tech",
+    "role": "Entry-Level AI Software Engineer, Intelligent Systems",
+    "location": "Arlington, Virginia, USA",
     "source": "JSearch",
     "status": "not_applied",
-    "url": "https://www.fresherjobss.com/job/782/Software-Engineer-New-Grad",
+    "url": "https://www.jobleads.com/us/job/entry-level-ai-software-engineer-intelligent-systems--arlington--ece961780e8c7d07fd40d9a05ea074667",
     "age": "6d",
     "is_internship": false
   },
@@ -2233,6 +2288,17 @@
     "is_internship": false
   },
   {
+    "id": 53777,
+    "company": "Meta",
+    "role": "Software Engineer (New Grad)",
+    "location": "New York, New York, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.fresherjobss.com/job/782/Software-Engineer-New-Grad",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
     "id": 49840,
     "company": "TEKsystems",
     "role": "Early Career - Site Reliability Engineer",
@@ -2244,24 +2310,13 @@
     "is_internship": false
   },
   {
-    "id": 49821,
-    "company": "Virginia Tech",
-    "role": "Entry-Level AI Software Engineer, Intelligent Systems",
-    "location": "Arlington, Virginia, USA",
-    "source": "JSearch",
+    "id": 54835,
+    "company": "Amazon",
+    "role": "Software Development Engineer, Ads AI Core Infra",
+    "location": "Seattle, Washington, USA",
+    "source": "amazon",
     "status": "not_applied",
-    "url": "https://www.jobleads.com/us/job/entry-level-ai-software-engineer-intelligent-systems--arlington--ece961780e8c7d07fd40d9a05ea074667",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 23803,
-    "company": "Syncreon Consulting",
-    "role": "Front-End Development II - Angular v18+ and TypeScript - W2 Position",
-    "location": "Jersey City, NJ, us",
-    "source": "SmartRecruiters",
-    "status": "not_applied",
-    "url": "https://jobs.smartrecruiters.com/SyncreonConsulting/744000135744865-front-end-development-ii-angular-v18-and-typescript-w2-position",
+    "url": "https://account.amazon.jobs/jobs/10465850/apply",
     "age": "6d",
     "is_internship": false
   }
