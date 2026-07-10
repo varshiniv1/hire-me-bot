@@ -29,54 +29,54 @@
 | Temporal Technologies | Software Engineer, AI Developer Experience | United States - Remote Opportunity | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5183565007) | 0d |
 | mthree | Production Support/SRE Analyst | New York, NY | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4695851006) | 0d |
 | Meta | Software Engineer, SystemML - AI Networking | Menlo Park, California, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/software-engineer-systemml-ai-networking-at-meta-4414084980) | 0d |
-| Speechify | Software Engineer, iOS Core Product - Palo Alto, CA, USA | Palo Alto, CA, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981015004) | 0d |
-| Speechify | Software Engineer, iOS Core Product - Los Angeles, CA, USA | Los Angeles, CA, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981021004) | 0d |
-| Speechify | Software Engineer, iOS Core Product - Kirkland, WA, USA | Kirkland, WA, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981041004) | 0d |
-| Speechify | Software Engineer, iOS Core Product - Tempe, AZ, USA | Tempe, AZ, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981053004) | 0d |
-| Speechify | Software Engineer, iOS Core Product - Frisco, TX, USA | Frisco, TX, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981060004) | 0d |
-| Speechify | Software Engineer, iOS Core Product - Las Vegas, NV, USA | Las Vegas, NV, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981066004) | 0d |
-| Speechify | Software Engineer, iOS Core Product - Silver Spring, MD, USA | Silver Spring, MD, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981072004) | 0d |
-| Speechify | Software Engineer, iOS Core Product - Raleigh, NC, USA | Raleigh, NC, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981080004) | 0d |
-| Speechify | Software Engineer, iOS Core Product - Chapel Hill, NC, USA | Chapel Hill, NC, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981086004) | 0d |
-| Speechify | Software Engineer, iOS Core Product - Nashville, TN, USA | Nashville, TN, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981092004) | 0d |
-| Speechify | Software Engineer, iOS Core Product - Kansas City, MO, USA | Kansas City, MO, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981098004) | 0d |
-| Speechify | Software Engineer, iOS Core Product - Evanston, IL, USA | Evanston, IL, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981104004) | 0d |
-| Speechify | Software Engineer, iOS Core Product - Newark, NJ, USA | Newark, NJ, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981110004) | 0d |
-| Speechify | Software Engineer, iOS Core Product - Tacoma, WA, USA | Tacoma, WA, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981166004) | 0d |
-| Speechify | Software Engineer, iOS Core Product - Colorado Springs, CO, USA | Colorado Springs, CO, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981183004) | 0d |
-| Speechify | Software Engineer, iOS Core Product - Honolulu, HI, USA | Honolulu, HI, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981195004) | 0d |
-| Speechify | Software Engineer, iOS Core Product - Birmingham, AL, USA | Birmingham, AL, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981207004) | 0d |
-| Speechify | Software Engineer, iOS Core Product - St. Petersburg, FL, USA | St. Petersburg, FL, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981216004) | 0d |
-| Speechify | Software Engineer, iOS Core Product - Tallahassee, FL, USA | Tallahassee, FL, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981224004) | 0d |
-| Speechify | Software Engineer, iOS Core Product - Syracuse, NY, USA | Syracuse, NY, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981232004) | 0d |
-| Speechify | Software Engineer, iOS Core Product - Norfolk, VA, USA | Norfolk, VA, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981244004) | 0d |
-| Speechify | Software Engineer, Platform - Seattle, WA, USA | Seattle, WA, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5976204004) | 0d |
-| Speechify | Software Engineer, Platform - Boston, MA, USA | Boston, MA, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5976198004) | 0d |
-| Speechify | Software Engineer, Platform - Palo Alto, CA, USA | Palo Alto, CA, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974123004) | 0d |
-| Speechify | Software Engineer, Platform - Cupertino, CA, USA | Cupertino, CA, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974126004) | 0d |
-| Speechify | Software Engineer, Platform - Santa Monica, CA, USA | Santa Monica, CA, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974134004) | 0d |
-| Speechify | Software Engineer, Platform - San Diego, CA, USA | San Diego, CA, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974140004) | 0d |
-| Speechify | Software Engineer, Platform - Fresno, CA, USA | Fresno, CA, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974144004) | 0d |
-| Speechify | Software Engineer, Platform - Kirkland, WA, USA | Kirkland, WA, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974154004) | 0d |
-| Speechify | Software Engineer, Platform - Eugene, OR, USA | Eugene, OR, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974162004) | 0d |
-| Speechify | Software Engineer, Platform - Chicago, IL, USA | Chicago, IL, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974169004) | 0d |
-| Speechify | Software Engineer, Platform - Provo, UT, USA | Provo, UT, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974170004) | 0d |
-| Speechify | Software Engineer, Platform - Champaign, IL, USA | Champaign, IL, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974175004) | 0d |
-| Speechify | Software Engineer, Platform - Saint Paul, MN, USA | Saint Paul, MN, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974179004) | 0d |
-| Speechify | Software Engineer, Platform - State College, PA, USA | State College, PA, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974184004) | 0d |
-| Speechify | Software Engineer, Platform - Phoenix, AZ, USA | Phoenix, AZ, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974188004) | 0d |
-| Speechify | Software Engineer, Platform - Syracuse, NY, USA | Syracuse, NY, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974192004) | 0d |
-| Speechify | Software Engineer, Platform - Indianapolis, IN, USA | Indianapolis, IN, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974201004) | 0d |
-| Speechify | Software Engineer, Platform - West Lafayette, IN, USA | West Lafayette, IN, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974205004) | 0d |
-| Speechify | Software Engineer, Platform - Alexandria, VA, USA | Alexandria, VA, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974212004) | 0d |
-| Speechify | Software Engineer, Platform - Norfolk, VA, USA | Norfolk, VA, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974220004) | 0d |
-| Speechify | Software Engineer, Platform - College Park, MD, USA | College Park, MD, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974224004) | 0d |
-| Speechify | Software Engineer, Platform - Tampa, FL, USA | Tampa, FL, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974232004) | 0d |
-| Speechify | Software Engineer, Platform - Cary, NC, USA | Cary, NC, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974242004) | 0d |
-| Speechify | Software Engineer, Platform - Oklahoma City, OK, USA | Oklahoma City, OK, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974243004) | 0d |
-| Speechify | Software Engineer, Platform - Memphis, TN, USA | Memphis, TN, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974254004) | 0d |
-| Speechify | Software Engineer, Platform - Birmingham, AL, USA | Birmingham, AL, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974263004) | 0d |
-| Speechify | Software Engineer, Platform - Fort Lauderdale, FL, USA | Fort Lauderdale, FL, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974276004) | 0d |
+| Speechify | Software Engineer, iOS Core Product - Palo Alto, CA, USA | Palo Alto, CA, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981015004) | 1d |
+| Speechify | Software Engineer, iOS Core Product - Los Angeles, CA, USA | Los Angeles, CA, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981021004) | 1d |
+| Speechify | Software Engineer, iOS Core Product - Kirkland, WA, USA | Kirkland, WA, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981041004) | 1d |
+| Speechify | Software Engineer, iOS Core Product - Tempe, AZ, USA | Tempe, AZ, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981053004) | 1d |
+| Speechify | Software Engineer, iOS Core Product - Frisco, TX, USA | Frisco, TX, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981060004) | 1d |
+| Speechify | Software Engineer, iOS Core Product - Las Vegas, NV, USA | Las Vegas, NV, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981066004) | 1d |
+| Speechify | Software Engineer, iOS Core Product - Silver Spring, MD, USA | Silver Spring, MD, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981072004) | 1d |
+| Speechify | Software Engineer, iOS Core Product - Raleigh, NC, USA | Raleigh, NC, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981080004) | 1d |
+| Speechify | Software Engineer, iOS Core Product - Chapel Hill, NC, USA | Chapel Hill, NC, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981086004) | 1d |
+| Speechify | Software Engineer, iOS Core Product - Nashville, TN, USA | Nashville, TN, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981092004) | 1d |
+| Speechify | Software Engineer, iOS Core Product - Kansas City, MO, USA | Kansas City, MO, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981098004) | 1d |
+| Speechify | Software Engineer, iOS Core Product - Evanston, IL, USA | Evanston, IL, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981104004) | 1d |
+| Speechify | Software Engineer, iOS Core Product - Newark, NJ, USA | Newark, NJ, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981110004) | 1d |
+| Speechify | Software Engineer, iOS Core Product - Tacoma, WA, USA | Tacoma, WA, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981166004) | 1d |
+| Speechify | Software Engineer, iOS Core Product - Colorado Springs, CO, USA | Colorado Springs, CO, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981183004) | 1d |
+| Speechify | Software Engineer, iOS Core Product - Honolulu, HI, USA | Honolulu, HI, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981195004) | 1d |
+| Speechify | Software Engineer, iOS Core Product - Birmingham, AL, USA | Birmingham, AL, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981207004) | 1d |
+| Speechify | Software Engineer, iOS Core Product - St. Petersburg, FL, USA | St. Petersburg, FL, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981216004) | 1d |
+| Speechify | Software Engineer, iOS Core Product - Tallahassee, FL, USA | Tallahassee, FL, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981224004) | 1d |
+| Speechify | Software Engineer, iOS Core Product - Syracuse, NY, USA | Syracuse, NY, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981232004) | 1d |
+| Speechify | Software Engineer, iOS Core Product - Norfolk, VA, USA | Norfolk, VA, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981244004) | 1d |
+| Speechify | Software Engineer, Platform - Seattle, WA, USA | Seattle, WA, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5976204004) | 1d |
+| Speechify | Software Engineer, Platform - Boston, MA, USA | Boston, MA, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5976198004) | 1d |
+| Speechify | Software Engineer, Platform - Palo Alto, CA, USA | Palo Alto, CA, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974123004) | 1d |
+| Speechify | Software Engineer, Platform - Cupertino, CA, USA | Cupertino, CA, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974126004) | 1d |
+| Speechify | Software Engineer, Platform - Santa Monica, CA, USA | Santa Monica, CA, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974134004) | 1d |
+| Speechify | Software Engineer, Platform - San Diego, CA, USA | San Diego, CA, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974140004) | 1d |
+| Speechify | Software Engineer, Platform - Fresno, CA, USA | Fresno, CA, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974144004) | 1d |
+| Speechify | Software Engineer, Platform - Kirkland, WA, USA | Kirkland, WA, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974154004) | 1d |
+| Speechify | Software Engineer, Platform - Eugene, OR, USA | Eugene, OR, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974162004) | 1d |
+| Speechify | Software Engineer, Platform - Chicago, IL, USA | Chicago, IL, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974169004) | 1d |
+| Speechify | Software Engineer, Platform - Provo, UT, USA | Provo, UT, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974170004) | 1d |
+| Speechify | Software Engineer, Platform - Champaign, IL, USA | Champaign, IL, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974175004) | 1d |
+| Speechify | Software Engineer, Platform - Saint Paul, MN, USA | Saint Paul, MN, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974179004) | 1d |
+| Speechify | Software Engineer, Platform - State College, PA, USA | State College, PA, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974184004) | 1d |
+| Speechify | Software Engineer, Platform - Phoenix, AZ, USA | Phoenix, AZ, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974188004) | 1d |
+| Speechify | Software Engineer, Platform - Syracuse, NY, USA | Syracuse, NY, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974192004) | 1d |
+| Speechify | Software Engineer, Platform - Indianapolis, IN, USA | Indianapolis, IN, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974201004) | 1d |
+| Speechify | Software Engineer, Platform - West Lafayette, IN, USA | West Lafayette, IN, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974205004) | 1d |
+| Speechify | Software Engineer, Platform - Alexandria, VA, USA | Alexandria, VA, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974212004) | 1d |
+| Speechify | Software Engineer, Platform - Norfolk, VA, USA | Norfolk, VA, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974220004) | 1d |
+| Speechify | Software Engineer, Platform - College Park, MD, USA | College Park, MD, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974224004) | 1d |
+| Speechify | Software Engineer, Platform - Tampa, FL, USA | Tampa, FL, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974232004) | 1d |
+| Speechify | Software Engineer, Platform - Cary, NC, USA | Cary, NC, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974242004) | 1d |
+| Speechify | Software Engineer, Platform - Oklahoma City, OK, USA | Oklahoma City, OK, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974243004) | 1d |
+| Speechify | Software Engineer, Platform - Memphis, TN, USA | Memphis, TN, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974254004) | 1d |
+| Speechify | Software Engineer, Platform - Birmingham, AL, USA | Birmingham, AL, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974263004) | 1d |
+| Speechify | Software Engineer, Platform - Fort Lauderdale, FL, USA | Fort Lauderdale, FL, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5974276004) | 1d |
 | Jack & Jill | Full Stack Engineer ($150k-$190k + Equity) at Myjunior | New York, New York, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/full-stack-engineer-%24150k-%24190k-%2B-equity-at-myjunior-at-jack-jill-4437328511) | 1d |
 | Jack & Jill | Founding Software Engineer at well-funded industrial AI startup | San Francisco, California, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/founding-software-engineer-at-well-funded-industrial-ai-startup-at-jack-jill-4437328525) | 1d |
 | Acme Markets | Front End Entry Level | Elkton, Maryland, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-acme-markets-4438547191) | 1d |
@@ -129,7 +129,7 @@
 | Robert Bosch | Sales Executive - Mobility Software & Services | Farmington Hills, MI, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000136481032-sales-executive-mobility-software-services) | 1d |
 | Robert Bosch Venture Capital | Sales Executive - Mobility Software & Services | Farmington Hills, MI, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000136481032-sales-executive-mobility-software-services) | 1d |
 | KPG99 INC | Fullstack Developer (Java/ Python) | McLean, Virginia, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/fullstack-developer-java-python-at-kpg99-inc-4438231643) | 1d |
-| Jewel-Osco | Front End Entry Level | Bolingbrook, Illinois, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-jewel-osco-4438162356) | 1d |
+| Jewel-Osco | Front End Entry Level | Bolingbrook, Illinois, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-jewel-osco-4438162356) | 2d |
 | Amazon | Software Development Engineer II, AWS EBS Backup Snapshot & Edge  | Seattle, Washington, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10469156/apply) | 2d |
 | Cisco | Software Engineer | RTP, North Carolina, US | Workday | not_applied | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Engineer_2018282) | 2d |
 | Regions Bank | Software Engineer - Full Stack / .NET | Hoover, AL - Riverchase Operations Center (Birmingham, AL) | Workday | not_applied | [Apply](https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Software-Engineer---Full-Stack---NET_R103675-1) | 2d |
