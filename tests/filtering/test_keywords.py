@@ -25,6 +25,13 @@ def test_unrelated_title_fails():
     assert not passes_keyword_filter("Sales Account Executive")
 
 
+def test_sales_title_naming_a_software_product_excluded():
+    # Real live example (Bosch): a sales role, not engineering, but
+    # otherwise passes via the bare "software" TECH_TERM because the title
+    # names a software product line.
+    assert not passes_keyword_filter("Sales Executive - Mobility Software & Services")
+
+
 def test_internal_word_is_not_a_false_positive_for_intern():
     assert not passes_keyword_filter("Internal Auditor - APAC Regulatory")
 

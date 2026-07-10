@@ -96,6 +96,11 @@ EXCLUSION_TERMS = [
     r"\b(?:sde|swe|engineer|developer)\s*(?:iii|iv|v|3|4|5|6|7)\b",
     r"\bl[3-9]\b",
     r"\blevel\s*[3-9]\b",
+    # Per user request -- a sales role whose title happens to name a
+    # software product (e.g. Bosch's "Sales Executive - Mobility Software &
+    # Services") otherwise passes via the bare "software" TECH_TERM even
+    # though it's not an engineering role at all.
+    r"\bsales\b",
 ]
 
 _TECH_RE = re.compile("|".join(TECH_TERMS), re.IGNORECASE)
