@@ -37,11 +37,12 @@ NOTIFY_MAX_AGE_DAYS = int(os.environ.get("NOTIFY_MAX_AGE_DAYS", "6"))
 JOBS_MAX_AGE_DAYS = int(os.environ.get("JOBS_MAX_AGE_DAYS", "7"))
 
 # Postings whose JD states a minimum years-of-experience above this are
-# excluded (e.g. "3-5 years of experience" with this at 2) -- catches
+# excluded (e.g. "2-4 years of experience" with this at 1) -- catches
 # mid-level roles that don't have a senior-sounding title (already handled
 # by filtering/keywords.py's EXCLUSION_TERMS) but do require more than
-# entry-level/new-grad experience in the JD body.
-MAX_YEARS_EXPERIENCE = int(os.environ.get("MAX_YEARS_EXPERIENCE", "2"))
+# entry-level/new-grad experience in the JD body. Per user request: tightened
+# from 2 to 1 (was 0-2 YoE, now 0-1 YoE only).
+MAX_YEARS_EXPERIENCE = int(os.environ.get("MAX_YEARS_EXPERIENCE", "1"))
 
 # No LLM provider wired in yet (Anthropic API needs paid credits, not covered by
 # a Claude Pro subscription; a free-tier provider hasn't been picked yet). While

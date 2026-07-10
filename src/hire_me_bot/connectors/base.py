@@ -3,13 +3,14 @@ import re
 from abc import ABC, abstractmethod
 from dataclasses import dataclass
 from datetime import datetime
+from html import unescape
 
 import httpx
 
 logger = logging.getLogger(__name__)
 
 _TAG_RE = re.compile(r"<[^>]+>")
-_WHITESPACE_RE = re.compile(r"[ \t]+")
+_WHITESPACE_RE = re.compile(r"[ \t\xa0]+")
 _BLANK_LINES_RE = re.compile(r"\n{3,}")
 
 
@@ -21,6 +22,14 @@ def strip_html(html: str | None) -> str:
     text = re.sub(r"(?i)<br\s*/?>", "\n", html)
     text = re.sub(r"(?i)</p>", "\n\n", text)
     text = _TAG_RE.sub("", text)
+    # Must run after tag stripping, not before -- an entity like "&lt;div&gt;"
+    # decoded first would turn into a literal "<div>" and get misread as a
+    # real tag by _TAG_RE. Real-world impact: a PIMCO posting's requirement
+    # was literally "5&#43; years of ... experience" (HTML-entity-encoded
+    # "+"), which requires_too_much_experience's "\d+\+?" never matched
+    # against, since there was no literal "+" character to see -- the
+    # posting silently passed a filter it should have failed.
+    text = unescape(text)
     text = _WHITESPACE_RE.sub(" ", text)
     text = _BLANK_LINES_RE.sub("\n\n", text)
     return text.strip()

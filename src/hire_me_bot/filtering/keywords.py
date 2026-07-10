@@ -88,11 +88,18 @@ EXCLUSION_TERMS = [
     # domain-science roles (compilers/emulation for quantum hardware, etc.),
     # not general SWE/backend/frontend/full-stack.
     r"\bscientific\b",
-    # Per user request -- cap at SDE/SWE/Engineer II (0-2 YoE); III+ and
+    # Per user request -- title-level cap at SDE/SWE/Engineer II; III+ and
     # L3+/Level 3+ (common internal leveling at Google/Amazon-style orgs)
-    # signal 3+ years even without the word "senior" in the title. \b on
-    # both sides means "iii"/"iv" only match as standalone tokens (e.g.
-    # "Engineer III", "SDE IV"), not mid-word substrings like "Innovative".
+    # signal enough seniority to exclude even without the word "senior" in
+    # the title. This is a coarse title-only heuristic, separate from (and
+    # looser than) the numeric MAX_YEARS_EXPERIENCE cap in settings.py,
+    # which does the precise filtering against whatever YoE the JD body
+    # actually states -- "II" titles aren't reliably 0-1 YoE (a live Amazon
+    # SDE II posting explicitly required 3+ years), so the numeric filter is
+    # what actually enforces the cap; this just catches obviously-senior
+    # titles before that. \b on both sides means "iii"/"iv" only match as
+    # standalone tokens (e.g. "Engineer III", "SDE IV"), not mid-word
+    # substrings like "Innovative".
     r"\b(?:sde|swe|engineer|developer)\s*(?:iii|iv|v|3|4|5|6|7)\b",
     r"\bl[3-9]\b",
     r"\blevel\s*[3-9]\b",
@@ -101,6 +108,13 @@ EXCLUSION_TERMS = [
     # Services") otherwise passes via the bare "software" TECH_TERM even
     # though it's not an engineering role at all.
     r"\bsales\b",
+    # Per user request -- "Front End Loader Driver - CDL (B)" (Republic
+    # Services, waste collection) passed via the "front-end" TECH_TERM,
+    # which means web/UI development in every other title but here means
+    # heavy equipment (a front-end loader). CDL (Commercial Driver's
+    # License) is an unambiguous non-engineering signal that doesn't
+    # collide with any real software title.
+    r"\bcdl\b",
 ]
 
 _TECH_RE = re.compile("|".join(TECH_TERMS), re.IGNORECASE)
