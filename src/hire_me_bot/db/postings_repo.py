@@ -224,6 +224,18 @@ def delete_by_url_substring(substring: str) -> int:
     return len(resp.data)
 
 
+def delete_by_ids(ids: list[int]) -> int:
+    """One-off cleanup for rows identified after the fact as having slipped
+    past a filtering bug (e.g. a too-narrow experience-requirement regex).
+    Same "postings otherwise stay forever" exception as
+    delete_by_url_substring above. Returns the number of rows deleted."""
+    if not ids:
+        return 0
+    client = get_client()
+    resp = client.table(TABLE).delete().in_("id", ids).execute()
+    return len(resp.data)
+
+
 def get_all_ordered(max_age_days: int) -> list[dict]:
     """Every posting with posted_at within max_age_days, newest-first by
     posted_at (actual posting age, not crawl-discovery time). Backs

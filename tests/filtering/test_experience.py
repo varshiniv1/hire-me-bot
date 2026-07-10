@@ -51,3 +51,21 @@ def test_hyphenated_and_multi_word_phrasing_flagged():
     assert requires_too_much_experience("5+ years of hands-on experience in software development")
     assert requires_too_much_experience("5+ years of hands-on, professional experience")
     assert requires_too_much_experience("Minimum of 5 years of experience")
+
+
+def test_verbose_amazon_style_phrasing_flagged():
+    # Real live posting (Amazon SDE II, job ID 10467411) slipped through
+    # filtering before this: 49- and 109-char fillers (the latter with
+    # parens/commas) exceeded the old 40-char, no-parens window, so neither
+    # qualification bullet below was even recognized as a YoE mention.
+    assert requires_too_much_experience(
+        "3+ years of non-internship professional software development experience"
+    )
+    # This one's minimum (2) is within the 0-2 cap on its own -- what
+    # matters here is that the long, parenthetical filler is still parsed
+    # as a YoE mention at all (min_years_required sees it), not that it
+    # independently triggers rejection.
+    assert min_years_required(
+        "2+ years of non-internship design or architecture (design patterns, "
+        "reliability and scaling) of new and existing systems experience"
+    ) == [2]

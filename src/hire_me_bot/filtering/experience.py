@@ -7,10 +7,33 @@ import re
 # including 3+ years in a technical leadership role" -> (8, None) (the
 # first match is enough to flag it; a second phrase like "3+ years in a
 # leadership role" without the word "experience" nearby isn't required to
-# also match). Requires "experience" within a short window after "years"
-# so unrelated mentions ("founded 10 years ago") don't false-positive.
+# also match). Requires "experience" within a short window after "years" so
+# unrelated mentions ("founded 10 years ago") don't false-positive -- the
+# filler between "years ... of" and "experience" excludes newlines
+# specifically (not just periods -- "." was never actually excluded, \s
+# matches \n too) so the match can't bridge across separate bullets/
+# sections in a job description. That distinction mattered in practice: a
+# wide-open version of this filler (still newline-permissive) matched
+# DreamWorks/NBCUniversal's "18 years or older[...]Desired
+# Characteristics\n\nExperience" as "18 years of experience" and Pebl's "3
+# years of formal education [...]\n\n - Experience" as "3 years of
+# experience" -- both false positives bridging unrelated bullets via a
+# blank line. Newlines split description text into <br/>-separated bullets
+# (see connectors/base.py's strip_html), so excluding them keeps a match
+# confined to one bullet, which is exactly where a real "N years of X
+# experience" phrase lives.
+#
+# The filler is otherwise wide (130 chars, letters/digits/comma/slash/amp/
+# apostrophe/parens/space/tab/hyphen) to handle verbose single-bullet
+# phrasing -- a real live posting (Amazon SDE II, job ID 10467411) needed
+# this: "3+ years of non-internship professional software development
+# experience" (49-char filler) and "2+ years of non-internship design or
+# architecture (design patterns, reliability and scaling) of new and
+# existing systems experience" (109-char filler, with parens/commas a
+# narrower class wouldn't allow at all) both slipped through undetected
+# before this was widened.
 _YOE_RE = re.compile(
-    r"(\d+)\+?\s*(?:-\s*(\d+)\+?\s*)?\s*years?\s+(?:of\s+)?(?:[a-zA-Z,/&'\s-]{0,40}?)experience",
+    r"(\d+)\+?[ \t]*(?:-[ \t]*(\d+)\+?[ \t]*)?[ \t]*years?[ \t]+(?:of[ \t]+)?(?:[a-zA-Z0-9,/&'()\ \t-]{0,130}?)experience",
     re.IGNORECASE,
 )
 

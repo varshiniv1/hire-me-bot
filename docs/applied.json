@@ -1,5 +1,15 @@
 [
   {
+    "id": 55327,
+    "company": "Amazon",
+    "role": "Software Engineer I, Discovery",
+    "location": "San Francisco, California, USA",
+    "source": "amazon",
+    "status": "applied",
+    "url": "https://account.amazon.jobs/jobs/10468973/apply",
+    "applied_at": "2026-07-10T14:44:22.633+00:00"
+  },
+  {
     "id": 53775,
     "company": "Meta",
     "role": "Production Engineer (University Grad)",
@@ -80,16 +90,6 @@
     "applied_at": "2026-07-08T15:39:27.764+00:00"
   },
   {
-    "id": 19119,
-    "company": "Censys",
-    "role": "Software Engineer- SOC & Threat Hunting",
-    "location": "Ann Arbor, MI",
-    "source": "Greenhouse",
-    "status": "applied",
-    "url": "https://job-boards.greenhouse.io/censys/jobs/8538086002",
-    "applied_at": "2026-07-08T15:29:53.936+00:00"
-  },
-  {
     "id": 38979,
     "company": "General Motors",
     "role": "Software Engineer AV HIL Platform and Services (Early Career))",
@@ -140,26 +140,6 @@
     "applied_at": "2026-07-07T13:59:56.348+00:00"
   },
   {
-    "id": 19372,
-    "company": "Mercury",
-    "role": "Software Engineer - Product",
-    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-    "source": "Greenhouse",
-    "status": "applied",
-    "url": "https://job-boards.greenhouse.io/mercury/jobs/6101145004",
-    "applied_at": "2026-07-06T22:47:28.696+00:00"
-  },
-  {
-    "id": 19281,
-    "company": "Hewlett Packard Enterprise",
-    "role": "Systems/Software Engineer II",
-    "location": "Chippewa Falls, Wisconsin, United States of America",
-    "source": "Workday",
-    "status": "applied",
-    "url": "https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Chippewa-Falls-Wisconsin-United-States-of-America/Systems-Software-Engineer-II_1208245",
-    "applied_at": "2026-07-06T22:16:50.016+00:00"
-  },
-  {
     "id": 32172,
     "company": "Natera",
     "role": "Bioinformatics Production Analyst/Production Engineer",
@@ -168,16 +148,6 @@
     "status": "applied",
     "url": "https://job-boards.greenhouse.io/natera/jobs/6026755004",
     "applied_at": "2026-07-06T22:05:50.588+00:00"
-  },
-  {
-    "id": 19139,
-    "company": "Cohere Health",
-    "role": "Software Engineer ll, Data Platform",
-    "location": "United States",
-    "source": "Greenhouse",
-    "status": "applied",
-    "url": "https://job-boards.greenhouse.io/coherehealth/jobs/7787107003",
-    "applied_at": "2026-07-06T21:55:02.18+00:00"
   },
   {
     "id": 21949,
