@@ -41,7 +41,7 @@
 | Pyramid Consulting, Inc | Entry-Level Software Engineer | Pittsburgh, Pennsylvania, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/entry-level-software-engineer-at-pyramid-consulting-inc-4438814699) | 1d |
 | Temporal Technologies | Software Engineer, AI Developer Experience | United States - Remote Opportunity | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5183565007) | 1d |
 | mthree | Production Support/SRE Analyst | New York, NY | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4695851006) | 1d |
-| Meta | Software Engineer, SystemML - AI Networking | Menlo Park, California, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/software-engineer-systemml-ai-networking-at-meta-4414084980) | 1d |
+| Meta | Software Engineer, SystemML - AI Networking | Menlo Park, California, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/software-engineer-systemml-ai-networking-at-meta-4414084980) | 2d |
 | Speechify | Software Engineer, iOS Core Product - Palo Alto, CA, USA | Palo Alto, CA, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981015004) | 2d |
 | Speechify | Software Engineer, iOS Core Product - Los Angeles, CA, USA | Los Angeles, CA, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981021004) | 2d |
 | Speechify | Software Engineer, iOS Core Product - Kirkland, WA, USA | Kirkland, WA, USA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/speechify/jobs/5981041004) | 2d |
@@ -146,7 +146,7 @@
 | Sony Interactive Entertainment | Software Engineer II | United States, Los Angeles, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6110560004) | 3d |
 | PlayStation | Software Engineer II | United States, Los Angeles, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6110560004) | 3d |
 | TalentWerx | E01-J01 Software Engineer- Physical Modeling & Simulation Engineer | Fort Eustis, VA | Lever | not_applied | [Apply](https://jobs.lever.co/talentwerx.io/80693dad-a453-48dc-bd89-71b2c56679e6) | 3d |
-| iCapital Network | Site Reliability Engineer - Vice President | Salt Lake City, Utah, United States | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8622275002) | 3d |
+| iCapital Network | Site Reliability Engineer - Vice President | Salt Lake City, Utah, United States | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8622275002) | 4d |
 | Safeway | Front End Entry Level | Westminster, Maryland, USA | JSearch | dismissed | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-safeway-4437730749) | 4d |
 | NVIDIA | VLSI Design Automation Software Engineer | US, MA, Westford | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MA-Westford/VLSI-Design-Automation-Software-Engineer_JR2016784) | 4d |
 | U.S. Bank | Software Engineer 1 - Mobile | Atlanta, GA | Workday | dismissed | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Atlanta-GA/Software-Engineer-1---Mobile_2026-0014258) | 4d |
