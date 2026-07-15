@@ -1,5 +1,38 @@
 [
   {
+    "id": 84889,
+    "company": "Genuine Parts Company",
+    "role": "Software Engineering Full Stack (React & NestJS)",
+    "location": "Birmingham, AL, USA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Engineering-Full-Stack--React---NestJS-_R26_0000004102",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
+    "id": 84798,
+    "company": "Copart",
+    "role": "Software Engineering Intern",
+    "location": "Dallas, TX - Headquarters",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109673",
+    "age": "0d",
+    "is_internship": true
+  },
+  {
+    "id": 84799,
+    "company": "Copart",
+    "role": "Software Engineering Intern",
+    "location": "Dallas, TX - Headquarters",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109689",
+    "age": "0d",
+    "is_internship": true
+  },
+  {
     "id": 81740,
     "company": "Scale AI",
     "role": "Software Engineer, Public Sector",
@@ -22,8 +55,8 @@
     "is_internship": false
   },
   {
-    "id": 81248,
-    "company": "Robert Bosch Venture Capital",
+    "id": 81245,
+    "company": "Robert Bosch",
     "role": "Software Engineer",
     "location": "Owatonna, MN, us",
     "source": "SmartRecruiters",
@@ -55,8 +88,8 @@
     "is_internship": false
   },
   {
-    "id": 81245,
-    "company": "Robert Bosch",
+    "id": 81248,
+    "company": "Robert Bosch Venture Capital",
     "role": "Software Engineer",
     "location": "Owatonna, MN, us",
     "source": "SmartRecruiters",
@@ -139,17 +172,28 @@
     "source": "Ashby",
     "status": "not_applied",
     "url": "https://jobs.ashbyhq.com/cartesia/7628169d-3703-4b82-a1d0-ed3124790643",
-    "age": "0d",
+    "age": "1d",
     "is_internship": false
   },
   {
-    "id": 81179,
-    "company": "U.S. Bank",
-    "role": "Software Engineer 2 (Backend AI)",
-    "location": "Earth City, MO",
+    "id": 79640,
+    "company": "ASML",
+    "role": "Optical Fabrication Technician CWW Front End Days",
+    "location": "Wilton, CT, USA",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Earth-City-MO/Software-Engineer-2--Backend-AI-_2026-0018811",
+    "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-CWW-Front-End-Days_J-00339729",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 78613,
+    "company": "U.S. Bank",
+    "role": "Software Enginner 2 (ePay Developer,  Java / Microservices/Cloud)",
+    "location": "Cincinnati, OH",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Cincinnati-OH/Software-Enginner-2--ePay-Developer---Java---Microservices-Cloud-_2026-0017510",
     "age": "1d",
     "is_internship": false
   },
@@ -176,28 +220,6 @@
     "is_internship": false
   },
   {
-    "id": 79640,
-    "company": "ASML",
-    "role": "Optical Fabrication Technician CWW Front End Days",
-    "location": "Wilton, CT, USA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-CWW-Front-End-Days_J-00339729",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 79621,
-    "company": "BTI Solutions",
-    "role": "Java Full-Stack Developer",
-    "location": "Santa Ana, CA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://btisolutions.wd12.myworkdayjobs.com/External/job/Santa-Ana-CA/Java-Full-Stack-Developer_JR101914-1",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
     "id": 78696,
     "company": "Acrisure",
     "role": "Software Engineer",
@@ -209,13 +231,24 @@
     "is_internship": false
   },
   {
-    "id": 78613,
+    "id": 81179,
     "company": "U.S. Bank",
-    "role": "Software Enginner 2 (ePay Developer,  Java / Microservices/Cloud)",
-    "location": "Cincinnati, OH",
+    "role": "Software Engineer 2 (Backend AI)",
+    "location": "Earth City, MO",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Cincinnati-OH/Software-Enginner-2--ePay-Developer---Java---Microservices-Cloud-_2026-0017510",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Earth-City-MO/Software-Engineer-2--Backend-AI-_2026-0018811",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 79621,
+    "company": "BTI Solutions",
+    "role": "Java Full-Stack Developer",
+    "location": "Santa Ana, CA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://btisolutions.wd12.myworkdayjobs.com/External/job/Santa-Ana-CA/Java-Full-Stack-Developer_JR101914-1",
     "age": "1d",
     "is_internship": false
   },
@@ -297,6 +330,28 @@
     "is_internship": false
   },
   {
+    "id": 81346,
+    "company": "Cboe",
+    "role": "Software Engineer \u2013 QA",
+    "location": "Kansas City, MO",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Kansas-City-MO/Software-Engineer---QA_R-4526",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 72905,
+    "company": "BTI Solutions",
+    "role": "Korean Bilingual Software Tester AM700701",
+    "location": "Bellevue, WA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://btisolutions.wd12.myworkdayjobs.com/External/job/Bellevue-WA/Korean-Bilingual-Software-Tester-AM700701_JR101910-1",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
     "id": 73910,
     "company": "iHeartMedia",
     "role": "Software Engineer",
@@ -304,6 +359,17 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/San-Antonio-TX-Stone-Oak/Software-Engineer_Req38905-2",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 73898,
+    "company": "Hewlett Packard (HP)",
+    "role": "Camera System Software Engineer",
+    "location": "Austin, Texas, United States of America",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Austin-Texas-United-States-of-America/Camera-System-Software-Engineer_3163189",
     "age": "2d",
     "is_internship": false
   },
@@ -330,17 +396,6 @@
     "is_internship": false
   },
   {
-    "id": 81346,
-    "company": "Cboe",
-    "role": "Software Engineer \u2013 QA",
-    "location": "Kansas City, MO",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Kansas-City-MO/Software-Engineer---QA_R-4526",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
     "id": 74855,
     "company": "NVIDIA",
     "role": "Backend Compiler Engineer - New College Grad 2026",
@@ -359,6 +414,17 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Orange-OH-Ohio-United-States/R-D-Software-Engineer---Image-Processing--C-----GPU-_586929",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 75645,
+    "company": "NVIDIA",
+    "role": "System Software Engineer, Dynamo-Triton Inference Server - New College Grad 2026",
+    "location": "US, CA, Santa Clara",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767",
     "age": "2d",
     "is_internship": false
   },
@@ -407,37 +473,15 @@
     "is_internship": false
   },
   {
-    "id": 75645,
-    "company": "NVIDIA",
-    "role": "System Software Engineer, Dynamo-Triton Inference Server - New College Grad 2026",
-    "location": "US, CA, Santa Clara",
-    "source": "Workday",
+    "id": 73662,
+    "company": "Citadel",
+    "role": "Software Engineer - Intern (US)",
+    "location": "New York, New York, USA",
+    "source": "JSearch",
     "status": "not_applied",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767",
+    "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
     "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 73898,
-    "company": "Hewlett Packard (HP)",
-    "role": "Camera System Software Engineer",
-    "location": "Austin, Texas, United States of America",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Austin-Texas-United-States-of-America/Camera-System-Software-Engineer_3163189",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 72905,
-    "company": "BTI Solutions",
-    "role": "Korean Bilingual Software Tester AM700701",
-    "location": "Bellevue, WA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://btisolutions.wd12.myworkdayjobs.com/External/job/Bellevue-WA/Korean-Bilingual-Software-Tester-AM700701_JR101910-1",
-    "age": "2d",
-    "is_internship": false
+    "is_internship": true
   },
   {
     "id": 73657,
@@ -447,17 +491,6 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://bebee.com/us/jobs/front-end-and-ui-software-engineering-intern-guardian-rf-washington-dc--t7xk-761167375",
-    "age": "2d",
-    "is_internship": true
-  },
-  {
-    "id": 73662,
-    "company": "Citadel",
-    "role": "Software Engineer - Intern (US)",
-    "location": "New York, New York, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
     "age": "2d",
     "is_internship": true
   },
@@ -572,17 +605,6 @@
     "is_internship": false
   },
   {
-    "id": 63727,
-    "company": "Albertsons Companies",
-    "role": "Front End Entry Level",
-    "location": "Fountain Valley, California, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-albertsons-companies-4438850702",
-    "age": "5d",
-    "is_internship": false
-  },
-  {
     "id": 63638,
     "company": "The Walt Disney Company",
     "role": "Product Software Engineer I",
@@ -590,6 +612,17 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Bristol-CT-USA/Product-Software-Engineer-I_10155293",
+    "age": "5d",
+    "is_internship": false
+  },
+  {
+    "id": 63727,
+    "company": "Albertsons Companies",
+    "role": "Front End Entry Level",
+    "location": "Fountain Valley, California, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-albertsons-companies-4438850702",
     "age": "5d",
     "is_internship": false
   },
@@ -858,17 +891,6 @@
     "is_internship": false
   },
   {
-    "id": 53867,
-    "company": "BTI Solutions",
-    "role": "AI Full Stack Developer",
-    "location": "San Jose, CA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://btisolutions.wd12.myworkdayjobs.com/External/job/San-Jose-CA/AI-Full-Stack-Developer_JR101908-1",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
     "id": 55365,
     "company": "Brown & Brown Insurance",
     "role": "Full Stack Developer (.Net)",
@@ -1001,6 +1023,17 @@
     "is_internship": false
   },
   {
+    "id": 53867,
+    "company": "BTI Solutions",
+    "role": "AI Full Stack Developer",
+    "location": "San Jose, CA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://btisolutions.wd12.myworkdayjobs.com/External/job/San-Jose-CA/AI-Full-Stack-Developer_JR101908-1",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
     "id": 69606,
     "company": "Commure",
     "role": "Fullstack Engineer, Ambient AI",
@@ -1096,17 +1129,6 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/roadrunner/jobs/4307451009",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 49871,
-    "company": "KPG99 INC",
-    "role": "Fullstack Developer (Java/ Python)",
-    "location": "McLean, Virginia, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/fullstack-developer-java-python-at-kpg99-inc-4438231643",
     "age": "6d",
     "is_internship": false
   }
