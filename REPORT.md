@@ -1,6 +1,6 @@
 # Job Postings Report
 
-74 postings from the last 6 days.
+73 postings from the last 6 days.
 
 ## Internships (4)
 
@@ -11,7 +11,7 @@
 | Exowatt | Software Engineering Intern — Inventory Automation & IoT/Robotics | Austin, TX | Lever | not_applied | [Apply](https://jobs.lever.co/exowatt/46c8f4fd-f059-4ad6-a5f4-4fcd55d84f9c) | 4d |
 | Exowatt | Software Engineering Intern — Agent Platform (AI) | Austin, TX | Lever | not_applied | [Apply](https://jobs.lever.co/exowatt/2623555d-8b81-4f95-8bca-de9fafd2381c) | 4d |
 
-## Full-Time (70)
+## Full-Time (69)
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | Nex | Frontend Engineer - Marketing & Digital Experience (Contract) | Remote US | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/nex/jobs/5289228008) | 1d |
 | Nex | Frontend Engineer - Marketing & Digital Experience | Remote (USA & Canada Only) | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/nex/jobs/5155205008) | 1d |
 | Whoop | Software Engineer II, MLOps | Boston, MA | Lever | not_applied | [Apply](https://jobs.lever.co/whoop/82635467-6cfb-4e8b-967e-73355a0d0b8f) | 1d |
-| Cboe | Software Engineer – QA | Kansas City, MO | Workday | not_applied | [Apply](https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Kansas-City-MO/Software-Engineer---QA_R-4526) | 2d |
+| U.S. Bank | Software Engineer 2 (Full -stack - Spring Boot/React JS) | Irving, TX | Workday | not_applied | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irving-TX/Software-Engineer-2--Full--stack---Spring-Boot-React-JS-_2026-0016527) | 2d |
 | BTI Solutions | Korean Bilingual Software Tester AM700701 | Bellevue, WA | Workday | not_applied | [Apply](https://btisolutions.wd12.myworkdayjobs.com/External/job/Bellevue-WA/Korean-Bilingual-Software-Tester-AM700701_JR101910-1) | 2d |
 | Year Up United | Software Development Job Training Opportunity | Pittsburgh, Pennsylvania, USA | JSearch | dismissed | [Apply](https://www.linkedin.com/jobs/view/software-development-job-training-opportunity-at-year-up-united-4439119348) | 2d |
 | iHeartMedia | Software Engineer | San Antonio, TX (Stone Oak) | Workday | not_applied | [Apply](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/San-Antonio-TX-Stone-Oak/Software-Engineer_Req38905-2) | 2d |
@@ -54,8 +54,8 @@
 | NVIDIA | Backend Compiler Engineer - New College Grad 2026 | US, CA, Santa Clara | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Backend-Compiler-Engineer---New-College-Grad-2026_JR2021242) | 2d |
 | Philips | R&D Software Engineer - Image Processing (C++ / GPU) | Orange (OH), Ohio, United States | Workday | not_applied | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Orange-OH-Ohio-United-States/R-D-Software-Engineer---Image-Processing--C-----GPU-_586929) | 2d |
 | NVIDIA | System Software Engineer, Dynamo-Triton Inference Server - New College Grad 2026 | US, CA, Santa Clara | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767) | 2d |
-| U.S. Bank | Software Engineer 2 (Full -stack - Spring Boot/React JS) | Irving, TX | Workday | not_applied | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irving-TX/Software-Engineer-2--Full--stack---Spring-Boot-React-JS-_2026-0016527) | 2d |
 | U.S. Bank | Software Engineer 2 - Salesforce Developer | Brea, CA | Workday | not_applied | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Brea-CA/Software-Engineer-2---Salesforce-Developer_2026-0017670) | 2d |
+| Cboe | Software Engineer – QA | Kansas City, MO | Workday | not_applied | [Apply](https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Kansas-City-MO/Software-Engineer---QA_R-4526) | 2d |
 | DiDi Global | Software Engineer – Motion Planning  | San Jose, CA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/didi/jobs/8056500) | 4d |
 | Augmodo | Software Engineer | United States | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/augmodo/51c848a9-c586-4ac6-9253-6e9f52578d35) | 4d |
 | MatX | System Software Engineer - Linux Kernel and Device Drivers | Mountain View, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/matx/jobs/5326322008) | 4d |
@@ -63,26 +63,25 @@
 | Glean | Software Engineer | Mountain View, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/gleanwork/jobs/4713145005) | 4d |
 | Glean | Software Engineer | Mountain View, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/gleanwork/jobs/4713977005) | 4d |
 | General Matter | DevOps / Site Reliability Engineer | Los Angeles, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5082179008) | 4d |
-| Michaels Stores | Front-End Ambassador - Nights & Weekends - Retail | Store - 1458 Lakeshore Rd, Gilford, NH | Workday | not_applied | [Apply](https://michaels.wd5.myworkdayjobs.com/External/job/Store---1458-Lakeshore-Rd-Gilford-NH/Front-End-Ambassador---Nights---Weekends---Retail_R00315300) | 5d |
-| Albertsons Companies | Front End Entry Level | Fountain Valley, California, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-albertsons-companies-4438850702) | 5d |
-| Nightwing Intelligence Solutions | Software Quality Assurance Specialist/Applications Tester | Sterling, VA | Workday | not_applied | [Apply](https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/Software-Quality-Assurance-Specialist-Applications-Tester_JR101833) | 5d |
-| The Walt Disney Company | Product Software Engineer I | Bristol, CT, USA | Workday | not_applied | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Bristol-CT-USA/Product-Software-Engineer-I_10155293) | 5d |
-| Amazon | Software Development Engineer, Consumer Domains | Newark, New Jersey, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10471474/apply) | 5d |
-| Morgridge Institute for Research | Research Software Engineer | Madison, Wisconsin, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/research-software-engineer-at-morgridge-institute-for-research-4438851838) | 5d |
-| SynergisticIT | Entry Level Developer Python/Java/Software Engineer | Atlanta, Georgia, USA | JSearch | not_applied | [Apply](https://www.careerbuilder.com/job-details/entry-level-developer-python-java-software-engineer-atlanta-ga--491c68b3-bceb-4fcc-92f1-1cc648d03b66) | 5d |
-| SynergisticIT | Junior/Entry Level Backend Developer | Chicago, Illinois, USA | JSearch | not_applied | [Apply](https://www.monster.com/job-openings/junior-entry-level-backend-developer-chicago-il--c256c9b7-e369-43b4-9fec-fa27b653d2cf) | 5d |
 | The Walt Disney Company | Software Engineer II | Bristol, CT, USA | Workday | not_applied | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Bristol-CT-USA/Software-Engineer-II_10148069) | 5d |
 | Philips | Software Test Engineer | Cambridge (US), Massachusetts, United States | Workday | not_applied | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Software-Test-Engineer_585591-1) | 5d |
 | Allstate Insurance Company | Software Engineer Consultant II | USA - IL (Remote) | Workday | not_applied | [Apply](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---IL-Remote/Software-Engineer-Consultant-II_R32514-1) | 5d |
 | Michaels Stores | Weekday Front-End Ambassador - Retail | Store - 1458 Lakeshore Rd, Gilford, NH | Workday | not_applied | [Apply](https://michaels.wd5.myworkdayjobs.com/External/job/Store---1458-Lakeshore-Rd-Gilford-NH/Weekday-Front-End-Ambassador---Retail_R00315299) | 5d |
-| NVIDIA | Systems Software Engineer, Autonomous Systems Mapping - New College Graduate 2026 | US, CA, Santa Clara | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Autonomous-Systems-Mapping---New-College-Graduate-2026_JR2020838) | 5d |
-| Jones Lang LaSalle (JLL) | Software Engineer | Chicago, IL | Workday | not_applied | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Software-Engineer_REQ514333) | 5d |
 | Amazon | Software Development Engineer, Amazon Optics | Herndon, Virginia, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10471619/apply) | 5d |
+| Jones Lang LaSalle (JLL) | Software Engineer | Chicago, IL | Workday | not_applied | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Software-Engineer_REQ514333) | 5d |
+| Albertsons Companies | Front End Entry Level | Fountain Valley, California, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-albertsons-companies-4438850702) | 5d |
+| Amazon | Software Development Engineer, Consumer Domains | Newark, New Jersey, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10471474/apply) | 5d |
+| Morgridge Institute for Research | Research Software Engineer | Madison, Wisconsin, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/research-software-engineer-at-morgridge-institute-for-research-4438851838) | 5d |
+| SynergisticIT | Entry Level Developer Python/Java/Software Engineer | Atlanta, Georgia, USA | JSearch | not_applied | [Apply](https://www.careerbuilder.com/job-details/entry-level-developer-python-java-software-engineer-atlanta-ga--491c68b3-bceb-4fcc-92f1-1cc648d03b66) | 5d |
+| SynergisticIT | Junior/Entry Level Backend Developer | Chicago, Illinois, USA | JSearch | not_applied | [Apply](https://www.monster.com/job-openings/junior-entry-level-backend-developer-chicago-il--c256c9b7-e369-43b4-9fec-fa27b653d2cf) | 5d |
+| Nightwing Intelligence Solutions | Software Quality Assurance Specialist/Applications Tester | Sterling, VA | Workday | not_applied | [Apply](https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/Software-Quality-Assurance-Specialist-Applications-Tester_JR101833) | 5d |
+| NVIDIA | Systems Software Engineer, Autonomous Systems Mapping - New College Graduate 2026 | US, CA, Santa Clara | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Autonomous-Systems-Mapping---New-College-Graduate-2026_JR2020838) | 5d |
+| The Walt Disney Company | Product Software Engineer I | Bristol, CT, USA | Workday | not_applied | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Bristol-CT-USA/Product-Software-Engineer-I_10155293) | 5d |
+| Michaels Stores | Front-End Ambassador - Nights & Weekends - Retail | Store - 1458 Lakeshore Rd, Gilford, NH | Workday | not_applied | [Apply](https://michaels.wd5.myworkdayjobs.com/External/job/Store---1458-Lakeshore-Rd-Gilford-NH/Front-End-Ambassador---Nights---Weekends---Retail_R00315300) | 5d |
 | ALTEN Technology | Controls/Automation Software Engineer | Marina, California, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5169239007) | 5d |
 | Meta | Software Engineer, Camera Systems | Sunnyvale, California, USA | JSearch | not_applied | [Apply](https://www.metacareers.com/jobs/2436192886889791/) | 5d |
 | Pyramid Consulting, Inc | Entry-Level Software Engineer | Pittsburgh, Pennsylvania, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/entry-level-software-engineer-at-pyramid-consulting-inc-4438814699) | 5d |
 | Career.zycto | Frontend Developer – Entry Level | Pompano Beach, Florida, USA | JSearch | not_applied | [Apply](https://career.zycto.com/jobs/frontend-developer-entry-level/) | 5d |
 | Temporal Technologies | Software Engineer, AI Developer Experience | United States - Remote Opportunity | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5183565007) | 5d |
 | mthree | Production Support/SRE Analyst | New York, NY | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4695851006) | 5d |
-| Meta | Software Engineer, SystemML - AI Networking | Menlo Park, California, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/software-engineer-systemml-ai-networking-at-meta-4414084980) | 5d |
 
