@@ -17,6 +17,7 @@
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
+| Symbotic | Software Engineer, Core Systems & Platform Services | USA Wilmington,  MA - HQ | Workday | not_applied | [Apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer--Core-Systems---Platform-Services_R7327) | 0d |
 | Genuine Parts Company | Software Engineering Full Stack (React & NestJS) | Birmingham, AL, USA | Workday | not_applied | [Apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Engineering-Full-Stack--React---NestJS-_R26_0000004102) | 0d |
 | Scale AI | Software Engineer, Public Sector | San Francisco, CA; St. Louis, MO; New York, NY; Washington, DC | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4302243005) | 0d |
 | Twitch | Software Engineer I, Discovery | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8623578002) | 0d |
@@ -27,9 +28,9 @@
 | Scout Motors | Specialist, Software Update and Validation | Blythewood, South Carolina, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/scoutmotors/jobs/5135032007) | 0d |
 | MatX | System Software Engineer — Node & Cluster Management | Mountain View, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/matx/jobs/5343904008) | 0d |
 | Hudl | Software Engineer | Lexington, KY, United States; Lincoln, NE, United States; Omaha, NE, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/hudl/jobs/8052358) | 0d |
-| AvidXchange | Software Engineer II (Multiple Positions) | Charlotte, North Carolina, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/avidxchangeinc/jobs/5140353007) | 0d |
-| AvidXchange | Software Engineer (Multiple Positions) | Charlotte, North Carolina, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/avidxchangeinc/jobs/5186642007) | 0d |
-| Best Egg | Site Reliability Engineer | Wilmington, DE | Lever | not_applied | [Apply](https://jobs.lever.co/BestEgg/7b3262b3-1618-45e5-bd70-74ae378784bb) | 0d |
+| AvidXchange | Software Engineer II (Multiple Positions) | Charlotte, North Carolina, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/avidxchangeinc/jobs/5140353007) | 1d |
+| AvidXchange | Software Engineer (Multiple Positions) | Charlotte, North Carolina, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/avidxchangeinc/jobs/5186642007) | 1d |
+| Best Egg | Site Reliability Engineer | Wilmington, DE | Lever | not_applied | [Apply](https://jobs.lever.co/BestEgg/7b3262b3-1618-45e5-bd70-74ae378784bb) | 1d |
 | Cartesia | Software Engineer, Platform | *HQ - San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/cartesia/7628169d-3703-4b82-a1d0-ed3124790643) | 1d |
 | ASML | Optical Fabrication Technician CWW Front End Days | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-CWW-Front-End-Days_J-00339729) | 1d |
 | BTI Solutions | Java Full-Stack Developer | Santa Ana, CA | Workday | not_applied | [Apply](https://btisolutions.wd12.myworkdayjobs.com/External/job/Santa-Ana-CA/Java-Full-Stack-Developer_JR101914-1) | 1d |
@@ -43,8 +44,8 @@
 | PlayStation | Software Development Engineer in Test Contractor (SDET Contractor) | United States, San Mateo, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6015203004) | 1d |
 | Nex | Frontend Engineer - Marketing & Digital Experience (Contract) | Remote US | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/nex/jobs/5289228008) | 1d |
 | Nex | Frontend Engineer - Marketing & Digital Experience | Remote (USA & Canada Only) | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/nex/jobs/5155205008) | 1d |
-| Whoop | Software Engineer II, MLOps | Boston, MA | Lever | not_applied | [Apply](https://jobs.lever.co/whoop/82635467-6cfb-4e8b-967e-73355a0d0b8f) | 1d |
-| SS&C | Software Development Engineer In Test | San Francisco, CA | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/San-Francisco-CA/Software-Development-Engineer-In-Test_R43953) | 2d |
+| Whoop | Software Engineer II, MLOps | Boston, MA | Lever | not_applied | [Apply](https://jobs.lever.co/whoop/82635467-6cfb-4e8b-967e-73355a0d0b8f) | 2d |
+| BTI Solutions | Korean Bilingual Software Tester AM700701 | Bellevue, WA | Workday | not_applied | [Apply](https://btisolutions.wd12.myworkdayjobs.com/External/job/Bellevue-WA/Korean-Bilingual-Software-Tester-AM700701_JR101910-1) | 2d |
 | Fidelity National Information Services | Software Engineer Specialists-Payments API Platform (Real Time & Event Driven) | US FL JAX 347 | Workday | not_applied | [Apply](https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Software-Engineer-Specialists-Payments-API-Platform--Real-Time---Event-Driven-_JR0308351) | 2d |
 | General Motors | Technical Specialist– Software Reflash | Warren, Michigan, United States of America | Workday | not_applied | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Technical-Specialist--Software-Reflash_JR-202606546) | 2d |
 | NVIDIA | Backend Compiler Engineer - New College Grad 2026 | US, CA, Santa Clara | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Backend-Compiler-Engineer---New-College-Grad-2026_JR2021242) | 2d |
@@ -54,10 +55,10 @@
 | U.S. Bank | Software Engineer 2 - Salesforce Developer | Brea, CA | Workday | not_applied | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Brea-CA/Software-Engineer-2---Salesforce-Developer_2026-0017670) | 2d |
 | Year Up United | Software Development Job Training Opportunity | Pittsburgh, Pennsylvania, USA | JSearch | dismissed | [Apply](https://www.linkedin.com/jobs/view/software-development-job-training-opportunity-at-year-up-united-4439119348) | 2d |
 | Regions Bank | Software Engineer - Full Stack / Java / Python [see locations] | Hoover, AL - Riverchase Operations Center (Birmingham, AL) | Workday | not_applied | [Apply](https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Software-Engineer---Full-Stack---Java--see-locations-_R102892) | 2d |
-| iHeartMedia | Software Engineer | San Antonio, TX (Stone Oak) | Workday | not_applied | [Apply](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/San-Antonio-TX-Stone-Oak/Software-Engineer_Req38905-2) | 2d |
-| BTI Solutions | Korean Bilingual Software Tester AM700701 | Bellevue, WA | Workday | not_applied | [Apply](https://btisolutions.wd12.myworkdayjobs.com/External/job/Bellevue-WA/Korean-Bilingual-Software-Tester-AM700701_JR101910-1) | 2d |
+| SS&C | Software Development Engineer In Test | San Francisco, CA | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/San-Francisco-CA/Software-Development-Engineer-In-Test_R43953) | 2d |
 | The Walt Disney Company | Software Engineer II | Glendale, CA, USA | Workday | not_applied | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Software-Engineer-II_10150836) | 2d |
 | Hewlett Packard (HP) | Camera System Software Engineer | Austin, Texas, United States of America | Workday | not_applied | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Austin-Texas-United-States-of-America/Camera-System-Software-Engineer_3163189) | 2d |
+| iHeartMedia | Software Engineer | San Antonio, TX (Stone Oak) | Workday | not_applied | [Apply](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/San-Antonio-TX-Stone-Oak/Software-Engineer_Req38905-2) | 2d |
 | Cboe | Software Engineer – QA | Kansas City, MO | Workday | not_applied | [Apply](https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Kansas-City-MO/Software-Engineer---QA_R-4526) | 2d |
 | DiDi Global | Software Engineer – Motion Planning  | San Jose, CA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/didi/jobs/8056500) | 4d |
 | Augmodo | Software Engineer | United States | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/augmodo/51c848a9-c586-4ac6-9253-6e9f52578d35) | 4d |
@@ -83,8 +84,7 @@
 | Nightwing Intelligence Solutions | Software Quality Assurance Specialist/Applications Tester | Sterling, VA | Workday | not_applied | [Apply](https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/Software-Quality-Assurance-Specialist-Applications-Tester_JR101833) | 5d |
 | ALTEN Technology | Controls/Automation Software Engineer | Marina, California, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5169239007) | 5d |
 | Meta | Software Engineer, Camera Systems | Sunnyvale, California, USA | JSearch | not_applied | [Apply](https://www.metacareers.com/jobs/2436192886889791/) | 5d |
-| Pyramid Consulting, Inc | Entry-Level Software Engineer | Pittsburgh, Pennsylvania, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/entry-level-software-engineer-at-pyramid-consulting-inc-4438814699) | 5d |
 | Career.zycto | Frontend Developer – Entry Level | Pompano Beach, Florida, USA | JSearch | not_applied | [Apply](https://career.zycto.com/jobs/frontend-developer-entry-level/) | 5d |
+| Pyramid Consulting, Inc | Entry-Level Software Engineer | Pittsburgh, Pennsylvania, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/entry-level-software-engineer-at-pyramid-consulting-inc-4438814699) | 5d |
 | Temporal Technologies | Software Engineer, AI Developer Experience | United States - Remote Opportunity | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5183565007) | 5d |
-| mthree | Production Support/SRE Analyst | New York, NY | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4695851006) | 5d |
 
