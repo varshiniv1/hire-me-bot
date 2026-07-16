@@ -1,6 +1,6 @@
 # Job Postings Report
 
-72 postings from the last 6 days.
+76 postings from the last 6 days.
 
 ## Internships (7)
 
@@ -14,10 +14,14 @@
 | Exowatt | Software Engineering Intern — Inventory Automation & IoT/Robotics | Austin, TX | Lever | not_applied | [Apply](https://jobs.lever.co/exowatt/46c8f4fd-f059-4ad6-a5f4-4fcd55d84f9c) | 5d |
 | Exowatt | Software Engineering Intern — Agent Platform (AI) | Austin, TX | Lever | not_applied | [Apply](https://jobs.lever.co/exowatt/2623555d-8b81-4f95-8bca-de9fafd2381c) | 5d |
 
-## Full-Time (65)
+## Full-Time (69)
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
+| GE Appliances | Edison Engineering Development Program (EEDP) - Software - January 2027 | USA, Louisville, KY | Workday | not_applied | [Apply](https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---January-2027_REQ-25806) | 0d |
+| Crowdstrike | SRE/Dev Ops Engineer (Hybrid, Sunnyvale) | USA - Sunnyvale, CA | Workday | not_applied | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/SRE-Dev-Ops-Engineer--Hybrid--Sunnyvale-_R28583) | 0d |
+| ASML | Optical Fabrication Technicians: CWW Front End Nights (6:00pm-6:00am Sunday-Tuesday, every other Wednesday) 15 % Differential | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technicians--CWW-Front-End-Nights--6-00pm-6-00am-Sunday-Tuesday--every-other-Wednesday--15---Differential_J-00347364) | 0d |
+| GE Appliances | Edison Engineering Development Program (EEDP) - Software – July 2027 | USA, Louisville, KY | Workday | not_applied | [Apply](https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---July-2027_REQ-25807) | 0d |
 | Woongjin | Java Full-Stack Developer - Bilingual (Korean/ English) | Santa Ana, CA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WJCompany/744000137991567-java-full-stack-developer-bilingual-korean-english-) | 0d |
 | Woongjin | Jr. Full Stack Developer- Bilingual (Korean/ English) | Plano, TX, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WJCompany/744000137992159-jr-full-stack-developer-bilingual-korean-english-) | 0d |
 | Woongjin | Jr. Full Stack Developer- Bilingual (Korean/ English) | Plano, TX, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WJCompany/744000137985779-jr-full-stack-developer-bilingual-korean-english-) | 0d |
@@ -46,36 +50,36 @@
 | AvidXchange | Software Engineer II (Multiple Positions) | Charlotte, North Carolina, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/avidxchangeinc/jobs/5140353007) | 1d |
 | AvidXchange | Software Engineer (Multiple Positions) | Charlotte, North Carolina, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/avidxchangeinc/jobs/5186642007) | 1d |
 | Best Egg | Site Reliability Engineer | Wilmington, DE | Lever | not_applied | [Apply](https://jobs.lever.co/BestEgg/7b3262b3-1618-45e5-bd70-74ae378784bb) | 1d |
-| Cartesia | Software Engineer, Platform | *HQ - San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/cartesia/7628169d-3703-4b82-a1d0-ed3124790643) | 1d |
-| ASML | Optical Fabrication Technician CWW Front End Days | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-CWW-Front-End-Days_J-00339729) | 2d |
-| Hewlett Packard Enterprise | Software Development Engineer in Test | Spring, Texas, United States of America | Workday | not_applied | [Apply](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Spring-Texas-United-States-of-America/Software-Development-Engineer-in-Test_1201930-2) | 2d |
-| U.S. Bank | Software Engineer 2 (Backend AI) | Earth City, MO | Workday | not_applied | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Earth-City-MO/Software-Engineer-2--Backend-AI-_2026-0018811) | 2d |
+| Cartesia | Software Engineer, Platform | *HQ - San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/cartesia/7628169d-3703-4b82-a1d0-ed3124790643) | 2d |
 | General Motors | Software Developer – Manufacturing Engineering | Warren, Michigan, United States of America | Workday | not_applied | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Software-Developer---Manufacturing-Engineering_JR-202606726-1) | 2d |
-| BTI Solutions | Java Full-Stack Developer | Santa Ana, CA | Workday | not_applied | [Apply](https://btisolutions.wd12.myworkdayjobs.com/External/job/Santa-Ana-CA/Java-Full-Stack-Developer_JR101914-1) | 2d |
 | U.S. Bank | Software Enginner 2 (ePay Developer,  Java / Microservices/Cloud) | Cincinnati, OH | Workday | not_applied | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Cincinnati-OH/Software-Enginner-2--ePay-Developer---Java---Microservices-Cloud-_2026-0017510) | 2d |
 | Acrisure | Software Engineer | 816 Congress Ave Ste 1800  - AUSTIN, TX | Workday | not_applied | [Apply](https://acrisure.wd1.myworkdayjobs.com/Acrisure/job/816-Congress-Ave-Ste-1800----AUSTIN-TX/Software-Engineer_JR113843) | 2d |
+| BTI Solutions | Java Full-Stack Developer | Santa Ana, CA | Workday | not_applied | [Apply](https://btisolutions.wd12.myworkdayjobs.com/External/job/Santa-Ana-CA/Java-Full-Stack-Developer_JR101914-1) | 2d |
+| ASML | Optical Fabrication Technician CWW Front End Days | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-CWW-Front-End-Days_J-00339729) | 2d |
+| U.S. Bank | Software Engineer 2 (Backend AI) | Earth City, MO | Workday | not_applied | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Earth-City-MO/Software-Engineer-2--Backend-AI-_2026-0018811) | 2d |
+| Hewlett Packard Enterprise | Software Development Engineer in Test | Spring, Texas, United States of America | Workday | not_applied | [Apply](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Spring-Texas-United-States-of-America/Software-Development-Engineer-in-Test_1201930-2) | 2d |
 | StubHub |  Software Engineer I - Core Compute Platform | New York, New York, United States | Greenhouse | not_applied | [Apply](https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4921819101) | 2d |
 | PlayStation | Software Development Engineer in Test Contractor (SDET Contractor) | United States, San Mateo, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6015203004) | 2d |
 | Sony Interactive Entertainment | Software Development Engineer in Test Contractor (SDET Contractor) | United States, San Mateo, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6015203004) | 2d |
 | Nex | Frontend Engineer - Marketing & Digital Experience (Contract) | Remote US | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/nex/jobs/5289228008) | 2d |
 | Nex | Frontend Engineer - Marketing & Digital Experience | Remote (USA & Canada Only) | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/nex/jobs/5155205008) | 2d |
 | Whoop | Software Engineer II, MLOps | Boston, MA | Lever | not_applied | [Apply](https://jobs.lever.co/whoop/82635467-6cfb-4e8b-967e-73355a0d0b8f) | 2d |
-| Year Up United | Software Development Job Training Opportunity | Pittsburgh, Pennsylvania, USA | JSearch | dismissed | [Apply](https://www.linkedin.com/jobs/view/software-development-job-training-opportunity-at-year-up-united-4439119348) | 3d |
-| U.S. Bank | Software Engineer 2 - Salesforce Developer | Brea, CA | Workday | not_applied | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Brea-CA/Software-Engineer-2---Salesforce-Developer_2026-0017670) | 3d |
-| NVIDIA | System Software Engineer, Dynamo-Triton Inference Server - New College Grad 2026 | US, CA, Santa Clara | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767) | 3d |
-| Philips | R&D Software Engineer - Image Processing (C++ / GPU) | Orange (OH), Ohio, United States | Workday | not_applied | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Orange-OH-Ohio-United-States/R-D-Software-Engineer---Image-Processing--C-----GPU-_586929) | 3d |
-| NVIDIA | Backend Compiler Engineer - New College Grad 2026 | US, CA, Santa Clara | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Backend-Compiler-Engineer---New-College-Grad-2026_JR2021242) | 3d |
-| General Motors | Technical Specialist– Software Reflash | Warren, Michigan, United States of America | Workday | not_applied | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Technical-Specialist--Software-Reflash_JR-202606546) | 3d |
-| Fidelity National Information Services | Software Engineer Specialists-Payments API Platform (Real Time & Event Driven) | US FL JAX 347 | Workday | not_applied | [Apply](https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Software-Engineer-Specialists-Payments-API-Platform--Real-Time---Event-Driven-_JR0308351) | 3d |
-| Cboe | Software Engineer – QA | Kansas City, MO | Workday | not_applied | [Apply](https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Kansas-City-MO/Software-Engineer---QA_R-4526) | 3d |
 | Hewlett Packard (HP) | Camera System Software Engineer | Austin, Texas, United States of America | Workday | not_applied | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Austin-Texas-United-States-of-America/Camera-System-Software-Engineer_3163189) | 3d |
 | The Walt Disney Company | Software Engineer II | Glendale, CA, USA | Workday | not_applied | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Software-Engineer-II_10150836) | 3d |
 | SS&C | Software Development Engineer In Test | San Francisco, CA | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/San-Francisco-CA/Software-Development-Engineer-In-Test_R43953) | 3d |
 | Regions Bank | Software Engineer - Full Stack / Java / Python [see locations] | Hoover, AL - Riverchase Operations Center (Birmingham, AL) | Workday | not_applied | [Apply](https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Software-Engineer---Full-Stack---Java--see-locations-_R102892) | 3d |
-| iHeartMedia | Software Engineer | San Antonio, TX (Stone Oak) | Workday | not_applied | [Apply](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/San-Antonio-TX-Stone-Oak/Software-Engineer_Req38905-2) | 3d |
-| LabCorp | Full-stack Java Developer | USA - IN - Indianapolis - 8211 Scicor Drive | Workday | not_applied | [Apply](https://labcorp.wd1.myworkdayjobs.com/External/job/USA---IN---Indianapolis---8211-Scicor-Drive/Full-stack-Java-Developer_2621634) | 3d |
 | U.S. Bank | Software Engineer 2 (Full -stack - Spring Boot/React JS) | Irving, TX | Workday | not_applied | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irving-TX/Software-Engineer-2--Full--stack---Spring-Boot-React-JS-_2026-0016527) | 3d |
+| Philips | R&D Software Engineer - Image Processing (C++ / GPU) | Orange (OH), Ohio, United States | Workday | not_applied | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Orange-OH-Ohio-United-States/R-D-Software-Engineer---Image-Processing--C-----GPU-_586929) | 3d |
+| Cboe | Software Engineer – QA | Kansas City, MO | Workday | not_applied | [Apply](https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Kansas-City-MO/Software-Engineer---QA_R-4526) | 3d |
+| NVIDIA | Backend Compiler Engineer - New College Grad 2026 | US, CA, Santa Clara | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Backend-Compiler-Engineer---New-College-Grad-2026_JR2021242) | 3d |
+| General Motors | Technical Specialist– Software Reflash | Warren, Michigan, United States of America | Workday | not_applied | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Technical-Specialist--Software-Reflash_JR-202606546) | 3d |
+| Fidelity National Information Services | Software Engineer Specialists-Payments API Platform (Real Time & Event Driven) | US FL JAX 347 | Workday | not_applied | [Apply](https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Software-Engineer-Specialists-Payments-API-Platform--Real-Time---Event-Driven-_JR0308351) | 3d |
+| LabCorp | Full-stack Java Developer | USA - IN - Indianapolis - 8211 Scicor Drive | Workday | not_applied | [Apply](https://labcorp.wd1.myworkdayjobs.com/External/job/USA---IN---Indianapolis---8211-Scicor-Drive/Full-stack-Java-Developer_2621634) | 3d |
+| iHeartMedia | Software Engineer | San Antonio, TX (Stone Oak) | Workday | not_applied | [Apply](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/San-Antonio-TX-Stone-Oak/Software-Engineer_Req38905-2) | 3d |
+| Year Up United | Software Development Job Training Opportunity | Pittsburgh, Pennsylvania, USA | JSearch | dismissed | [Apply](https://www.linkedin.com/jobs/view/software-development-job-training-opportunity-at-year-up-united-4439119348) | 3d |
 | BTI Solutions | Korean Bilingual Software Tester AM700701 | Bellevue, WA | Workday | not_applied | [Apply](https://btisolutions.wd12.myworkdayjobs.com/External/job/Bellevue-WA/Korean-Bilingual-Software-Tester-AM700701_JR101910-1) | 3d |
+| U.S. Bank | Software Engineer 2 - Salesforce Developer | Brea, CA | Workday | not_applied | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Brea-CA/Software-Engineer-2---Salesforce-Developer_2026-0017670) | 3d |
+| NVIDIA | System Software Engineer, Dynamo-Triton Inference Server - New College Grad 2026 | US, CA, Santa Clara | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767) | 3d |
 | DiDi Global | Software Engineer – Motion Planning  | San Jose, CA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/didi/jobs/8056500) | 5d |
 | Augmodo | Software Engineer | United States | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/augmodo/51c848a9-c586-4ac6-9253-6e9f52578d35) | 5d |
 | MatX | System Software Engineer - Linux Kernel and Device Drivers | Mountain View, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/matx/jobs/5326322008) | 5d |
