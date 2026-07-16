@@ -76,7 +76,7 @@
 | LabCorp | Full-stack Java Developer | USA - IN - Indianapolis - 8211 Scicor Drive | Workday | not_applied | [Apply](https://labcorp.wd1.myworkdayjobs.com/External/job/USA---IN---Indianapolis---8211-Scicor-Drive/Full-stack-Java-Developer_2621634) | 3d |
 | U.S. Bank | Software Engineer 2 (Full -stack - Spring Boot/React JS) | Irving, TX | Workday | not_applied | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irving-TX/Software-Engineer-2--Full--stack---Spring-Boot-React-JS-_2026-0016527) | 3d |
 | BTI Solutions | Korean Bilingual Software Tester AM700701 | Bellevue, WA | Workday | not_applied | [Apply](https://btisolutions.wd12.myworkdayjobs.com/External/job/Bellevue-WA/Korean-Bilingual-Software-Tester-AM700701_JR101910-1) | 3d |
-| DiDi Global | Software Engineer – Motion Planning  | San Jose, CA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/didi/jobs/8056500) | 4d |
+| DiDi Global | Software Engineer – Motion Planning  | San Jose, CA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/didi/jobs/8056500) | 5d |
 | Augmodo | Software Engineer | United States | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/augmodo/51c848a9-c586-4ac6-9253-6e9f52578d35) | 5d |
 | MatX | System Software Engineer - Linux Kernel and Device Drivers | Mountain View, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/matx/jobs/5326322008) | 5d |
 | Kustomer | Software Engineer, Full Stack (Early Career) | US - New York, NY | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/kustomer/4037272a-7fd3-4040-906b-47fde875a817) | 5d |
