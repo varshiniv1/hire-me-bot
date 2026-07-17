@@ -74,7 +74,7 @@
 | AvidXchange | Software Engineer II (Multiple Positions) | Charlotte, North Carolina, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/avidxchangeinc/jobs/5140353007) | 2d |
 | AvidXchange | Software Engineer (Multiple Positions) | Charlotte, North Carolina, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/avidxchangeinc/jobs/5186642007) | 2d |
 | Best Egg | Site Reliability Engineer | Wilmington, DE | Lever | not_applied | [Apply](https://jobs.lever.co/BestEgg/7b3262b3-1618-45e5-bd70-74ae378784bb) | 2d |
-| Cartesia | Software Engineer, Platform | *HQ - San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/cartesia/7628169d-3703-4b82-a1d0-ed3124790643) | 2d |
+| Cartesia | Software Engineer, Platform | *HQ - San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/cartesia/7628169d-3703-4b82-a1d0-ed3124790643) | 3d |
 | Meta | Software Engineer, Accelerator Solutions & Technologies (PhD) | New York, New York, USA | JSearch | not_applied | [Apply](https://www.metacareers.com/profile/job_details/2166155787562011/) | 3d |
 | U.S. Bank | Software Enginner 2 (ePay Developer,  Java / Microservices/Cloud) | Cincinnati, OH | Workday | not_applied | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Cincinnati-OH/Software-Enginner-2--ePay-Developer---Java---Microservices-Cloud-_2026-0017510) | 3d |
 | General Motors | Software Developer – Manufacturing Engineering | Warren, Michigan, United States of America | Workday | not_applied | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Software-Developer---Manufacturing-Engineering_JR-202606726-1) | 3d |
