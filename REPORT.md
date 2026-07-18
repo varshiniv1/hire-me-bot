@@ -96,7 +96,7 @@
 | AvidXchange | Software Engineer II (Multiple Positions) | Charlotte, North Carolina, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/avidxchangeinc/jobs/5140353007) | 3d |
 | AvidXchange | Software Engineer (Multiple Positions) | Charlotte, North Carolina, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/avidxchangeinc/jobs/5186642007) | 3d |
 | Best Egg | Site Reliability Engineer | Wilmington, DE | Lever | not_applied | [Apply](https://jobs.lever.co/BestEgg/7b3262b3-1618-45e5-bd70-74ae378784bb) | 3d |
-| Cartesia | Software Engineer, Platform | *HQ - San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/cartesia/7628169d-3703-4b82-a1d0-ed3124790643) | 3d |
+| Cartesia | Software Engineer, Platform | *HQ - San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/cartesia/7628169d-3703-4b82-a1d0-ed3124790643) | 4d |
 | BTI Solutions | Java Full-Stack Developer | Santa Ana, CA | Workday | not_applied | [Apply](https://btisolutions.wd12.myworkdayjobs.com/External/job/Santa-Ana-CA/Java-Full-Stack-Developer_JR101914-1) | 4d |
 | Hewlett Packard Enterprise | Software Development Engineer in Test | Spring, Texas, United States of America | Workday | not_applied | [Apply](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Spring-Texas-United-States-of-America/Software-Development-Engineer-in-Test_1201930-2) | 4d |
 | Kings Food Markets | Front End Entry Level | Garden City, New York, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-kings-food-markets-4431753315) | 4d |
