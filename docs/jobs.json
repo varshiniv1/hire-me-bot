@@ -319,6 +319,17 @@
     "is_internship": false
   },
   {
+    "id": 91502,
+    "company": "ChatGPT Jobs",
+    "role": "Software Developer Intern",
+    "location": "New York, New York, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/software-developer-intern-at-chatgpt-jobs-4438439705",
+    "age": "3d",
+    "is_internship": true
+  },
+  {
     "id": 90767,
     "company": "Crowdstrike",
     "role": "SRE/Dev Ops Engineer (Hybrid, Sunnyvale)",
@@ -359,17 +370,6 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://jobs.digitalhire.com/job-listing/opening/4aMQ4Q3ER08JIFbO7H6CqQ",
-    "age": "3d",
-    "is_internship": true
-  },
-  {
-    "id": 91502,
-    "company": "ChatGPT Jobs",
-    "role": "Software Developer Intern",
-    "location": "New York, New York, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/software-developer-intern-at-chatgpt-jobs-4438439705",
     "age": "3d",
     "is_internship": true
   },
@@ -495,17 +495,6 @@
     "is_internship": false
   },
   {
-    "id": 91481,
-    "company": "Reflexive Concepts",
-    "role": "Software Engineer I",
-    "location": "Annapolis Junction, Maryland, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-reflexive-concepts-4441237567",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
     "id": 91506,
     "company": "SMC\u00b3",
     "role": "Software Engineer I",
@@ -513,6 +502,17 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-smc%C2%B3-4438421362",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 91481,
+    "company": "Reflexive Concepts",
+    "role": "Software Engineer I",
+    "location": "Annapolis Junction, Maryland, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-reflexive-concepts-4441237567",
     "age": "3d",
     "is_internship": false
   },
@@ -539,13 +539,35 @@
     "is_internship": false
   },
   {
-    "id": 86544,
-    "company": "Ferrovial",
-    "role": "Webber - Frontend Loader Operator - Heavy Civil",
-    "location": "Canyon, TX",
+    "id": 102690,
+    "company": "InstaLILY",
+    "role": "Software Engineer II, General",
+    "location": "New York, New York, United States, San Francisco, California, United States",
+    "source": "Greenhouse",
+    "status": "not_applied",
+    "url": "https://job-boards.greenhouse.io/instalilyai/jobs/4296649009",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 102689,
+    "company": "InstaLILY",
+    "role": "Software Engineer I, General",
+    "location": "New York, New York, United States, San Francisco, California, United States",
+    "source": "Greenhouse",
+    "status": "not_applied",
+    "url": "https://job-boards.greenhouse.io/instalilyai/jobs/4271757009",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 84889,
+    "company": "Genuine Parts Company",
+    "role": "Software Engineering Full Stack (React & NestJS)",
+    "location": "Birmingham, AL, USA",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Canyon-TX/Webber---Frontend-Loader-Operator---Heavy-Civil_JR18293",
+    "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Engineering-Full-Stack--React---NestJS-_R26_0000004102",
     "age": "4d",
     "is_internship": false
   },
@@ -557,6 +579,28 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://healthresearch.wd1.myworkdayjobs.com/HRI_Careers/job/Albany-NY/Software-Engineer-Developer_JR-0002227",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 84798,
+    "company": "Copart",
+    "role": "Software Engineering Intern",
+    "location": "Dallas, TX - Headquarters",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109673",
+    "age": "4d",
+    "is_internship": true
+  },
+  {
+    "id": 86544,
+    "company": "Ferrovial",
+    "role": "Webber - Frontend Loader Operator - Heavy Civil",
+    "location": "Canyon, TX",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Canyon-TX/Webber---Frontend-Loader-Operator---Heavy-Civil_JR18293",
     "age": "4d",
     "is_internship": false
   },
@@ -583,28 +627,6 @@
     "is_internship": true
   },
   {
-    "id": 84889,
-    "company": "Genuine Parts Company",
-    "role": "Software Engineering Full Stack (React & NestJS)",
-    "location": "Birmingham, AL, USA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Engineering-Full-Stack--React---NestJS-_R26_0000004102",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
-    "id": 84798,
-    "company": "Copart",
-    "role": "Software Engineering Intern",
-    "location": "Dallas, TX - Headquarters",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109673",
-    "age": "4d",
-    "is_internship": true
-  },
-  {
     "id": 81740,
     "company": "Scale AI",
     "role": "Software Engineer, Public Sector",
@@ -627,6 +649,28 @@
     "is_internship": false
   },
   {
+    "id": 102708,
+    "company": "Katalyst Space Technologies",
+    "role": "Software Engineer I, Modeling and Simulation ",
+    "location": "Broomfield, Colorado, United States",
+    "source": "Greenhouse",
+    "status": "not_applied",
+    "url": "https://job-boards.greenhouse.io/katalyst/jobs/6115352004",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 102707,
+    "company": "Katalyst Space Technologies",
+    "role": "Software Engineer II, Modeling and Simulation ",
+    "location": "Broomfield, Colorado, United States",
+    "source": "Greenhouse",
+    "status": "not_applied",
+    "url": "https://job-boards.greenhouse.io/katalyst/jobs/6115351004",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
     "id": 79640,
     "company": "ASML",
     "role": "Optical Fabrication Technician CWW Front End Days",
@@ -634,39 +678,6 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-CWW-Front-End-Days_J-00339729",
-    "age": "5d",
-    "is_internship": false
-  },
-  {
-    "id": 91499,
-    "company": "Danaher",
-    "role": "Software Engineer Internships - Now Hiring",
-    "location": "Gaithersburg, Maryland, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.snagajob.com/jobs/1141634319",
-    "age": "5d",
-    "is_internship": true
-  },
-  {
-    "id": 91500,
-    "company": "Knexus Research Corporation",
-    "role": "Remote AI Software Engineer Intern \u2013 DoD Solutions",
-    "location": "Vienna, Virginia, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://bebee.com/us/jobs/remote-ai-software-engineer-intern-dod-solutions-knexus-research-corporation-vienna-va-united-states--resume-28894_28765_1280fdd5d732cf2d69d7af90423711d5",
-    "age": "5d",
-    "is_internship": true
-  },
-  {
-    "id": 82330,
-    "company": "Hewlett Packard Enterprise",
-    "role": "Software Development Engineer in Test",
-    "location": "Spring, Texas, United States of America",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Spring-Texas-United-States-of-America/Software-Development-Engineer-in-Test_1201930-2",
     "age": "5d",
     "is_internship": false
   },
@@ -682,6 +693,39 @@
     "is_internship": false
   },
   {
+    "id": 82330,
+    "company": "Hewlett Packard Enterprise",
+    "role": "Software Development Engineer in Test",
+    "location": "Spring, Texas, United States of America",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Spring-Texas-United-States-of-America/Software-Development-Engineer-in-Test_1201930-2",
+    "age": "5d",
+    "is_internship": false
+  },
+  {
+    "id": 91500,
+    "company": "Knexus Research Corporation",
+    "role": "Remote AI Software Engineer Intern \u2013 DoD Solutions",
+    "location": "Vienna, Virginia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://bebee.com/us/jobs/remote-ai-software-engineer-intern-dod-solutions-knexus-research-corporation-vienna-va-united-states--resume-28894_28765_1280fdd5d732cf2d69d7af90423711d5",
+    "age": "5d",
+    "is_internship": true
+  },
+  {
+    "id": 91499,
+    "company": "Danaher",
+    "role": "Software Engineer Internships - Now Hiring",
+    "location": "Gaithersburg, Maryland, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.snagajob.com/jobs/1141634319",
+    "age": "5d",
+    "is_internship": true
+  },
+  {
     "id": 75193,
     "company": "StubHub",
     "role": " Software Engineer I - Core Compute Platform",
@@ -693,8 +737,19 @@
     "is_internship": false
   },
   {
-    "id": 74104,
-    "company": "PlayStation",
+    "id": 102876,
+    "company": "Persona AI",
+    "role": "Teleoperation Software Engineering Internship",
+    "location": "Pensacola, FL or Houston, TX ",
+    "source": "Ashby",
+    "status": "not_applied",
+    "url": "https://jobs.ashbyhq.com/persona.ai/6078fafd-ba34-4c89-b260-7eb15be3cb9c",
+    "age": "5d",
+    "is_internship": true
+  },
+  {
+    "id": 74195,
+    "company": "Sony Interactive Entertainment",
     "role": "Software Development Engineer in Test Contractor (SDET Contractor)",
     "location": "United States, San Mateo, CA",
     "source": "Greenhouse",
@@ -704,8 +759,8 @@
     "is_internship": false
   },
   {
-    "id": 74195,
-    "company": "Sony Interactive Entertainment",
+    "id": 74104,
+    "company": "PlayStation",
     "role": "Software Development Engineer in Test Contractor (SDET Contractor)",
     "location": "United States, San Mateo, CA",
     "source": "Greenhouse",
@@ -759,28 +814,6 @@
     "is_internship": false
   },
   {
-    "id": 73898,
-    "company": "Hewlett Packard (HP)",
-    "role": "Camera System Software Engineer",
-    "location": "Austin, Texas, United States of America",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Austin-Texas-United-States-of-America/Camera-System-Software-Engineer_3163189",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 74477,
-    "company": "The Walt Disney Company",
-    "role": "Software Engineer II",
-    "location": "Glendale, CA, USA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Software-Engineer-II_10150836",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
     "id": 86723,
     "company": "LabCorp",
     "role": "Full-stack Java Developer",
@@ -814,17 +847,6 @@
     "is_internship": false
   },
   {
-    "id": 72905,
-    "company": "BTI Solutions",
-    "role": "Korean Bilingual Software Tester AM700701",
-    "location": "Bellevue, WA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://btisolutions.wd12.myworkdayjobs.com/External/job/Bellevue-WA/Korean-Bilingual-Software-Tester-AM700701_JR101910-1",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
     "id": 74959,
     "company": "Philips",
     "role": "R&D Software Engineer - Image Processing (C++ / GPU)",
@@ -847,6 +869,39 @@
     "is_internship": false
   },
   {
+    "id": 74718,
+    "company": "General Motors",
+    "role": "Technical Specialist\u2013 Software Reflash",
+    "location": "Warren, Michigan, United States of America",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Technical-Specialist--Software-Reflash_JR-202606546",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 73898,
+    "company": "Hewlett Packard (HP)",
+    "role": "Camera System Software Engineer",
+    "location": "Austin, Texas, United States of America",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Austin-Texas-United-States-of-America/Camera-System-Software-Engineer_3163189",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 74477,
+    "company": "The Walt Disney Company",
+    "role": "Software Engineer II",
+    "location": "Glendale, CA, USA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Software-Engineer-II_10150836",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
     "id": 91488,
     "company": "Albertsons",
     "role": "Front End Entry Level",
@@ -858,13 +913,13 @@
     "is_internship": false
   },
   {
-    "id": 74718,
-    "company": "General Motors",
-    "role": "Technical Specialist\u2013 Software Reflash",
-    "location": "Warren, Michigan, United States of America",
+    "id": 72905,
+    "company": "BTI Solutions",
+    "role": "Korean Bilingual Software Tester AM700701",
+    "location": "Bellevue, WA",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Technical-Specialist--Software-Reflash_JR-202606546",
+    "url": "https://btisolutions.wd12.myworkdayjobs.com/External/job/Bellevue-WA/Korean-Bilingual-Software-Tester-AM700701_JR101910-1",
     "age": "6d",
     "is_internship": false
   },
@@ -880,17 +935,6 @@
     "is_internship": false
   },
   {
-    "id": 73662,
-    "company": "Citadel",
-    "role": "Software Engineer - Intern (US)",
-    "location": "New York, New York, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
-    "age": "6d",
-    "is_internship": true
-  },
-  {
     "id": 73657,
     "company": "Guardian RF",
     "role": "Front End and UI Software Engineering Intern",
@@ -898,6 +942,17 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://bebee.com/us/jobs/front-end-and-ui-software-engineering-intern-guardian-rf-washington-dc--t7xk-761167375",
+    "age": "6d",
+    "is_internship": true
+  },
+  {
+    "id": 73662,
+    "company": "Citadel",
+    "role": "Software Engineer - Intern (US)",
+    "location": "New York, New York, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
     "age": "6d",
     "is_internship": true
   }
