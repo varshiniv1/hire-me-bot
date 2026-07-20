@@ -1,6 +1,6 @@
 # Job Postings Report
 
-100 postings from the last 6 days.
+101 postings from the last 6 days.
 
 ## Internships (8)
 
@@ -9,13 +9,13 @@
 | Western Digital | Software Engineering Co-Op - Winter 2027 | Rochester, MN, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000138184309-software-engineering-co-op-winter-2027) | 3d |
 | Red Hat, Inc. | Software Engineering Co-op | Raleigh, North Carolina, USA | JSearch | not_applied | [Apply](https://jobs.digitalhire.com/job-listing/opening/4aMQ4Q3ER08JIFbO7H6CqQ) | 4d |
 | ChatGPT Jobs | Software Developer Intern | New York, New York, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/software-developer-intern-at-chatgpt-jobs-4438439705) | 4d |
-| Copart | Software Engineering Intern | Dallas, TX - Headquarters | Workday | not_applied | [Apply](https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109897) | 5d |
 | Copart | Software Engineering Intern | Dallas, TX - Headquarters | Workday | not_applied | [Apply](https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109689) | 5d |
 | Copart | Software Engineering Intern | Dallas, TX - Headquarters | Workday | not_applied | [Apply](https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109673) | 5d |
+| Copart | Software Engineering Intern | Dallas, TX - Headquarters | Workday | not_applied | [Apply](https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109897) | 5d |
 | Palantir Technologies | Customer-Facing Software Engineer Intern | Washington, District of Columbia, USA | JSearch | not_applied | [Apply](https://bebee.com/us/jobs/customer-facing-software-engineer-intern-palantir-technologies-washington--lensa-7428_cedb6d989afb6bb620a56915d59de2da06251303952409a6f0dd00cc9b678ac6) | 5d |
 | CACI International | Hybrid Software Engineering Intern - Oracle & SQL Focus | Jessup, Maryland, USA | JSearch | not_applied | [Apply](https://bebee.com/us/jobs/hybrid-software-engineering-intern-oracle-sql-focus-caci-international-jessup--lensa-7428_b95be5c54633a00f1ea8d611691736d95dc8cf5f0a6873ad978c25cd1821b447) | 5d |
 
-## Full-Time (92)
+## Full-Time (93)
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
@@ -69,20 +69,20 @@
 | Revantage Corporate Services | AVP, Software Engineer | Dallas, TX | Workday | not_applied | [Apply](https://revantage.wd1.myworkdayjobs.com/Revantage/job/Dallas-TX/AVP--Software-Engineer_JR103597) | 4d |
 | Acrisure | Software Engineer I | 333 Earle Ovington Blvd - Uniondale, NY | Workday | dismissed | [Apply](https://acrisure.wd1.myworkdayjobs.com/Acrisure/job/333-Earle-Ovington-Blvd---Uniondale-NY/Software-Engineer-I_JR113871) | 4d |
 | CrossCountry Mortgage | Encompass Software Engineer | Remote USA | Workday | not_applied | [Apply](https://crosscountrymortgage.wd1.myworkdayjobs.com/CCMCareers/job/Remote-USA/Encompass-Software-Engineer_JR03213) | 4d |
+| Johnson Controls | IT Deployment Specialist - Building Automation Systems (BAS) Software | Plymouth-Minnesota-United States of America | Workday | not_applied | [Apply](https://jci.wd5.myworkdayjobs.com/JCI/job/Plymouth-Minnesota-United-States-of-America/IT-Deployment-Specialist---Building-Automation-Systems--BAS--Software_WD30274353) | 4d |
 | Woongjin | Java Full-Stack Developer - Bilingual (Korean/ English) | Santa Ana, CA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WJCompany/744000137991567-java-full-stack-developer-bilingual-korean-english-) | 4d |
 | Woongjin | Jr. Full Stack Developer- Bilingual (Korean/ English) | Plano, TX, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WJCompany/744000137992159-jr-full-stack-developer-bilingual-korean-english-) | 4d |
 | Woongjin | Jr. Full Stack Developer- Bilingual (Korean/ English) | Plano, TX, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WJCompany/744000137985779-jr-full-stack-developer-bilingual-korean-english-) | 4d |
-| SMC³ | Software Engineer I | Peachtree City, Georgia, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/software-engineer-i-at-smc%C2%B3-4438421362) | 4d |
 | Reflexive Concepts | Software Engineer I | Annapolis Junction, Maryland, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/software-engineer-i-at-reflexive-concepts-4441237567) | 4d |
-| Shaw’s and Star Market | Front End Entry Level | Burlington, Massachusetts, USA | JSearch | dismissed | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-shaw%E2%80%99s-and-star-market-4441238076) | 4d |
+| SMC³ | Software Engineer I | Peachtree City, Georgia, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/software-engineer-i-at-smc%C2%B3-4438421362) | 4d |
 | Acme Markets | Front End Entry Level | Yorktown Heights, New York, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-acme-markets-4441225672) | 4d |
+| Shaw’s and Star Market | Front End Entry Level | Burlington, Massachusetts, USA | JSearch | dismissed | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-shaw%E2%80%99s-and-star-market-4441238076) | 4d |
 | StubHub | Software Engineer II - Product Security | Los Angeles, California, United States | Greenhouse | not_applied | [Apply](https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4903899101) | 4d |
 | Woongjin | Java Full-Stack Developer - Bilingual (Korean/ English) | Santa Ana, CA, us | SmartRecruiters | dismissed | [Apply](https://jobs.smartrecruiters.com/WJCompany/744000137944673-java-full-stack-developer-bilingual-korean-english-) | 4d |
 | InstaLILY | Software Engineer II, General | New York, New York, United States, San Francisco, California, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/instalilyai/jobs/4296649009) | 4d |
 | InstaLILY | Software Engineer I, General | New York, New York, United States, San Francisco, California, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/instalilyai/jobs/4271757009) | 4d |
 | Genuine Parts Company | Software Engineering Full Stack (React & NestJS) | Birmingham, AL, USA | Workday | not_applied | [Apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Engineering-Full-Stack--React---NestJS-_R26_0000004102) | 5d |
-| Symbotic | Software Engineer, Core Systems & Platform Services | USA Wilmington,  MA - HQ | Workday | applied | [Apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer--Core-Systems---Platform-Services_R7327) | 5d |
-| Albertsons Companies | Front End Entry Level | La Habra, California, USA | JSearch | dismissed | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-albertsons-companies-4440904901) | 5d |
+| Stripe | Software Engineer, New Grad at Stripe Washington DC | Washington, District of Columbia, USA | JSearch | not_applied | [Apply](https://bebee.com/us/jobs/software-engineer-new-grad-at-stripe-washington-dc-stripe-washington--lensa-7428_1380fbb37778c4923c308f87437fd12e6f4d61689b3b7c10000cede7aa2370a0) | 5d |
 | ABB | Production Engineering Specialist | USA, TN, Selmer | Workday | dismissed | [Apply](https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-TN-Selmer/Production-Engineering-Specialist_JR00037768-1) | 5d |
 | BTI Solutions | Junior Full Stack Developer | Plano, TX | Workday | dismissed | [Apply](https://btisolutions.wd12.myworkdayjobs.com/External/job/Plano-TX/Junior-Full-Stack-Developer_JR101920-1) | 5d |
 | Health Research | Software Engineer/Developer | Albany, NY | Workday | dismissed | [Apply](https://healthresearch.wd1.myworkdayjobs.com/HRI_Careers/job/Albany-NY/Software-Engineer-Developer_JR-0002229) | 5d |
@@ -92,16 +92,17 @@
 | Citi | Banking, Investment Banking, Full Time Analyst, Boston Technology(Software) – USA, 2027 | Boston Massachusetts United States | Workday | dismissed | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Boston-Massachusetts-United-States/Banking--Investment-Banking--Full-Time-Analyst--Boston-Technology-Software----USA--2027_26978172) | 5d |
 | Booz Allen | Bioinformatics Software Tester | Atlanta, GA | Workday | dismissed | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Atlanta-GA/Bioinformatics-Software-Tester_R0241891) | 5d |
 | Ferrovial | Webber - Frontend Loader Operator - Heavy Civil | Canyon, TX | Workday | not_applied | [Apply](https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Canyon-TX/Webber---Frontend-Loader-Operator---Heavy-Civil_JR18293) | 5d |
+| Symbotic | Software Engineer, Core Systems & Platform Services | USA Wilmington,  MA - HQ | Workday | applied | [Apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer--Core-Systems---Platform-Services_R7327) | 5d |
 | TryApplyNow | Entry-Level Software Engineer: Build Scalable Backend Systems | Los Angeles, California, USA | JSearch | not_applied | [Apply](https://us.trabajo.org/job-2283-ecfb73414d38e84e4d304e9a0711087d) | 5d |
 | Andronico's | Front End Entry Level | Berkeley, California, USA | JSearch | not_applied | [Apply](https://www.indeed.com/viewjob?jk=f6a1ba036b8aaea9) | 5d |
-| Stripe | Software Engineer, New Grad at Stripe Washington DC | Washington, District of Columbia, USA | JSearch | not_applied | [Apply](https://bebee.com/us/jobs/software-engineer-new-grad-at-stripe-washington-dc-stripe-washington--lensa-7428_1380fbb37778c4923c308f87437fd12e6f4d61689b3b7c10000cede7aa2370a0) | 5d |
+| Albertsons Companies | Front End Entry Level | La Habra, California, USA | JSearch | dismissed | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-albertsons-companies-4440904901) | 5d |
 | Virginia Tech | Entry-Level AI Software Engineer, Intelligent Systems | Arlington, Virginia, USA | JSearch | not_applied | [Apply](https://bebee.com/us/jobs/entry-level-ai-software-engineer-intelligent-systems-virginia-tech-arlington--lensa-7428_eb590a6a376a94a4a88925f1b0a57ab5c455977c80ad3c1bb8caa21feccd61a8) | 5d |
 | Scale AI | Software Engineer, Public Sector | San Francisco, CA; St. Louis, MO; New York, NY; Washington, DC | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4302243005) | 5d |
 | Twitch | Software Engineer I, Discovery | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8623578002) | 5d |
-| Robert Bosch | Software Engineer | Owatonna, MN, us | SmartRecruiters | dismissed | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000137750719-software-engineer) | 5d |
-| Robert Bosch Venture Capital | Software Engineer | Owatonna, MN, us | SmartRecruiters | dismissed | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000137750719-software-engineer) | 5d |
 | Bosch Group | Software Engineer | Owatonna, MN, us | SmartRecruiters | dismissed | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000137750719-software-engineer) | 5d |
 | Bosch | Software Engineer | Owatonna, MN, us | SmartRecruiters | dismissed | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000137750719-software-engineer) | 5d |
+| Robert Bosch Venture Capital | Software Engineer | Owatonna, MN, us | SmartRecruiters | dismissed | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000137750719-software-engineer) | 5d |
+| Robert Bosch | Software Engineer | Owatonna, MN, us | SmartRecruiters | dismissed | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000137750719-software-engineer) | 5d |
 | Scout Motors | Specialist, Software Update and Validation | Blythewood, South Carolina, United States | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/scoutmotors/jobs/5135032007) | 5d |
 | MatX | System Software Engineer — Node & Cluster Management | Mountain View, CA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/matx/jobs/5343904008) | 5d |
 | Hudl | Software Engineer | Lexington, KY, United States; Lincoln, NE, United States; Omaha, NE, United States | Greenhouse | applied | [Apply](https://job-boards.greenhouse.io/hudl/jobs/8052358) | 5d |
