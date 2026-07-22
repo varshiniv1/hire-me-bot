@@ -19,7 +19,7 @@
 | HP IQ | AI Software Engineer | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/5819552004) | 0d |
 | Sierra | Software Engineer, Agent - Travel & Hospitality | San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/Sierra/e2d3e1f5-03cb-4e18-9f3d-a32f0bb6ff91) | 0d |
 | Snowflake | Software Engineer | US-CA-Menlo Park | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/snowflake/74466b25-9cc8-4e9b-b60b-234c539c455c) | 0d |
-| Traackr | Software Engineer | Boston, MA | Lever | applied | [Apply](https://jobs.lever.co/traackr/9696fd49-9769-4738-8c40-e65b929b62fd) | 0d |
+| Traackr | Software Engineer | Boston, MA | Lever | applied | [Apply](https://jobs.lever.co/traackr/9696fd49-9769-4738-8c40-e65b929b62fd) | 1d |
 | CommerceIQ | Software Engineer | Mountain View, California, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/commerceiq/jobs/7803169003) | 1d |
 | U.S. Bank | Software Engineer 2 Front-End Developer (React, TypeScript, Micro Frontends) | Charlotte, NC | Workday | not_applied | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Charlotte-NC/Software-Engineer-2-Front-End-Developer--React--TypeScript--Micro-Frontends-_2026-0021772) | 1d |
 | C.H. Guenther | Sanitation Technician \| 1st Shift \| 5:15 am - 5:30 pm Back End Schedule \| $20 \| Caldwell, ID | Boise, ID (Fresca Mexican Foods LLC) | Workday | not_applied | [Apply](https://chg.wd5.myworkdayjobs.com/US_External_Career_Site/job/Boise-ID-Fresca-Mexican-Foods-LLC/Sanitation-Technician---1st-Shift---5-15-am---5-30-pm-Back-End-Schedule----20---Caldwell--ID_R819733) | 1d |
