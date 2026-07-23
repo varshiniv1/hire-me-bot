@@ -40,7 +40,7 @@
 | HP IQ | AI Software Engineer | San Francisco, CA | Greenhouse | applied | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/5819552004) | 1d |
 | Sierra | Software Engineer, Agent - Travel & Hospitality | San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/Sierra/e2d3e1f5-03cb-4e18-9f3d-a32f0bb6ff91) | 1d |
 | Snowflake | Software Engineer | US-CA-Menlo Park | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/snowflake/74466b25-9cc8-4e9b-b60b-234c539c455c) | 1d |
-| Traackr | Software Engineer | Boston, MA | Lever | applied | [Apply](https://jobs.lever.co/traackr/9696fd49-9769-4738-8c40-e65b929b62fd) | 1d |
+| Traackr | Software Engineer | Boston, MA | Lever | applied | [Apply](https://jobs.lever.co/traackr/9696fd49-9769-4738-8c40-e65b929b62fd) | 2d |
 | CommerceIQ | Software Engineer | Mountain View, California, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/commerceiq/jobs/7803169003) | 2d |
 | TJX | Salesfloor/Front End Associate | Mountain View, CA 94040 | Workday | dismissed | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Mountain-View-CA-94040/Salesfloor-Front-End-Associate_REQ138143-1) | 2d |
 | Proofpoint | Software Engineer - AI Platform Team | Draper, UT | Workday | not_applied | [Apply](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Draper-UT/Software-Engineer---AI-Platform-Team_R14306-1) | 2d |
