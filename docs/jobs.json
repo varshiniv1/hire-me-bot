@@ -1,5 +1,27 @@
 [
   {
+    "id": 125421,
+    "company": "Twilio",
+    "role": "Software Engineer (L2) Email",
+    "location": "Remote - US",
+    "source": "Greenhouse",
+    "status": "not_applied",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7689461",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
+    "id": 125452,
+    "company": "Whoop",
+    "role": "Software Enineer II (Fullstack, Health)",
+    "location": "Boston, MA",
+    "source": "Lever",
+    "status": "not_applied",
+    "url": "https://jobs.lever.co/whoop/de38a7c3-db3b-43eb-bf6d-326837c986ab",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
     "id": 124560,
     "company": "Synergy ECP",
     "role": "Mid-Level Full Stack Developer",
@@ -7,6 +29,17 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/synergyecp/31d5c998-18cd-46bf-9e3a-037d58906dfe",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
+    "id": 123898,
+    "company": "Amazon",
+    "role": "Software Engineer, Discovery ",
+    "location": "San Francisco, California, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10482685/apply",
     "age": "0d",
     "is_internship": false
   },
@@ -22,13 +55,13 @@
     "is_internship": false
   },
   {
-    "id": 123898,
-    "company": "Amazon",
-    "role": "Software Engineer, Discovery ",
-    "location": "San Francisco, California, USA",
-    "source": "amazon",
+    "id": 123078,
+    "company": "BJ's Wholesale Club",
+    "role": "Front End Supervisor Full Time",
+    "location": "Canton, MI #0225",
+    "source": "Workday",
     "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10482685/apply",
+    "url": "https://bjswholesaleclub.wd1.myworkdayjobs.com/BJsCareers/job/Canton-MI-0225/Front-End-Lead-Full-Time_R243806",
     "age": "0d",
     "is_internship": false
   },
@@ -55,13 +88,24 @@
     "is_internship": false
   },
   {
-    "id": 123078,
-    "company": "BJ's Wholesale Club",
-    "role": "Front End Supervisor Full Time",
-    "location": "Canton, MI #0225",
+    "id": 124715,
+    "company": "Amazon",
+    "role": "Software Development Engineer, Transit Gateway",
+    "location": "Herndon, Virginia, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10482848/apply",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
+    "id": 125011,
+    "company": "NVIDIA",
+    "role": "AI and ML Infra Software Engineer, GPU Clusters - New College Grad 2026",
+    "location": "US, CA, Santa Clara",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://bjswholesaleclub.wd1.myworkdayjobs.com/BJsCareers/job/Canton-MI-0225/Front-End-Lead-Full-Time_R243806",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-ML-Infra-Software-Engineer--GPU-Clusters---New-College-Grad-2026_JR2021591",
     "age": "0d",
     "is_internship": false
   },
@@ -84,7 +128,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/palantir/67110929-adea-41c3-851a-8882e222d9e4",
-    "age": "0d",
+    "age": "1d",
     "is_internship": false
   },
   {
@@ -95,7 +139,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/xai/jobs/4803905007",
-    "age": "0d",
+    "age": "1d",
     "is_internship": false
   },
   {
@@ -132,6 +176,28 @@
     "is_internship": false
   },
   {
+    "id": 119257,
+    "company": "Prairie View A&M University",
+    "role": "Software Applications Developer II (CARC)",
+    "location": "Prairie View, TX",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://tamus.wd1.myworkdayjobs.com/PVAMU_External/job/Prairie-View-TX/Software-Applications-Developer-II--CARC-_R-089078-1",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 119031,
+    "company": "Hewlett Packard (HP)",
+    "role": "Software Engineering Intern, Device Experiences",
+    "location": "San Francisco, California, United States of America",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Device-Experiences_3164166",
+    "age": "1d",
+    "is_internship": true
+  },
+  {
     "id": 118723,
     "company": "U.S. Bank",
     "role": "Software Engineer I - Mainframe (Cobol)",
@@ -143,17 +209,6 @@
     "is_internship": false
   },
   {
-    "id": 116726,
-    "company": "Rockwell Automation",
-    "role": "Process Automation Software Engineer",
-    "location": "Milwaukee, Wisconsin, United States",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Process-Automation-Software-Engineer_R26-4268-1",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
     "id": 118147,
     "company": "General Motors",
     "role": "Software Engineer",
@@ -161,6 +216,17 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Engineer_JR-202615848",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 116726,
+    "company": "Rockwell Automation",
+    "role": "Process Automation Software Engineer",
+    "location": "Milwaukee, Wisconsin, United States",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Process-Automation-Software-Engineer_R26-4268-1",
     "age": "1d",
     "is_internship": false
   },
@@ -220,17 +286,6 @@
     "is_internship": false
   },
   {
-    "id": 119257,
-    "company": "Prairie View A&M University",
-    "role": "Software Applications Developer II (CARC)",
-    "location": "Prairie View, TX",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://tamus.wd1.myworkdayjobs.com/PVAMU_External/job/Prairie-View-TX/Software-Applications-Developer-II--CARC-_R-089078-1",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
     "id": 119149,
     "company": "NVIDIA",
     "role": "Software R&D Engineer, VLSI Physical Design - New College Grad 2026",
@@ -242,17 +297,6 @@
     "is_internship": false
   },
   {
-    "id": 119031,
-    "company": "Hewlett Packard (HP)",
-    "role": "Software Engineering Intern, Device Experiences",
-    "location": "San Francisco, California, United States of America",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Device-Experiences_3164166",
-    "age": "1d",
-    "is_internship": true
-  },
-  {
     "id": 113204,
     "company": "Sierra",
     "role": "Software Engineer, Agent - Travel & Hospitality",
@@ -260,7 +304,7 @@
     "source": "Ashby",
     "status": "not_applied",
     "url": "https://jobs.ashbyhq.com/Sierra/e2d3e1f5-03cb-4e18-9f3d-a32f0bb6ff91",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -308,17 +352,6 @@
     "is_internship": false
   },
   {
-    "id": 112636,
-    "company": "Vizient",
-    "role": "Software Engineer",
-    "location": "Irving, TX 75062 Vizient Corporate HQ",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Software-Engineer_32584R",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
     "id": 111439,
     "company": "Proofpoint",
     "role": "Software Engineer - AI Platform Team",
@@ -326,6 +359,17 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Draper-UT/Software-Engineer---AI-Platform-Team_R14306-1",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 112636,
+    "company": "Vizient",
+    "role": "Software Engineer",
+    "location": "Irving, TX 75062 Vizient Corporate HQ",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Software-Engineer_32584R",
     "age": "2d",
     "is_internship": false
   },
@@ -370,7 +414,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/zoox/d4108968-e83d-4d87-a92c-e4cd1823801c",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -381,7 +425,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/xai/jobs/5191142007",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -396,13 +440,24 @@
     "is_internship": false
   },
   {
-    "id": 107528,
-    "company": "The Hartford",
-    "role": "DevOps Software Engineer",
-    "location": "Hartford, CT",
+    "id": 107734,
+    "company": "Copart",
+    "role": "Software Engineering Intern",
+    "location": "Dallas, TX - Headquarters",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/DevOps-Software-Engineer_R2626159",
+    "url": "https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110079",
+    "age": "3d",
+    "is_internship": true
+  },
+  {
+    "id": 106827,
+    "company": "Autostore",
+    "role": "Software Engineer",
+    "location": "Atlanta, USA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-USA/Software-Engineer_JR102614",
     "age": "3d",
     "is_internship": false
   },
@@ -414,6 +469,17 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://taylor.wd1.myworkdayjobs.com/External/job/Arden-Hills-MN---Venture-Solutions-Inc/Software-Quality-Assurance-Analyst-II_R29184",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 107528,
+    "company": "The Hartford",
+    "role": "DevOps Software Engineer",
+    "location": "Hartford, CT",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/DevOps-Software-Engineer_R2626159",
     "age": "3d",
     "is_internship": false
   },
@@ -451,17 +517,6 @@
     "is_internship": false
   },
   {
-    "id": 107734,
-    "company": "Copart",
-    "role": "Software Engineering Intern",
-    "location": "Dallas, TX - Headquarters",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110079",
-    "age": "3d",
-    "is_internship": true
-  },
-  {
     "id": 115286,
     "company": "TJX",
     "role": "Front End Supervisor Full Time Tjmaxx Greenwood Indiana",
@@ -484,17 +539,6 @@
     "is_internship": false
   },
   {
-    "id": 106827,
-    "company": "Autostore",
-    "role": "Software Engineer",
-    "location": "Atlanta, USA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-USA/Software-Engineer_JR102614",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
     "id": 115290,
     "company": "TJX",
     "role": "Retail - Full Time Front End Supervisor",
@@ -506,35 +550,13 @@
     "is_internship": false
   },
   {
-    "id": 115287,
-    "company": "TJX",
-    "role": "Customer Experience/Front End/Register Coordinator",
-    "location": "Fort Wayne, IN 46805",
-    "source": "Workday",
+    "id": 116234,
+    "company": "EDUCATION-OFC OF FEDERAL STUDENT AID",
+    "role": "IT Spec (ENTARCH) \"Platform/site Reliability Engineer\", GS-2210-14 FPL GS-14 (DH)",
+    "location": "Washington, District of Columbia, USA",
+    "source": "JSearch",
     "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Fort-Wayne-IN-46805/Customer-Experience-Front-End-Register-Coordinator_REQ137403",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
-    "id": 115289,
-    "company": "TJX",
-    "role": "Front End Supervisor",
-    "location": "Roanoke, VA 24012",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Roanoke-VA-24012/Front-End-Supervisor_REQ137386-1",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
-    "id": 115288,
-    "company": "TJX",
-    "role": "***NOW HIRING*** FRONT END SUPERVISOR FULL TIME AND PART TIME POSITIONS AVAILABLE",
-    "location": "Saint Louis Park, MN 55426",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Saint-Louis-Park-MN-55426/XMLNAME----NOW-HIRING----FRONT-END-SUPERVISOR-FULL-TIME-AND-PART-TIME-POSITIONS-AVAILABLE_REQ137379",
+    "url": "https://www.usajobs.gov/job/877168200",
     "age": "4d",
     "is_internship": false
   },
@@ -550,13 +572,35 @@
     "is_internship": false
   },
   {
-    "id": 116234,
-    "company": "EDUCATION-OFC OF FEDERAL STUDENT AID",
-    "role": "IT Spec (ENTARCH) \"Platform/site Reliability Engineer\", GS-2210-14 FPL GS-14 (DH)",
-    "location": "Washington, District of Columbia, USA",
-    "source": "JSearch",
+    "id": 115289,
+    "company": "TJX",
+    "role": "Front End Supervisor",
+    "location": "Roanoke, VA 24012",
+    "source": "Workday",
     "status": "not_applied",
-    "url": "https://www.usajobs.gov/job/877168200",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Roanoke-VA-24012/Front-End-Supervisor_REQ137386-1",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 115287,
+    "company": "TJX",
+    "role": "Customer Experience/Front End/Register Coordinator",
+    "location": "Fort Wayne, IN 46805",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Fort-Wayne-IN-46805/Customer-Experience-Front-End-Register-Coordinator_REQ137403",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 115288,
+    "company": "TJX",
+    "role": "***NOW HIRING*** FRONT END SUPERVISOR FULL TIME AND PART TIME POSITIONS AVAILABLE",
+    "location": "Saint Louis Park, MN 55426",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Saint-Louis-Park-MN-55426/XMLNAME----NOW-HIRING----FRONT-END-SUPERVISOR-FULL-TIME-AND-PART-TIME-POSITIONS-AVAILABLE_REQ137379",
     "age": "4d",
     "is_internship": false
   },
@@ -627,6 +671,61 @@
     "is_internship": false
   },
   {
+    "id": 116240,
+    "company": "Dex",
+    "role": "Software Engineer (up to $250k)",
+    "location": "San Francisco, California, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-up-to-%24250k-at-dex-4441931280",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 115295,
+    "company": "TJX",
+    "role": "Front End Associate",
+    "location": "Brandon, FL 33511",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Brandon-FL-33511/Front-End-Associate_REQ136873",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 115294,
+    "company": "TJX",
+    "role": "Front End Cashier",
+    "location": "Littleton, CO 80121",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Littleton-CO-80121/Front-End-Cashier_REQ137126",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 97792,
+    "company": "NVIDIA",
+    "role": "Systems Software Engineer, Accelerated Kubernetes Performance and Scale - New College Grad 2026",
+    "location": "US, CA, Santa Clara",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Accelerated-Kubernetes-Performance-and-Scale---New-College-Grad-2026_JR2020957",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 97511,
+    "company": "BTI Solutions",
+    "role": "Java Back-end Developer",
+    "location": "Plano, TX",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://btisolutions.wd12.myworkdayjobs.com/External/job/Plano-TX/Java-Back-end-Developer_JR101922-1",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
     "id": 97066,
     "company": "Scientific Games",
     "role": "Software Quality Assurance Engineer",
@@ -682,17 +781,6 @@
     "is_internship": false
   },
   {
-    "id": 97792,
-    "company": "NVIDIA",
-    "role": "Systems Software Engineer, Accelerated Kubernetes Performance and Scale - New College Grad 2026",
-    "location": "US, CA, Santa Clara",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Accelerated-Kubernetes-Performance-and-Scale---New-College-Grad-2026_JR2020957",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
     "id": 116235,
     "company": "WEX",
     "role": "Entry-Level Site Reliability Engineer: Grow & Automate",
@@ -700,50 +788,6 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://bebee.com/us/jobs/entry-level-site-reliability-engineer-grow-automate-wex-seattle--lensa-7428_83e0f06491c3070942ffa9765fcd40669ad6a1ca57ee1896308c4ccd53689cfa",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 115295,
-    "company": "TJX",
-    "role": "Front End Associate",
-    "location": "Brandon, FL 33511",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Brandon-FL-33511/Front-End-Associate_REQ136873",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 115294,
-    "company": "TJX",
-    "role": "Front End Cashier",
-    "location": "Littleton, CO 80121",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Littleton-CO-80121/Front-End-Cashier_REQ137126",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 116240,
-    "company": "Dex",
-    "role": "Software Engineer (up to $250k)",
-    "location": "San Francisco, California, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/software-engineer-up-to-%24250k-at-dex-4441931280",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 97511,
-    "company": "BTI Solutions",
-    "role": "Java Back-end Developer",
-    "location": "Plano, TX",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://btisolutions.wd12.myworkdayjobs.com/External/job/Plano-TX/Java-Back-end-Developer_JR101922-1",
     "age": "6d",
     "is_internship": false
   }
