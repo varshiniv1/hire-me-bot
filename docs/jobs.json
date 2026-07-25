@@ -128,7 +128,7 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://www.indeed.com/viewjob?jk=ade7589aa7f0cf15",
-    "age": "0d",
+    "age": "1d",
     "is_internship": true
   },
   {
@@ -139,17 +139,6 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://www.linkedin.com/jobs/view/full-stack-developer-minimum-6-months-experience-at-byte-sense-technologies-private-limited-4444974703",
-    "age": "0d",
-    "is_internship": false
-  },
-  {
-    "id": 131411,
-    "company": "Meta",
-    "role": "Production Engineer (University Grad)",
-    "location": "Bellevue, Washington, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/production-engineer-university-grad-at-meta-4423618885",
     "age": "1d",
     "is_internship": false
   },
@@ -161,6 +150,17 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Solutions-Engineer_R50033224",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 131400,
+    "company": "Balducci's Food Lover's Market",
+    "role": "Front End Entry Level",
+    "location": "Greenwich, Connecticut, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-balducci-s-food-lover-s-market-4436373838",
     "age": "1d",
     "is_internship": false
   },
@@ -198,6 +198,17 @@
     "is_internship": false
   },
   {
+    "id": 131411,
+    "company": "Meta",
+    "role": "Production Engineer (University Grad)",
+    "location": "Bellevue, Washington, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/production-engineer-university-grad-at-meta-4423618885",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
     "id": 129837,
     "company": "Gartner",
     "role": "Software Engineer (AWS, Python, DevOps)",
@@ -231,17 +242,6 @@
     "is_internship": false
   },
   {
-    "id": 131400,
-    "company": "Balducci's Food Lover's Market",
-    "role": "Front End Entry Level",
-    "location": "Greenwich, Connecticut, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-balducci-s-food-lover-s-market-4436373838",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
     "id": 125421,
     "company": "Twilio",
     "role": "Software Engineer (L2) Email",
@@ -260,7 +260,62 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/synergyecp/31d5c998-18cd-46bf-9e3a-037d58906dfe",
-    "age": "1d",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 130470,
+    "company": "TJX",
+    "role": "Front End Cashier",
+    "location": "Hudson, MA 01749",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Hudson-MA-01749/Front-End-Cashier_REQ135328-1",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 131410,
+    "company": "Meta",
+    "role": "Software Engineer, SystemML - Scaling / Performance",
+    "location": "New York, New York, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-systemml-scaling-performance-at-meta-4444254773",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 130468,
+    "company": "TJX",
+    "role": "Front end associate",
+    "location": "Birmingham, AL 35226",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Birmingham-AL-35226/Front-end-associate_REQ138838",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 130469,
+    "company": "TJX",
+    "role": "Retail Front End Operations Coordinator",
+    "location": "Anderson, SC 29621",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Anderson-SC-29621/Retail-Front-End-Operations-Coordinator_REQ138826",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 125586,
+    "company": "Broadridge",
+    "role": "Software Engineer-",
+    "location": "Denver, CO",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://broadridge.wd5.myworkdayjobs.com/Careers/job/Denver-CO/Software-Engineer-_JR1084518",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -297,17 +352,6 @@
     "is_internship": false
   },
   {
-    "id": 130468,
-    "company": "TJX",
-    "role": "Front end associate",
-    "location": "Birmingham, AL 35226",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Birmingham-AL-35226/Front-end-associate_REQ138838",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
     "id": 123123,
     "company": "Compassion International",
     "role": "Software Developer Fellow - CVG",
@@ -317,39 +361,6 @@
     "url": "https://compassion.wd5.myworkdayjobs.com/CompassionCareersPrivateLink/job/Remote---USA/Software-Developer-Fellow---CVG_R8264",
     "age": "2d",
     "is_internship": true
-  },
-  {
-    "id": 125586,
-    "company": "Broadridge",
-    "role": "Software Engineer-",
-    "location": "Denver, CO",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://broadridge.wd5.myworkdayjobs.com/Careers/job/Denver-CO/Software-Engineer-_JR1084518",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 130469,
-    "company": "TJX",
-    "role": "Retail Front End Operations Coordinator",
-    "location": "Anderson, SC 29621",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Anderson-SC-29621/Retail-Front-End-Operations-Coordinator_REQ138826",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 125011,
-    "company": "NVIDIA",
-    "role": "AI and ML Infra Software Engineer, GPU Clusters - New College Grad 2026",
-    "location": "US, CA, Santa Clara",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-ML-Infra-Software-Engineer--GPU-Clusters---New-College-Grad-2026_JR2021591",
-    "age": "2d",
-    "is_internship": false
   },
   {
     "id": 131396,
@@ -363,24 +374,13 @@
     "is_internship": false
   },
   {
-    "id": 131410,
-    "company": "Meta",
-    "role": "Software Engineer, SystemML - Scaling / Performance",
-    "location": "New York, New York, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/software-engineer-systemml-scaling-performance-at-meta-4444254773",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 130470,
-    "company": "TJX",
-    "role": "Front End Cashier",
-    "location": "Hudson, MA 01749",
+    "id": 125011,
+    "company": "NVIDIA",
+    "role": "AI and ML Infra Software Engineer, GPU Clusters - New College Grad 2026",
+    "location": "US, CA, Santa Clara",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Hudson-MA-01749/Front-End-Cashier_REQ135328-1",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-ML-Infra-Software-Engineer--GPU-Clusters---New-College-Grad-2026_JR2021591",
     "age": "2d",
     "is_internship": false
   },
@@ -612,7 +612,7 @@
     "source": "Ashby",
     "status": "not_applied",
     "url": "https://jobs.ashbyhq.com/snowflake/74466b25-9cc8-4e9b-b60b-234c539c455c",
-    "age": "3d",
+    "age": "4d",
     "is_internship": false
   },
   {
@@ -623,7 +623,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/virtu/jobs/8624410002",
-    "age": "3d",
+    "age": "4d",
     "is_internship": true
   },
   {
@@ -638,24 +638,24 @@
     "is_internship": false
   },
   {
-    "id": 112636,
-    "company": "Vizient",
-    "role": "Software Engineer",
-    "location": "Irving, TX 75062 Vizient Corporate HQ",
+    "id": 112629,
+    "company": "U.S. Bank",
+    "role": "Software Engineer 2 (ServiceNow Platform Developer)",
+    "location": "Irving, TX",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Software-Engineer_32584R",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irving-TX/Software-Engineer-2--ServiceNow-Platform-Developer-_2026-0013792",
     "age": "4d",
     "is_internship": false
   },
   {
-    "id": 131402,
-    "company": "Tom Thumb Supermarket",
+    "id": 131399,
+    "company": "Albertsons Companies",
     "role": "Front End Entry Level",
-    "location": "Heath, Texas, USA",
+    "location": "Irvine, California, USA",
     "source": "JSearch",
     "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-tom-thumb-supermarket-4443528602",
+    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-albertsons-companies-4443706354",
     "age": "4d",
     "is_internship": false
   },
@@ -671,13 +671,13 @@
     "is_internship": false
   },
   {
-    "id": 131399,
-    "company": "Albertsons Companies",
+    "id": 131402,
+    "company": "Tom Thumb Supermarket",
     "role": "Front End Entry Level",
-    "location": "Irvine, California, USA",
+    "location": "Heath, Texas, USA",
     "source": "JSearch",
     "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-albertsons-companies-4443706354",
+    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-tom-thumb-supermarket-4443528602",
     "age": "4d",
     "is_internship": false
   },
@@ -704,13 +704,13 @@
     "is_internship": false
   },
   {
-    "id": 112629,
-    "company": "U.S. Bank",
-    "role": "Software Engineer 2 (ServiceNow Platform Developer)",
-    "location": "Irving, TX",
+    "id": 112636,
+    "company": "Vizient",
+    "role": "Software Engineer",
+    "location": "Irving, TX 75062 Vizient Corporate HQ",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irving-TX/Software-Engineer-2--ServiceNow-Platform-Developer-_2026-0013792",
+    "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Software-Engineer_32584R",
     "age": "4d",
     "is_internship": false
   },
@@ -755,17 +755,17 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/babelstreet/jobs/8075011",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
-    "id": 131404,
-    "company": "Teksyntax Inc.",
-    "role": "Entry-Level Java Fullstack Developer | Training & Sponsorship",
-    "location": "Reston, Virginia, USA",
+    "id": 131390,
+    "company": "TSC Corp",
+    "role": "Entry-Level Software Engineer - Naval Radar M&S",
+    "location": "Silver Spring, Maryland, USA",
     "source": "JSearch",
     "status": "not_applied",
-    "url": "https://bebee.com/us/jobs/entry-level-java-fullstack-developer-training-sponsorship-teksyntax-inc-reston--lensa-7428_8d4d55590a29544778d26c70877742c25412dc47bfb3229497be69fb0295e608",
+    "url": "https://bebee.com/us/jobs/entry-level-software-engineer-naval-radar-ms-tsc-corp-silver-spring--lensa-7428_7d3703bbcaa3f679f3be6ce0313ed99e90f0d46494c1a9b58dd96a34e8d57c86",
     "age": "5d",
     "is_internship": false
   },
@@ -836,26 +836,15 @@
     "is_internship": false
   },
   {
-    "id": 131389,
-    "company": "Dev10",
-    "role": "Entry Level Software Developer",
-    "location": "McLean, Virginia, USA",
+    "id": 131408,
+    "company": "Feedinkoo",
+    "role": "Software Engineering Fellowship, Internship (Remote) at Jobright.ai",
+    "location": "New York, New York, USA",
     "source": "JSearch",
     "status": "not_applied",
-    "url": "https://www.indeed.com/viewjob?jk=a1641f4c22ed73a3",
+    "url": "https://bebee.com/us/jobs/software-engineering-fellowship-internship-remote-at-jobrightai-feedinkoo-new-york--lensa-7428_bfca90af30cba7b16caa3e80b822c5b1b49202b5b39d8a7942c3d58c3b972c2e",
     "age": "5d",
-    "is_internship": false
-  },
-  {
-    "id": 131387,
-    "company": "Stripe",
-    "role": "Software Engineer, New Grad",
-    "location": "Washington, District of Columbia, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.jobilize.com/job/us-dc-washington-software-engineer-new-grad-stripe-hiring-now-job",
-    "age": "5d",
-    "is_internship": false
+    "is_internship": true
   },
   {
     "id": 131405,
@@ -880,15 +869,15 @@
     "is_internship": true
   },
   {
-    "id": 131408,
-    "company": "Feedinkoo",
-    "role": "Software Engineering Fellowship, Internship (Remote) at Jobright.ai",
-    "location": "New York, New York, USA",
+    "id": 131385,
+    "company": "Stripe",
+    "role": "Software Engineer, New Grad at Stripe Washington DC",
+    "location": "Washington, District of Columbia, USA",
     "source": "JSearch",
     "status": "not_applied",
-    "url": "https://bebee.com/us/jobs/software-engineering-fellowship-internship-remote-at-jobrightai-feedinkoo-new-york--lensa-7428_bfca90af30cba7b16caa3e80b822c5b1b49202b5b39d8a7942c3d58c3b972c2e",
+    "url": "https://bebee.com/us/jobs/software-engineer-new-grad-at-stripe-washington-dc-stripe-washington--lensa-7428_1380fbb37778c4923c308f87437fd12e6f4d61689b3b7c10000cede7aa2370a0",
     "age": "5d",
-    "is_internship": true
+    "is_internship": false
   },
   {
     "id": 107516,
@@ -913,6 +902,28 @@
     "is_internship": false
   },
   {
+    "id": 131394,
+    "company": "Sigma Computing",
+    "role": "Software Engineer (New Grad Program)",
+    "location": "New York, New York, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.builtinnyc.com/job/software-engineer-new-grad-program/9906099",
+    "age": "5d",
+    "is_internship": false
+  },
+  {
+    "id": 131404,
+    "company": "Teksyntax Inc.",
+    "role": "Entry-Level Java Fullstack Developer | Training & Sponsorship",
+    "location": "Reston, Virginia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://bebee.com/us/jobs/entry-level-java-fullstack-developer-training-sponsorship-teksyntax-inc-reston--lensa-7428_8d4d55590a29544778d26c70877742c25412dc47bfb3229497be69fb0295e608",
+    "age": "5d",
+    "is_internship": false
+  },
+  {
     "id": 106827,
     "company": "Autostore",
     "role": "Software Engineer",
@@ -924,13 +935,24 @@
     "is_internship": false
   },
   {
-    "id": 131397,
-    "company": "Logistic Services Int.",
-    "role": "Entry-Level Front End Developer",
-    "location": "Glen St Mary, Florida, USA",
+    "id": 131387,
+    "company": "Stripe",
+    "role": "Software Engineer, New Grad",
+    "location": "Washington, District of Columbia, USA",
     "source": "JSearch",
     "status": "not_applied",
-    "url": "https://salutemyjob.com/jobs/entry-level-front-end-developer-glen-st-mary-florida/2884603831-2/",
+    "url": "https://www.jobilize.com/job/us-dc-washington-software-engineer-new-grad-stripe-hiring-now-job",
+    "age": "5d",
+    "is_internship": false
+  },
+  {
+    "id": 116239,
+    "company": "Confiar Services",
+    "role": "Graduate IT Trainee  (Junior Software Engineer)",
+    "location": "USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/graduate-it-trainee-junior-software-engineer-at-confiar-services-4442222073",
     "age": "5d",
     "is_internship": false
   },
@@ -957,58 +979,25 @@
     "is_internship": false
   },
   {
-    "id": 116239,
-    "company": "Confiar Services",
-    "role": "Graduate IT Trainee  (Junior Software Engineer)",
-    "location": "USA",
+    "id": 131397,
+    "company": "Logistic Services Int.",
+    "role": "Entry-Level Front End Developer",
+    "location": "Glen St Mary, Florida, USA",
     "source": "JSearch",
     "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/graduate-it-trainee-junior-software-engineer-at-confiar-services-4442222073",
+    "url": "https://salutemyjob.com/jobs/entry-level-front-end-developer-glen-st-mary-florida/2884603831-2/",
     "age": "5d",
     "is_internship": false
   },
   {
-    "id": 131390,
-    "company": "TSC Corp",
-    "role": "Entry-Level Software Engineer - Naval Radar M&S",
-    "location": "Silver Spring, Maryland, USA",
+    "id": 131389,
+    "company": "Dev10",
+    "role": "Entry Level Software Developer",
+    "location": "McLean, Virginia, USA",
     "source": "JSearch",
     "status": "not_applied",
-    "url": "https://bebee.com/us/jobs/entry-level-software-engineer-naval-radar-ms-tsc-corp-silver-spring--lensa-7428_7d3703bbcaa3f679f3be6ce0313ed99e90f0d46494c1a9b58dd96a34e8d57c86",
+    "url": "https://www.indeed.com/viewjob?jk=a1641f4c22ed73a3",
     "age": "5d",
-    "is_internship": false
-  },
-  {
-    "id": 131385,
-    "company": "Stripe",
-    "role": "Software Engineer, New Grad at Stripe Washington DC",
-    "location": "Washington, District of Columbia, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://bebee.com/us/jobs/software-engineer-new-grad-at-stripe-washington-dc-stripe-washington--lensa-7428_1380fbb37778c4923c308f87437fd12e6f4d61689b3b7c10000cede7aa2370a0",
-    "age": "5d",
-    "is_internship": false
-  },
-  {
-    "id": 131394,
-    "company": "Sigma Computing",
-    "role": "Software Engineer (New Grad Program)",
-    "location": "New York, New York, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.builtinnyc.com/job/software-engineer-new-grad-program/9906099",
-    "age": "5d",
-    "is_internship": false
-  },
-  {
-    "id": 115288,
-    "company": "TJX",
-    "role": "***NOW HIRING*** FRONT END SUPERVISOR FULL TIME AND PART TIME POSITIONS AVAILABLE",
-    "location": "Saint Louis Park, MN 55426",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Saint-Louis-Park-MN-55426/XMLNAME----NOW-HIRING----FRONT-END-SUPERVISOR-FULL-TIME-AND-PART-TIME-POSITIONS-AVAILABLE_REQ137379",
-    "age": "6d",
     "is_internship": false
   },
   {
@@ -1019,6 +1008,17 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://salutemyjob.com/jobs/entry-level-front-end-developer-jacksonville-florida/2883476278-2/",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 115288,
+    "company": "TJX",
+    "role": "***NOW HIRING*** FRONT END SUPERVISOR FULL TIME AND PART TIME POSITIONS AVAILABLE",
+    "location": "Saint Louis Park, MN 55426",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Saint-Louis-Park-MN-55426/XMLNAME----NOW-HIRING----FRONT-END-SUPERVISOR-FULL-TIME-AND-PART-TIME-POSITIONS-AVAILABLE_REQ137379",
     "age": "6d",
     "is_internship": false
   },
@@ -1041,17 +1041,6 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Auburn-Hills-MI-48326/Retail---Full-Time-Front-End-Supervisor_REQ137334",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 115287,
-    "company": "TJX",
-    "role": "Customer Experience/Front End/Register Coordinator",
-    "location": "Fort Wayne, IN 46805",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Fort-Wayne-IN-46805/Customer-Experience-Front-End-Register-Coordinator_REQ137403",
     "age": "6d",
     "is_internship": false
   },
@@ -1085,6 +1074,17 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://bebee.com/us/jobs/entry-level-full-stack-software-developer-peraton-herndon--lensa-2365_e253d8810dc4c8075c358155c66785936793dadbac16edb0d8cb5799e20c219b",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 115287,
+    "company": "TJX",
+    "role": "Customer Experience/Front End/Register Coordinator",
+    "location": "Fort Wayne, IN 46805",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Fort-Wayne-IN-46805/Customer-Experience-Front-End-Register-Coordinator_REQ137403",
     "age": "6d",
     "is_internship": false
   }
