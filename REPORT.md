@@ -1,6 +1,6 @@
 # Job Postings Report
 
-99 postings from the last 6 days.
+100 postings from the last 6 days.
 
 ## Internships (5)
 
@@ -12,11 +12,12 @@
 | Copart | Software Engineering Intern | Dallas, TX - Headquarters | Workday | applied | [Apply](https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110011) | 4d |
 | Copart | Software Engineering Intern | Dallas, TX - Headquarters | Workday | not_applied | [Apply](https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110079) | 5d |
 
-## Full-Time (94)
+## Full-Time (95)
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
 | Bot Auto | Software Engineer, VCU (Vehicle Control Unit) | Houston, TX | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/botauto/jobs/5370716008) | 0d |
+| Cisco | Software Engineer (Remote) | Remote - New Jersey, USA | Workday | not_applied | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Remote---New-Jersey-USA/Software-Engineer--Remote-_2017560) | 0d |
 | Zoox | Software Engineer, Fleet Simulation (Core Data Science) | Foster City, CA | Lever | not_applied | [Apply](https://jobs.lever.co/zoox/18b6dfa0-d581-4d29-ac79-5d6e666aa9c3) | 0d |
 | xAI | Software Engineer - Data  | Palo Alto, California, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/5120884007) | 0d |
 | Woven | Software Engineer - Data Workflows | Ann Arbor, MI | Lever | not_applied | [Apply](https://jobs.lever.co/woven-by-toyota/ba39a024-c4c3-4966-a696-95db0e1dc445) | 0d |
@@ -30,13 +31,13 @@
 | Twilio | Software Engineer (L2) | Remote - US | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7946610) | 0d |
 | Instabase | Software Engineer - Agent Harness | San Francisco, CA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/instabase/jobs/8635719002) | 1d |
 | Twitch | Software Development Engineer, Discovery | San Francisco, CA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8527544002) | 1d |
-| TJX | Front End Associate | St Joseph, MO 64506 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/St-Joseph-MO-64506/Front-End-Associate_REQ139031) | 1d |
-| Gartner | Software Engineer (AWS, Python, DevOps) | Irving, TX | Workday | not_applied | [Apply](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Software-Engineer--AWS--Python--DevOps-_112072-1) | 1d |
-| TJX | Frontend Associate Part Time | Pasadena, CA 91107 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Pasadena-CA-91107/Frontend-Associate-Part-Time_REQ138998) | 1d |
-| Medtronic | Software Engineer I (AI-Driven Data Solutions) - Lafayette, CO | Lafayette, Colorado, United States of America | Workday | not_applied | [Apply](https://medtronic.wd1.myworkdayjobs.com/RedeploymentMedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Software-Engineer-I--AI-Driven-Data-Solutions----Lafayette--CO_R72435) | 1d |
 | FOX | Software Engineer | Los Angeles, California, USA | Workday | not_applied | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Solutions-Engineer_R50033224) | 1d |
+| TJX | Frontend Associate Part Time | Pasadena, CA 91107 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Pasadena-CA-91107/Frontend-Associate-Part-Time_REQ138998) | 1d |
+| Gartner | Software Engineer (AWS, Python, DevOps) | Irving, TX | Workday | not_applied | [Apply](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Software-Engineer--AWS--Python--DevOps-_112072-1) | 1d |
+| TJX | Front End Associate | St Joseph, MO 64506 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/St-Joseph-MO-64506/Front-End-Associate_REQ139031) | 1d |
 | Capital Health | IT Software Engineer ERP | Pennington, NJ | Workday | not_applied | [Apply](https://capitalhealth.wd1.myworkdayjobs.com/CapitalHealthCareers/job/Pennington-NJ/IT-Software-Engineer-ERP_JR110644) | 1d |
 | Regions Bank | Software Engineer - Full Stack / .NET | Hoover, AL - Riverchase Operations Center (Birmingham, AL) | Workday | not_applied | [Apply](https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Software-Engineer---Full-Stack---NET_R104553) | 1d |
+| Medtronic | Software Engineer I (AI-Driven Data Solutions) - Lafayette, CO | Lafayette, Colorado, United States of America | Workday | not_applied | [Apply](https://medtronic.wd1.myworkdayjobs.com/RedeploymentMedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Software-Engineer-I--AI-Driven-Data-Solutions----Lafayette--CO_R72435) | 1d |
 | Twilio | Software Engineer (L2) Email | Remote - US | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7689461) | 1d |
 | Whoop | Software Enineer II (Fullstack, Health) | Boston, MA | Lever | applied | [Apply](https://jobs.lever.co/whoop/de38a7c3-db3b-43eb-bf6d-326837c986ab) | 1d |
 | Synergy ECP | Mid-Level Full Stack Developer | Suitland, MD | Lever | not_applied | [Apply](https://jobs.lever.co/synergyecp/31d5c998-18cd-46bf-9e3a-037d58906dfe) | 1d |
@@ -54,7 +55,7 @@
 | Palantir | Software Engineer - Edge AI Systems | Seattle, WA | Lever | not_applied | [Apply](https://jobs.lever.co/palantir/67110929-adea-41c3-851a-8882e222d9e4) | 2d |
 | xAI | Software Engineer, Observability | Palo Alto, California, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/4803905007) | 2d |
 | Intuitive Surgical | Software Engineer, Platform | Sunnyvale, CA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000139079886-software-engineer-platform) | 2d |
-| Rocket Science Group | Full-Stack Engineer - Albany | Albany, NY | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/rocketsciencegg/d6034ce0-a0e7-4d02-a016-63a15537cb7a) | 2d |
+| Rocket Science Group | Full-Stack Engineer - Albany | Albany, NY | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/rocketsciencegg/d6034ce0-a0e7-4d02-a016-63a15537cb7a) | 3d |
 | Realtor.com | Mgr, Software Engineering - Salesforce | Austin, Texas, United States | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/rdccareers/jobs/7812467003?gh_jid=7812467003) | 3d |
 | Prairie View A&M University | Software Applications Developer II (CARC) | Prairie View, TX | Workday | not_applied | [Apply](https://tamus.wd1.myworkdayjobs.com/PVAMU_External/job/Prairie-View-TX/Software-Applications-Developer-II--CARC-_R-089078-1) | 3d |
 | Acme Markets | Front End Entry Level | Freehold Township, New Jersey, USA | JSearch | dismissed | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-acme-markets-4443586918) | 3d |
@@ -78,7 +79,7 @@
 | HP IQ | AI Software Engineer | San Francisco, CA | Greenhouse | applied | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/5819552004) | 3d |
 | Sierra | Software Engineer, Agent - Travel & Hospitality | San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/Sierra/e2d3e1f5-03cb-4e18-9f3d-a32f0bb6ff91) | 3d |
 | Snowflake | Software Engineer | US-CA-Menlo Park | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/snowflake/74466b25-9cc8-4e9b-b60b-234c539c455c) | 3d |
-| Traackr | Software Engineer | Boston, MA | Lever | applied | [Apply](https://jobs.lever.co/traackr/9696fd49-9769-4738-8c40-e65b929b62fd) | 3d |
+| Traackr | Software Engineer | Boston, MA | Lever | applied | [Apply](https://jobs.lever.co/traackr/9696fd49-9769-4738-8c40-e65b929b62fd) | 4d |
 | CommerceIQ | Software Engineer | Mountain View, California, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/commerceiq/jobs/7803169003) | 4d |
 | Astreya | Fullstack Engineer | Remote, CA | Workday | dismissed | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CA/Fullstack-Engineer_R0016332) | 4d |
 | U.S. Bank | Software Engineer 2 Front-End Developer (React, TypeScript, Micro Frontends) | Charlotte, NC | Workday | dismissed | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Charlotte-NC/Software-Engineer-2-Front-End-Developer--React--TypeScript--Micro-Frontends-_2026-0021772) | 4d |
