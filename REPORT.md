@@ -1,6 +1,6 @@
 # Job Postings Report
 
-81 postings from the last 6 days.
+80 postings from the last 6 days.
 
 ## Internships (5)
 
@@ -12,7 +12,7 @@
 | Hewlett Packard (HP) | Software Engineering Intern, Device Experiences | San Francisco, California, United States of America | Workday | not_applied | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Device-Experiences_3164166) | 5d |
 | Virtu Financial | Internship - Software Engineer | Austin, TX; New York | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8624410002) | 5d |
 
-## Full-Time (76)
+## Full-Time (75)
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | Atoms | Software Engineer- Money Engineering | New York, NY | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8457896002) | 2d |
 | Twilio | Software Engineer (L2) | Remote - US | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7946610) | 2d |
 | Byte Sense Technologies Private Limited | FULL STACK DEVELOPER ( Minimum 6 months Experience) | Washington, District of Columbia, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/full-stack-developer-minimum-6-months-experience-at-byte-sense-technologies-private-limited-4444974703) | 2d |
-| Instabase | Software Engineer - Agent Harness | San Francisco, CA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/instabase/jobs/8635719002) | 2d |
+| Instabase | Software Engineer - Agent Harness | San Francisco, CA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/instabase/jobs/8635719002) | 3d |
 | Twitch | Software Development Engineer, Discovery | San Francisco, CA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8527544002) | 3d |
 | Gartner | Software Engineer (AWS, Python, DevOps) | Irving, TX | Workday | not_applied | [Apply](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Software-Engineer--AWS--Python--DevOps-_112072-1) | 3d |
 | Medtronic | Software Engineer I (AI-Driven Data Solutions) - Lafayette, CO | Lafayette, Colorado, United States of America | Workday | not_applied | [Apply](https://medtronic.wd1.myworkdayjobs.com/RedeploymentMedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Software-Engineer-I--AI-Driven-Data-Solutions----Lafayette--CO_R72435) | 3d |
@@ -65,7 +65,7 @@
 | xAI | Software Engineer, Observability | Palo Alto, California, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/4803905007) | 4d |
 | Intuitive Surgical | Software Engineer, Platform | Sunnyvale, CA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000139079886-software-engineer-platform) | 4d |
 | Rocket Science Group | Full-Stack Engineer - Albany | Albany, NY | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/rocketsciencegg/d6034ce0-a0e7-4d02-a016-63a15537cb7a) | 4d |
-| Realtor.com | Mgr, Software Engineering - Salesforce | Austin, Texas, United States | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/rdccareers/jobs/7812467003?gh_jid=7812467003) | 4d |
+| Realtor.com | Mgr, Software Engineering - Salesforce | Austin, Texas, United States | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/rdccareers/jobs/7812467003?gh_jid=7812467003) | 5d |
 | Shaw’s and Star Market | Front End Entry Level | Windham, New Hampshire, USA | JSearch | dismissed | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-shaw%E2%80%99s-and-star-market-4443596616) | 5d |
 | Safeway | Front End Entry Level | Rockville, Maryland, USA | JSearch | dismissed | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-safeway-4443709012) | 5d |
 | Albertsons Companies | Front End Entry Level | Palmdale, California, USA | JSearch | dismissed | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-albertsons-companies-4443586929) | 5d |
@@ -75,21 +75,20 @@
 | NVIDIA | Software R&D Engineer, VLSI Physical Design - New College Grad 2026 | US, TX, Austin | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/Software-R-D-Engineer--VLSI-Physical-Design---New-College-Grad-2026_JR2019330) | 5d |
 | Prairie View A&M University | Software Applications Developer II (CARC) | Prairie View, TX | Workday | not_applied | [Apply](https://tamus.wd1.myworkdayjobs.com/PVAMU_External/job/Prairie-View-TX/Software-Applications-Developer-II--CARC-_R-089078-1) | 5d |
 | Texas A&M University System | Software Applications Developer II (CARC) | Prairie View, TX | Workday | not_applied | [Apply](https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Prairie-View-TX/Software-Applications-Developer-II--CARC-_R-089078) | 5d |
+| Motorola | Software Engineer | Schaumburg, IL | Workday | not_applied | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineer_R66351) | 5d |
+| NVIDIA | Deep Learning Software Engineer, Inference - New College Grad 2026 | US, CA, Remote | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Deep-Learning-Software-Engineer--Inference---New-College-Grad-2026_JR2021742) | 5d |
 | Traba | Software Engineer (New Grad) | New York, New York, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-traba-4443430086) | 5d |
 | Acme Markets | Front End Entry Level | Freehold Township, New Jersey, USA | JSearch | dismissed | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-acme-markets-4443586918) | 5d |
 | Albertsons Companies | Front End Entry Level | Litchfield Park, Arizona, USA | JSearch | dismissed | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-albertsons-companies-4443593672) | 5d |
 | Rockwell Automation | Process Automation Software Engineer | Milwaukee, Wisconsin, United States | Workday | not_applied | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Process-Automation-Software-Engineer_R26-4268-1) | 5d |
 | Hewlett Packard (HP) | Software Development Graduate Roles | Spring, Texas, United States of America | Workday | dismissed | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Spring-Texas-United-States-of-America/Software-Development-Graduate-Roles_3165699) | 5d |
-| Albertsons Companies | Front End Entry Level | Troutdale, Oregon, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-albertsons-companies-4444228436) | 5d |
 | TJX | Retail Part Time Front End Supervisor | Findlay, OH 45840 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Findlay-OH-45840/Retail-Part-Time-Front-End-Supervisor_REQ138602) | 5d |
-| Motorola | Software Engineer | Schaumburg, IL | Workday | not_applied | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineer_R66351) | 5d |
-| NVIDIA | Deep Learning Software Engineer, Inference - New College Grad 2026 | US, CA, Remote | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Deep-Learning-Software-Engineer--Inference---New-College-Grad-2026_JR2021742) | 5d |
 | U.S. Bank | Software Engineer 1 (React + API + Cloud Migration) | Irving, TX | Workday | not_applied | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irving-TX/Software-Engineer-1--React---API---Cloud-Migration-_2026-0021655) | 5d |
 | Amazon | Software Development Engineer, Weblab Amplified Learning, Weblab Amplified Learning | Seattle, Washington, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10481834/apply) | 5d |
 | TJX | Retail Full Time Front End Supervisor | Findlay, OH 45840 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Findlay-OH-45840/Retail-Full-Time-Front-End-Supervisor_REQ138606) | 5d |
+| Albertsons Companies | Front End Entry Level | Troutdale, Oregon, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-albertsons-companies-4444228436) | 5d |
 | HP IQ | AI Software Engineer | San Francisco, CA | Greenhouse | applied | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/5819552004) | 5d |
 | Sierra | Software Engineer, Agent - Travel & Hospitality | San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/Sierra/e2d3e1f5-03cb-4e18-9f3d-a32f0bb6ff91) | 5d |
 | Snowflake | Software Engineer | US-CA-Menlo Park | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/snowflake/74466b25-9cc8-4e9b-b60b-234c539c455c) | 5d |
 | Traackr | Software Engineer | Boston, MA | Lever | applied | [Apply](https://jobs.lever.co/traackr/9696fd49-9769-4738-8c40-e65b929b62fd) | 5d |
-| CommerceIQ | Software Engineer | Mountain View, California, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/commerceiq/jobs/7803169003) | 5d |
 
