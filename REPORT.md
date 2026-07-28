@@ -1,6 +1,6 @@
 # Job Postings Report
 
-75 postings from the last 6 days.
+77 postings from the last 6 days.
 
 ## Internships (4)
 
@@ -11,7 +11,7 @@
 | Lasarrus Clinic and Research Center | Software Developer Intern | Baltimore, Maryland, USA | JSearch | not_applied | [Apply](https://www.indeed.com/viewjob?jk=ade7589aa7f0cf15) | 3d |
 | Compassion International | Software Developer Fellow - CVG | Remote - USA | Workday | not_applied | [Apply](https://compassion.wd5.myworkdayjobs.com/CompassionCareersPrivateLink/job/Remote---USA/Software-Developer-Fellow---CVG_R8264) | 5d |
 
-## Full-Time (71)
+## Full-Time (73)
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
@@ -25,16 +25,19 @@
 | Woongjin | Jr. Full Stack Developer- Bilingual (Korean/ English) | Plano, TX, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WJCompany/744000140049207-jr-full-stack-developer-bilingual-korean-english-) | 0d |
 | AvidXchange | Software Engineer (Multiple Positions) | Charlotte, North Carolina, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/avidxchangeinc/jobs/5109361007) | 0d |
 | Bellese | Engineer II, Full Stack | United States | Lever | not_applied | [Apply](https://jobs.lever.co/bellese/426d3c84-b42f-498a-876d-8efbd5101a29) | 0d |
-| Amazon | Software Development Engineer, Creator Marketplace | Culver City, California, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10484904/apply) | 1d |
-| Lennar Corporation | Software Engineer II | Miami, FL (Job Posting Location) | Workday | not_applied | [Apply](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Job-Posting-Location/Software-Engineer-II_R26_0000003181) | 1d |
-| Amazon | Software Development Engineer, Android | Cambridge, Massachusetts, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10485096/apply) | 1d |
-| Philips | Software Engineer - Medical Image Reconstruction (C++/CUDA) | Orange (OH), Ohio, United States | Workday | not_applied | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Orange-OH-Ohio-United-States/Software-Engineer---Medical-Image-Reconstruction--C---CUDA-_586931) | 1d |
 | Symbotic | New Grad- Software Engineer | USA Wilmington,  MA - HQ | Workday | not_applied | [Apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Software-Engineer_R6770) | 1d |
-| MaineGeneral Health | NP/PA -  Emergency Department (Front End Provider) | Augusta, ME | Workday | not_applied | [Apply](https://mainegeneral.wd5.myworkdayjobs.com/MaineGeneralCareers/job/Augusta-ME/Nurse-Practitioner----Emergency-Department--Front-End-_R6851) | 1d |
+| Philips | Software Engineer - Medical Image Reconstruction (C++/CUDA) | Orange (OH), Ohio, United States | Workday | not_applied | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Orange-OH-Ohio-United-States/Software-Engineer---Medical-Image-Reconstruction--C---CUDA-_586931) | 1d |
+| Fidelity Investments | Associate Software Engineer (Java/Angular) | Westlake, TX | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/targeted/job/Westlake-TX/Associate-Full-Stack-Engineer_2128066-2) | 1d |
 | MUFG | Software Engineer DevSecOps, AVP | Tempe, AZ | Workday | not_applied | [Apply](https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Tempe-AZ/Software-Engineer-DevSecOps--AVP_10073856-WD) | 1d |
+| DraftKings | Software Engineer, Backend | Tel Aviv, IL | Workday | not_applied | [Apply](https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Tel-Aviv-IL/Software-Engineer--Backend_JR14694) | 1d |
+| Mitsubishi UFG | Software Engineer DevSecOps, AVP | Tempe, AZ | Workday | not_applied | [Apply](https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Tempe-AZ/Software-Engineer-DevSecOps--AVP_10073856-WD) | 1d |
+| MaineGeneral Health | NP/PA -  Emergency Department (Front End Provider) | Augusta, ME | Workday | not_applied | [Apply](https://mainegeneral.wd5.myworkdayjobs.com/MaineGeneralCareers/job/Augusta-ME/Nurse-Practitioner----Emergency-Department--Front-End-_R6851) | 1d |
+| Fidelity Investments | Software Engineer | Merrimack, NH | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/targeted/job/Merrimack-NH/Software-Engineer_2131484-1) | 1d |
+| Lennar Corporation | Software Engineer II | Miami, FL (Job Posting Location) | Workday | not_applied | [Apply](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Job-Posting-Location/Software-Engineer-II_R26_0000003181) | 1d |
 | Candescent | Software Engineer | US - Georgia - Atlanta Office | Workday | applied | [Apply](https://candescent.wd501.myworkdayjobs.com/Hiring/job/US---Georgia---Atlanta-Office/Software-Engineer_R0002037-1) | 1d |
 | Argonne National Laboratory | AI Production Engineer - Term | Lemont, IL USA | Workday | not_applied | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/AI-Production-Engineer---Term_423176) | 1d |
-| Mitsubishi UFG | Software Engineer DevSecOps, AVP | Tempe, AZ | Workday | not_applied | [Apply](https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Tempe-AZ/Software-Engineer-DevSecOps--AVP_10073856-WD) | 1d |
+| Amazon | Software Development Engineer, Android | Cambridge, Massachusetts, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10485096/apply) | 1d |
+| Amazon | Software Development Engineer, Creator Marketplace | Culver City, California, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10484904/apply) | 1d |
 | Cisco | Software Engineer (Remote) | Indianapolis, Indiana, US | Workday | applied | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Indianapolis-Indiana-US/Software-Engineer--Remote-_2017589) | 2d |
 | Bot Auto | Software Engineer, VCU (Vehicle Control Unit) | Houston, TX | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/botauto/jobs/5370716008) | 3d |
 | Cisco | Software Engineer (Remote) | Remote - New Jersey, USA | Workday | dismissed | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Remote---New-Jersey-USA/Software-Engineer--Remote-_2017560) | 3d |
@@ -54,7 +57,7 @@
 | Atoms | Software Engineer- Money Engineering | New York, NY | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8457896002) | 3d |
 | Twilio | Software Engineer (L2) | Remote - US | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7946610) | 3d |
 | Byte Sense Technologies Private Limited | FULL STACK DEVELOPER ( Minimum 6 months Experience) | Washington, District of Columbia, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/full-stack-developer-minimum-6-months-experience-at-byte-sense-technologies-private-limited-4444974703) | 3d |
-| Instabase | Software Engineer - Agent Harness | San Francisco, CA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/instabase/jobs/8635719002) | 3d |
+| Instabase | Software Engineer - Agent Harness | San Francisco, CA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/instabase/jobs/8635719002) | 4d |
 | Twitch | Software Development Engineer, Discovery | San Francisco, CA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8527544002) | 4d |
 | Capital Health | IT Software Engineer ERP | Pennington, NJ | Workday | not_applied | [Apply](https://capitalhealth.wd1.myworkdayjobs.com/CapitalHealthCareers/job/Pennington-NJ/IT-Software-Engineer-ERP_JR110644) | 4d |
 | Medtronic | Software Engineer I (AI-Driven Data Solutions) - Lafayette, CO | Lafayette, Colorado, United States of America | Workday | not_applied | [Apply](https://medtronic.wd1.myworkdayjobs.com/RedeploymentMedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Software-Engineer-I--AI-Driven-Data-Solutions----Lafayette--CO_R72435) | 4d |
@@ -85,5 +88,4 @@
 | xAI | Software Engineer, Observability | Palo Alto, California, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/4803905007) | 5d |
 | Intuitive Surgical | Software Engineer, Platform | Sunnyvale, CA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000139079886-software-engineer-platform) | 5d |
 | Rocket Science Group | Full-Stack Engineer - Albany | Albany, NY | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/rocketsciencegg/d6034ce0-a0e7-4d02-a016-63a15537cb7a) | 5d |
-| Realtor.com | Mgr, Software Engineering - Salesforce | Austin, Texas, United States | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/rdccareers/jobs/7812467003?gh_jid=7812467003) | 5d |
 
