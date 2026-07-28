@@ -506,13 +506,13 @@
     "is_internship": false
   },
   {
-    "id": 125011,
-    "company": "NVIDIA",
-    "role": "AI and ML Infra Software Engineer, GPU Clusters - New College Grad 2026",
-    "location": "US, CA, Santa Clara",
+    "id": 130470,
+    "company": "TJX",
+    "role": "Front End Cashier",
+    "location": "Hudson, MA 01749",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-ML-Infra-Software-Engineer--GPU-Clusters---New-College-Grad-2026_JR2021591",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Hudson-MA-01749/Front-End-Cashier_REQ135328-1",
     "age": "5d",
     "is_internship": false
   },
@@ -550,13 +550,13 @@
     "is_internship": false
   },
   {
-    "id": 130470,
-    "company": "TJX",
-    "role": "Front End Cashier",
-    "location": "Hudson, MA 01749",
+    "id": 125011,
+    "company": "NVIDIA",
+    "role": "AI and ML Infra Software Engineer, GPU Clusters - New College Grad 2026",
+    "location": "US, CA, Santa Clara",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Hudson-MA-01749/Front-End-Cashier_REQ135328-1",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-ML-Infra-Software-Engineer--GPU-Clusters---New-College-Grad-2026_JR2021591",
     "age": "5d",
     "is_internship": false
   },
@@ -704,6 +704,28 @@
     "is_internship": false
   },
   {
+    "id": 119972,
+    "company": "Motorola",
+    "role": "Software Engineer",
+    "location": "Schaumburg, IL",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineer_R66351",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 119990,
+    "company": "NVIDIA",
+    "role": "Deep Learning Software Engineer, Inference - New College Grad 2026",
+    "location": "US, CA, Remote",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Deep-Learning-Software-Engineer--Inference---New-College-Grad-2026_JR2021742",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
     "id": 131392,
     "company": "Traba",
     "role": "Software Engineer (New Grad)",
@@ -759,17 +781,6 @@
     "is_internship": false
   },
   {
-    "id": 131398,
-    "company": "Albertsons Companies",
-    "role": "Front End Entry Level",
-    "location": "Troutdale, Oregon, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-albertsons-companies-4444228436",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
     "id": 130472,
     "company": "TJX",
     "role": "Retail Part Time Front End Supervisor",
@@ -777,28 +788,6 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Findlay-OH-45840/Retail-Part-Time-Front-End-Supervisor_REQ138602",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 119972,
-    "company": "Motorola",
-    "role": "Software Engineer",
-    "location": "Schaumburg, IL",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineer_R66351",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 119990,
-    "company": "NVIDIA",
-    "role": "Deep Learning Software Engineer, Inference - New College Grad 2026",
-    "location": "US, CA, Remote",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Deep-Learning-Software-Engineer--Inference---New-College-Grad-2026_JR2021742",
     "age": "6d",
     "is_internship": false
   },
@@ -836,6 +825,17 @@
     "is_internship": false
   },
   {
+    "id": 131398,
+    "company": "Albertsons Companies",
+    "role": "Front End Entry Level",
+    "location": "Troutdale, Oregon, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-albertsons-companies-4444228436",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
     "id": 113204,
     "company": "Sierra",
     "role": "Software Engineer, Agent - Travel & Hospitality",
@@ -867,16 +867,5 @@
     "url": "https://job-boards.greenhouse.io/virtu/jobs/8624410002",
     "age": "6d",
     "is_internship": true
-  },
-  {
-    "id": 108578,
-    "company": "CommerceIQ",
-    "role": "Software Engineer",
-    "location": "Mountain View, California, United States",
-    "source": "Greenhouse",
-    "status": "not_applied",
-    "url": "https://job-boards.greenhouse.io/commerceiq/jobs/7803169003",
-    "age": "6d",
-    "is_internship": false
   }
 ]
