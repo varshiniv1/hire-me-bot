@@ -1,6 +1,6 @@
 # Job Postings Report
 
-98 postings from the last 6 days.
+97 postings from the last 6 days.
 
 ## Internships (10)
 
@@ -17,7 +17,7 @@
 | Palantir | Forward Deployed Software Engineer Internship  Intel | Washington, District of Columbia, USA | JSearch | not_applied | [Apply](https://www.wayup.com/i-Technology-j-Forward-Deployed-Software-Engineer-Internship-Intel-Palantir-256909916773928/) | 4d |
 | Lasarrus Clinic and Research Center | Software Developer Intern | Baltimore, Maryland, USA | JSearch | not_applied | [Apply](https://www.indeed.com/viewjob?jk=ade7589aa7f0cf15) | 5d |
 
-## Full-Time (88)
+## Full-Time (87)
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
@@ -71,12 +71,11 @@
 | Woongjin | Jr. Full Stack Developer- Bilingual (Korean/ English) | Plano, TX, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WJCompany/744000140049207-jr-full-stack-developer-bilingual-korean-english-) | 2d |
 | AvidXchange | Software Engineer (Multiple Positions) | Charlotte, North Carolina, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/avidxchangeinc/jobs/5109361007) | 2d |
 | Bellese | Engineer II, Full Stack | United States | Lever | not_applied | [Apply](https://jobs.lever.co/bellese/426d3c84-b42f-498a-876d-8efbd5101a29) | 2d |
-| DraftKings | Software Engineer, Backend | Tel Aviv, IL | Workday | not_applied | [Apply](https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Tel-Aviv-IL/Software-Engineer--Backend_JR14694) | 3d |
-| Fidelity Investments | Software Engineer | Merrimack, NH | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/targeted/job/Merrimack-NH/Software-Engineer_2131484-1) | 3d |
+| Amazon | Software Development Engineer, Android | Cambridge, Massachusetts, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10485096/apply) | 3d |
 | TeamWorx Security | DoD SkillBridge: Software Developer or Engineer | Columbia, Maryland, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/dod-skillbridge-software-developer-or-engineer-at-teamworx-security-4144463212) | 3d |
 | TeamWorx Security | DoD SkillBridge: Software Developer or Engineer | Columbia, Maryland, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/dod-skillbridge-software-developer-or-engineer-at-teamworx-security-4144463212) | 3d |
 | Amazon | Software Development Engineer, Creator Marketplace | Culver City, California, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10484904/apply) | 3d |
-| Amazon | Software Development Engineer, Android | Cambridge, Massachusetts, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10485096/apply) | 3d |
+| Fidelity Investments | Software Engineer | Merrimack, NH | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/targeted/job/Merrimack-NH/Software-Engineer_2131484-1) | 3d |
 | Argonne National Laboratory | AI Production Engineer - Term | Lemont, IL USA | Workday | not_applied | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/AI-Production-Engineer---Term_423176) | 3d |
 | Candescent | Software Engineer | US - Georgia - Atlanta Office | Workday | applied | [Apply](https://candescent.wd501.myworkdayjobs.com/Hiring/job/US---Georgia---Atlanta-Office/Software-Engineer_R0002037-1) | 3d |
 | Moog | Software Engineer - Test Systems | Buffalo, NY | Workday | not_applied | [Apply](https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Software-Engineer---Test-Systems_R-26-19037) | 3d |
@@ -86,6 +85,7 @@
 | Mitsubishi UFG | Software Engineer DevSecOps, AVP | Tempe, AZ | Workday | not_applied | [Apply](https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Tempe-AZ/Software-Engineer-DevSecOps--AVP_10073856-WD) | 3d |
 | MUFG | Software Engineer DevSecOps, AVP | Tempe, AZ | Workday | not_applied | [Apply](https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Tempe-AZ/Software-Engineer-DevSecOps--AVP_10073856-WD) | 3d |
 | Philips | Software Engineer - Medical Image Reconstruction (C++/CUDA) | Orange (OH), Ohio, United States | Workday | not_applied | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Orange-OH-Ohio-United-States/Software-Engineer---Medical-Image-Reconstruction--C---CUDA-_586931) | 3d |
+| DraftKings | Software Engineer, Backend | Tel Aviv, IL | Workday | not_applied | [Apply](https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Tel-Aviv-IL/Software-Engineer--Backend_JR14694) | 3d |
 | Fidelity Investments | Associate Software Engineer (Java/Angular) | Westlake, TX | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/targeted/job/Westlake-TX/Associate-Full-Stack-Engineer_2128066-2) | 3d |
 | Apple, Inc. | Site Reliability Engineer - Kafka | Leavenworth, Washington, USA | JSearch | not_applied | [Apply](https://www.dice.com/job-detail/534cba6d-192f-417f-aeb7-56c01c18c240) | 4d |
 | Cisco | Software Engineer (Remote) | Indianapolis, Indiana, US | Workday | applied | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Indianapolis-Indiana-US/Software-Engineer--Remote-_2017589) | 4d |
@@ -108,5 +108,4 @@
 | Atoms | Software Engineer- Money Engineering | New York, NY | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8457896002) | 5d |
 | Twilio | Software Engineer (L2) | Remote - US | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7946610) | 5d |
 | Byte Sense Technologies Private Limited | FULL STACK DEVELOPER ( Minimum 6 months Experience) | Washington, District of Columbia, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/full-stack-developer-minimum-6-months-experience-at-byte-sense-technologies-private-limited-4444974703) | 5d |
-| Instabase | Software Engineer - Agent Harness | San Francisco, CA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/instabase/jobs/8635719002) | 5d |
 
