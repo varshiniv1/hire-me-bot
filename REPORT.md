@@ -72,8 +72,8 @@
 | xAI | Software Engineer - Data Platform | Palo Alto, California, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/4803862007) | 2d |
 | Syncreon Consulting | Full Stack Developer  -  ONLY GC/Citizens - Overall 5yrs also okay | Fremont, CA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/SyncreonConsulting/744000140728034-full-stack-developer-only-gc-citizens-overall-5yrs-also-okay) | 2d |
 | Chime | Software Engineer, Lending | San Francisco, CA, USA | Greenhouse | dismissed | [Apply](https://boards.greenhouse.io/chime/jobs/8657011002?gh_jid=8657011002) | 2d |
-| Flock Safety | Associate Wireless Software Engineer | Remote - USA | Ashby | dismissed | [Apply](https://jobs.ashbyhq.com/Flock%20Safety/44ae4912-89d9-4e83-840d-e22250d6a473) | 2d |
-| Katalyst Space Technologies | Software Engineer, Ground Software | Broomfield, Colorado, United States | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/katalyst/jobs/6130553004) | 2d |
+| Flock Safety | Associate Wireless Software Engineer | Remote - USA | Ashby | dismissed | [Apply](https://jobs.ashbyhq.com/Flock%20Safety/44ae4912-89d9-4e83-840d-e22250d6a473) | 3d |
+| Katalyst Space Technologies | Software Engineer, Ground Software | Broomfield, Colorado, United States | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/katalyst/jobs/6130553004) | 3d |
 | Jewel-Osco | Front End Entry Level | Rolling Meadows, Illinois, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-jewel-osco-4447053908) | 3d |
 | Acme Markets | Front End Entry Level | Newtown Square, Pennsylvania, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-acme-markets-4447236287) | 3d |
 | Safeway | Front End Entry Level | Bethesda, Maryland, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-safeway-4438281367) | 3d |
