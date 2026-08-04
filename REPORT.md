@@ -1,6 +1,6 @@
 # Job Postings Report
 
-100 postings from the last 6 days.
+101 postings from the last 6 days.
 
 ## Internships (8)
 
@@ -9,16 +9,17 @@
 | Copart | Software Engineering Intern | Dallas, TX - Headquarters | Workday | not_applied | [Apply](https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110353) | 2d |
 | Redwire | Intern – Space Software Engineering | Chantilly, Virginia, USA | JSearch | not_applied | [Apply](https://studentscircles.com/redwire-hiring-intern-space-software-engineering-chantilly-pay-26-30-hr/) | 3d |
 | MSA - The Safety Company | Co-op: Software Engineer, Product Development (Spring 2026) | Pennsylvania, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/co-op-software-engineer-product-development-spring-2026-at-msa-the-safety-company-4445530834) | 3d |
-| Motorola | Software Engineering, Co-Op | California, Maryland, USA | JSearch | not_applied | [Apply](https://www.ziprecruiter.com/c/Motorola-Solutions/Job/Software-Engineering,-Co-Op/-in-California,MD?jid=e62eaf235977f075) | 5d |
-| Palantir Technologies | Software Engineer Internship | Washington, District of Columbia, USA | JSearch | not_applied | [Apply](https://bebee.com/us/jobs/software-engineer-internship-palantir-technologies-washington--lensa-2365_baa8d39c7a23a0147a9f6dfed1f2c882b2b728833cfcfc8dc49c607e894e8edf) | 5d |
 | Copart | Software Engineering Intern | Dallas, TX - Headquarters | Workday | not_applied | [Apply](https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109965) | 5d |
+| Palantir Technologies | Software Engineer Internship | Washington, District of Columbia, USA | JSearch | not_applied | [Apply](https://bebee.com/us/jobs/software-engineer-internship-palantir-technologies-washington--lensa-2365_baa8d39c7a23a0147a9f6dfed1f2c882b2b728833cfcfc8dc49c607e894e8edf) | 5d |
 | Copart | Software Engineering Intern | Dallas, TX - Headquarters | Workday | not_applied | [Apply](https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109964) | 5d |
 | Motorola | Software Engineering, Co-Op | California, Maryland, USA | JSearch | not_applied | [Apply](https://www.ziprecruiter.com/c/Motorola-Solutions/Job/Software-Engineering,-Co-Op/-in-California,MD?jid=e62eaf235977f075) | 5d |
+| Motorola | Software Engineering, Co-Op | California, Maryland, USA | JSearch | not_applied | [Apply](https://www.ziprecruiter.com/c/Motorola-Solutions/Job/Software-Engineering,-Co-Op/-in-California,MD?jid=e62eaf235977f075) | 5d |
 
-## Full-Time (92)
+## Full-Time (93)
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
+| Pharo Management | Full Stack Developer | New York, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/pharomanagement/jobs/7823805003) | 0d |
 | Amazon | ML Software Engineer, Data Plane | Cupertino, California, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10491191/apply) | 0d |
 | Veeam Software | Site Reliability Engineer | Remote, United States | Greenhouse | not_applied | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4744735101) | 0d |
 | SimpliSafe | Software Engineer I- User Systems | Boston, MA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/simplisafe/jobs/8095181) | 0d |
@@ -29,17 +30,17 @@
 | RESPEC | Java Software Developer (Contractor) - 40526R0026399 | Austin, TX, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/RESPECInc/744000141295429-java-software-developer-contractor-40526r0026399) | 0d |
 | Cogent Security | Software Engineer - Applied AI | San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/cogent-security/8762ddb1-fad6-40e0-90a9-c239d1cbdb17) | 0d |
 | Cogent Security | Software Engineer - Developer Experience | San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/cogent-security/86fbea69-21e9-4115-8674-60c2105079d8) | 0d |
+| Selene | Software Release Coordinator | Dallas, TX | Workday | not_applied | [Apply](https://pretiumenterpriseservices.wd1.myworkdayjobs.com/Selene/job/Dallas-TX/Software-Release-Coordinator_JR116029) | 1d |
 | U.S. Bank | Software Engineer 2 | Hopkins, MN | Workday | not_applied | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Software-Engineer-2_2026-0010136) | 1d |
 | NVIDIA | Systems Software Engineer - New College Grad 2026 | US, OR, Hillsboro | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083) | 1d |
 | Texas A&M University System | Software Applications Developer II -  WordPress & Web Development | College Station, TX | Workday | not_applied | [Apply](https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Software-Applications-Developer-II----WordPress---Web-Development_R-095683-1) | 1d |
 | Texas A&M AgriLife Research | Software Applications Developer II -  WordPress & Web Development | College Station, TX | Workday | not_applied | [Apply](https://tamus.wd1.myworkdayjobs.com/AgriLife_Research_External/job/College-Station-TX/Software-Applications-Developer-II----WordPress---Web-Development_R-095683-2) | 1d |
-| Amazon | Software Development Engineer I – AI/ML Network Infrastructure, Annapurna Labs | Cupertino, California, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10490741/apply) | 1d |
-| Selene | Software Release Coordinator | Dallas, TX | Workday | not_applied | [Apply](https://pretiumenterpriseservices.wd1.myworkdayjobs.com/Selene/job/Dallas-TX/Software-Release-Coordinator_JR116029) | 1d |
 | Freddie Mac | Single Family Software Analyst | McLean, VA | Workday | not_applied | [Apply](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Analyst_JR17441) | 1d |
+| Amazon | Software Development Engineer I – AI/ML Network Infrastructure, Annapurna Labs | Cupertino, California, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10490741/apply) | 1d |
 | Lightfield | Software Engineer, Infrastructure (Early Career) | Cambridge, MA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/Lightfield/9a7ef2f9-577a-4242-b884-719e3cdf4420) | 1d |
+| TJX | Front End Supervisor -Now Hiring | Raleigh, NC 27601 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Raleigh-NC-27601/Front-End-Supervisor--Now-Hiring_REQ141859) | 2d |
 | TJX | Front End Supervisor | Orange, CT 06477 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Orange-CT-06477/Front-End-Supervisor_REQ139850) | 2d |
 | TJX | Part Time Front End Coordinator | Vernon Hills, IL 60061 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Vernon-Hills-IL-60061/Part-Time-Front-End-Coordinator_REQ141872) | 2d |
-| TJX | Front End Supervisor -Now Hiring | Raleigh, NC 27601 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Raleigh-NC-27601/Front-End-Supervisor--Now-Hiring_REQ141859) | 2d |
 | Mach Industries | Software Engineer, Mission Autonomy  | Huntington Beach, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mach/04d2867a-eb38-4bbc-a6fd-8f2ce7b9a045) | 2d |
 | Field AI | Software Engineer, Data Engineering | Irvine, CA | Lever | not_applied | [Apply](https://jobs.lever.co/field-ai/e3b7bac7-5410-44bb-964c-02815fbd0c97) | 3d |
 | Field AI | Software Engineer, DevOps | Irvine, CA | Lever | not_applied | [Apply](https://jobs.lever.co/field-ai/b6a02c7e-8726-47b7-b0b0-899644613c47) | 3d |
@@ -90,12 +91,12 @@
 | Chime | Software Engineer, Lending | San Francisco, CA, USA | Greenhouse | dismissed | [Apply](https://boards.greenhouse.io/chime/jobs/8657011002?gh_jid=8657011002) | 4d |
 | Flock Safety | Associate Wireless Software Engineer | Remote - USA | Ashby | dismissed | [Apply](https://jobs.ashbyhq.com/Flock%20Safety/44ae4912-89d9-4e83-840d-e22250d6a473) | 4d |
 | Katalyst Space Technologies | Software Engineer, Ground Software | Broomfield, Colorado, United States | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/katalyst/jobs/6130553004) | 4d |
-| Safeway | Front End Entry Level | Bethesda, Maryland, USA | JSearch | dismissed | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-safeway-4438281367) | 5d |
 | Safeway | Front End Entry Level | Bethesda, Maryland, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-safeway-4438281367) | 5d |
 | Safeway | Front End Entry Level | Bethesda, Maryland, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-safeway-4438281367) | 5d |
 | Safeway | Front End Entry Level | Bethesda, Maryland, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-safeway-4438281367) | 5d |
 | Acme Markets | Front End Entry Level | Newtown Square, Pennsylvania, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-acme-markets-4447236287) | 5d |
 | Jewel-Osco | Front End Entry Level | Rolling Meadows, Illinois, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-jewel-osco-4447053908) | 5d |
+| Safeway | Front End Entry Level | Bethesda, Maryland, USA | JSearch | dismissed | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-safeway-4438281367) | 5d |
 | TJX | Front End associate | Bloomington, IL 61701 | Workday | dismissed | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Bloomington-IL-61701/Front-End-associate_REQ141300) | 5d |
 | TJX | Front End Coordinator | Framingham, MA 01701 | Workday | dismissed | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Framingham-MA-01701/Front-End-Coordinator_REQ141194) | 5d |
 | Magna International | Engineer II - Software Test | Southfield, Michigan, US | Workday | dismissed | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Engineer-II---Software-Test_R00241284) | 5d |
