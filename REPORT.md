@@ -21,7 +21,7 @@
 | Intuitive Surgical | Robotics Software Engineer | Sunnyvale, CA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000141577259-robotics-software-engineer) | 0d |
 | Layup Parts | Software Engineer, Controls & Automation | Huntington Beach, CA | Lever | not_applied | [Apply](https://jobs.lever.co/layup/4a97feec-c1af-4f81-8148-d7ad27a88e1e) | 0d |
 | Pharo Management | Full Stack Developer | New York, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/pharomanagement/jobs/7823805003) | 0d |
-| Smart IS | Junior Software Developer (Fresh Graduate) | Oshkosh, Wisconsin, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/junior-software-developer-fresh-graduate-at-smart-is-4446604556) | 0d |
+| Smart IS | Junior Software Developer (Fresh Graduate) | Oshkosh, Wisconsin, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/junior-software-developer-fresh-graduate-at-smart-is-4446604556) | 1d |
 | General Motors | Software Engineer | Warren, Michigan, United States of America | Workday | not_applied | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Software-Engineer_JR-202616842) | 1d |
 | Amazon | ML Software Engineer, Data Plane | Cupertino, California, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10491191/apply) | 1d |
 | Amazon | Software Development Engineer, STRADA | Minneapolis, Minnesota, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10491453/apply) | 1d |
