@@ -38,7 +38,7 @@
 | Harris Computer | Associate Software Engineer, RPG | Tennessee, United States | Workday | not_applied | [Apply](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Tennessee-United-States/Associate-Software-Engineer--RPG_R0045601-1) | 1d |
 | Intuitive Surgical | Robotics Software Engineer | Sunnyvale, CA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000141577259-robotics-software-engineer) | 1d |
 | Layup Parts | Software Engineer, Controls & Automation | Huntington Beach, CA | Lever | not_applied | [Apply](https://jobs.lever.co/layup/4a97feec-c1af-4f81-8148-d7ad27a88e1e) | 1d |
-| Pharo Management | Full Stack Developer | New York, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/pharomanagement/jobs/7823805003) | 1d |
+| Pharo Management | Full Stack Developer | New York, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/pharomanagement/jobs/7823805003) | 2d |
 | Smart IS | Junior Software Developer (Fresh Graduate) | Oshkosh, Wisconsin, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/junior-software-developer-fresh-graduate-at-smart-is-4446604556) | 2d |
 | MUFG | Software Engineer - Analyst | Jersey City, NJ | Workday | not_applied | [Apply](https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Jersey-City-NJ/Software-Engineer---Analyst_10078371-WD) | 2d |
 | NVIDIA | Systems Software Engineer - Infrastructure | US, CA, Santa Clara | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---Infrastructure_JR2022783) | 2d |
