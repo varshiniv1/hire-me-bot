@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
-| impact.com | Associate Software Engineer intern | Santa Barbara, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/impact/jobs/8645964002) | 0d |
+| impact.com | Associate Software Engineer intern | Santa Barbara, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/impact/jobs/8645964002) | 1d |
 | NVIDIA | Software Engineering Intern, Dynamo - Fall 2026 | US, CA, Santa Clara | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295) | 2d |
 | Diversified Automation | Software Engineering Co-op | Louisville, KY | Lever | not_applied | [Apply](https://jobs.lever.co/diversified-automation/827a092d-b8a3-4ca9-a84a-e8c236d1aabc) | 2d |
 | Motorola Solutions | Software Engineering, Co-Op | Baltimore, Maryland, USA | JSearch | not_applied | [Apply](https://bebee.com/us/jobs/software-engineering-co-op-motorola-solutions-baltimore--lensa-2365_803ac508212fea69abbd98012d48ac7e2e981de7ca61c0017f0932756f292402) | 5d |
@@ -55,7 +55,7 @@
 | Crusoe | Software Engineer I (DCIE) | San Francisco, CA - US | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/Crusoe/8184c413-a95a-49d7-bb75-ff3162ca198f) | 2d |
 | Intuitive Surgical | Robotics Software Engineer | Sunnyvale, CA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000141577259-robotics-software-engineer) | 2d |
 | Layup Parts | Software Engineer, Controls & Automation | Huntington Beach, CA | Lever | not_applied | [Apply](https://jobs.lever.co/layup/4a97feec-c1af-4f81-8148-d7ad27a88e1e) | 2d |
-| Pharo Management | Full Stack Developer | New York, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/pharomanagement/jobs/7823805003) | 2d |
+| Pharo Management | Full Stack Developer | New York, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/pharomanagement/jobs/7823805003) | 3d |
 | Smart IS | Junior Software Developer (Fresh Graduate) | Oshkosh, Wisconsin, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/junior-software-developer-fresh-graduate-at-smart-is-4446604556) | 3d |
 | Mitsubishi UFG | Software Engineer - Analyst | Jersey City, NJ | Workday | not_applied | [Apply](https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Jersey-City-NJ/Software-Engineer---Analyst_10078469-WD-1) | 3d |
 | Amazon | ML Software Engineer, Data Plane | Cupertino, California, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10491191/apply) | 3d |
