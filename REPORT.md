@@ -11,7 +11,7 @@
 | Caddi | Software Engineer Intern | Washington, District of Columbia, USA | JSearch | not_applied | [Apply](https://jooble.org/jdp/-8188145228407678939) | 3d |
 | Copart | Software Engineering Intern | Dallas, TX - Headquarters | Workday | not_applied | [Apply](https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109441) | 4d |
 | Copart | Software Engineering Intern | Dallas, TX - Headquarters | Workday | not_applied | [Apply](https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR101510) | 4d |
-| impact.com | Associate Software Engineer intern | Santa Barbara, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/impact/jobs/8645964002) | 4d |
+| impact.com | Associate Software Engineer intern | Santa Barbara, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/impact/jobs/8645964002) | 5d |
 | GULF MANAGEMENT, INC | Software Engineer & Business Systems Intern | Covington, Louisiana, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/software-engineer-business-systems-intern-at-gulf-management-inc-4449958914) | 5d |
 | GULF MANAGEMENT, INC | Software Engineer & Business Systems Intern | Covington, Louisiana, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/software-engineer-business-systems-intern-at-gulf-management-inc-4449958914) | 5d |
 
@@ -28,7 +28,7 @@
 | Woongjin | Jr. Full Stack Developer- Bilingual (Korean/ English) | Plano, TX, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WJCompany/744000142693899-jr-full-stack-developer-bilingual-korean-english-) | 0d |
 | Commvault | Software Engineer - AI/ML | United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/commvault/jobs/5233623008) | 0d |
 | Pickle Robot | Robotics Software Engineer | Charlestown, MA | Lever | not_applied | [Apply](https://jobs.lever.co/picklerobot/42939c0b-de3b-47fa-a661-e9492c71de63) | 0d |
-| ALTEN Technology | Production Engineer (Ref. L-2616) | Troy, MI | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5207503007) | 0d |
+| ALTEN Technology | Production Engineer (Ref. L-2616) | Troy, MI | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5207503007) | 1d |
 | Ferrovial | Webber - FrontEnd Loader Operator - Heavy Civil | Houston, TX | Workday | not_applied | [Apply](https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Houston-TX/Webber---FrontEnd-Loader-Operator---Heavy-Civil_JR18664) | 1d |
 | TJX | Retail - Full Time Front End Supervisor | Auburn Hills, MI 48326 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Auburn-Hills-MI-48326/Retail---Full-Time-Front-End-Supervisor_REQ144563) | 1d |
 | TJX | Front End Supervisor | Roanoke, VA 24012 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Roanoke-VA-24012/Front-End-Supervisor_REQ144625-1) | 1d |
