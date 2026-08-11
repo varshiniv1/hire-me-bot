@@ -77,6 +77,28 @@
     "is_internship": false
   },
   {
+    "id": 209076,
+    "company": "Allegion",
+    "role": "Production Engineer",
+    "location": "Everett, WA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Everett-WA/Production-Engineer_JR37120-1",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
+    "id": 209108,
+    "company": "Amazon",
+    "role": "Software Development Engineer, AWS Identity",
+    "location": "Seattle, Washington, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10498625/apply",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
     "id": 204196,
     "company": "Lila Sciences",
     "role": "Software Engineer I, Instrument Software ",
@@ -139,7 +161,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004",
-    "age": "0d",
+    "age": "1d",
     "is_internship": true
   },
   {
@@ -150,7 +172,7 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/WJCompany/744000142693899-jr-full-stack-developer-bilingual-korean-english-",
-    "age": "0d",
+    "age": "1d",
     "is_internship": false
   },
   {
@@ -187,50 +209,6 @@
     "is_internship": false
   },
   {
-    "id": 206418,
-    "company": "TJX",
-    "role": "Retail - Full Time Front End Supervisor",
-    "location": "Auburn Hills, MI 48326",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Auburn-Hills-MI-48326/Retail---Full-Time-Front-End-Supervisor_REQ144563",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 203117,
-    "company": "Amazon",
-    "role": "Software Development Engineer, S3 Buckets",
-    "location": "Seattle, Washington, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10497189/apply",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 203273,
-    "company": "Ferrovial",
-    "role": "Webber - FrontEnd Loader Operator - Heavy Civil",
-    "location": "Houston, TX",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Houston-TX/Webber---FrontEnd-Loader-Operator---Heavy-Civil_JR18664",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 203563,
-    "company": "Rocket Mortgage",
-    "role": "Software Developer I - Search",
-    "location": "Seattle, WA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Software-Developer-I---Search_R-083930",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
     "id": 203561,
     "company": "Rocket Companies",
     "role": "Software Developer I - Search",
@@ -238,39 +216,6 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Software-Developer-I---Search_R-083930",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 203934,
-    "company": "Applied Materials",
-    "role": "Software QA Engineer",
-    "location": "Santa Clara,CA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-1800381---Software-QA-Engineer_R2625695",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 204649,
-    "company": "Swift",
-    "role": "Software Engineer (Hybrid)",
-    "location": "Manassas, United States",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Manassas-United-States/Software-Engineer_2026-15645-1",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 204695,
-    "company": "Western Governors University",
-    "role": "Software Engineer II - Infrastructure & Operations",
-    "location": "Salt Lake City, UT",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Software-Engineer-II---Infrastructure---Operations_JR-025775",
     "age": "1d",
     "is_internship": false
   },
@@ -308,14 +253,80 @@
     "is_internship": false
   },
   {
-    "id": 202067,
+    "id": 206418,
     "company": "TJX",
-    "role": "Front end Associate",
-    "location": "Sunset Valley, TX 78745",
+    "role": "Retail - Full Time Front End Supervisor",
+    "location": "Auburn Hills, MI 48326",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Sunset-Valley-TX-78745/Front-end-Associate_REQ144271",
-    "age": "2d",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Auburn-Hills-MI-48326/Retail---Full-Time-Front-End-Supervisor_REQ144563",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 203117,
+    "company": "Amazon",
+    "role": "Software Development Engineer, S3 Buckets",
+    "location": "Seattle, Washington, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10497189/apply",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 203934,
+    "company": "Applied Materials",
+    "role": "Software QA Engineer",
+    "location": "Santa Clara,CA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-1800381---Software-QA-Engineer_R2625695",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 204649,
+    "company": "Swift",
+    "role": "Software Engineer (Hybrid)",
+    "location": "Manassas, United States",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Manassas-United-States/Software-Engineer_2026-15645-1",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 204695,
+    "company": "Western Governors University",
+    "role": "Software Engineer II - Infrastructure & Operations",
+    "location": "Salt Lake City, UT",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Software-Engineer-II---Infrastructure---Operations_JR-025775",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 203273,
+    "company": "Ferrovial",
+    "role": "Webber - FrontEnd Loader Operator - Heavy Civil",
+    "location": "Houston, TX",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Houston-TX/Webber---FrontEnd-Loader-Operator---Heavy-Civil_JR18664",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 203563,
+    "company": "Rocket Mortgage",
+    "role": "Software Developer I - Search",
+    "location": "Seattle, WA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Software-Developer-I---Search_R-083930",
+    "age": "1d",
     "is_internship": false
   },
   {
@@ -326,6 +337,17 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Columbus-OH-43219/Front-End-Customer-Service-Supervisor_REQ144256",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 202067,
+    "company": "TJX",
+    "role": "Front end Associate",
+    "location": "Sunset Valley, TX 78745",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Sunset-Valley-TX-78745/Front-end-Associate_REQ144271",
     "age": "2d",
     "is_internship": false
   },
@@ -363,6 +385,17 @@
     "is_internship": false
   },
   {
+    "id": 203045,
+    "company": "Unissant",
+    "role": "Full Stack Software Developer",
+    "location": "Ashburn, Virginia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/full-stack-software-developer-at-unissant-4451096598",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
     "id": 202069,
     "company": "TJX",
     "role": "Retail Front End Supervisor Full Time",
@@ -383,17 +416,6 @@
     "url": "https://jooble.org/jdp/-8188145228407678939",
     "age": "3d",
     "is_internship": true
-  },
-  {
-    "id": 203045,
-    "company": "Unissant",
-    "role": "Full Stack Software Developer",
-    "location": "Ashburn, Virginia, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/full-stack-software-developer-at-unissant-4451096598",
-    "age": "3d",
-    "is_internship": false
   },
   {
     "id": 194012,
@@ -495,17 +517,6 @@
     "is_internship": false
   },
   {
-    "id": 193122,
-    "company": "Copart",
-    "role": "Software Engineering Intern",
-    "location": "Dallas, TX - Headquarters",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109441",
-    "age": "4d",
-    "is_internship": true
-  },
-  {
     "id": 203051,
     "company": "Dex",
     "role": "Software Engineer (up to $250k)",
@@ -517,24 +528,13 @@
     "is_internship": false
   },
   {
-    "id": 192035,
-    "company": "U.S. Bank",
-    "role": "Hogan Software Engineer 1",
-    "location": "Irving, TX",
+    "id": 194178,
+    "company": "McKesson",
+    "role": "Specialist Software Developer B2B Commerce",
+    "location": "USA, VA, Richmond",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irving-TX/Hogan-Software-Engineer-1_2026-0024257",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
-    "id": 195365,
-    "company": "Abbott",
-    "role": "Associate Software Engineer",
-    "location": "United States - Texas - Irving",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Irving/Associate-Software-Engineer_31158107-1",
+    "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-VA-Richmond/Specialist-Software-Developer-B2B-Commerce_JR0145015-1",
     "age": "4d",
     "is_internship": false
   },
@@ -550,15 +550,15 @@
     "is_internship": false
   },
   {
-    "id": 194178,
-    "company": "McKesson",
-    "role": "Specialist Software Developer B2B Commerce",
-    "location": "USA, VA, Richmond",
+    "id": 193122,
+    "company": "Copart",
+    "role": "Software Engineering Intern",
+    "location": "Dallas, TX - Headquarters",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-VA-Richmond/Specialist-Software-Developer-B2B-Commerce_JR0145015-1",
+    "url": "https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109441",
     "age": "4d",
-    "is_internship": false
+    "is_internship": true
   },
   {
     "id": 193935,
@@ -583,13 +583,13 @@
     "is_internship": false
   },
   {
-    "id": 193265,
-    "company": "KION Group",
-    "role": "Vice President, Software Development",
-    "location": "Grand Rapids, MI, United States",
+    "id": 195365,
+    "company": "Abbott",
+    "role": "Associate Software Engineer",
+    "location": "United States - Texas - Irving",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://kiongroup.wd3.myworkdayjobs.com/KIONGroup/job/Grand-Rapids-MI-United-States/Vice-President--Software-Development_JR-0093920-1",
+    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Irving/Associate-Software-Engineer_31158107-1",
     "age": "4d",
     "is_internship": false
   },
@@ -616,17 +616,6 @@
     "is_internship": false
   },
   {
-    "id": 193124,
-    "company": "Copart",
-    "role": "Software Engineering Intern",
-    "location": "Dallas, TX - Headquarters",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR101510",
-    "age": "4d",
-    "is_internship": true
-  },
-  {
     "id": 202013,
     "company": "University of Wisconsin-Madison",
     "role": "Software Engineer-SEA",
@@ -649,6 +638,28 @@
     "is_internship": false
   },
   {
+    "id": 193124,
+    "company": "Copart",
+    "role": "Software Engineering Intern",
+    "location": "Dallas, TX - Headquarters",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR101510",
+    "age": "4d",
+    "is_internship": true
+  },
+  {
+    "id": 192035,
+    "company": "U.S. Bank",
+    "role": "Hogan Software Engineer 1",
+    "location": "Irving, TX",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irving-TX/Hogan-Software-Engineer-1_2026-0024257",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
     "id": 193357,
     "company": "Netsmart",
     "role": "Software Engineer- Java Experience(Onsite, Overland Park, KS)",
@@ -660,6 +671,17 @@
     "is_internship": false
   },
   {
+    "id": 193265,
+    "company": "KION Group",
+    "role": "Vice President, Software Development",
+    "location": "Grand Rapids, MI, United States",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://kiongroup.wd3.myworkdayjobs.com/KIONGroup/job/Grand-Rapids-MI-United-States/Vice-President--Software-Development_JR-0093920-1",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
     "id": 190049,
     "company": "Sharp Electronics",
     "role": "Technical Software Product Specialist",
@@ -667,7 +689,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/sharpelectronics/jobs/4354223009",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -678,7 +700,7 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-jewel-osco-4450611347",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -689,7 +711,7 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/WJCompany/744000141976189-back-end-rpa-developer-bilingual-korean-english-",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -953,7 +975,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5202054007",
-    "age": "5d",
+    "age": "6d",
     "is_internship": false
   },
   {
@@ -964,7 +986,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/bpcs/jobs/8095595",
-    "age": "5d",
+    "age": "6d",
     "is_internship": false
   },
   {
@@ -1129,17 +1151,6 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/Intuitive/744000141577259-robotics-software-engineer",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 177166,
-    "company": "Layup Parts",
-    "role": "Software Engineer, Controls & Automation",
-    "location": "Huntington Beach, CA",
-    "source": "Lever",
-    "status": "not_applied",
-    "url": "https://jobs.lever.co/layup/4a97feec-c1af-4f81-8148-d7ad27a88e1e",
     "age": "6d",
     "is_internship": false
   }
