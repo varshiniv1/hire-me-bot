@@ -1,6 +1,6 @@
 # Job Postings Report
 
-78 postings from the last 6 days.
+82 postings from the last 6 days.
 
 ## Internships (8)
 
@@ -15,7 +15,7 @@
 | GULF MANAGEMENT, INC | Software Engineer & Business Systems Intern | Covington, Louisiana, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/software-engineer-business-systems-intern-at-gulf-management-inc-4449958914) | 5d |
 | GULF MANAGEMENT, INC | Software Engineer & Business Systems Intern | Covington, Louisiana, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/software-engineer-business-systems-intern-at-gulf-management-inc-4449958914) | 5d |
 
-## Full-Time (70)
+## Full-Time (74)
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
@@ -29,15 +29,19 @@
 | Commvault | Software Engineer - AI/ML | United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/commvault/jobs/5233623008) | 0d |
 | Pickle Robot | Robotics Software Engineer | Charlestown, MA | Lever | not_applied | [Apply](https://jobs.lever.co/picklerobot/42939c0b-de3b-47fa-a661-e9492c71de63) | 0d |
 | ALTEN Technology | Production Engineer (Ref. L-2616) | Troy, MI | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5207503007) | 0d |
-| Western Governors University | Software Engineer II - Infrastructure & Operations | Salt Lake City, UT | Workday | not_applied | [Apply](https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Software-Engineer-II---Infrastructure---Operations_JR-025775) | 1d |
-| Amazon | Software Development Engineer, S3 Buckets | Seattle, Washington, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10497189/apply) | 1d |
 | Ferrovial | Webber - FrontEnd Loader Operator - Heavy Civil | Houston, TX | Workday | not_applied | [Apply](https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Houston-TX/Webber---FrontEnd-Loader-Operator---Heavy-Civil_JR18664) | 1d |
-| Rocket Mortgage | Software Developer I - Search | Seattle, WA | Workday | not_applied | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Software-Developer-I---Search_R-083930) | 1d |
-| Rocket Companies | Software Developer I - Search | Seattle, WA | Workday | not_applied | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Software-Developer-I---Search_R-083930) | 1d |
+| TJX | Retail - Full Time Front End Supervisor | Auburn Hills, MI 48326 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Auburn-Hills-MI-48326/Retail---Full-Time-Front-End-Supervisor_REQ144563) | 1d |
+| TJX | Front End Supervisor | Roanoke, VA 24012 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Roanoke-VA-24012/Front-End-Supervisor_REQ144625-1) | 1d |
+| TJX | Part Time Front End Customer Service Associate | Bonita Springs, FL 34135 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Bonita-Springs-FL-34135/Part-Time-Front-End-Customer-Service-Associate_REQ144652) | 1d |
+| TJX | front end associate | Cypress, TX 77429 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Cypress-TX-77429/front-end-associate_REQ144727) | 1d |
+| Amazon | Software Development Engineer, S3 Buckets | Seattle, Washington, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10497189/apply) | 1d |
 | Applied Materials | Software QA Engineer | Santa Clara,CA | Workday | not_applied | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-1800381---Software-QA-Engineer_R2625695) | 1d |
+| Rocket Mortgage | Software Developer I - Search | Seattle, WA | Workday | not_applied | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Software-Developer-I---Search_R-083930) | 1d |
+| Western Governors University | Software Engineer II - Infrastructure & Operations | Salt Lake City, UT | Workday | not_applied | [Apply](https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Software-Engineer-II---Infrastructure---Operations_JR-025775) | 1d |
 | Swift | Software Engineer (Hybrid) | Manassas, United States | Workday | not_applied | [Apply](https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Manassas-United-States/Software-Engineer_2026-15645-1) | 1d |
-| TJX | Front End Customer Service Supervisor | Columbus, OH 43219 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Columbus-OH-43219/Front-End-Customer-Service-Supervisor_REQ144256) | 2d |
+| Rocket Companies | Software Developer I - Search | Seattle, WA | Workday | not_applied | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Software-Developer-I---Search_R-083930) | 1d |
 | TJX | Front end Associate | Sunset Valley, TX 78745 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Sunset-Valley-TX-78745/Front-end-Associate_REQ144271) | 2d |
+| TJX | Front End Customer Service Supervisor | Columbus, OH 43219 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Columbus-OH-43219/Front-End-Customer-Service-Supervisor_REQ144256) | 2d |
 | Redwood Materials | Battery Software Integration Engineer | San Francisco, California, United States | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/redwoodmaterials/jobs/6139225004?gh_jid=6139225004) | 3d |
 | Unissant | Full Stack Software Developer | Ashburn, Virginia, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/full-stack-software-developer-at-unissant-4451096598) | 3d |
 | TJX | Retail Front End Supervisor Full Time | Bismarck, ND 58503 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Bismarck-ND-58503/Retail-Front-End-Supervisor-Full-Time_REQ144096) | 3d |
@@ -51,11 +55,11 @@
 | The Pokémon Company | Software Development Engineer | Bellevue, Washington, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/pokemoncareers/jobs/7827092003) | 3d |
 | Nimble Gravity | Full Stack Developer | US (Remote) | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/nimblegravity/jobs/4721203005) | 3d |
 | Safeway | Front End Entry Level | Somerville, Massachusetts, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-safeway-4450670495) | 4d |
-| Dematic | Vice President, Software Development | Grand Rapids, MI, United States | Workday | not_applied | [Apply](https://kiongroup.wd3.myworkdayjobs.com/KION_SCS/job/Grand-Rapids-MI-United-States/Vice-President--Software-Development_JR-0093920) | 4d |
 | University of Wisconsin-Madison | Software Engineer-SEA | Madison, WI | Workday | not_applied | [Apply](https://wisconsin.wd1.myworkdayjobs.com/UW_Madison/job/Madison-WI/Software-Engineer-SEA_JR10013777) | 4d |
 | TJX | Part Time Front End Supervisor | Pascagoula, MS 39567 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Pascagoula-MS-39567/Part-Time-Front-End-Supervisor_REQ143716) | 4d |
 | Dex | Software Engineer (up to $250k) | San Francisco, California, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/software-engineer-up-to-%24250k-at-dex-4450042726) | 4d |
 | U.S. Bank | Hogan Software Engineer 1 | Irving, TX | Workday | not_applied | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irving-TX/Hogan-Software-Engineer-1_2026-0024257) | 4d |
+| Dematic | Vice President, Software Development | Grand Rapids, MI, United States | Workday | not_applied | [Apply](https://kiongroup.wd3.myworkdayjobs.com/KION_SCS/job/Grand-Rapids-MI-United-States/Vice-President--Software-Development_JR-0093920) | 4d |
 | General Motors | New Architecture Technical Specialist– Boot Software | Milford, Michigan, United States of America | Workday | not_applied | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/New-Architecture-Technical-Specialist--Boot-Software_JR-202616262) | 4d |
 | KION Group | Vice President, Software Development | Grand Rapids, MI, United States | Workday | not_applied | [Apply](https://kiongroup.wd3.myworkdayjobs.com/KIONGroup/job/Grand-Rapids-MI-United-States/Vice-President--Software-Development_JR-0093920-1) | 4d |
 | Netsmart | Software Engineer- Java Experience(Onsite, Overland Park, KS) | Overland Park, KS | Workday | not_applied | [Apply](https://ntst.wd1.myworkdayjobs.com/Careers/job/Overland-Park-KS/Software-Engineer--Java-Experience-Onsite--Overland-Park--KS-_R015567) | 4d |
