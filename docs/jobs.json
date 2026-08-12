@@ -1,5 +1,27 @@
 [
   {
+    "id": 214985,
+    "company": "Avride",
+    "role": "Software Engineer, Networking & Linux Systems",
+    "location": "Texas, US",
+    "source": "Greenhouse",
+    "status": "not_applied",
+    "url": "https://job-boards.greenhouse.io/avride/jobs/4354179009",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
+    "id": 215388,
+    "company": "Redhorse",
+    "role": "Full Stack Developer",
+    "location": "Arlington, VA",
+    "source": "Lever",
+    "status": "not_applied",
+    "url": "https://jobs.lever.co/redhorsecorp/68f8a3d6-82a2-470a-b11f-f8e06a59886c",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
     "id": 211880,
     "company": "Mach Industries",
     "role": "December 2026 New Graduate Engineer, Software / GNC",
@@ -7,6 +29,17 @@
     "source": "Ashby",
     "status": "not_applied",
     "url": "https://jobs.ashbyhq.com/mach/43c8b037-c77d-4efb-9379-52a6c3718bdb",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
+    "id": 215378,
+    "company": "Proofpoint",
+    "role": "Full Stack Engineer",
+    "location": "Draper, UT",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Draper-UT/Full-Stack-Engineer_R14559",
     "age": "0d",
     "is_internship": false
   },
@@ -51,7 +84,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/analyticpartners/5452f2a3-77ba-4cce-afdd-000351105650",
-    "age": "0d",
+    "age": "1d",
     "is_internship": true
   },
   {
@@ -62,7 +95,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/analyticpartners/eb778fc4-088f-4c5f-b650-e3042ab1b688",
-    "age": "0d",
+    "age": "1d",
     "is_internship": true
   },
   {
@@ -73,7 +106,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/analyticpartners/f4d7b848-878f-4761-be25-3d6e4f4d1a54",
-    "age": "0d",
+    "age": "1d",
     "is_internship": true
   },
   {
@@ -84,7 +117,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/analyticpartners/485ae801-3fae-4dc1-950d-445ba990f6c9",
-    "age": "0d",
+    "age": "1d",
     "is_internship": true
   },
   {
@@ -95,7 +128,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/analyticpartners/6303782e-636f-4bac-90cd-051411558b8b",
-    "age": "0d",
+    "age": "1d",
     "is_internship": true
   },
   {
@@ -106,7 +139,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/beyondtrust/jobs/8119260",
-    "age": "0d",
+    "age": "1d",
     "is_internship": false
   },
   {
@@ -117,6 +150,61 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/stackav/jobs/5208820007",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 211504,
+    "company": "U.S. Bank",
+    "role": "Software Engineer 2 (AI/GenAI)",
+    "location": "Earth City, MO",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Earth-City-MO/Software-Engineer-2--AI-GenAI-_2026-0022034",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 210034,
+    "company": "Citi",
+    "role": "Digital Software Engineer Intermediate Analyst Officer",
+    "location": "Jacksonville Florida United States",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Digital-Software-Engineer-Intermediate-Analyst-Officer_26985258-1",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 211484,
+    "company": "Teledyne",
+    "role": "Production Engineer",
+    "location": "US - Rancho Cordova, CA (TDY)",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Rancho-Cordova-CA-TDY/Production-Engineer_REQ35079",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 215128,
+    "company": "Fidelity National Information Services",
+    "role": "Software Engineer Specialists: Banking Solutions- Full Stack Developer",
+    "location": "US FL JAX 347",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Software-Engineer-Specialists--Banking-Solutions--Full-Stack-Developer_JR0308863",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 215079,
+    "company": "EverCommerce",
+    "role": "EverHealth - Backend Claims Management Specialist (Remote, US)",
+    "location": "Remote- US",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://evercommerce.wd1.myworkdayjobs.com/EverCommerce_Careers/job/Remote--US/EverHealth---Backend-Claims-Management-Specialist--Remote--US-_R-106420",
     "age": "1d",
     "is_internship": false
   },
@@ -132,57 +220,13 @@
     "is_internship": false
   },
   {
-    "id": 209076,
-    "company": "Allegion",
-    "role": "Production Engineer",
-    "location": "Everett, WA",
+    "id": 215129,
+    "company": "Fidelity National Information Services",
+    "role": "Software Engineer Seniors Global Banking Technologies",
+    "location": "US FL JAX 347",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Everett-WA/Production-Engineer_JR37120-1",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 209108,
-    "company": "Amazon",
-    "role": "Software Development Engineer, AWS Identity",
-    "location": "Seattle, Washington, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10498625/apply",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 209979,
-    "company": "Autodesk",
-    "role": "Software Engineer",
-    "location": "San Francisco, CA, USA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/San-Francisco-CA-USA/Software-Engineer_26WD100506-1",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 211693,
-    "company": "Cohesity",
-    "role": "Software Engineer (New Grad 2026)",
-    "location": "Santa Clara, CA - USA (Office)",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Software-Engineer_R01282",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 211504,
-    "company": "U.S. Bank",
-    "role": "Software Engineer 2 (AI/GenAI)",
-    "location": "Earth City, MO",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Earth-City-MO/Software-Engineer-2--AI-GenAI-_2026-0022034",
+    "url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Software-Engineer-Seniors-Global-Banking-Technologies_JR0308859",
     "age": "1d",
     "is_internship": false
   },
@@ -220,24 +264,46 @@
     "is_internship": false
   },
   {
-    "id": 211484,
-    "company": "Teledyne",
-    "role": "Production Engineer",
-    "location": "US - Rancho Cordova, CA (TDY)",
+    "id": 211693,
+    "company": "Cohesity",
+    "role": "Software Engineer (New Grad 2026)",
+    "location": "Santa Clara, CA - USA (Office)",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Rancho-Cordova-CA-TDY/Production-Engineer_REQ35079",
+    "url": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Software-Engineer_R01282",
     "age": "1d",
     "is_internship": false
   },
   {
-    "id": 210034,
-    "company": "Citi",
-    "role": "Digital Software Engineer Intermediate Analyst Officer",
-    "location": "Jacksonville Florida United States",
+    "id": 209979,
+    "company": "Autodesk",
+    "role": "Software Engineer",
+    "location": "San Francisco, CA, USA",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Digital-Software-Engineer-Intermediate-Analyst-Officer_26985258-1",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/San-Francisco-CA-USA/Software-Engineer_26WD100506-1",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 209108,
+    "company": "Amazon",
+    "role": "Software Development Engineer, AWS Identity",
+    "location": "Seattle, Washington, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10498625/apply",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 209076,
+    "company": "Allegion",
+    "role": "Production Engineer",
+    "location": "Everett, WA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Everett-WA/Production-Engineer_JR37120-1",
     "age": "1d",
     "is_internship": false
   },
@@ -326,7 +392,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/commvault/jobs/5233623008",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -337,7 +403,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/picklerobot/42939c0b-de3b-47fa-a661-e9492c71de63",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -352,13 +418,13 @@
     "is_internship": false
   },
   {
-    "id": 203934,
-    "company": "Applied Materials",
-    "role": "Software QA Engineer",
-    "location": "Santa Clara,CA",
+    "id": 204695,
+    "company": "Western Governors University",
+    "role": "Software Engineer II - Infrastructure & Operations",
+    "location": "Salt Lake City, UT",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-1800381---Software-QA-Engineer_R2625695",
+    "url": "https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Software-Engineer-II---Infrastructure---Operations_JR-025775",
     "age": "2d",
     "is_internship": false
   },
@@ -407,6 +473,17 @@
     "is_internship": false
   },
   {
+    "id": 203934,
+    "company": "Applied Materials",
+    "role": "Software QA Engineer",
+    "location": "Santa Clara,CA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-1800381---Software-QA-Engineer_R2625695",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
     "id": 204649,
     "company": "Swift",
     "role": "Software Engineer (Hybrid)",
@@ -414,17 +491,6 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://swift.wd3.myworkdayjobs.com/Join-Swift/job/Manassas-United-States/Software-Engineer_2026-15645-1",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 204695,
-    "company": "Western Governors University",
-    "role": "Software Engineer II - Infrastructure & Operations",
-    "location": "Salt Lake City, UT",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Software-Engineer-II---Infrastructure---Operations_JR-025775",
     "age": "2d",
     "is_internship": false
   },
@@ -623,7 +689,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/makpar/8f13bb8a-2739-4832-9e3c-8f9ba3f60b59",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -634,7 +700,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/pokemoncareers/jobs/7827092003",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -645,7 +711,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/nimblegravity/jobs/4721203005",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -865,7 +931,7 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000141951289-software-engineer-personalization-platform-frontend-",
-    "age": "5d",
+    "age": "6d",
     "is_internship": false
   },
   {
