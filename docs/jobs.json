@@ -1,5 +1,16 @@
 [
   {
+    "id": 211880,
+    "company": "Mach Industries",
+    "role": "December 2026 New Graduate Engineer, Software / GNC",
+    "location": "Huntington Beach, CA",
+    "source": "Ashby",
+    "status": "not_applied",
+    "url": "https://jobs.ashbyhq.com/mach/43c8b037-c77d-4efb-9379-52a6c3718bdb",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
     "id": 210735,
     "company": "AbbVie",
     "role": "Associate Software Engineer I",
@@ -110,6 +121,17 @@
     "is_internship": false
   },
   {
+    "id": 210835,
+    "company": "Broadridge",
+    "role": "Software Engineer (Development & QA Automation) (Hybrid - Newark, NJ, Coppell, TX or NYC)",
+    "location": "Newark, NJ",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://broadridge.wd5.myworkdayjobs.com/Careers/job/Newark-NJ/Software-Engineer--Development---QA-Automation---Hybrid---Newark--NJ-or-NYC-_JR1082563",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
     "id": 209076,
     "company": "Allegion",
     "role": "Production Engineer",
@@ -121,13 +143,35 @@
     "is_internship": false
   },
   {
-    "id": 210397,
-    "company": "Republic Services",
-    "role": "Full Stack Engineer II",
-    "location": "USA - Remote",
+    "id": 209108,
+    "company": "Amazon",
+    "role": "Software Development Engineer, AWS Identity",
+    "location": "Seattle, Washington, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10498625/apply",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 209979,
+    "company": "Autodesk",
+    "role": "Software Engineer",
+    "location": "San Francisco, CA, USA",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://republic.wd5.myworkdayjobs.com/Republic/job/USA---Remote/Full-Stack-Engineer-II_R-181723",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/San-Francisco-CA-USA/Software-Engineer_26WD100506-1",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 211693,
+    "company": "Cohesity",
+    "role": "Software Engineer (New Grad 2026)",
+    "location": "Santa Clara, CA - USA (Office)",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Software-Engineer_R01282",
     "age": "1d",
     "is_internship": false
   },
@@ -143,24 +187,13 @@
     "is_internship": false
   },
   {
-    "id": 210034,
-    "company": "Citi",
-    "role": "Digital Software Engineer Intermediate Analyst Officer",
-    "location": "Jacksonville Florida United States",
+    "id": 210397,
+    "company": "Republic Services",
+    "role": "Full Stack Engineer II",
+    "location": "USA - Remote",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Digital-Software-Engineer-Intermediate-Analyst-Officer_26985258-1",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 211484,
-    "company": "Teledyne",
-    "role": "Production Engineer",
-    "location": "US - Rancho Cordova, CA (TDY)",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Rancho-Cordova-CA-TDY/Production-Engineer_REQ35079",
+    "url": "https://republic.wd5.myworkdayjobs.com/Republic/job/USA---Remote/Full-Stack-Engineer-II_R-181723",
     "age": "1d",
     "is_internship": false
   },
@@ -187,35 +220,24 @@
     "is_internship": false
   },
   {
-    "id": 209979,
-    "company": "Autodesk",
-    "role": "Software Engineer",
-    "location": "San Francisco, CA, USA",
+    "id": 211484,
+    "company": "Teledyne",
+    "role": "Production Engineer",
+    "location": "US - Rancho Cordova, CA (TDY)",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/San-Francisco-CA-USA/Software-Engineer_26WD100506-1",
+    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Rancho-Cordova-CA-TDY/Production-Engineer_REQ35079",
     "age": "1d",
     "is_internship": false
   },
   {
-    "id": 210835,
-    "company": "Broadridge",
-    "role": "Software Engineer (Development & QA Automation) (Hybrid - Newark, NJ, Coppell, TX or NYC)",
-    "location": "Newark, NJ",
+    "id": 210034,
+    "company": "Citi",
+    "role": "Digital Software Engineer Intermediate Analyst Officer",
+    "location": "Jacksonville Florida United States",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://broadridge.wd5.myworkdayjobs.com/Careers/job/Newark-NJ/Software-Engineer--Development---QA-Automation---Hybrid---Newark--NJ-or-NYC-_JR1082563",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 209108,
-    "company": "Amazon",
-    "role": "Software Development Engineer, AWS Identity",
-    "location": "Seattle, Washington, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10498625/apply",
+    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Digital-Software-Engineer-Intermediate-Analyst-Officer_26985258-1",
     "age": "1d",
     "is_internship": false
   },
