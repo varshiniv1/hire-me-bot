@@ -106,7 +106,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/redhorsecorp/68f8a3d6-82a2-470a-b11f-f8e06a59886c",
-    "age": "0d",
+    "age": "1d",
     "is_internship": false
   },
   {
@@ -579,7 +579,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/5207503007",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -759,17 +759,6 @@
     "is_internship": true
   },
   {
-    "id": 203048,
-    "company": "Caddi",
-    "role": "Software Engineer Intern",
-    "location": "Washington, District of Columbia, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://jooble.org/jdp/-8188145228407678939",
-    "age": "5d",
-    "is_internship": true
-  },
-  {
     "id": 203045,
     "company": "Unissant",
     "role": "Full Stack Software Developer",
@@ -790,6 +779,17 @@
     "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Stroudsburg-PA-18360/Front-End-Supervisor--Part-time_REQ143986",
     "age": "5d",
     "is_internship": false
+  },
+  {
+    "id": 203048,
+    "company": "Caddi",
+    "role": "Software Engineer Intern",
+    "location": "Washington, District of Columbia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://jooble.org/jdp/-8188145228407678939",
+    "age": "5d",
+    "is_internship": true
   },
   {
     "id": 194012,
@@ -1098,16 +1098,5 @@
     "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000141951289-software-engineer-personalization-platform-frontend-",
     "age": "6d",
     "is_internship": false
-  },
-  {
-    "id": 188956,
-    "company": "impact.com",
-    "role": "Associate Software Engineer intern",
-    "location": "Santa Barbara, CA",
-    "source": "Greenhouse",
-    "status": "not_applied",
-    "url": "https://job-boards.greenhouse.io/impact/jobs/8645964002",
-    "age": "6d",
-    "is_internship": true
   }
 ]

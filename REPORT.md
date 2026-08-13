@@ -28,7 +28,7 @@
 | Redhorse | Software Developer | Huntsville, AL | Lever | not_applied | [Apply](https://jobs.lever.co/redhorsecorp/35dbd7bc-a96a-4aeb-9ac8-382b008303e9) | 0d |
 | Amplitude | Software Engineer II, Growth | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/amplitude/jobs/8700618002) | 0d |
 | Avride | Software Engineer, Networking & Linux Systems | Texas, US | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/avride/jobs/4354179009) | 0d |
-| Redhorse | Full Stack Developer | Arlington, VA | Lever | not_applied | [Apply](https://jobs.lever.co/redhorsecorp/68f8a3d6-82a2-470a-b11f-f8e06a59886c) | 0d |
+| Redhorse | Full Stack Developer | Arlington, VA | Lever | not_applied | [Apply](https://jobs.lever.co/redhorsecorp/68f8a3d6-82a2-470a-b11f-f8e06a59886c) | 1d |
 | Mach Industries | December 2026 New Graduate Engineer, Software / GNC | Huntington Beach, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mach/43c8b037-c77d-4efb-9379-52a6c3718bdb) | 1d |
 | U.S. Bank | Software Technical Support Representative | Remote, TN | Workday | not_applied | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Remote-TN/Software-Technical-Support-Representative_2026-0024902) | 1d |
 | Freddie Mac | Multifamily Software Development Analyst | McLean, VA | Workday | not_applied | [Apply](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Software-Development-Analyst_JR17515) | 1d |
@@ -65,7 +65,7 @@
 | Woongjin | Jr. Full Stack Developer- Bilingual (Korean/ English) | Plano, TX, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WJCompany/744000142693899-jr-full-stack-developer-bilingual-korean-english-) | 2d |
 | Commvault | Software Engineer - AI/ML | United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/commvault/jobs/5233623008) | 2d |
 | Pickle Robot | Robotics Software Engineer | Charlestown, MA | Lever | not_applied | [Apply](https://jobs.lever.co/picklerobot/42939c0b-de3b-47fa-a661-e9492c71de63) | 2d |
-| ALTEN Technology | Production Engineer (Ref. L-2616) | Troy, MI | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5207503007) | 2d |
+| ALTEN Technology | Production Engineer (Ref. L-2616) | Troy, MI | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5207503007) | 3d |
 | Rocket Companies | Software Developer I - Search | Seattle, WA | Workday | not_applied | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Software-Developer-I---Search_R-083930) | 3d |
 | TJX | front end associate | Cypress, TX 77429 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Cypress-TX-77429/front-end-associate_REQ144727) | 3d |
 | TJX | Part Time Front End Customer Service Associate | Bonita Springs, FL 34135 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Bonita-Springs-FL-34135/Part-Time-Front-End-Customer-Service-Associate_REQ144652) | 3d |
