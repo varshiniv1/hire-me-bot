@@ -121,13 +121,24 @@
     "is_internship": false
   },
   {
-    "id": 218432,
-    "company": "Fidelity Investments",
-    "role": "Associate Software Engineer",
-    "location": "Westlake, TX",
+    "id": 217494,
+    "company": "Applied Materials",
+    "role": "C, C++ Software Engineer II",
+    "location": "Santa Clara,CA",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/fmr/targeted/job/Westlake-TX/Associate-Software-Engineer_2131717-1",
+    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer-II----E2-_R2617379",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 220697,
+    "company": "TJX",
+    "role": "Full Time Front End Coordinator",
+    "location": "Manchester, VT 05255",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Manchester-VT-05255/Full-Time-Front-End-Coordinator_REQ145273",
     "age": "1d",
     "is_internship": false
   },
@@ -143,17 +154,6 @@
     "is_internship": false
   },
   {
-    "id": 216821,
-    "company": "Freddie Mac",
-    "role": "Multifamily Software Development Analyst",
-    "location": "McLean, VA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Software-Development-Analyst_JR17515",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
     "id": 216531,
     "company": "U.S. Bank",
     "role": "Software Technical Support Representative",
@@ -165,13 +165,13 @@
     "is_internship": false
   },
   {
-    "id": 217494,
-    "company": "Applied Materials",
-    "role": "C, C++ Software Engineer II",
-    "location": "Santa Clara,CA",
+    "id": 220696,
+    "company": "TJX",
+    "role": "Retail Front End Supervisor",
+    "location": "Delafield, WI 53018",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer-II----E2-_R2617379",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Delafield-WI-53018/Retail-Front-End-Supervisor_REQ145305",
     "age": "1d",
     "is_internship": false
   },
@@ -183,6 +183,28 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level-Software-Engineer_JR-202616904",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 216821,
+    "company": "Freddie Mac",
+    "role": "Multifamily Software Development Analyst",
+    "location": "McLean, VA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Software-Development-Analyst_JR17515",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 218432,
+    "company": "Fidelity Investments",
+    "role": "Associate Software Engineer",
+    "location": "Westlake, TX",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/fmr/targeted/job/Westlake-TX/Associate-Software-Engineer_2131717-1",
     "age": "1d",
     "is_internship": false
   },
@@ -297,13 +319,13 @@
     "is_internship": false
   },
   {
-    "id": 211504,
-    "company": "U.S. Bank",
-    "role": "Software Engineer 2 (AI/GenAI)",
-    "location": "Earth City, MO",
+    "id": 210835,
+    "company": "Broadridge",
+    "role": "Software Engineer (Development & QA Automation) (Hybrid - Newark, NJ, Coppell, TX or NYC)",
+    "location": "Newark, NJ",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Earth-City-MO/Software-Engineer-2--AI-GenAI-_2026-0022034",
+    "url": "https://broadridge.wd5.myworkdayjobs.com/Careers/job/Newark-NJ/Software-Engineer--Development---QA-Automation---Hybrid---Newark--NJ-or-NYC-_JR1082563",
     "age": "2d",
     "is_internship": false
   },
@@ -418,17 +440,6 @@
     "is_internship": false
   },
   {
-    "id": 210835,
-    "company": "Broadridge",
-    "role": "Software Engineer (Development & QA Automation) (Hybrid - Newark, NJ, Coppell, TX or NYC)",
-    "location": "Newark, NJ",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://broadridge.wd5.myworkdayjobs.com/Careers/job/Newark-NJ/Software-Engineer--Development---QA-Automation---Hybrid---Newark--NJ-or-NYC-_JR1082563",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
     "id": 211484,
     "company": "Teledyne",
     "role": "Production Engineer",
@@ -436,6 +447,17 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Rancho-Cordova-CA-TDY/Production-Engineer_REQ35079",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 211504,
+    "company": "U.S. Bank",
+    "role": "Software Engineer 2 (AI/GenAI)",
+    "location": "Earth City, MO",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Earth-City-MO/Software-Engineer-2--AI-GenAI-_2026-0022034",
     "age": "2d",
     "is_internship": false
   },
