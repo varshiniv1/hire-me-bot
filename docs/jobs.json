@@ -106,7 +106,18 @@
     "source": "Ashby",
     "status": "not_applied",
     "url": "https://jobs.ashbyhq.com/mach/43c8b037-c77d-4efb-9379-52a6c3718bdb",
-    "age": "0d",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 216825,
+    "company": "General Motors",
+    "role": "Entry Level Software Engineer",
+    "location": "Warren, Michigan, United States of America",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level-Software-Engineer_JR-202616904",
+    "age": "1d",
     "is_internship": false
   },
   {
@@ -121,24 +132,13 @@
     "is_internship": false
   },
   {
-    "id": 216531,
-    "company": "U.S. Bank",
-    "role": "Software Technical Support Representative",
-    "location": "Remote, TN",
+    "id": 218432,
+    "company": "Fidelity Investments",
+    "role": "Associate Software Engineer",
+    "location": "Westlake, TX",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Remote-TN/Software-Technical-Support-Representative_2026-0024902",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 216825,
-    "company": "General Motors",
-    "role": "Entry Level Software Engineer",
-    "location": "Warren, Michigan, United States of America",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level-Software-Engineer_JR-202616904",
+    "url": "https://wd1.myworkdaysite.com/recruiting/fmr/targeted/job/Westlake-TX/Associate-Software-Engineer_2131717-1",
     "age": "1d",
     "is_internship": false
   },
@@ -161,6 +161,17 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer-II----E2-_R2617379",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 216531,
+    "company": "U.S. Bank",
+    "role": "Software Technical Support Representative",
+    "location": "Remote, TN",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Remote-TN/Software-Technical-Support-Representative_2026-0024902",
     "age": "1d",
     "is_internship": false
   },
@@ -275,17 +286,6 @@
     "is_internship": false
   },
   {
-    "id": 211484,
-    "company": "Teledyne",
-    "role": "Production Engineer",
-    "location": "US - Rancho Cordova, CA (TDY)",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Rancho-Cordova-CA-TDY/Production-Engineer_REQ35079",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
     "id": 215129,
     "company": "Fidelity National Information Services",
     "role": "Software Engineer Seniors Global Banking Technologies",
@@ -297,13 +297,13 @@
     "is_internship": false
   },
   {
-    "id": 215128,
-    "company": "Fidelity National Information Services",
-    "role": "Software Engineer Specialists: Banking Solutions- Full Stack Developer",
-    "location": "US FL JAX 347",
+    "id": 211693,
+    "company": "Cohesity",
+    "role": "Software Engineer (New Grad 2026)",
+    "location": "Santa Clara, CA - USA (Office)",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Software-Engineer-Specialists--Banking-Solutions--Full-Stack-Developer_JR0308863",
+    "url": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Software-Engineer_R01282",
     "age": "2d",
     "is_internship": false
   },
@@ -319,13 +319,13 @@
     "is_internship": false
   },
   {
-    "id": 211693,
-    "company": "Cohesity",
-    "role": "Software Engineer (New Grad 2026)",
-    "location": "Santa Clara, CA - USA (Office)",
+    "id": 215128,
+    "company": "Fidelity National Information Services",
+    "role": "Software Engineer Specialists: Banking Solutions- Full Stack Developer",
+    "location": "US FL JAX 347",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Software-Engineer_R01282",
+    "url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Software-Engineer-Specialists--Banking-Solutions--Full-Stack-Developer_JR0308863",
     "age": "2d",
     "is_internship": false
   },
@@ -425,6 +425,17 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://broadridge.wd5.myworkdayjobs.com/Careers/job/Newark-NJ/Software-Engineer--Development---QA-Automation---Hybrid---Newark--NJ-or-NYC-_JR1082563",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 211484,
+    "company": "Teledyne",
+    "role": "Production Engineer",
+    "location": "US - Rancho Cordova, CA (TDY)",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Rancho-Cordova-CA-TDY/Production-Engineer_REQ35079",
     "age": "2d",
     "is_internship": false
   },
