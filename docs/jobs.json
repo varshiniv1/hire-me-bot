@@ -381,7 +381,7 @@
     "source": "Ashby",
     "status": "not_applied",
     "url": "https://jobs.ashbyhq.com/mach/43c8b037-c77d-4efb-9379-52a6c3718bdb",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -913,28 +913,6 @@
     "is_internship": false
   },
   {
-    "id": 203117,
-    "company": "Amazon",
-    "role": "Software Development Engineer, S3 Buckets",
-    "location": "Seattle, Washington, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10497189/apply",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
-    "id": 221659,
-    "company": "Regional Client",
-    "role": "Ai And Full Stack Engineering Fellow near Shiloh",
-    "location": "York, Pennsylvania, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.republicanjobs.gop/pennsylvania/shiloh/ai-and-full-stack-engineering-fellow.php",
-    "age": "4d",
-    "is_internship": true
-  },
-  {
     "id": 206418,
     "company": "TJX",
     "role": "Retail - Full Time Front End Supervisor",
@@ -944,39 +922,6 @@
     "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Auburn-Hills-MI-48326/Retail---Full-Time-Front-End-Supervisor_REQ144563",
     "age": "4d",
     "is_internship": false
-  },
-  {
-    "id": 206416,
-    "company": "TJX",
-    "role": "Part Time Front End Customer Service Associate",
-    "location": "Bonita Springs, FL 34135",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Bonita-Springs-FL-34135/Part-Time-Front-End-Customer-Service-Associate_REQ144652",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
-    "id": 206417,
-    "company": "TJX",
-    "role": "Front End Supervisor",
-    "location": "Roanoke, VA 24012",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Roanoke-VA-24012/Front-End-Supervisor_REQ144625-1",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
-    "id": 221658,
-    "company": "Regional Client",
-    "role": "Ai And Full Stack Engineering Fellow near Concord",
-    "location": "Edgmont, Pennsylvania, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.republicanjobs.gop/pennsylvania/concord/ai-and-full-stack-engineering-fellow.php",
-    "age": "4d",
-    "is_internship": true
   },
   {
     "id": 204695,
@@ -1001,17 +946,6 @@
     "is_internship": false
   },
   {
-    "id": 203934,
-    "company": "Applied Materials",
-    "role": "Software QA Engineer",
-    "location": "Santa Clara,CA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-1800381---Software-QA-Engineer_R2625695",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
     "id": 206415,
     "company": "TJX",
     "role": "front end associate",
@@ -1023,19 +957,19 @@
     "is_internship": false
   },
   {
-    "id": 203561,
-    "company": "Rocket Companies",
-    "role": "Software Developer I - Search",
-    "location": "Seattle, WA",
+    "id": 203934,
+    "company": "Applied Materials",
+    "role": "Software QA Engineer",
+    "location": "Santa Clara,CA",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Software-Developer-I---Search_R-083930",
+    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-1800381---Software-QA-Engineer_R2625695",
     "age": "4d",
     "is_internship": false
   },
   {
-    "id": 203563,
-    "company": "Rocket Mortgage",
+    "id": 203561,
+    "company": "Rocket Companies",
     "role": "Software Developer I - Search",
     "location": "Seattle, WA",
     "source": "Workday",
@@ -1053,6 +987,171 @@
     "status": "not_applied",
     "url": "https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Houston-TX/Webber---FrontEnd-Loader-Operator---Heavy-Civil_JR18664",
     "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 203563,
+    "company": "Rocket Mortgage",
+    "role": "Software Developer I - Search",
+    "location": "Seattle, WA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Software-Developer-I---Search_R-083930",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 206417,
+    "company": "TJX",
+    "role": "Front End Supervisor",
+    "location": "Roanoke, VA 24012",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Roanoke-VA-24012/Front-End-Supervisor_REQ144625-1",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 221659,
+    "company": "Regional Client",
+    "role": "Ai And Full Stack Engineering Fellow near Shiloh",
+    "location": "York, Pennsylvania, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.republicanjobs.gop/pennsylvania/shiloh/ai-and-full-stack-engineering-fellow.php",
+    "age": "4d",
+    "is_internship": true
+  },
+  {
+    "id": 203117,
+    "company": "Amazon",
+    "role": "Software Development Engineer, S3 Buckets",
+    "location": "Seattle, Washington, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10497189/apply",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 221658,
+    "company": "Regional Client",
+    "role": "Ai And Full Stack Engineering Fellow near Concord",
+    "location": "Edgmont, Pennsylvania, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.republicanjobs.gop/pennsylvania/concord/ai-and-full-stack-engineering-fellow.php",
+    "age": "4d",
+    "is_internship": true
+  },
+  {
+    "id": 206416,
+    "company": "TJX",
+    "role": "Part Time Front End Customer Service Associate",
+    "location": "Bonita Springs, FL 34135",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Bonita-Springs-FL-34135/Part-Time-Front-End-Customer-Service-Associate_REQ144652",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 221636,
+    "company": "Fuse Engineering",
+    "role": "Entry-Level Software Engineer: Java, Spring & Docker",
+    "location": "Fort Meade, Maryland, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://bebee.com/us/jobs/entry-level-software-engineer-java-spring-docker-fuse-engineering-fort-meade--pureheal-28528_25298_08231dd62fb503bd5bb67a4ae254a67c",
+    "age": "5d",
+    "is_internship": false
+  },
+  {
+    "id": 221640,
+    "company": "Cox Enterprises",
+    "role": "Entry Level Software Engineer Carmel, IN",
+    "location": "Carmel, Indiana, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://jobs.coxenterprises.com/en/jobs/r202680859/entry-level-software-engineer-carmel-in/",
+    "age": "5d",
+    "is_internship": false
+  },
+  {
+    "id": 221642,
+    "company": "IBM",
+    "role": "Infrastructure & Technology Entry Level Software Developer 2026 Multiple Cities",
+    "location": "USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://bebee.com/us/jobs/infrastructure-technology-entry-level-software-developer-2026-multiple-cities-ibm-austin--pureheal-28528_23106_a3e62fbef25ff3fd4f96de113a6c0980",
+    "age": "5d",
+    "is_internship": false
+  },
+  {
+    "id": 221650,
+    "company": "Safeway",
+    "role": "Front End Entry Level",
+    "location": "Erie, Colorado, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-safeway-4451337150",
+    "age": "5d",
+    "is_internship": false
+  },
+  {
+    "id": 221656,
+    "company": "Motorola Solutions",
+    "role": "IoT Software Engineering Co-op: Scale & Automate",
+    "location": "Baltimore, Maryland, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://bebee.com/us/jobs/iot-software-engineering-co-op-scale-automate-motorola-solutions-baltimore--pureheal-28528_25298_c57c3e316255084f29a96943a37be46f",
+    "age": "5d",
+    "is_internship": true
+  },
+  {
+    "id": 221657,
+    "company": "Feedinkoo",
+    "role": "Software Engineering Fellowship, Internship (Remote) at Jobright.ai",
+    "location": "New York, New York, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://bebee.com/us/jobs/software-engineering-fellowship-internship-remote-at-jobrightai-feedinkoo-new-york--lensa-7428_bfca90af30cba7b16caa3e80b822c5b1b49202b5b39d8a7942c3d58c3b972c2e",
+    "age": "5d",
+    "is_internship": true
+  },
+  {
+    "id": 221655,
+    "company": "Palantir",
+    "role": "Software Engineer Intern: Build AI\u2011Driven Solutions",
+    "location": "Washington, District of Columbia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://bebee.com/us/jobs/software-engineer-intern-build-aidriven-solutions-palantir-washington--pureheal-28528_23106_c0f092997c48a654b572aee31ad497df",
+    "age": "5d",
+    "is_internship": true
+  },
+  {
+    "id": 221635,
+    "company": "Technology Service Corporation Defense Services",
+    "role": "Entry-Level Radar Simulation Software Engineer",
+    "location": "Silver Spring, Maryland, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://bebee.com/us/jobs/entry-level-radar-simulation-software-engineer-technology-service-corporation-defense-services-silve--pureheal-28528_25298_05e7854a3270e6a842dcccb889a02cb0",
+    "age": "5d",
+    "is_internship": false
+  },
+  {
+    "id": 221639,
+    "company": "Red Alpha",
+    "role": "Geospatial Java Software Engineer - Entry-Level",
+    "location": "Maryland, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://bebee.com/us/jobs/geospatial-java-software-engineer-entry-level-red-alpha-corridor-north--pureheal-28528_23106_25ec68b67c1e9481309f84bac83b791d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -1078,61 +1177,6 @@
     "is_internship": false
   },
   {
-    "id": 221656,
-    "company": "Motorola Solutions",
-    "role": "IoT Software Engineering Co-op: Scale & Automate",
-    "location": "Baltimore, Maryland, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://bebee.com/us/jobs/iot-software-engineering-co-op-scale-automate-motorola-solutions-baltimore--pureheal-28528_25298_c57c3e316255084f29a96943a37be46f",
-    "age": "5d",
-    "is_internship": true
-  },
-  {
-    "id": 221650,
-    "company": "Safeway",
-    "role": "Front End Entry Level",
-    "location": "Erie, Colorado, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-safeway-4451337150",
-    "age": "5d",
-    "is_internship": false
-  },
-  {
-    "id": 221636,
-    "company": "Fuse Engineering",
-    "role": "Entry-Level Software Engineer: Java, Spring & Docker",
-    "location": "Fort Meade, Maryland, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://bebee.com/us/jobs/entry-level-software-engineer-java-spring-docker-fuse-engineering-fort-meade--pureheal-28528_25298_08231dd62fb503bd5bb67a4ae254a67c",
-    "age": "5d",
-    "is_internship": false
-  },
-  {
-    "id": 221642,
-    "company": "IBM",
-    "role": "Infrastructure & Technology Entry Level Software Developer 2026 Multiple Cities",
-    "location": "USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://bebee.com/us/jobs/infrastructure-technology-entry-level-software-developer-2026-multiple-cities-ibm-austin--pureheal-28528_23106_a3e62fbef25ff3fd4f96de113a6c0980",
-    "age": "5d",
-    "is_internship": false
-  },
-  {
-    "id": 221655,
-    "company": "Palantir",
-    "role": "Software Engineer Intern: Build AI\u2011Driven Solutions",
-    "location": "Washington, District of Columbia, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://bebee.com/us/jobs/software-engineer-intern-build-aidriven-solutions-palantir-washington--pureheal-28528_23106_c0f092997c48a654b572aee31ad497df",
-    "age": "5d",
-    "is_internship": true
-  },
-  {
     "id": 202068,
     "company": "TJX",
     "role": "Front End Customer Service Supervisor",
@@ -1144,50 +1188,6 @@
     "is_internship": false
   },
   {
-    "id": 221635,
-    "company": "Technology Service Corporation Defense Services",
-    "role": "Entry-Level Radar Simulation Software Engineer",
-    "location": "Silver Spring, Maryland, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://bebee.com/us/jobs/entry-level-radar-simulation-software-engineer-technology-service-corporation-defense-services-silve--pureheal-28528_25298_05e7854a3270e6a842dcccb889a02cb0",
-    "age": "5d",
-    "is_internship": false
-  },
-  {
-    "id": 221639,
-    "company": "Red Alpha",
-    "role": "Geospatial Java Software Engineer - Entry-Level",
-    "location": "Maryland, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://bebee.com/us/jobs/geospatial-java-software-engineer-entry-level-red-alpha-corridor-north--pureheal-28528_23106_25ec68b67c1e9481309f84bac83b791d",
-    "age": "5d",
-    "is_internship": false
-  },
-  {
-    "id": 221640,
-    "company": "Cox Enterprises",
-    "role": "Entry Level Software Engineer Carmel, IN",
-    "location": "Carmel, Indiana, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://jobs.coxenterprises.com/en/jobs/r202680859/entry-level-software-engineer-carmel-in/",
-    "age": "5d",
-    "is_internship": false
-  },
-  {
-    "id": 221657,
-    "company": "Feedinkoo",
-    "role": "Software Engineering Fellowship, Internship (Remote) at Jobright.ai",
-    "location": "New York, New York, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://bebee.com/us/jobs/software-engineering-fellowship-internship-remote-at-jobrightai-feedinkoo-new-york--lensa-7428_bfca90af30cba7b16caa3e80b822c5b1b49202b5b39d8a7942c3d58c3b972c2e",
-    "age": "5d",
-    "is_internship": true
-  },
-  {
     "id": 194323,
     "company": "Redwood Materials",
     "role": "Battery Software Integration Engineer",
@@ -1195,6 +1195,39 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6139225004?gh_jid=6139225004",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 203048,
+    "company": "Caddi",
+    "role": "Software Engineer Intern",
+    "location": "Washington, District of Columbia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://jooble.org/jdp/-8188145228407678939",
+    "age": "6d",
+    "is_internship": true
+  },
+  {
+    "id": 221654,
+    "company": "ByteDance",
+    "role": "Software Development Engineer Intern (Network Automation) - 2027 Summer",
+    "location": "Arlington, Virginia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://jobs.leadedge.com/companies/bytedance/jobs/89264168-software-development-engineer-intern-network-automation-2027-summer",
+    "age": "6d",
+    "is_internship": true
+  },
+  {
+    "id": 202070,
+    "company": "TJX",
+    "role": "Front End Supervisor- Part time",
+    "location": "Stroudsburg, PA 18360",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Stroudsburg-PA-18360/Front-End-Supervisor--Part-time_REQ143986",
     "age": "6d",
     "is_internship": false
   },
@@ -1210,17 +1243,6 @@
     "is_internship": false
   },
   {
-    "id": 221654,
-    "company": "ByteDance",
-    "role": "Software Development Engineer Intern (Network Automation) - 2027 Summer",
-    "location": "Arlington, Virginia, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://jobs.leadedge.com/companies/bytedance/jobs/89264168-software-development-engineer-intern-network-automation-2027-summer",
-    "age": "6d",
-    "is_internship": true
-  },
-  {
     "id": 221637,
     "company": "Latitude",
     "role": "Entry Level Software Developer (Data & Database Focus) at Latitude Baltimore, MD",
@@ -1228,17 +1250,6 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://decolorescconsulting.com/gig/job/entry-level-software-developer-data-database-focus-at-latitude-baltimore-md-aWJhR1NtZUh5Tk42VXZzeFNjdFpMUHhaZlE9PQ==",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 203045,
-    "company": "Unissant",
-    "role": "Full Stack Software Developer",
-    "location": "Ashburn, Virginia, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/full-stack-software-developer-at-unissant-4451096598",
     "age": "6d",
     "is_internship": false
   },
@@ -1254,24 +1265,13 @@
     "is_internship": true
   },
   {
-    "id": 203048,
-    "company": "Caddi",
-    "role": "Software Engineer Intern",
-    "location": "Washington, District of Columbia, USA",
+    "id": 203045,
+    "company": "Unissant",
+    "role": "Full Stack Software Developer",
+    "location": "Ashburn, Virginia, USA",
     "source": "JSearch",
     "status": "not_applied",
-    "url": "https://jooble.org/jdp/-8188145228407678939",
-    "age": "6d",
-    "is_internship": true
-  },
-  {
-    "id": 202070,
-    "company": "TJX",
-    "role": "Front End Supervisor- Part time",
-    "location": "Stroudsburg, PA 18360",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Stroudsburg-PA-18360/Front-End-Supervisor--Part-time_REQ143986",
+    "url": "https://www.linkedin.com/jobs/view/full-stack-software-developer-at-unissant-4451096598",
     "age": "6d",
     "is_internship": false
   },
@@ -1360,17 +1360,6 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/nimblegravity/jobs/4721203005",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 192963,
-    "company": "Safeway",
-    "role": "Front End Entry Level",
-    "location": "Somerville, Massachusetts, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-safeway-4450670495",
     "age": "6d",
     "is_internship": false
   }

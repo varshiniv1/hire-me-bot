@@ -56,7 +56,7 @@
 | Amplitude | Software Engineer II, Growth | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/amplitude/jobs/8700618002) | 1d |
 | Avride | Software Engineer, Networking & Linux Systems | Texas, US | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/avride/jobs/4354179009) | 1d |
 | Redhorse | Full Stack Developer | Arlington, VA | Lever | not_applied | [Apply](https://jobs.lever.co/redhorsecorp/68f8a3d6-82a2-470a-b11f-f8e06a59886c) | 1d |
-| Mach Industries | December 2026 New Graduate Engineer, Software / GNC | Huntington Beach, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mach/43c8b037-c77d-4efb-9379-52a6c3718bdb) | 1d |
+| Mach Industries | December 2026 New Graduate Engineer, Software / GNC | Huntington Beach, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mach/43c8b037-c77d-4efb-9379-52a6c3718bdb) | 2d |
 | Albertsons Companies | Front End Entry Level | Murrieta, California, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-albertsons-companies-4453069634) | 2d |
 | U.S. Bank | Software Technical Support Representative | Remote, TN | Workday | not_applied | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Remote-TN/Software-Technical-Support-Representative_2026-0024902) | 2d |
 | Applied Materials | C, C++ Software Engineer II | Santa Clara,CA | Workday | not_applied | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer-II----E2-_R2617379) | 2d |
