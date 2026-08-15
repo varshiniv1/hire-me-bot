@@ -6,13 +6,13 @@
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
-| TransMarket Group | Software Engineering Intern | Chicago, Illinois, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/transmarketgroup/jobs/5212335007?gh_jid=5212335007) | 0d |
-| Assured Guaranty | Fall 2026 Intern - Product Software Developer | New York, NY, United States | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/assuredguaranty/jobs/8700953002?gh_jid=8700953002) | 2d |
-| Analytic Partners | Software Engineer Co-Op \| Georgia Tech | Miami, Florida, United States | Lever | not_applied | [Apply](https://jobs.lever.co/analyticpartners/5452f2a3-77ba-4cce-afdd-000351105650) | 3d |
-| Analytic Partners | Software Engineer Co-Op \| Northeastern University | Miami, Florida, United States | Lever | not_applied | [Apply](https://jobs.lever.co/analyticpartners/eb778fc4-088f-4c5f-b650-e3042ab1b688) | 3d |
-| Analytic Partners | Software Engineer Co-Op \| McGill University | Miami, Florida, United States | Lever | not_applied | [Apply](https://jobs.lever.co/analyticpartners/f4d7b848-878f-4761-be25-3d6e4f4d1a54) | 3d |
-| Analytic Partners | Software Engineer Co-Op \| University of Toronto | Miami, Florida, United States | Lever | not_applied | [Apply](https://jobs.lever.co/analyticpartners/485ae801-3fae-4dc1-950d-445ba990f6c9) | 3d |
-| Analytic Partners | Software Engineer Co-Op \| University of Waterloo | Miami, Florida, United States | Lever | not_applied | [Apply](https://jobs.lever.co/analyticpartners/6303782e-636f-4bac-90cd-051411558b8b) | 3d |
+| TransMarket Group | Software Engineering Intern | Chicago, Illinois, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/transmarketgroup/jobs/5212335007?gh_jid=5212335007) | 1d |
+| Assured Guaranty | Fall 2026 Intern - Product Software Developer | New York, NY, United States | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/assuredguaranty/jobs/8700953002?gh_jid=8700953002) | 3d |
+| Analytic Partners | Software Engineer Co-Op \| Georgia Tech | Miami, Florida, United States | Lever | not_applied | [Apply](https://jobs.lever.co/analyticpartners/5452f2a3-77ba-4cce-afdd-000351105650) | 4d |
+| Analytic Partners | Software Engineer Co-Op \| Northeastern University | Miami, Florida, United States | Lever | not_applied | [Apply](https://jobs.lever.co/analyticpartners/eb778fc4-088f-4c5f-b650-e3042ab1b688) | 4d |
+| Analytic Partners | Software Engineer Co-Op \| McGill University | Miami, Florida, United States | Lever | not_applied | [Apply](https://jobs.lever.co/analyticpartners/f4d7b848-878f-4761-be25-3d6e4f4d1a54) | 4d |
+| Analytic Partners | Software Engineer Co-Op \| University of Toronto | Miami, Florida, United States | Lever | not_applied | [Apply](https://jobs.lever.co/analyticpartners/485ae801-3fae-4dc1-950d-445ba990f6c9) | 4d |
+| Analytic Partners | Software Engineer Co-Op \| University of Waterloo | Miami, Florida, United States | Lever | not_applied | [Apply](https://jobs.lever.co/analyticpartners/6303782e-636f-4bac-90cd-051411558b8b) | 4d |
 | Figma | Software Engineer Intern (Winter 2027) | San Francisco, CA • New York, NY | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004) | 4d |
 | Regional Client | Ai And Full Stack Engineering Fellow near Shiloh | York, Pennsylvania, USA | JSearch | not_applied | [Apply](https://www.republicanjobs.gop/pennsylvania/shiloh/ai-and-full-stack-engineering-fellow.php) | 5d |
 | Regional Client | Ai And Full Stack Engineering Fellow near Concord | Edgmont, Pennsylvania, USA | JSearch | not_applied | [Apply](https://www.republicanjobs.gop/pennsylvania/concord/ai-and-full-stack-engineering-fellow.php) | 5d |
@@ -27,12 +27,12 @@
 | Woongjin | Java Full-Stack Developer - Bilingual (Korean/ English) | Santa Ana, CA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WJCompany/744000143609052-java-full-stack-developer-bilingual-korean-english-) | 0d |
 | Lila Sciences | Finance Business Partner, AI & Software | Cambridge, MA USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4359832009) | 0d |
 | Twitch | Software Engineer I, Payments | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8700578002) | 0d |
-| Robert Bosch | Software Engineer, Vehicle Diagnostics | Owatonna, MN, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000143562859-software-engineer-vehicle-diagnostics) | 0d |
-| Bosch | Software Engineer, Vehicle Diagnostics | Owatonna, MN, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000143562859-software-engineer-vehicle-diagnostics) | 0d |
-| Bosch Group | Software Engineer, Vehicle Diagnostics | Owatonna, MN, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000143562859-software-engineer-vehicle-diagnostics) | 0d |
-| Robert Bosch Venture Capital | Software Engineer, Vehicle Diagnostics | Owatonna, MN, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000143562859-software-engineer-vehicle-diagnostics) | 0d |
-| Verisign | Java Software Engineer | Reston,Virginia,United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/verisign/jobs/7803020003) | 0d |
-| Torc Robotics | Software Engineer II - Fleet Enablement & Insights (Annotation Platform) | Ann Arbor, MI, Fort Worth, TX, Blacksburg, VA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/torcrobotics/jobs/8611479002) | 0d |
+| Robert Bosch | Software Engineer, Vehicle Diagnostics | Owatonna, MN, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000143562859-software-engineer-vehicle-diagnostics) | 1d |
+| Bosch | Software Engineer, Vehicle Diagnostics | Owatonna, MN, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000143562859-software-engineer-vehicle-diagnostics) | 1d |
+| Bosch Group | Software Engineer, Vehicle Diagnostics | Owatonna, MN, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000143562859-software-engineer-vehicle-diagnostics) | 1d |
+| Robert Bosch Venture Capital | Software Engineer, Vehicle Diagnostics | Owatonna, MN, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000143562859-software-engineer-vehicle-diagnostics) | 1d |
+| Verisign | Java Software Engineer | Reston,Virginia,United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/verisign/jobs/7803020003) | 1d |
+| Torc Robotics | Software Engineer II - Fleet Enablement & Insights (Annotation Platform) | Ann Arbor, MI, Fort Worth, TX, Blacksburg, VA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/torcrobotics/jobs/8611479002) | 1d |
 | Commure | Backend Engineer, Ambient AI | Mountain View, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/Commure/0dca4f2e-2f5c-4b27-98ac-d644c7aa45cc) | 1d |
 | NVIDIA | Software Engineer, Deep Learning Libraries - New College Graduate 2026 | US, CA, Santa Clara | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Deep-Learning-Libraries---New-College-Graduate-2026_JR2023252) | 1d |
 | PROS Holdings, Inc. | AI Software Engineer – Enterprise Productivity | USA TX Houston Office | Workday | not_applied | [Apply](https://pros.wd5.myworkdayjobs.com/PROS_Careers/job/USA-TX-Houston-Office/AI-Software-Engineer---Enterprise-Productivity_R3594) | 1d |
@@ -52,9 +52,9 @@
 | Allen Control Systems | Software Engineer, Platform Scourge  | San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/allen-control-systems/a9a746a3-556c-4c28-9ee9-707872cacd3c) | 1d |
 | Synergy ECP | Mid-Level Full Stack Developer | Washington, DC | Lever | not_applied | [Apply](https://jobs.lever.co/synergyecp/ed5bebd6-0a6f-461f-905c-bf92ca2bcff5) | 1d |
 | Robinhood | Software Engineer, Cryptography | Bellevue, WA; Menlo Park, CA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/robinhood/jobs/8077370?t=gh_src=&gh_jid=8077370) | 1d |
-| Veeva Systems | Consultant  - Life Sciences Events Management Software Implementation | Washington - DC | Lever | not_applied | [Apply](https://jobs.lever.co/veeva/f3efe858-52a1-4387-888e-2eaf040c4518) | 1d |
-| Deepgram | Full Stack Web Developer, Marketing | USA \| Remote | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/deepgram/4f9648d7-e25c-440c-8ec6-566a405c7c23) | 1d |
-| LinkedIn | Software Engineer - Personalization Platform (Frontend) | Mountain View, CA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000143323080-software-engineer-personalization-platform-frontend-) | 1d |
+| Veeva Systems | Consultant  - Life Sciences Events Management Software Implementation | Washington - DC | Lever | not_applied | [Apply](https://jobs.lever.co/veeva/f3efe858-52a1-4387-888e-2eaf040c4518) | 2d |
+| Deepgram | Full Stack Web Developer, Marketing | USA \| Remote | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/deepgram/4f9648d7-e25c-440c-8ec6-566a405c7c23) | 2d |
+| LinkedIn | Software Engineer - Personalization Platform (Frontend) | Mountain View, CA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000143323080-software-engineer-personalization-platform-frontend-) | 2d |
 | UL Solutions | Associate Software Engineer | California, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/associate-software-engineer-at-ul-solutions-4450418148) | 2d |
 | Applied Materials | 2027 Software Engineer (DevOps), New College Grad - Bachelor's (Gloucester, MA) | Gloucester,MA | Workday | not_applied | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Software-Engineer--DevOps---New-College-Grad---Bachelor-s--Gloucester--MA-_R2625762) | 2d |
 | Acme Markets | Front End Entry Level | New Canaan, Connecticut, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-acme-markets-4453396698) | 2d |
@@ -76,10 +76,10 @@
 | Travelers | Software Engineer I (JavaScript, TypeScript, AWS, React, Node.js) | Baltimore, Maryland, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/software-engineer-i-javascript-typescript-aws-react-node-js-at-travelers-4452747986) | 2d |
 | Saragossa | Software Engineer - NYC Fund – Investment Operations Automation | USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/software-engineer-nyc-fund-%E2%80%93-investment-operations-automation-at-saragossa-4417664178) | 2d |
 | Torc Robotics | Software Engineer II - Business Intelligence | Ann Arbor, MI; Remote (US) | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/torcrobotics/jobs/8651408002) | 2d |
-| Redhorse | Software Developer | Huntsville, AL | Lever | not_applied | [Apply](https://jobs.lever.co/redhorsecorp/35dbd7bc-a96a-4aeb-9ac8-382b008303e9) | 2d |
-| Amplitude | Software Engineer II, Growth | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/amplitude/jobs/8700618002) | 2d |
-| Avride | Software Engineer, Networking & Linux Systems | Texas, US | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/avride/jobs/4354179009) | 2d |
-| Redhorse | Full Stack Developer | Arlington, VA | Lever | not_applied | [Apply](https://jobs.lever.co/redhorsecorp/68f8a3d6-82a2-470a-b11f-f8e06a59886c) | 2d |
+| Redhorse | Software Developer | Huntsville, AL | Lever | not_applied | [Apply](https://jobs.lever.co/redhorsecorp/35dbd7bc-a96a-4aeb-9ac8-382b008303e9) | 3d |
+| Amplitude | Software Engineer II, Growth | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/amplitude/jobs/8700618002) | 3d |
+| Avride | Software Engineer, Networking & Linux Systems | Texas, US | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/avride/jobs/4354179009) | 3d |
+| Redhorse | Full Stack Developer | Arlington, VA | Lever | not_applied | [Apply](https://jobs.lever.co/redhorsecorp/68f8a3d6-82a2-470a-b11f-f8e06a59886c) | 3d |
 | Mach Industries | December 2026 New Graduate Engineer, Software / GNC | Huntington Beach, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mach/43c8b037-c77d-4efb-9379-52a6c3718bdb) | 3d |
 | TJX | Retail Front End Supervisor | Delafield, WI 53018 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Delafield-WI-53018/Retail-Front-End-Supervisor_REQ145305) | 3d |
 | Proofpoint | Full Stack Engineer | Draper, UT | Workday | not_applied | [Apply](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Draper-UT/Full-Stack-Engineer_R14559) | 3d |
@@ -93,7 +93,7 @@
 | AbbVie | Associate Software Engineer I | North Chicago, IL, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990014551564-associate-software-engineer-i) | 3d |
 | Sierra | Software Engineer, Agent - Retail | San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/Sierra/93fea91f-a8a2-4084-8113-1cde73344e33) | 3d |
 | Re:Build Manufacturing | Production Engineer | Kalamazoo, MI | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4723170005) | 3d |
-| BeyondTrust | Software Development Engineer | Remote United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/beyondtrust/jobs/8119260) | 3d |
+| BeyondTrust | Software Development Engineer | Remote United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/beyondtrust/jobs/8119260) | 4d |
 | StackAV | Software Engineer, Onboard Infrastructure | Pittsburgh, PA or Remote | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/stackav/jobs/5208820007) | 4d |
 | Teledyne | Production Engineer | US - Rancho Cordova, CA (TDY) | Workday | not_applied | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Rancho-Cordova-CA-TDY/Production-Engineer_REQ35079) | 4d |
 | Broadridge | Software Engineer (Development & QA Automation) (Hybrid - Newark, NJ, Coppell, TX or NYC) | Newark, NJ | Workday | not_applied | [Apply](https://broadridge.wd5.myworkdayjobs.com/Careers/job/Newark-NJ/Software-Engineer--Development---QA-Automation---Hybrid---Newark--NJ-or-NYC-_JR1082563) | 4d |
@@ -121,9 +121,9 @@
 | Redhorse | Mid-Level Software Engineer | Chantilly, VA | Lever | not_applied | [Apply](https://jobs.lever.co/redhorsecorp/aeb9c701-f68b-4b86-b0ee-4f07ffaba79a) | 4d |
 | Redhorse | Junior Software Engineer | Chantilly, VA | Lever | not_applied | [Apply](https://jobs.lever.co/redhorsecorp/d8f0b543-ab18-41e8-b17a-68b359f16568) | 4d |
 | Babel Street | Data Warehouse Software Engineer  | Somerville, Massachusetts, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/babelstreet/jobs/8120325) | 4d |
-| Woongjin | Jr. Full Stack Developer- Bilingual (Korean/ English) | Plano, TX, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WJCompany/744000142693899-jr-full-stack-developer-bilingual-korean-english-) | 4d |
-| Commvault | Software Engineer - AI/ML | United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/commvault/jobs/5233623008) | 4d |
-| Pickle Robot | Robotics Software Engineer | Charlestown, MA | Lever | not_applied | [Apply](https://jobs.lever.co/picklerobot/42939c0b-de3b-47fa-a661-e9492c71de63) | 4d |
+| Woongjin | Jr. Full Stack Developer- Bilingual (Korean/ English) | Plano, TX, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WJCompany/744000142693899-jr-full-stack-developer-bilingual-korean-english-) | 5d |
+| Commvault | Software Engineer - AI/ML | United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/commvault/jobs/5233623008) | 5d |
+| Pickle Robot | Robotics Software Engineer | Charlestown, MA | Lever | not_applied | [Apply](https://jobs.lever.co/picklerobot/42939c0b-de3b-47fa-a661-e9492c71de63) | 5d |
 | ALTEN Technology | Production Engineer (Ref. L-2616) | Troy, MI | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5207503007) | 5d |
 | Ferrovial | Webber - FrontEnd Loader Operator - Heavy Civil | Houston, TX | Workday | not_applied | [Apply](https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Houston-TX/Webber---FrontEnd-Loader-Operator---Heavy-Civil_JR18664) | 5d |
 | Amazon | Software Development Engineer, S3 Buckets | Seattle, Washington, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10497189/apply) | 5d |
