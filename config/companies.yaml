@@ -68,6 +68,9 @@
 - name: 9th Way Insignia
   source: greenhouse
   token: 9thwayinsignia
+- name: 9to9 Software Solutions
+  source: smartrecruiters
+  token: 9to9SoftwareSolutionsLLC
 - name: A Thinking Ape
   source: greenhouse
   token: athinkingape
@@ -200,6 +203,9 @@
 - name: Adept Solutions
   source: smartrecruiters
   token: AdeptSolutionsInc
+- name: ADGA Group Consultants
+  source: smartrecruiters
+  token: ADGAGroupConsultantsInc1
 - name: Adient
   source: workday
   token: adient/wd3/External
@@ -590,6 +596,9 @@
 - name: AMN Healthcare
   source: workday
   token: amn/wd1/amn_careers
+- name: AmNet Services
+  source: smartrecruiters
+  token: AmNetServicesInc
 - name: Amp Robotics
   source: greenhouse
   token: ampsortation
@@ -731,6 +740,9 @@
 - name: Applied Intuition
   source: greenhouse
   token: appliedintuition
+- name: Applied Intuition
+  source: ashby
+  token: applied
 - name: Applied Materials
   source: workday
   token: amat/wd1/External
@@ -1319,6 +1331,9 @@
 - name: BeOne
   source: workday
   token: beigene/wd5/beigene
+- name: Bertelsmann
+  source: smartrecruiters
+  token: Bertelsmann-Jobs
 - name: Best Buy
   source: workday
   token: bestbuycanada/wd3/BestBuyCA_Career
@@ -1328,6 +1343,9 @@
 - name: Best Friends
   source: workday
   token: bestfriends/wd1/bestfriendscareers
+- name: bet365
+  source: smartrecruiters
+  token: Bet3651
 - name: Beta Technologies
   source: lever
   token: beta
@@ -2852,6 +2870,9 @@
 - name: Deckers Brands
   source: workday
   token: deckers/wd5/Deckers
+- name: Dedalus Labs
+  source: ashby
+  token: dedalus-labs
 - name: Deep Genomics
   source: lever
   token: deepgenomics
@@ -3002,6 +3023,9 @@
 - name: Dome Systems Inc
   source: ashby
   token: dome-systems-inc
+- name: Domino's
+  source: smartrecruiters
+  token: Dominos
 - name: Domo
   source: workday
   token: domo/wd12/DomoCareers
@@ -3089,6 +3113,9 @@
 - name: Dun & Bradstreet
   source: lever
   token: dnb
+- name: Dunn Solutions Group
+  source: smartrecruiters
+  token: DunnSolutionsGroup
 - name: dunnhumby
   source: greenhouse
   token: dunnhumby
@@ -3101,6 +3128,9 @@
 - name: Dutch
   source: lever
   token: dutch
+- name: Dutch Bros
+  source: workday
+  token: dutchbros/wd1/en-US
 - name: DV Trading
   source: greenhouse
   token: dvtrading
@@ -3314,6 +3344,9 @@
 - name: Engineers Gate
   source: greenhouse
   token: engineersgate
+- name: Enigma
+  source: greenhouse
+  token: enigmaio
 - name: Ennoble Care
   source: greenhouse
   token: ennoblecare
@@ -3374,6 +3407,9 @@
 - name: Eos Energy Storage
   source: workday
   token: eosenergystorage/wd1/eos
+- name: Epia Neuro
+  source: ashby
+  token: epianeuro
 - name: EPIC Insurance Brokers & Consultants
   source: greenhouse
   token: edgewoodpartnersinsurancecenter
@@ -3428,6 +3464,9 @@
 - name: ERM
   source: workday
   token: erm/wd3/ERM_Careers
+- name: ERPA
+  source: smartrecruiters
+  token: ERPAnalysts1
 - name: ESAB Corporation
   source: workday
   token: esab/wd5/esabcareers
@@ -3521,6 +3560,9 @@
 - name: Exclusive Networks
   source: workday
   token: exclusivenetworks/wd103/Exclusive-Networks-Career
+- name: Exelixis
+  source: workday
+  token: exelixis/wd1/exel
 - name: ExodusPoint
   source: greenhouse
   token: exoduspoint
@@ -3629,6 +3671,9 @@
 - name: Felicity
   source: ashby
   token: felicity
+- name: Felix Magazine
+  source: smartrecruiters
+  token: LuxeMediaLLC
 - name: Fenwick & West
   source: workday
   token: fenwick/wd1/Fenwick_External_Careers
@@ -3809,6 +3854,9 @@
 - name: Florida Institute of Technology
   source: workday
   token: floridatech/wd5/FloridaTechCareers
+- name: Flow Engineering
+  source: ashby
+  token: flowengineering
 - name: Flow Traders
   source: greenhouse
   token: flowtraders
@@ -3878,6 +3926,9 @@
 - name: Fortrea
   source: workday
   token: fortrea/wd1/Fortrea
+- name: Fortuna Health
+  source: ashby
+  token: fortuna-health
 - name: Forus
   source: ashby
   token: forus
@@ -3959,6 +4010,9 @@
 - name: FS Studio
   source: ashby
   token: fs-studio
+- name: FSH Technologies
+  source: ashby
+  token: FSH
 - name: FTI Consulting
   source: workday
   token: fticonsulting/wd108/FTIConsultingCareersPrivate
@@ -4607,6 +4661,9 @@
 - name: HELLBENDER
   source: greenhouse
   token: hellbenderinc
+- name: Helmerich & Payne
+  source: workday
+  token: hpinc/wd5/hpinc
 - name: Hendrick Motorsports
   source: workday
   token: hendrick/wd5/HMSCareers
@@ -4823,6 +4880,9 @@
 - name: Hydrafacial
   source: workday
   token: beautyhealth/wd12/beautyhealthcareer
+- name: Hypercubic
+  source: ashby
+  token: hypercubic
 - name: hyperexponential
   source: ashby
   token: hyperexponential
@@ -4946,6 +5006,9 @@
 - name: Imprint
   source: ashby
   token: imprint
+- name: Inbulks
+  source: smartrecruiters
+  token: InbulksCorp
 - name: Incident IQ
   source: greenhouse
   token: incidentiq
@@ -4955,6 +5018,9 @@
 - name: Indian River State College
   source: workday
   token: irsc/wd5/external
+- name: Indiana University Foundation
+  source: smartrecruiters
+  token: IndianaUniversityFoundation
 - name: Inductive Automation
   source: lever
   token: inductiveautomation
@@ -4976,6 +5042,9 @@
 - name: Ingram Micro
   source: workday
   token: ingrammicro/wd5/IngramMicro
+- name: Inherent
+  source: ashby
+  token: inherent
 - name: Inizio
   source: greenhouse
   token: inizio
@@ -4991,6 +5060,9 @@
 - name: Insitro
   source: ashby
   token: insitro
+- name: Insitu
+  source: workday
+  token: insitu/wd1/careers
 - name: Insmed
   source: workday
   token: insmed/wd5/EXTERNAL
@@ -5069,6 +5141,9 @@
 - name: Interactive Brokers Group
   source: greenhouse
   token: ibkr
+- name: Interco
+  source: smartrecruiters
+  token: Interco
 - name: Interdigital
   source: workday
   token: interdigital/wd5/InterDigital_Intern
@@ -5435,6 +5510,9 @@
 - name: KLA
   source: workday
   token: kla/wd1/Search
+- name: KLA
+  source: workday
+  token: kla/wd1/UR
 - name: KLA Corporation
   source: workday
   token: kla/wd1/search
@@ -5648,6 +5726,12 @@
 - name: Level AI
   source: lever
   token: levelai
+- name: Level99 Entertainment
+  source: lever
+  token: level99
+- name: Levels Technologies
+  source: ashby
+  token: levels
 - name: Lever
   source: lever
   token: leverdemo
@@ -5723,6 +5807,9 @@
 - name: Lilly USA
   source: workday
   token: lilly/wd5/CMP
+- name: Lilt
+  source: ashby
+  token: lilt-production
 - name: Limble CMMS
   source: ashby
   token: limble
@@ -5750,6 +5837,9 @@
 - name: Liquid
   source: ashby
   token: liquid
+- name: LiteLLM
+  source: ashby
+  token: litellm
 - name: Litera
   source: workday
   token: litera/wd12/Litera_Careers
@@ -5903,6 +5993,9 @@
 - name: Lytx Careers
   source: workday
   token: lytx/wd1/en-US
+- name: Léger
+  source: smartrecruiters
+  token: Leger2
 - name: M&G
   source: workday
   token: mgpru/wd3/mandgprudential
@@ -5990,6 +6083,9 @@
 - name: Manulife Financial
   source: workday
   token: manulife/wd3/en-US
+- name: Mapjects
+  source: smartrecruiters
+  token: Mapjectscom
 - name: Maple AI
   source: ashby
   token: maple
@@ -6341,6 +6437,9 @@
 - name: Micron Technology
   source: workday
   token: micron/wd1/External
+- name: Miele
+  source: workday
+  token: miele/wd3/en-US
 - name: Millennium Space Systems
   source: greenhouse
   token: millenniumspacesystems
@@ -6353,6 +6452,9 @@
 - name: Mimecast
   source: workday
   token: mimecast/wd5/Mimecast-Careers
+- name: Mind Robotics
+  source: ashby
+  token: mindrobotics
 - name: Minitab
   source: greenhouse
   token: minitab
@@ -6368,6 +6470,9 @@
 - name: Mirage
   source: ashby
   token: mirage
+- name: Mission Critical Group
+  source: smartrecruiters
+  token: MissionCriticalGroup
 - name: Mistral AI
   source: lever
   token: mistral
@@ -6425,6 +6530,9 @@
 - name: Modernizing Medicine
   source: greenhouse
   token: modernizingmedicineinc
+- name: Moffitt Cancer Center
+  source: workday
+  token: moffitt/wd108/Moffitt
 - name: Mohegan
   source: workday
   token: mohegan/wd1/mohegan
@@ -6563,6 +6671,9 @@
 - name: N1
   source: ashby
   token: n1
+- name: n8n
+  source: ashby
+  token: n8n
 - name: NAMSA
   source: workday
   token: namsa/wd5/NAMSA
@@ -6602,6 +6713,9 @@
 - name: National Renewable Energy Laboratory
   source: workday
   token: nrel/wd5/nrel
+- name: National Software Management
+  source: smartrecruiters
+  token: NationalSoftwareManagement1
 - name: NationGraph
   source: ashby
   token: nationgraph
@@ -6869,6 +6983,9 @@
 - name: Notion
   source: ashby
   token: notion
+- name: Nova Talent
+  source: ashby
+  token: nova-talent
 - name: Novanta
   source: workday
   token: novanta/wd5/Novanta-Careers
@@ -6980,6 +7097,9 @@
 - name: OfferUp
   source: greenhouse
   token: offerup
+- name: OH.io
+  source: greenhouse
+  token: ohio
 - name: Ohio State University
   source: workday
   token: osu/wd1/OSUCareers
@@ -7046,6 +7166,9 @@
 - name: ONEOK
   source: workday
   token: oneok/wd1/ONEOK
+- name: ONEOK
+  source: workday
+  token: oneok/wd1/ONEOK_Early_Careers
 - name: OneOncology
   source: workday
   token: oneoncology/wd1/OneOncology
@@ -7280,6 +7403,9 @@
 - name: Papa John's
   source: workday
   token: papajohns/wd1/papajohnscareers
+- name: PaperCut
+  source: smartrecruiters
+  token: PaperCutSoftware
 - name: PAR Tech
   source: ashby
   token: PAR Technology
@@ -7376,6 +7502,9 @@
 - name: Pennsylvania State University
   source: workday
   token: psu/wd1/PSU_Staff
+- name: Penta Group
+  source: lever
+  token: pentagrp
 - name: Pentair
   source: workday
   token: pentair/wd5/pentair_careers
@@ -7544,6 +7673,9 @@
 - name: PJM
   source: workday
   token: pjm/wd5/pjmcareers
+- name: PJT Partners
+  source: workday
+  token: pjtpartners/wd1/Careers
 - name: Plaid
   source: ashby
   token: plaid
@@ -7676,6 +7808,9 @@
 - name: Presence
   source: greenhouse
   token: presencelearning
+- name: Presidency Solutions
+  source: smartrecruiters
+  token: PresidencySolutions1
 - name: Priceline
   source: workday
   token: priceline/wd1/Priceline
@@ -8081,6 +8216,12 @@
 - name: Renault Group
   source: workday
   token: alliancewd/wd3/en
+- name: Renesas Electronics
+  source: smartrecruiters
+  token: RenesasElectronics
+- name: Replit
+  source: ashby
+  token: replit
 - name: Reply
   source: lever
   token: reply
@@ -8102,6 +8243,9 @@
 - name: RESPEC
   source: smartrecruiters
   token: RESPECInc
+- name: Retail Information Systems
+  source: smartrecruiters
+  token: RetailInformationSystems
 - name: Retell AI
   source: ashby
   token: retell-ai
@@ -8279,6 +8423,9 @@
 - name: RR Donnelley
   source: smartrecruiters
   token: RRDonnelley
+- name: RRS Group
+  source: smartrecruiters
+  token: RRSGroup
 - name: RSM
   source: workday
   token: rsm/wd1/RSMCareers
@@ -8348,6 +8495,9 @@
 - name: SailPoint
   source: workday
   token: sailpoint/wd1/en-US
+- name: Saint Leo University
+  source: workday
+  token: saintleo/wd503/SLU
 - name: Saks Global
   source: workday
   token: saks/wd1/careers_at_saks
@@ -8462,6 +8612,9 @@
 - name: Schonfeld
   source: greenhouse
   token: schonfeld
+- name: SchoolMint
+  source: greenhouse
+  token: schoolmint
 - name: Schreder
   source: smartrecruiters
   token: Schrder
@@ -8537,9 +8690,15 @@
 - name: Selene
   source: workday
   token: pretiumenterpriseservices/wd1/Selene
+- name: Seminole Hard Rock
+  source: workday
+  token: seminolehardrock/wd503/seminolehardrockcareers
 - name: Semtech
   source: workday
   token: semtech/wd1/SemtechCareers
+- name: Senior plc
+  source: smartrecruiters
+  token: SeniorPlc1
 - name: Sensata
   source: workday
   token: sensata/wd1/en-US
@@ -8672,6 +8831,9 @@
 - name: SiFive
   source: workday
   token: sifive/wd1/en-US
+- name: Sigla
+  source: smartrecruiters
+  token: SiglaLLC
 - name: Sigma
   source: greenhouse
   token: sigmacomputing
@@ -8840,6 +9002,9 @@
 - name: SOCOTEC Global
   source: smartrecruiters
   token: Socotec
+- name: SOCOTEC UK & Ireland
+  source: smartrecruiters
+  token: SOCOTECUKIreland
 - name: Socure
   source: ashby
   token: socure
@@ -8915,6 +9080,9 @@
 - name: Sopra Steria
   source: smartrecruiters
   token: SopraSteria1
+- name: SOSi
+  source: smartrecruiters
+  token: SOSi1
 - name: SOTI
   source: workday
   token: soti/wd3/SOTI-Next-Gen
@@ -9251,6 +9419,9 @@
 - name: Symmetry Systems
   source: lever
   token: SymmetrySystems
+- name: Symphony
+  source: smartrecruiters
+  token: SymphonyCorp1
 - name: Synchrony Financial
   source: workday
   token: synchronyfinancial/wd5/University
@@ -9422,6 +9593,9 @@
 - name: Tencent
   source: workday
   token: tencent/wd1/Tencent_Careers
+- name: Tenergy
+  source: smartrecruiters
+  token: Tenergy
 - name: TENEX.AI
   source: ashby
   token: tenex
@@ -9464,6 +9638,9 @@
 - name: Texas A&M International University
   source: workday
   token: tamus/wd1/TAMIU_Student_Employment
+- name: Texas A&M Transportation Institute
+  source: workday
+  token: tamus/wd1/en-US
 - name: Texas A&M University - College Station
   source: workday
   token: tamus/wd1/TAMU_External
@@ -9476,6 +9653,9 @@
 - name: Texas Capital Bank
   source: workday
   token: texascapitalbank/wd12/Careers
+- name: Texas Permanent School Fund Corporation
+  source: workday
+  token: texaspsf/wd501/TexasPSFCareers
 - name: Texas Rangers
   source: workday
   token: rangersmlb/wd5/Rangers
@@ -9710,6 +9890,9 @@
 - name: Tolan
   source: ashby
   token: tolan
+- name: TOMRA
+  source: smartrecruiters
+  token: Tomra
 - name: Tonal
   source: ashby
   token: tonal
@@ -9974,12 +10157,18 @@
 - name: Uhaul
   source: workday
   token: uhaul/wd1/UhaulJobs
+- name: UHY
+  source: workday
+  token: uhyus/wd12/uhy
 - name: UiPath
   source: ashby
   token: uipath
 - name: UJET
   source: greenhouse
   token: ujet
+- name: UK Atomic Energy Authority
+  source: smartrecruiters
+  token: UKAtomicEnergyAuthority
 - name: UL Standards & Engagement
   source: workday
   token: ulse/wd5/en-US
@@ -10016,12 +10205,18 @@
 - name: Underwriters Laboratories
   source: workday
   token: ulse/wd5/ulricareers
+- name: Unify
+  source: ashby
+  token: unify
 - name: Unilever
   source: workday
   token: unilever/wd3/Unilever_Experienced_Professionals
 - name: Unison Infrastructure
   source: lever
   token: unisoninfra
+- name: Uniswap
+  source: ashby
+  token: uniswap
 - name: Unisys
   source: workday
   token: unisys/wd5/en-US
@@ -10193,6 +10388,9 @@
 - name: Valeo
   source: workday
   token: valeo/wd3/en-US
+- name: Valeo Foods
+  source: smartrecruiters
+  token: ValeoFoods
 - name: Valinor
   source: ashby
   token: valinor
@@ -10322,6 +10520,9 @@
 - name: Verse Medical
   source: ashby
   token: versemedical
+- name: Version 1
+  source: smartrecruiters
+  token: Version1
 - name: Vertex
   source: workday
   token: vertexinc/wd1/en-US
@@ -10454,6 +10655,9 @@
 - name: Vulcan Elements
   source: greenhouse
   token: vulcanelements
+- name: VWH Capital Management
+  source: smartrecruiters
+  token: VWHCapitalManagementLP
 - name: VyStar Credit Union
   source: workday
   token: vystarcu/wd1/careers
@@ -10526,6 +10730,9 @@
 - name: Watts Water
   source: workday
   token: wattswater/wd5/Intern-External
+- name: Wavestone
+  source: smartrecruiters
+  token: Wavestone1
 - name: Waymark
   source: greenhouse
   token: waymark
@@ -10736,6 +10943,9 @@
 - name: Worldpay
   source: workday
   token: worldpay/wd5/Worldpay_External_Careers_Site
+- name: WorldQuant
+  source: greenhouse
+  token: worldquant
 - name: Worldwide TechServices
   source: smartrecruiters
   token: WorldwideTechServices
