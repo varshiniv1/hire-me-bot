@@ -19,7 +19,7 @@
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
-| Atoms | Software Engineer, Onboard | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8717657002) | 0d |
+| Atoms | Software Engineer, Onboard | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8717657002) | 1d |
 | Woongjin | Backend Engineer _ AI Gateway (Bilingual Korean/ English) | Englewood Cliffs, NJ, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WJCompany/744000143616099-backend-engineer-ai-gateway-bilingual-korean-english-) | 1d |
 | Eataly | Order Fulfillment Associate/Front End Cashier (Full-Time) - Eataly Chicago | Chicago, IL, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Eataly/744000143611249-order-fulfillment-associate-front-end-cashier-full-time-eataly-chicago) | 1d |
 | Woongjin | Java Full-Stack Developer - Bilingual (Korean/ English) | Santa Ana, CA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WJCompany/744000143609052-java-full-stack-developer-bilingual-korean-english-) | 1d |
@@ -31,7 +31,7 @@
 | Robert Bosch Venture Capital | Software Engineer, Vehicle Diagnostics | Owatonna, MN, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000143562859-software-engineer-vehicle-diagnostics) | 1d |
 | Verisign | Java Software Engineer | Reston,Virginia,United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/verisign/jobs/7803020003) | 1d |
 | Torc Robotics | Software Engineer II - Fleet Enablement & Insights (Annotation Platform) | Ann Arbor, MI, Fort Worth, TX, Blacksburg, VA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/torcrobotics/jobs/8611479002) | 1d |
-| Commure | Backend Engineer, Ambient AI | Mountain View, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/Commure/0dca4f2e-2f5c-4b27-98ac-d644c7aa45cc) | 1d |
+| Commure | Backend Engineer, Ambient AI | Mountain View, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/Commure/0dca4f2e-2f5c-4b27-98ac-d644c7aa45cc) | 2d |
 | Cisco | QA Software Engineer NC Hybrid | RTP, North Carolina, US | Workday | not_applied | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/QA-Software-Engineer-NC-Hybrid_2021019) | 2d |
 | PROS Holdings, Inc. | AI Software Engineer – Enterprise Productivity | USA TX Houston Office | Workday | not_applied | [Apply](https://pros.wd5.myworkdayjobs.com/PROS_Careers/job/USA-TX-Houston-Office/AI-Software-Engineer---Enterprise-Productivity_R3594) | 2d |
 | Crowdstrike | Software Engineer - Linux Sensor (Hybrid) | USA - Sunnyvale, CA | Workday | not_applied | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Software-Engineer---Linux-Sensor--Hybrid-_R27317) | 2d |
@@ -79,7 +79,7 @@
 | Amplitude | Software Engineer II, Growth | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/amplitude/jobs/8700618002) | 3d |
 | Avride | Software Engineer, Networking & Linux Systems | Texas, US | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/avride/jobs/4354179009) | 3d |
 | Redhorse | Full Stack Developer | Arlington, VA | Lever | not_applied | [Apply](https://jobs.lever.co/redhorsecorp/68f8a3d6-82a2-470a-b11f-f8e06a59886c) | 3d |
-| Mach Industries | December 2026 New Graduate Engineer, Software / GNC | Huntington Beach, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mach/43c8b037-c77d-4efb-9379-52a6c3718bdb) | 3d |
+| Mach Industries | December 2026 New Graduate Engineer, Software / GNC | Huntington Beach, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mach/43c8b037-c77d-4efb-9379-52a6c3718bdb) | 4d |
 | U.S. Bank | Software Technical Support Representative | Remote, TN | Workday | not_applied | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Remote-TN/Software-Technical-Support-Representative_2026-0024902) | 4d |
 | Proofpoint | Full Stack Engineer | Draper, UT | Workday | not_applied | [Apply](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Draper-UT/Full-Stack-Engineer_R14559) | 4d |
 | Freddie Mac | Multifamily Software Development Analyst | McLean, VA | Workday | not_applied | [Apply](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Software-Development-Analyst_JR17515) | 4d |
@@ -93,7 +93,7 @@
 | Sierra | Software Engineer, Agent - Retail | San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/Sierra/93fea91f-a8a2-4084-8113-1cde73344e33) | 4d |
 | Re:Build Manufacturing | Production Engineer | Kalamazoo, MI | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4723170005) | 4d |
 | BeyondTrust | Software Development Engineer | Remote United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/beyondtrust/jobs/8119260) | 4d |
-| StackAV | Software Engineer, Onboard Infrastructure | Pittsburgh, PA or Remote | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/stackav/jobs/5208820007) | 4d |
+| StackAV | Software Engineer, Onboard Infrastructure | Pittsburgh, PA or Remote | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/stackav/jobs/5208820007) | 5d |
 | Teledyne | Production Engineer | US - Rancho Cordova, CA (TDY) | Workday | not_applied | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Rancho-Cordova-CA-TDY/Production-Engineer_REQ35079) | 5d |
 | Broadridge | Software Engineer (Development & QA Automation) (Hybrid - Newark, NJ, Coppell, TX or NYC) | Newark, NJ | Workday | not_applied | [Apply](https://broadridge.wd5.myworkdayjobs.com/Careers/job/Newark-NJ/Software-Engineer--Development---QA-Automation---Hybrid---Newark--NJ-or-NYC-_JR1082563) | 5d |
 | Citi | Digital Software Engineer Intermediate Analyst Officer | Jacksonville Florida United States | Workday | not_applied | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Digital-Software-Engineer-Intermediate-Analyst-Officer_26985258-1) | 5d |
