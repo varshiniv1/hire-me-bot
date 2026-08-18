@@ -1,6 +1,6 @@
 # Job Postings Report
 
-79 postings from the last 6 days.
+81 postings from the last 6 days.
 
 ## Internships (4)
 
@@ -11,19 +11,21 @@
 | The Nuclear Company | Fall 2026 AI Software Engineer Intern: Build Production NOS | Washington, District of Columbia, USA | JSearch | not_applied | [Apply](https://bebee.com/us/jobs/fall-2026-ai-software-engineer-intern-build-production-nos-the-nuclear-company-washington--pureheal-28528_25298_1f9757aab41157bb4de2e75a29e73577-2081861951) | 5d |
 | Assured Guaranty | Fall 2026 Intern - Product Software Developer | New York, NY, United States | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/assuredguaranty/jobs/8700953002?gh_jid=8700953002) | 5d |
 
-## Full-Time (75)
+## Full-Time (77)
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
+| Sony Interactive Entertainment | Software Development Engineer in Test II - Contractor | United States, San Mateo, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6145023004) | 0d |
+| PlayStation | Software Development Engineer in Test II - Contractor | United States, San Mateo, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6145023004) | 0d |
 | Cook Systems | Entry-Level Software Developer  | Nashville, TN | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/cooksys/jobs/5386869008) | 0d |
 | Syncreon Consulting | MeSH Developer - NLM/UMLS/MeSH + software development - W2 Position  | Bethesda, MD, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/SyncreonConsulting/744000143932549-mesh-developer-nlm-umls-mesh-software-development-w2-position-) | 0d |
 | Anthropic | Software Engineer, Research Data Platform | San Francisco, CA \| New York City, NY | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5191226008) | 0d |
 | Gusto | Software Engineer,  AI Developer Tools | San Francisco, CA - Hybrid | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/gusto/jobs/7947684) | 0d |
 | Woongjin | Backend Engineer _ AI Gateway- Bilingual (Korean/ English) | Plano, TX, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WJCompany/744000143894039-backend-engineer-ai-gateway-bilingual-korean-english-) | 0d |
-| DiDi Global | Software Engineer – Motion Planning  | San Jose, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/didi/jobs/8131865) | 0d |
+| DiDi Global | Software Engineer – Motion Planning  | San Jose, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/didi/jobs/8131865) | 1d |
+| Daikin Applied | Application Software Dev I | Plymouth, MN 55441 | Workday | not_applied | [Apply](https://daikinapplied.wd1.myworkdayjobs.com/Daikin-Careers/job/Plymouth-MN-55441/Application-Software-Dev-I_R003698) | 1d |
 | Watts Water | Production Engineer | Fort Myers, FL | Workday | not_applied | [Apply](https://wattswater.wd5.myworkdayjobs.com/External/job/Fort-Myers-FL/Production-Engineer_10017361) | 1d |
 | Light & Wonder | Software Development Engineer in Test | Reno, NV | Workday | not_applied | [Apply](https://lnw.wd5.myworkdayjobs.com/LightWonderExternalCareers/job/Reno-NV/Software-Development-Engineer-in-Test_R322613) | 1d |
-| Daikin Applied | Application Software Dev I | Plymouth, MN 55441 | Workday | not_applied | [Apply](https://daikinapplied.wd1.myworkdayjobs.com/Daikin-Careers/job/Plymouth-MN-55441/Application-Software-Dev-I_R003698) | 1d |
 | Jewel-Osco | Front End Entry Level | Lemont, Illinois, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-jewel-osco-4455153639) | 2d |
 | Sigma Computing | Software Engineer (New Grad Program) | San Francisco, California, USA | JSearch | not_applied | [Apply](https://www.builtinsf.com/job/software-engineer-new-grad-program/9906099) | 2d |
 | Atoms | Software Engineer, Onboard | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8717657002) | 3d |
@@ -39,7 +41,7 @@
 | Verisign | Java Software Engineer | Reston,Virginia,United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/verisign/jobs/7803020003) | 3d |
 | Torc Robotics | Software Engineer II - Fleet Enablement & Insights (Annotation Platform) | Ann Arbor, MI, Fort Worth, TX, Blacksburg, VA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/torcrobotics/jobs/8611479002) | 3d |
 | Commure | Backend Engineer, Ambient AI | Mountain View, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/Commure/0dca4f2e-2f5c-4b27-98ac-d644c7aa45cc) | 4d |
-| Meta | AI Software Engineer, Systems ML - Wearables AI | Seattle, Washington, USA | JSearch | not_applied | [Apply](https://www.metacareers.com/profile/job_details/2236774387100356/) | 4d |
+| Ferrovial | Webber - FrontEnd Loader Operator - Heavy Civil | Houston, TX | Workday | not_applied | [Apply](https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Houston-TX/Webber---FrontEnd-Loader-Operator---Heavy-Civil_JR18754) | 4d |
 | Magna International | Production Engineering Technician | Guelph, Ontario, CA | Workday | not_applied | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Guelph-Ontario-CA/Production-Engineering-Technician_R00255394) | 4d |
 | NVIDIA | Software Engineer, Deep Learning Libraries - New College Graduate 2026 | US, CA, Santa Clara | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Deep-Learning-Libraries---New-College-Graduate-2026_JR2023252) | 4d |
 | Fidelity Investments | July 2027 - Leap Software Engineer | Westlake, TX | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/targeted/job/Westlake-TX/July-2027---Leap-Software-Engineer_2133877) | 4d |
@@ -47,7 +49,6 @@
 | Fidelity Investments | January 2027 - Leap Software Engineer | Westlake, TX | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/targeted/job/Westlake-TX/January-2027---Leap-Software-Engineer_2133859) | 4d |
 | Harris Computer | Software Engineer II | Tennessee, United States | Workday | not_applied | [Apply](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Tennessee-United-States/Software-Engineer-II_R0045600) | 4d |
 | Insperity | Associate Software Implementation Analyst | Kingwood, TX | Workday | not_applied | [Apply](https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Associate-Software-Implementation-Analyst_JR103087) | 4d |
-| Ferrovial | Webber - FrontEnd Loader Operator - Heavy Civil | Houston, TX | Workday | not_applied | [Apply](https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Houston-TX/Webber---FrontEnd-Loader-Operator---Heavy-Civil_JR18754) | 4d |
 | Amazon | Software Development Engineer, Playback Team | Cambridge, Massachusetts, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10502721/apply) | 4d |
 | PROS Holdings, Inc. | AI Software Engineer – Enterprise Productivity | USA TX Houston Office | Workday | not_applied | [Apply](https://pros.wd5.myworkdayjobs.com/PROS_Careers/job/USA-TX-Houston-Office/AI-Software-Engineer---Enterprise-Productivity_R3594) | 4d |
 | Crowdstrike | Software Engineer - Linux Sensor (Hybrid) | USA - Sunnyvale, CA | Workday | not_applied | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Software-Engineer---Linux-Sensor--Hybrid-_R27317) | 4d |
@@ -55,6 +56,7 @@
 | University Corporation for Atmospheric Research | CESM Software Engineer I | Boulder, CO | Workday | not_applied | [Apply](https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/CESM-Software-Engineer-I_REQ-2026-117-1) | 4d |
 | Cisco | QA Software Engineer NC Hybrid | RTP, North Carolina, US | Workday | not_applied | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/QA-Software-Engineer-NC-Hybrid_2021019) | 4d |
 | Wolverine Trading | Entry Level C++ Software Engineer (December 2026 Graduates) | Chicago, Illinois, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/entry-level-c%2B%2B-software-engineer-december-2026-graduates-at-wolverine-trading-4453719658) | 4d |
+| Meta | AI Software Engineer, Systems ML - Wearables AI | Seattle, Washington, USA | JSearch | not_applied | [Apply](https://www.metacareers.com/profile/job_details/2236774387100356/) | 4d |
 | Robinhood | Software Engineer, Proactive Capabilities | Bellevue, WA; Menlo Park, CA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/robinhood/jobs/8067604?t=gh_src=&gh_jid=8067604) | 4d |
 | Sierra | Software Engineer, Agent - Tech, Media & Telecom | San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/Sierra/4472e6c2-fe4e-4540-a37c-68b9367fe02a) | 4d |
 | Allen Control Systems | Software Engineer, Platform Scourge  | San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/allen-control-systems/a9a746a3-556c-4c28-9ee9-707872cacd3c) | 4d |
@@ -65,19 +67,19 @@
 | LinkedIn | Software Engineer - Personalization Platform (Frontend) | Mountain View, CA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000143323080-software-engineer-personalization-platform-frontend-) | 4d |
 | Interco | Junior Software Developer | St. Louis, MO, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Interco/744000143308264-junior-software-developer) | 4d |
 | UL Solutions | Associate Software Engineer | California, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/associate-software-engineer-at-ul-solutions-4450418148) | 5d |
-| Applied Materials | 2027 Software Engineer (DevOps), New College Grad - Bachelor's (Gloucester, MA) | Gloucester,MA | Workday | not_applied | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Software-Engineer--DevOps---New-College-Grad---Bachelor-s--Gloucester--MA-_R2625762) | 5d |
-| Safeway | Front-End Entry-Level: Learn, Grow, Delight Customers | Manassas, Virginia, USA | JSearch | not_applied | [Apply](https://bebee.com/us/jobs/front-end-entry-level-learn-grow-delight-customers-safeway-manassas--lensa-7428_3ceda2afa73cc44796e120b172b75c72301726f773e7635b204bfab860865db3) | 5d |
-| Texas A&M University System | Software Applications Developer/Programmer III - AI/ML | Corpus Christi, TX | Workday | not_applied | [Apply](https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Corpus-Christi-TX/Software-Applications-Developer-Programmer-III---AI-ML_R-095952-2) | 5d |
-| Niagara Bottling | AI Software Engineer II (Company Production Systems) | Corp-Main - Diamond Bar, CA | Workday | not_applied | [Apply](https://niagarawater.wd5.myworkdayjobs.com/Niagara/job/Corp-Main---Diamond-Bar-CA/Software-Engineer-II---Middleware-Development---Integrations_R52424) | 5d |
-| Ivy Tech Community College | Adjunct Faculty – Software Development | Indianapolis, IN | Workday | not_applied | [Apply](https://ivytech.wd1.myworkdayjobs.com/Ivy_Tech_Careers/job/Indianapolis-IN/Adjunct-Faculty---Software-Development_JR0000109332) | 5d |
-| Humana | XIAM Software Engineer 2 | Louisville, KY | Workday | not_applied | [Apply](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/XIAM-Software-Engineer-2_R-424720) | 5d |
-| Cigna Group | Technology Development Program (TECDP) - Software Engineering Track | Bloomfield, CT | Workday | not_applied | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Technology-Development-Program--TECDP----Software-Engineering-Track_26009523) | 5d |
 | Amazon | Software Development Engineer, Android | Cambridge, Massachusetts, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10501178/apply) | 5d |
 | Acme Markets | Front End Entry Level | New Canaan, Connecticut, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-acme-markets-4453396698) | 5d |
-| Lennar Corporation | Software Engineer I | Miami, FL (Job Posting Location) | Workday | not_applied | [Apply](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Job-Posting-Location/Software-Engineer-I_R26_0000003608) | 5d |
-| Albertsons Companies | Front End Entry Level | Apple Valley, California, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-albertsons-companies-4453603587) | 5d |
 | NVIDIA | Software Engineer, System Validation - EDA Infrastructure | US, CA, Santa Clara | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Next-Generation-Architecture---EDA-Infrastructure_JR2014880) | 5d |
+| Cigna Group | Technology Development Program (TECDP) - Software Engineering Track | Bloomfield, CT | Workday | not_applied | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Technology-Development-Program--TECDP----Software-Engineering-Track_26009523) | 5d |
 | Texas A&M University - Corpus Christi | Software Applications Developer/Programmer III - AI/ML | Corpus Christi, TX | Workday | not_applied | [Apply](https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Software-Applications-Developer-Programmer-III---AI-ML_R-095952) | 5d |
+| Texas A&M University System | Software Applications Developer/Programmer III - AI/ML | Corpus Christi, TX | Workday | not_applied | [Apply](https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Corpus-Christi-TX/Software-Applications-Developer-Programmer-III---AI-ML_R-095952-2) | 5d |
+| Humana | XIAM Software Engineer 2 | Louisville, KY | Workday | not_applied | [Apply](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/XIAM-Software-Engineer-2_R-424720) | 5d |
+| Niagara Bottling | AI Software Engineer II (Company Production Systems) | Corp-Main - Diamond Bar, CA | Workday | not_applied | [Apply](https://niagarawater.wd5.myworkdayjobs.com/Niagara/job/Corp-Main---Diamond-Bar-CA/Software-Engineer-II---Middleware-Development---Integrations_R52424) | 5d |
+| Albertsons Companies | Front End Entry Level | Apple Valley, California, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-albertsons-companies-4453603587) | 5d |
+| Ivy Tech Community College | Adjunct Faculty – Software Development | Indianapolis, IN | Workday | not_applied | [Apply](https://ivytech.wd1.myworkdayjobs.com/Ivy_Tech_Careers/job/Indianapolis-IN/Adjunct-Faculty---Software-Development_JR0000109332) | 5d |
+| Safeway | Front-End Entry-Level: Learn, Grow, Delight Customers | Manassas, Virginia, USA | JSearch | not_applied | [Apply](https://bebee.com/us/jobs/front-end-entry-level-learn-grow-delight-customers-safeway-manassas--lensa-7428_3ceda2afa73cc44796e120b172b75c72301726f773e7635b204bfab860865db3) | 5d |
+| Applied Materials | 2027 Software Engineer (DevOps), New College Grad - Bachelor's (Gloucester, MA) | Gloucester,MA | Workday | not_applied | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Software-Engineer--DevOps---New-College-Grad---Bachelor-s--Gloucester--MA-_R2625762) | 5d |
+| Lennar Corporation | Software Engineer I | Miami, FL (Job Posting Location) | Workday | not_applied | [Apply](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Job-Posting-Location/Software-Engineer-I_R26_0000003608) | 5d |
 | Cranial Technologies, Inc. | Site Reliability Software Engineer (Hybrid) | Tempe, Arizona, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/site-reliability-software-engineer-hybrid-at-cranial-technologies-inc-4450195741) | 5d |
 | Anthropic | Software Engineer, Infrastructure, Interpretability | San Francisco, CA \| New York City, NY | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5388612008) | 5d |
 | General Matter | Software Engineer (New Grad)  | Los Angeles, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5375987008) | 5d |
