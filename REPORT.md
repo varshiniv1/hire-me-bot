@@ -41,7 +41,7 @@
 | Daikin Applied | Application Software Dev I | Plymouth, MN 55441 | Workday | not_applied | [Apply](https://daikinapplied.wd1.myworkdayjobs.com/Daikin-Careers/job/Plymouth-MN-55441/Application-Software-Dev-I_R003698) | 2d |
 | Jewel-Osco | Front End Entry Level | Lemont, Illinois, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-jewel-osco-4455153639) | 3d |
 | Sigma Computing | Software Engineer (New Grad Program) | San Francisco, California, USA | JSearch | not_applied | [Apply](https://www.builtinsf.com/job/software-engineer-new-grad-program/9906099) | 3d |
-| Atoms | Software Engineer, Onboard | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8717657002) | 3d |
+| Atoms | Software Engineer, Onboard | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8717657002) | 4d |
 | Woongjin | Backend Engineer _ AI Gateway (Bilingual Korean/ English) | Englewood Cliffs, NJ, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WJCompany/744000143616099-backend-engineer-ai-gateway-bilingual-korean-english-) | 4d |
 | Eataly | Order Fulfillment Associate/Front End Cashier (Full-Time) - Eataly Chicago | Chicago, IL, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Eataly/744000143611249-order-fulfillment-associate-front-end-cashier-full-time-eataly-chicago) | 4d |
 | Woongjin | Java Full-Stack Developer - Bilingual (Korean/ English) | Santa Ana, CA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WJCompany/744000143609052-java-full-stack-developer-bilingual-korean-english-) | 4d |
