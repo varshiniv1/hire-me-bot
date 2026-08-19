@@ -1,23 +1,26 @@
 # Job Postings Report
 
-88 postings from the last 6 days.
+91 postings from the last 6 days.
 
 ## Internships (6)
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
-| NVIDIA | NVIDIA 2027 Internships: Systems Software Engineering | US, CA, Santa Clara | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492) | 0d |
 | NVIDIA | NVIDIA 2027 Internships: Software Engineering | US, CA, Santa Clara | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | 0d |
+| NVIDIA | NVIDIA 2027 Internships: Systems Software Engineering | US, CA, Santa Clara | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492) | 0d |
 | Draper | Full Stack Web Development Co-Op (Spring 2027) | Cambridge, MA | Workday | not_applied | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Full-Stack-Web-Development-Co-Op--Spring-2027-_JR002832-1) | 1d |
 | The Nuclear Company | AI Software Engineer Intern — Build AI-Powered NOS Features | Washington, District of Columbia, USA | JSearch | not_applied | [Apply](https://bebee.com/us/jobs/ai-software-engineer-intern-build-ai-powered-nos-features-the-nuclear-company-washington--pureheal-28528_25298_0a88bd843872938e3e46b8abed3b8917) | 3d |
 | TransMarket Group | Software Engineering Intern | Chicago, Illinois, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/transmarketgroup/jobs/5212335007?gh_jid=5212335007) | 4d |
 | Interco | Paid Internship -- Software Development -- React  | St. Louis, MO, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Interco/744000143346169-paid-internship-software-development-react-) | 5d |
 
-## Full-Time (82)
+## Full-Time (85)
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
+| OpenGov | Software Engineer I | US \| Massachusetts \| Boston | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/opengov/28f7fa5e-1706-4696-a64d-ee38a888ab53) | 0d |
+| OpenGov | Software Engineer I | US \| Massachusetts \| Boston | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/opengov/608b9ab5-df88-4e42-813c-131c3d783172) | 0d |
 | Dyna Robotics | Exceptional Software Engineer | Redwood City, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/dyna-robotics/9f1fb776-9d59-4725-9749-6a529cbdfada) | 0d |
+| Air Liquide | Production Engineer | Mount Bethel, PA - Advanced materials - PA2 | Workday | not_applied | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Mount-Bethel-PA---Advanced-materials---PA2/Production-Engineer_R10097595-1) | 0d |
 | Kairos Power | Software Engineer, Cyber Physical Systems | Alameda, CA or Albuquerque, NM | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/kairospower/jobs/6093018004) | 0d |
 | Anthropic | Front End Engineer, Marketing | San Francisco, CA \| New York City, NY | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5386971008) | 0d |
 | NiCE | IT Software Engineer | USA - Atlanta, GA; USA - Hoboken, NJ; USA - Sandy, UT | Greenhouse | not_applied | [Apply](https://boards.eu.greenhouse.io/nice/jobs/4862935101?gh_jid=4862935101) | 0d |
@@ -42,16 +45,16 @@
 | Gusto | Software Engineer,  AI Developer Tools | San Francisco, CA - Hybrid | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/gusto/jobs/7947684) | 1d |
 | Woongjin | Backend Engineer _ AI Gateway- Bilingual (Korean/ English) | Plano, TX, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WJCompany/744000143894039-backend-engineer-ai-gateway-bilingual-korean-english-) | 1d |
 | DiDi Global | Software Engineer – Motion Planning  | San Jose, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/didi/jobs/8131865) | 2d |
-| Light & Wonder | Software Development Engineer in Test | Reno, NV | Workday | not_applied | [Apply](https://lnw.wd5.myworkdayjobs.com/LightWonderExternalCareers/job/Reno-NV/Software-Development-Engineer-in-Test_R322613) | 2d |
 | Watts Water | Production Engineer | Fort Myers, FL | Workday | not_applied | [Apply](https://wattswater.wd5.myworkdayjobs.com/External/job/Fort-Myers-FL/Production-Engineer_10017361) | 2d |
+| Light & Wonder | Software Development Engineer in Test | Reno, NV | Workday | not_applied | [Apply](https://lnw.wd5.myworkdayjobs.com/LightWonderExternalCareers/job/Reno-NV/Software-Development-Engineer-in-Test_R322613) | 2d |
 | Daikin Applied | Application Software Dev I | Plymouth, MN 55441 | Workday | not_applied | [Apply](https://daikinapplied.wd1.myworkdayjobs.com/Daikin-Careers/job/Plymouth-MN-55441/Application-Software-Dev-I_R003698) | 2d |
 | Daikin Applied | Application Software Developer I | Plymouth, MN 55441 | Workday | not_applied | [Apply](https://daikinapplied.wd1.myworkdayjobs.com/Daikin-Careers/job/Plymouth-MN-55441/Application-Software-Developer-I_R003697-1) | 2d |
-| Eagle Eye Networks | Software Engineer- NEW GRAD | Bethesda, Maryland, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-eagle-eye-networks-4455362030) | 2d |
 | Eagle Eye Networks | Software Engineer- NEW GRAD | Bethesda, Maryland, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-eagle-eye-networks-4455362030) | 2d |
 | Albertsons Companies | Front End Entry Level | Vista, California, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-albertsons-companies-4455541609) | 2d |
 | Acme Markets | Front End Entry Level | Port Chester, New York, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-acme-markets-4455341550) | 2d |
 | Albertsons Companies | Front End Entry Level | Port Orchard, Washington, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-albertsons-companies-4455525675) | 2d |
 | Safeway | Front End Entry Level | Pacific Grove, California, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-safeway-4455546488) | 2d |
+| Eagle Eye Networks | Software Engineer- NEW GRAD | Bethesda, Maryland, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-eagle-eye-networks-4455362030) | 2d |
 | Jewel-Osco | Front End Entry Level | Lemont, Illinois, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-jewel-osco-4455153639) | 3d |
 | Sigma Computing | Software Engineer (New Grad Program) | San Francisco, California, USA | JSearch | not_applied | [Apply](https://www.builtinsf.com/job/software-engineer-new-grad-program/9906099) | 3d |
 | Atoms | Software Engineer, Onboard | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8717657002) | 4d |
@@ -62,10 +65,10 @@
 | Woongjin | Java Full-Stack Developer - Bilingual (Korean/ English) | Santa Ana, CA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WJCompany/744000143609052-java-full-stack-developer-bilingual-korean-english-) | 4d |
 | Lila Sciences | Finance Business Partner, AI & Software | Cambridge, MA USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4359832009) | 4d |
 | Twitch | Software Engineer I, Payments | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8700578002) | 4d |
-| Robert Bosch | Software Engineer, Vehicle Diagnostics | Owatonna, MN, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000143562859-software-engineer-vehicle-diagnostics) | 4d |
-| Robert Bosch Venture Capital | Software Engineer, Vehicle Diagnostics | Owatonna, MN, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000143562859-software-engineer-vehicle-diagnostics) | 4d |
 | Bosch | Software Engineer, Vehicle Diagnostics | Owatonna, MN, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000143562859-software-engineer-vehicle-diagnostics) | 4d |
 | Bosch Group | Software Engineer, Vehicle Diagnostics | Owatonna, MN, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000143562859-software-engineer-vehicle-diagnostics) | 4d |
+| Robert Bosch | Software Engineer, Vehicle Diagnostics | Owatonna, MN, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000143562859-software-engineer-vehicle-diagnostics) | 4d |
+| Robert Bosch Venture Capital | Software Engineer, Vehicle Diagnostics | Owatonna, MN, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000143562859-software-engineer-vehicle-diagnostics) | 4d |
 | Verisign | Java Software Engineer | Reston,Virginia,United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/verisign/jobs/7803020003) | 4d |
 | Torc Robotics | Software Engineer II - Fleet Enablement & Insights (Annotation Platform) | Ann Arbor, MI, Fort Worth, TX, Blacksburg, VA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/torcrobotics/jobs/8611479002) | 4d |
 | Commure | Backend Engineer, Ambient AI | Mountain View, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/Commure/0dca4f2e-2f5c-4b27-98ac-d644c7aa45cc) | 5d |
@@ -73,24 +76,24 @@
 | Fidelity Investments | January 2027 - Leap Software Engineer | Westlake, TX | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/targeted/job/Westlake-TX/January-2027---Leap-Software-Engineer_2133859) | 5d |
 | Fidelity Investments | April 2027 - Leap Software Engineer | Westlake, TX | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/targeted/job/Westlake-TX/April-2027---Leap-Software-Engineer_2133870) | 5d |
 | Fidelity Investments | July 2027 - Leap Software Engineer | Westlake, TX | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/targeted/job/Westlake-TX/July-2027---Leap-Software-Engineer_2133877) | 5d |
+| Ferrovial | Webber - FrontEnd Loader Operator - Heavy Civil | Houston, TX | Workday | not_applied | [Apply](https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Houston-TX/Webber---FrontEnd-Loader-Operator---Heavy-Civil_JR18754) | 5d |
 | NVIDIA | Software Engineer, Deep Learning Libraries - New College Graduate 2026 | US, CA, Santa Clara | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Deep-Learning-Libraries---New-College-Graduate-2026_JR2023252) | 5d |
 | Magna International | Production Engineering Technician | Guelph, Ontario, CA | Workday | not_applied | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Guelph-Ontario-CA/Production-Engineering-Technician_R00255394) | 5d |
-| Cisco | QA Software Engineer NC Hybrid | RTP, North Carolina, US | Workday | not_applied | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/QA-Software-Engineer-NC-Hybrid_2021019) | 5d |
+| Meta | AI Software Engineer, Systems ML - Wearables AI | Seattle, Washington, USA | JSearch | not_applied | [Apply](https://www.metacareers.com/profile/job_details/2236774387100356/) | 5d |
+| Insperity | Associate Software Implementation Analyst | Kingwood, TX | Workday | not_applied | [Apply](https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Associate-Software-Implementation-Analyst_JR103087) | 5d |
 | Teksyntax Inc. | Entry-Level Java Fullstack Developer \| Training & Sponsorship | Reston, Virginia, USA | JSearch | not_applied | [Apply](https://bebee.com/us/jobs/entry-level-java-fullstack-developer-training-sponsorship-teksyntax-inc-reston--pureheal-28528_25298_d08e1aef47d0d2d4d30ebfecce1c014c) | 5d |
-| University Corporation for Atmospheric Research | CESM Software Engineer I | Boulder, CO | Workday | not_applied | [Apply](https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/CESM-Software-Engineer-I_REQ-2026-117-1) | 5d |
-| University Corporation for Atmospheric Research | CESM Software Engineer II | Boulder, CO | Workday | not_applied | [Apply](https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/CESM-Software-Engineer-II_REQ-2026-116-1) | 5d |
-| Safeway | Front-End Entry Level - Learn, Grow & Delight Customers | California, USA | JSearch | not_applied | [Apply](https://bebee.com/us/jobs/front-end-entry-level-learn-grow-delight-customers-safeway-santa-rosa--lensa-7428_9729f8c1037504fd208580b650881e1456c333d72bfe7316c1a95efabb921fb4) | 5d |
 | Stolution | Frontend Developer (Entry Level) — Growth & Perks | Chapin, South Carolina, USA | JSearch | not_applied | [Apply](https://bebee.com/us/jobs/frontend-developer-entry-level-growth-perks-stolution-chapin--pureheal-28528_23106_2bfc5a2a1708bb981a2df768554d243b) | 5d |
+| Crowdstrike | Software Engineer - Linux Sensor (Hybrid) | USA - Sunnyvale, CA | Workday | not_applied | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Software-Engineer---Linux-Sensor--Hybrid-_R27317) | 5d |
+| University Corporation for Atmospheric Research | CESM Software Engineer II | Boulder, CO | Workday | not_applied | [Apply](https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/CESM-Software-Engineer-II_REQ-2026-116-1) | 5d |
+| University Corporation for Atmospheric Research | CESM Software Engineer I | Boulder, CO | Workday | not_applied | [Apply](https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/CESM-Software-Engineer-I_REQ-2026-117-1) | 5d |
+| Cisco | QA Software Engineer NC Hybrid | RTP, North Carolina, US | Workday | not_applied | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/QA-Software-Engineer-NC-Hybrid_2021019) | 5d |
+| Wolverine Trading | Entry Level C++ Software Engineer (December 2026 Graduates) | Chicago, Illinois, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/entry-level-c%2B%2B-software-engineer-december-2026-graduates-at-wolverine-trading-4453719658) | 5d |
+| Meta | Compiler Engineer, MTIA Software (Technical Leadership) | New York, New York, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/compiler-engineer-mtia-software-technical-leadership-at-meta-4451231908) | 5d |
+| PROS Holdings, Inc. | AI Software Engineer – Enterprise Productivity | USA TX Houston Office | Workday | not_applied | [Apply](https://pros.wd5.myworkdayjobs.com/PROS_Careers/job/USA-TX-Houston-Office/AI-Software-Engineer---Enterprise-Productivity_R3594) | 5d |
 | TSC | Entry-Level Software Engineer – Naval Radar M&S | Silver Spring, Maryland, USA | JSearch | not_applied | [Apply](https://bebee.com/us/jobs/entry-level-software-engineer-naval-radar-ms-tsc-silver-spring--pureheal-28528_25298_86795d06e00bd28472acbe01f9a6c189) | 5d |
 | Next Century Corporation | Entry Level Software Engineer - Flexible Hours | Maryland, USA | JSearch | not_applied | [Apply](https://bebee.com/us/jobs/entry-level-software-engineer-flexible-hours-next-century-corporation--pureheal-28528_25298_7971f2020497b6aefe67c032725b861c) | 5d |
-| Crowdstrike | Software Engineer - Linux Sensor (Hybrid) | USA - Sunnyvale, CA | Workday | not_applied | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Software-Engineer---Linux-Sensor--Hybrid-_R27317) | 5d |
-| PROS Holdings, Inc. | AI Software Engineer – Enterprise Productivity | USA TX Houston Office | Workday | not_applied | [Apply](https://pros.wd5.myworkdayjobs.com/PROS_Careers/job/USA-TX-Houston-Office/AI-Software-Engineer---Enterprise-Productivity_R3594) | 5d |
-| Ferrovial | Webber - FrontEnd Loader Operator - Heavy Civil | Houston, TX | Workday | not_applied | [Apply](https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Houston-TX/Webber---FrontEnd-Loader-Operator---Heavy-Civil_JR18754) | 5d |
-| Wolverine Trading | Entry Level C++ Software Engineer (December 2026 Graduates) | Chicago, Illinois, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/entry-level-c%2B%2B-software-engineer-december-2026-graduates-at-wolverine-trading-4453719658) | 5d |
-| Insperity | Associate Software Implementation Analyst | Kingwood, TX | Workday | not_applied | [Apply](https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Associate-Software-Implementation-Analyst_JR103087) | 5d |
 | Amazon | Software Development Engineer, Playback Team | Cambridge, Massachusetts, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10502721/apply) | 5d |
-| Meta | Compiler Engineer, MTIA Software (Technical Leadership) | New York, New York, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/compiler-engineer-mtia-software-technical-leadership-at-meta-4451231908) | 5d |
-| Meta | AI Software Engineer, Systems ML - Wearables AI | Seattle, Washington, USA | JSearch | not_applied | [Apply](https://www.metacareers.com/profile/job_details/2236774387100356/) | 5d |
+| Safeway | Front-End Entry Level - Learn, Grow & Delight Customers | California, USA | JSearch | not_applied | [Apply](https://bebee.com/us/jobs/front-end-entry-level-learn-grow-delight-customers-safeway-santa-rosa--lensa-7428_9729f8c1037504fd208580b650881e1456c333d72bfe7316c1a95efabb921fb4) | 5d |
 | Robinhood | Software Engineer, Proactive Capabilities | Bellevue, WA; Menlo Park, CA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/robinhood/jobs/8067604?t=gh_src=&gh_jid=8067604) | 5d |
 | Sierra | Software Engineer, Agent - Tech, Media & Telecom | San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/Sierra/4472e6c2-fe4e-4540-a37c-68b9367fe02a) | 5d |
 | Allen Control Systems | Software Engineer, Platform Scourge  | San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/allen-control-systems/a9a746a3-556c-4c28-9ee9-707872cacd3c) | 5d |
