@@ -85,7 +85,7 @@
 | TJX | Front End Supervisor & Head Cashier | Gilford, NH 03249 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Gilford-NH-03249/Front-End-Supervisor---Head-Cashier_REQ146513) | 4d |
 | Sigma Computing | Software Engineer (New Grad Program) | San Francisco, California, USA | JSearch | not_applied | [Apply](https://www.builtinsf.com/job/software-engineer-new-grad-program/9906099) | 4d |
 | Jewel-Osco | Front End Entry Level | Lemont, Illinois, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-jewel-osco-4455153639) | 4d |
-| Atoms | Software Engineer, Onboard | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8717657002) | 4d |
+| Atoms | Software Engineer, Onboard | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8717657002) | 5d |
 | Sigma Computing | Software Engineer (New Grad Program) | San Francisco, California, USA | JSearch | not_applied | [Apply](https://www.builtinsf.com/job/software-engineer-new-grad-program/9906099) | 5d |
 | TJX | Customer Experience / Front End Coordinator | Red Bluff, CA 96080 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Red-Bluff-CA-96080/Customer-Experience---Front-End-Coordinator_REQ146403-1) | 5d |
 | Cox Automotive | Entry Level Software Engineer Carmel, IN | Brownsburg, Indiana, USA | JSearch | not_applied | [Apply](https://www.ziprecruiter.com/c/Cox-Automotive/Job/Entry-Level-Software-Engineer-Carmel,-IN/-in-Brownsburg,IN?jid=e7e043dff5f67d15) | 5d |
