@@ -46,8 +46,8 @@
 | The New York Times | Associate Newsroom Software Engineer, Interactive News﻿﻿ | New York, NY | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4721982005) | 1d |
 | Relativity Space | AI Software Engineer | Long Beach, California, United States | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/relativity/jobs/8726261002?gh_jid=8726261002) | 1d |
 | Atoms | Full Stack Engineer | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8727038002) | 1d |
-| Sony Interactive Entertainment | Software Development Engineer in Test II - Contractor | United States, San Mateo, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6145023004) | 1d |
-| PlayStation | Software Development Engineer in Test II - Contractor | United States, San Mateo, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6145023004) | 1d |
+| Sony Interactive Entertainment | Software Development Engineer in Test II - Contractor | United States, San Mateo, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6145023004) | 2d |
+| PlayStation | Software Development Engineer in Test II - Contractor | United States, San Mateo, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6145023004) | 2d |
 | Cook Systems | Entry-Level Software Developer  | Nashville, TN | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/cooksys/jobs/5386869008) | 2d |
 | NVIDIA | Software Security Compiler Engineer | US, CA, Santa Clara | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Security-Compiler-Engineer_JR2013937) | 2d |
 | U.S. Bank | Software Engineer 2 (Cobol, DB2 , JCL, VSAM , CICS) | Brookfield, WI | Workday | not_applied | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Brookfield-WI/Software-Engineer-2--Cobol--DB2---JCL--VSAM---CICS-_2026-0020558) | 2d |
@@ -63,7 +63,7 @@
 | Anthropic | Software Engineer, Research Data Platform | San Francisco, CA \| New York City, NY | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5191226008) | 2d |
 | Gusto | Software Engineer,  AI Developer Tools | San Francisco, CA - Hybrid | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/gusto/jobs/7947684) | 2d |
 | Woongjin | Backend Engineer _ AI Gateway- Bilingual (Korean/ English) | Plano, TX, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WJCompany/744000143894039-backend-engineer-ai-gateway-bilingual-korean-english-) | 2d |
-| DiDi Global | Software Engineer – Motion Planning  | San Jose, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/didi/jobs/8131865) | 2d |
+| DiDi Global | Software Engineer – Motion Planning  | San Jose, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/didi/jobs/8131865) | 3d |
 | Eagle Eye Networks | Software Engineer- NEW GRAD | Bethesda, Maryland, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-eagle-eye-networks-4455362030) | 3d |
 | Acme Markets | Front End Entry Level | Port Chester, New York, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-acme-markets-4455341550) | 3d |
 | Albertsons Companies | Front End Entry Level | Vista, California, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-albertsons-companies-4455541609) | 3d |
