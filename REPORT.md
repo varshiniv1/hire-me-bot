@@ -25,7 +25,7 @@
 | Twilio | Software Engineer L2-Messaging API | Remote - US | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7816159) | 0d |
 | Oklo | Software Engineer (Applied AI/ML) | Santa Clara, CA or Remote | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/oklo/jobs/6150355004) | 0d |
 | iSpot.tv | Software Development Engineer 1 | Bellevue, WA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/ispottv/jobs/4708631005) | 0d |
-| GitLab | Fullstack Engineer (TypeScript), AI Engineering: Duo Client SDK | Remote, Canada; Remote, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8698330002) | 0d |
+| GitLab | Fullstack Engineer (TypeScript), AI Engineering: Duo Client SDK | Remote, Canada; Remote, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8698330002) | 1d |
 | KION Group | Software Support Engineer | Grand Rapids, MI, United States | Workday | not_applied | [Apply](https://kiongroup.wd3.myworkdayjobs.com/KIONGroup/job/Grand-Rapids-MI-United-States/Software-Support-Engineer_JR-0091456-1) | 1d |
 | Ken Garff Auto Group | Dealership Software Specialist | Garff Enterprises Corporate Office - Salt Lake City, UT | Workday | not_applied | [Apply](https://kengarff.wd1.myworkdayjobs.com/External_Site/job/Garff-Enterprises-Corporate-Office---Salt-Lake-City-UT/Dealership-Software-Specialist_R0043298) | 1d |
 | Amazon | Software Development Engineer, Security Platform, Security Platform | San Francisco, California, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10510816/apply) | 1d |
@@ -53,7 +53,7 @@
 | LinkedIn | Fullstack Engineer- Personalization Platform | Mountain View, CA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000144363549-fullstack-engineer-personalization-platform) | 2d |
 | OpenGov | Software Engineer I | US \| Massachusetts \| Boston | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/opengov/28f7fa5e-1706-4696-a64d-ee38a888ab53) | 2d |
 | OpenGov | Software Engineer I | US \| Massachusetts \| Boston | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/opengov/608b9ab5-df88-4e42-813c-131c3d783172) | 2d |
-| Dyna Robotics | Exceptional Software Engineer | Redwood City, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/dyna-robotics/9f1fb776-9d59-4725-9749-6a529cbdfada) | 2d |
+| Dyna Robotics | Exceptional Software Engineer | Redwood City, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/dyna-robotics/9f1fb776-9d59-4725-9749-6a529cbdfada) | 3d |
 | Air Liquide | Production Engineer | Mount Bethel, PA - Advanced materials - PA2 | Workday | not_applied | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Mount-Bethel-PA---Advanced-materials---PA2/Production-Engineer_R10097595-1) | 3d |
 | Air Liquide | Production Engineer | Upper Mount Bethel, PA - Advanced materials - UMB | Workday | not_applied | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Upper-Mount-Bethel-PA---Advanced-materials---UMB/Production-Engineer_R10097594) | 3d |
 | ASML | Optical Fabrication Technicians: CWW Front End Nights (6:00pm-6:00am Sunday-Tuesday, every other Saturday) 15 % Differential | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technicians--CWW-Front-End-Nights--6-00pm-6-00am-Sunday-Tuesday--every-other-Saturday--15---Differential_J-00350030) | 3d |
@@ -78,8 +78,8 @@
 | The New York Times | Associate Newsroom Software Engineer, Interactive News﻿﻿ | New York, NY | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4721982005) | 3d |
 | Relativity Space | AI Software Engineer | Long Beach, California, United States | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/relativity/jobs/8726261002?gh_jid=8726261002) | 3d |
 | Atoms | Full Stack Engineer | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8727038002) | 3d |
-| Sony Interactive Entertainment | Software Development Engineer in Test II - Contractor | United States, San Mateo, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6145023004) | 3d |
-| PlayStation | Software Development Engineer in Test II - Contractor | United States, San Mateo, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6145023004) | 3d |
+| Sony Interactive Entertainment | Software Development Engineer in Test II - Contractor | United States, San Mateo, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6145023004) | 4d |
+| PlayStation | Software Development Engineer in Test II - Contractor | United States, San Mateo, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6145023004) | 4d |
 | Cook Systems | Entry-Level Software Developer  | Nashville, TN | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/cooksys/jobs/5386869008) | 4d |
 | NVIDIA | Software Security Compiler Engineer | US, CA, Santa Clara | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Security-Compiler-Engineer_JR2013937) | 4d |
 | TJX | Part-Time Retail Customer Experience Coordinator (Front End Supervisor) | Oxford, AL 36203 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Oxford-AL-36203/Part-Time-Retail-Customer-Experience-Coordinator--Front-End-Supervisor-_REQ147237-1) | 4d |
@@ -95,7 +95,7 @@
 | Anthropic | Software Engineer, Research Data Platform | San Francisco, CA \| New York City, NY | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5191226008) | 4d |
 | Gusto | Software Engineer,  AI Developer Tools | San Francisco, CA - Hybrid | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/gusto/jobs/7947684) | 4d |
 | Woongjin | Backend Engineer _ AI Gateway- Bilingual (Korean/ English) | Plano, TX, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WJCompany/744000143894039-backend-engineer-ai-gateway-bilingual-korean-english-) | 4d |
-| DiDi Global | Software Engineer – Motion Planning  | San Jose, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/didi/jobs/8131865) | 4d |
+| DiDi Global | Software Engineer – Motion Planning  | San Jose, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/didi/jobs/8131865) | 5d |
 | Eagle Eye Networks | Software Engineer- NEW GRAD | Bethesda, Maryland, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-eagle-eye-networks-4455362030) | 5d |
 | Albertsons Companies | Front End Entry Level | Vista, California, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-albertsons-companies-4455541609) | 5d |
 | Light & Wonder | Software Development Engineer in Test | Reno, NV | Workday | not_applied | [Apply](https://lnw.wd5.myworkdayjobs.com/LightWonderExternalCareers/job/Reno-NV/Software-Development-Engineer-in-Test_R322613) | 5d |
