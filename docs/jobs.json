@@ -11,6 +11,17 @@
     "is_internship": false
   },
   {
+    "id": 272490,
+    "company": "Crowdstrike",
+    "role": "Software Engineer \u2013 Sensor, SaO (Hybrid)",
+    "location": "USA - Redmond, WA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Redmond-WA/Software-Engineer---Sensor--SaO--Hybrid-_R29874",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
     "id": 265850,
     "company": "Tharp Consulting",
     "role": "Software Developer (Junior)",
@@ -33,6 +44,17 @@
     "is_internship": false
   },
   {
+    "id": 265875,
+    "company": "RG&T Solutions",
+    "role": "Software Developer - Mid-Level",
+    "location": "La Plata, Maryland, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/software-developer-mid-level-at-rg-t-solutions-4456298933",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
     "id": 265866,
     "company": "N1 (layern.com)",
     "role": "New Grad Software Engineer (Full Stack)",
@@ -51,17 +73,6 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-albertsons-companies-4457528636",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 265875,
-    "company": "RG&T Solutions",
-    "role": "Software Developer - Mid-Level",
-    "location": "La Plata, Maryland, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/software-developer-mid-level-at-rg-t-solutions-4456298933",
     "age": "2d",
     "is_internship": false
   },
@@ -396,28 +407,6 @@
     "is_internship": false
   },
   {
-    "id": 258785,
-    "company": "Wood Mackenzie",
-    "role": "Software Engineer \u2013 Data Engineering Platform (Python _ SQL _ PostGIS",
-    "location": "Boston, US",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Boston-US/Software-Engineer---Data-Engineering-Platform--Python---SQL---PostGIS_JR3246",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
-    "id": 258786,
-    "company": "Wood Mackenzie",
-    "role": "Software Engineer Energy Grid Data Platform.",
-    "location": "Boston, US",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Boston-US/Software-Engineer-Energy-Grid-Data-Platform_JR3247",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
     "id": 258817,
     "company": "AAA Club Alliance",
     "role": "Software Engineer",
@@ -451,13 +440,35 @@
     "is_internship": false
   },
   {
-    "id": 265867,
-    "company": "CVS Health",
-    "role": "Site Reliability Engineer",
-    "location": "Woonsocket, Rhode Island, USA",
-    "source": "JSearch",
+    "id": 259803,
+    "company": "BTI Solutions",
+    "role": "Full stack Developer (Java)",
+    "location": "Santa Ana, CA",
+    "source": "Workday",
     "status": "not_applied",
-    "url": "https://jobs.cvshealth.com/us/en/job/R0959789/Site-Reliability-Engineer",
+    "url": "https://btisolutions.wd12.myworkdayjobs.com/External/job/Santa-Ana-CA/Full-stack-Developer--Java-_JR101984",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 258785,
+    "company": "Wood Mackenzie",
+    "role": "Software Engineer \u2013 Data Engineering Platform (Python _ SQL _ PostGIS",
+    "location": "Boston, US",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Boston-US/Software-Engineer---Data-Engineering-Platform--Python---SQL---PostGIS_JR3246",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 258786,
+    "company": "Wood Mackenzie",
+    "role": "Software Engineer Energy Grid Data Platform.",
+    "location": "Boston, US",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Boston-US/Software-Engineer-Energy-Grid-Data-Platform_JR3247",
     "age": "4d",
     "is_internship": false
   },
@@ -473,6 +484,17 @@
     "is_internship": false
   },
   {
+    "id": 265867,
+    "company": "CVS Health",
+    "role": "Site Reliability Engineer",
+    "location": "Woonsocket, Rhode Island, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://jobs.cvshealth.com/us/en/job/R0959789/Site-Reliability-Engineer",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
     "id": 265854,
     "company": "Antithesis",
     "role": "Entry Level -Software Developer - Web Development",
@@ -480,39 +502,6 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://bebee.com/us/jobs/entry-level-software-developer-web-development-antithesis-vienna-va--jooble--3278312600029573465",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
-    "id": 259803,
-    "company": "BTI Solutions",
-    "role": "Full stack Developer (Java)",
-    "location": "Santa Ana, CA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://btisolutions.wd12.myworkdayjobs.com/External/job/Santa-Ana-CA/Full-stack-Developer--Java-_JR101984",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
-    "id": 265874,
-    "company": "Lifetime Benefit Solutions, Inc.",
-    "role": "College Intern - Software Engineering - Fall 2026 (Multiple Openings)",
-    "location": "Binghamton, New York, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/college-intern-software-engineering-fall-2026-multiple-openings-at-lifetime-benefit-solutions-inc-4456741653",
-    "age": "4d",
-    "is_internship": true
-  },
-  {
-    "id": 257163,
-    "company": "Ferrovial",
-    "role": "Webber - FrontEnd Loader Operator - Heavy Civil",
-    "location": "San Antonio, TX",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/San-Antonio-TX/Webber---FrontEnd-Loader-Operator---Heavy-Civil_JR18825-1",
     "age": "4d",
     "is_internship": false
   },
@@ -526,6 +515,28 @@
     "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Concord-CA-94523/Front-End_REQ148129",
     "age": "4d",
     "is_internship": false
+  },
+  {
+    "id": 257163,
+    "company": "Ferrovial",
+    "role": "Webber - FrontEnd Loader Operator - Heavy Civil",
+    "location": "San Antonio, TX",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/San-Antonio-TX/Webber---FrontEnd-Loader-Operator---Heavy-Civil_JR18825-1",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 265874,
+    "company": "Lifetime Benefit Solutions, Inc.",
+    "role": "College Intern - Software Engineering - Fall 2026 (Multiple Openings)",
+    "location": "Binghamton, New York, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/college-intern-software-engineering-fall-2026-multiple-openings-at-lifetime-benefit-solutions-inc-4456741653",
+    "age": "4d",
+    "is_internship": true
   },
   {
     "id": 252583,
@@ -590,7 +601,7 @@
     "source": "Ashby",
     "status": "not_applied",
     "url": "https://jobs.ashbyhq.com/opengov/28f7fa5e-1706-4696-a64d-ee38a888ab53",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -601,7 +612,7 @@
     "source": "Ashby",
     "status": "not_applied",
     "url": "https://jobs.ashbyhq.com/opengov/608b9ab5-df88-4e42-813c-131c3d783172",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -1012,6 +1023,17 @@
     "is_internship": false
   },
   {
+    "id": 244219,
+    "company": "Applied Materials",
+    "role": "Global Software Support Engineer I",
+    "location": "Austin,TX",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Global-Software-Support-Engineer-I_R2625245",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
     "id": 265869,
     "company": "L3Harris Technologies",
     "role": "Software Engineer Intern",
@@ -1034,15 +1056,26 @@
     "is_internship": true
   },
   {
-    "id": 242365,
-    "company": "U.S. Bank",
-    "role": "Software Engineer 2 (Cobol, DB2 , JCL, VSAM , CICS)",
-    "location": "Brookfield, WI",
+    "id": 243548,
+    "company": "Flextronics International",
+    "role": "Automation Software Technician",
+    "location": "USA, CA, Milpitas",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Brookfield-WI/Software-Engineer-2--Cobol--DB2---JCL--VSAM---CICS-_2026-0020558",
+    "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-CA-Milpitas/Automation-Software-Technician_WD227222-1",
     "age": "6d",
     "is_internship": false
+  },
+  {
+    "id": 242624,
+    "company": "Draper",
+    "role": "Full Stack Web Development Co-Op (Spring 2027)",
+    "location": "Cambridge, MA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Full-Stack-Web-Development-Co-Op--Spring-2027-_JR002832-1",
+    "age": "6d",
+    "is_internship": true
   },
   {
     "id": 265876,
@@ -1067,17 +1100,6 @@
     "is_internship": false
   },
   {
-    "id": 251337,
-    "company": "TJX",
-    "role": "Part-Time Retail Customer Experience Coordinator (Front End Supervisor)",
-    "location": "Oxford, AL 36203",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Oxford-AL-36203/Part-Time-Retail-Customer-Experience-Coordinator--Front-End-Supervisor-_REQ147237-1",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
     "id": 265858,
     "company": "TechProfit.,JSC",
     "role": "FRESHER - JUNIOR FRONTEND DEVELOPER",
@@ -1085,72 +1107,6 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://www.linkedin.com/jobs/view/fresher-junior-frontend-developer-at-techprofit-jsc-4455958837",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 243343,
-    "company": "Amazon",
-    "role": "Software Development Engineer, iOS",
-    "location": "Newark, New Jersey, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10505107/apply",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 242624,
-    "company": "Draper",
-    "role": "Full Stack Web Development Co-Op (Spring 2027)",
-    "location": "Cambridge, MA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Full-Stack-Web-Development-Co-Op--Spring-2027-_JR002832-1",
-    "age": "6d",
-    "is_internship": true
-  },
-  {
-    "id": 248588,
-    "company": "Cook Systems",
-    "role": "Entry-Level Software Developer",
-    "location": "Nashville, Tennessee, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.indeed.com/viewjob?jk=95844c5a2e18b44e",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 243548,
-    "company": "Flextronics International",
-    "role": "Automation Software Technician",
-    "location": "USA, CA, Milpitas",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-CA-Milpitas/Automation-Software-Technician_WD227222-1",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 244219,
-    "company": "Applied Materials",
-    "role": "Global Software Support Engineer I",
-    "location": "Austin,TX",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Global-Software-Support-Engineer-I_R2625245",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 244573,
-    "company": "NVIDIA",
-    "role": "Software Security Compiler Engineer",
-    "location": "US, CA, Santa Clara",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Security-Compiler-Engineer_JR2013937",
     "age": "6d",
     "is_internship": false
   },
@@ -1166,6 +1122,50 @@
     "is_internship": false
   },
   {
+    "id": 244573,
+    "company": "NVIDIA",
+    "role": "Software Security Compiler Engineer",
+    "location": "US, CA, Santa Clara",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Security-Compiler-Engineer_JR2013937",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 242365,
+    "company": "U.S. Bank",
+    "role": "Software Engineer 2 (Cobol, DB2 , JCL, VSAM , CICS)",
+    "location": "Brookfield, WI",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Brookfield-WI/Software-Engineer-2--Cobol--DB2---JCL--VSAM---CICS-_2026-0020558",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 243343,
+    "company": "Amazon",
+    "role": "Software Development Engineer, iOS",
+    "location": "Newark, New Jersey, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10505107/apply",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 251337,
+    "company": "TJX",
+    "role": "Part-Time Retail Customer Experience Coordinator (Front End Supervisor)",
+    "location": "Oxford, AL 36203",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Oxford-AL-36203/Part-Time-Retail-Customer-Experience-Coordinator--Front-End-Supervisor-_REQ147237-1",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
     "id": 246987,
     "company": "Cohesity",
     "role": "Software Engineer",
@@ -1173,6 +1173,17 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Software-Engineer_R04460-1",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 248588,
+    "company": "Cook Systems",
+    "role": "Entry-Level Software Developer",
+    "location": "Nashville, Tennessee, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.indeed.com/viewjob?jk=95844c5a2e18b44e",
     "age": "6d",
     "is_internship": false
   },
