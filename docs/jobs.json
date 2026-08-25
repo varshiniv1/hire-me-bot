@@ -154,17 +154,6 @@
     "is_internship": false
   },
   {
-    "id": 275017,
-    "company": "TJX",
-    "role": "Retail - Full Time Front End Supervisor",
-    "location": "Auburn Hills, MI 48326",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Auburn-Hills-MI-48326/Retail---Full-Time-Front-End-Supervisor_REQ148977-1",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
     "id": 275331,
     "company": "DuCharme, McMillen & Associates",
     "role": "Software Development Intern - Spring 2027",
@@ -187,39 +176,6 @@
     "is_internship": false
   },
   {
-    "id": 272490,
-    "company": "Crowdstrike",
-    "role": "Software Engineer \u2013 Sensor, SaO (Hybrid)",
-    "location": "USA - Redmond, WA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Redmond-WA/Software-Engineer---Sensor--SaO--Hybrid-_R29874",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 271682,
-    "company": "Hy-Vee",
-    "role": "Front End Clerk",
-    "location": "Emmetsburg Dollar Fresh Market, Main St., Emmetsburg, IA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Emmetsburg-Dollar-Fresh-Market-Main-St-Emmetsburg-IA/Front-End-Clerk_R247667-1",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 274255,
-    "company": "ASML",
-    "role": "J-00346826 System Integration and Test Engineer CWW Front End Nights or CWW Back End Nights",
-    "location": "Wilton, CT, USA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/J-00346826-System-Integration-and-Test-Engineer-CWW-Front-End-Nights-or-CWW-Back-End-Nights_J-00350868",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
     "id": 274160,
     "company": "Ascensus",
     "role": "Associate Software Engineer",
@@ -238,6 +194,39 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Englewood-CO/Software-Engineer-2--Data-Lake---Data-Warehouse-Solutions-_2026-0025239",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 272490,
+    "company": "Crowdstrike",
+    "role": "Software Engineer \u2013 Sensor, SaO (Hybrid)",
+    "location": "USA - Redmond, WA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Redmond-WA/Software-Engineer---Sensor--SaO--Hybrid-_R29874",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 275017,
+    "company": "TJX",
+    "role": "Retail - Full Time Front End Supervisor",
+    "location": "Auburn Hills, MI 48326",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Auburn-Hills-MI-48326/Retail---Full-Time-Front-End-Supervisor_REQ148977-1",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 271682,
+    "company": "Hy-Vee",
+    "role": "Front End Clerk",
+    "location": "Emmetsburg Dollar Fresh Market, Main St., Emmetsburg, IA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Emmetsburg-Dollar-Fresh-Market-Main-St-Emmetsburg-IA/Front-End-Clerk_R247667-1",
     "age": "1d",
     "is_internship": false
   },
@@ -297,6 +286,17 @@
     "is_internship": false
   },
   {
+    "id": 274255,
+    "company": "ASML",
+    "role": "J-00346826 System Integration and Test Engineer CWW Front End Nights or CWW Back End Nights",
+    "location": "Wilton, CT, USA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/J-00346826-System-Integration-and-Test-Engineer-CWW-Front-End-Nights-or-CWW-Back-End-Nights_J-00350868",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
     "id": 275018,
     "company": "TJX",
     "role": "Front End Supervosor",
@@ -341,13 +341,13 @@
     "is_internship": false
   },
   {
-    "id": 277833,
-    "company": "Albertsons Companies",
-    "role": "Front End Entry Level",
-    "location": "Spring Valley, Wisconsin, USA",
+    "id": 277840,
+    "company": "Blue Origin",
+    "role": "Junior Software Engineer - Spaceflight",
+    "location": "Reston, Virginia, USA",
     "source": "JSearch",
     "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-albertsons-companies-4457854664",
+    "url": "https://bebee.com/us/jobs/junior-software-engineer-spaceflight-blue-origin-reston--lensa-7428_ecb96917929480d4d8ce6b4059bd4fe08eab1426bb075ea324ddc7b1a69f8cc9",
     "age": "3d",
     "is_internship": false
   },
@@ -363,17 +363,6 @@
     "is_internship": false
   },
   {
-    "id": 277840,
-    "company": "Blue Origin",
-    "role": "Junior Software Engineer - Spaceflight",
-    "location": "Reston, Virginia, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://bebee.com/us/jobs/junior-software-engineer-spaceflight-blue-origin-reston--lensa-7428_ecb96917929480d4d8ce6b4059bd4fe08eab1426bb075ea324ddc7b1a69f8cc9",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
     "id": 277844,
     "company": "Epic",
     "role": "Entry-Level Software Developer",
@@ -381,6 +370,17 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://www.linkedin.com/jobs/view/entry-level-software-developer-at-epic-4321375718",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 277833,
+    "company": "Albertsons Companies",
+    "role": "Front End Entry Level",
+    "location": "Spring Valley, Wisconsin, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-albertsons-companies-4457854664",
     "age": "3d",
     "is_internship": false
   },
@@ -671,17 +671,6 @@
     "is_internship": false
   },
   {
-    "id": 277822,
-    "company": "MaziCTools",
-    "role": "New Grad Software Engineer: Build Scalable, Impactful Apps",
-    "location": "Washington, District of Columbia, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.learn4good.com/jobs/washington/district-of-columbia/software_development/5382599239/e/",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
     "id": 277835,
     "company": "TSV Consulting LLC",
     "role": "Full Stack Engineer - .NET",
@@ -702,6 +691,17 @@
     "url": "https://www.learn4good.com/jobs/washington/district-of-columbia/software_development/5379412372/e/",
     "age": "4d",
     "is_internship": true
+  },
+  {
+    "id": 277822,
+    "company": "MaziCTools",
+    "role": "New Grad Software Engineer: Build Scalable, Impactful Apps",
+    "location": "Washington, District of Columbia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.learn4good.com/jobs/washington/district-of-columbia/software_development/5382599239/e/",
+    "age": "4d",
+    "is_internship": false
   },
   {
     "id": 259960,
@@ -913,17 +913,6 @@
     "is_internship": false
   },
   {
-    "id": 277841,
-    "company": "Headstarter",
-    "role": "Software Engineering Intern - Agents & FE",
-    "location": "New York, New York, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.builtinnyc.com/job/software-engineering-intern-agents-fe/9752108",
-    "age": "5d",
-    "is_internship": true
-  },
-  {
     "id": 277825,
     "company": "SynergisticIT",
     "role": "Software Developer - Entry/Junior",
@@ -931,6 +920,17 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://bebee.com/us/jobs/software-developer-entry-junior-synergisticit-silver-spring--lensa-7428_fbc5aff089747a1b1ada21f9406b59c6d3e5d66ad35488ce2a6253ae3d159868",
+    "age": "5d",
+    "is_internship": false
+  },
+  {
+    "id": 259803,
+    "company": "BTI Solutions",
+    "role": "Full stack Developer (Java)",
+    "location": "Santa Ana, CA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://btisolutions.wd12.myworkdayjobs.com/External/job/Santa-Ana-CA/Full-stack-Developer--Java-_JR101984",
     "age": "5d",
     "is_internship": false
   },
@@ -946,15 +946,15 @@
     "is_internship": false
   },
   {
-    "id": 259803,
-    "company": "BTI Solutions",
-    "role": "Full stack Developer (Java)",
-    "location": "Santa Ana, CA",
-    "source": "Workday",
+    "id": 277841,
+    "company": "Headstarter",
+    "role": "Software Engineering Intern - Agents & FE",
+    "location": "New York, New York, USA",
+    "source": "JSearch",
     "status": "not_applied",
-    "url": "https://btisolutions.wd12.myworkdayjobs.com/External/job/Santa-Ana-CA/Full-stack-Developer--Java-_JR101984",
+    "url": "https://www.builtinnyc.com/job/software-engineering-intern-agents-fe/9752108",
     "age": "5d",
-    "is_internship": false
+    "is_internship": true
   },
   {
     "id": 258902,
@@ -1133,17 +1133,6 @@
     "is_internship": false
   },
   {
-    "id": 249523,
-    "company": "Air Liquide",
-    "role": "Production Engineer",
-    "location": "Upper Mount Bethel, PA - Advanced materials - UMB",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Upper-Mount-Bethel-PA---Advanced-materials---UMB/Production-Engineer_R10097594",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
     "id": 277823,
     "company": "John Galt Staffing",
     "role": "Entry Level Software Engineer",
@@ -1155,15 +1144,48 @@
     "is_internship": false
   },
   {
-    "id": 248637,
-    "company": "Air Liquide",
-    "role": "Production Engineer",
-    "location": "Mount Bethel, PA - Advanced materials - PA2",
-    "source": "Workday",
+    "id": 277826,
+    "company": "John Galt Staffing",
+    "role": "Entry Level Software Engineer",
+    "location": "Columbia, Maryland, USA",
+    "source": "JSearch",
     "status": "not_applied",
-    "url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Mount-Bethel-PA---Advanced-materials---PA2/Production-Engineer_R10097595-1",
+    "url": "https://www.linkedin.com/jobs/view/entry-level-software-engineer-at-john-galt-staffing-4456363948",
     "age": "6d",
     "is_internship": false
+  },
+  {
+    "id": 249523,
+    "company": "Air Liquide",
+    "role": "Production Engineer",
+    "location": "Upper Mount Bethel, PA - Advanced materials - UMB",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Upper-Mount-Bethel-PA---Advanced-materials---UMB/Production-Engineer_R10097594",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 277828,
+    "company": "IBM",
+    "role": "Entry Level Software Developer 2027",
+    "location": "Durham, North Carolina, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/entry-level-software-developer-2027-at-ibm-4453489109",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 248109,
+    "company": "NVIDIA",
+    "role": "NVIDIA 2027 Internships: Systems Software Engineering",
+    "location": "US, CA, Santa Clara",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492",
+    "age": "6d",
+    "is_internship": true
   },
   {
     "id": 256814,
@@ -1265,13 +1287,13 @@
     "is_internship": false
   },
   {
-    "id": 277828,
-    "company": "IBM",
-    "role": "Entry Level Software Developer 2027",
-    "location": "Durham, North Carolina, USA",
-    "source": "JSearch",
+    "id": 248637,
+    "company": "Air Liquide",
+    "role": "Production Engineer",
+    "location": "Mount Bethel, PA - Advanced materials - PA2",
+    "source": "Workday",
     "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/entry-level-software-developer-2027-at-ibm-4453489109",
+    "url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Mount-Bethel-PA---Advanced-materials---PA2/Production-Engineer_R10097595-1",
     "age": "6d",
     "is_internship": false
   },
@@ -1287,15 +1309,26 @@
     "is_internship": false
   },
   {
-    "id": 248109,
+    "id": 248108,
     "company": "NVIDIA",
-    "role": "NVIDIA 2027 Internships: Systems Software Engineering",
+    "role": "NVIDIA 2027 Internships: Software Engineering",
     "location": "US, CA, Santa Clara",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
     "age": "6d",
     "is_internship": true
+  },
+  {
+    "id": 265855,
+    "company": "IBM",
+    "role": "Entry Level Software Developer 2027",
+    "location": "Durham, North Carolina, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/entry-level-software-developer-2027-at-ibm-4453489109",
+    "age": "6d",
+    "is_internship": false
   },
   {
     "id": 256816,
@@ -1309,17 +1342,6 @@
     "is_internship": false
   },
   {
-    "id": 248108,
-    "company": "NVIDIA",
-    "role": "NVIDIA 2027 Internships: Software Engineering",
-    "location": "US, CA, Santa Clara",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
-    "age": "6d",
-    "is_internship": true
-  },
-  {
     "id": 265861,
     "company": "Shaw\u2019s and Star Market",
     "role": "Front End Entry Level",
@@ -1327,28 +1349,6 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-shaw%E2%80%99s-and-star-market-4456430352",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 277826,
-    "company": "John Galt Staffing",
-    "role": "Entry Level Software Engineer",
-    "location": "Columbia, Maryland, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/entry-level-software-engineer-at-john-galt-staffing-4456363948",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 265855,
-    "company": "IBM",
-    "role": "Entry Level Software Developer 2027",
-    "location": "Durham, North Carolina, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/entry-level-software-developer-2027-at-ibm-4453489109",
     "age": "6d",
     "is_internship": false
   },
