@@ -1,11 +1,12 @@
 # Job Postings Report
 
-73 postings from the last 6 days.
+74 postings from the last 6 days.
 
-## Internships (5)
+## Internships (6)
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
+| DuCharme, McMillen & Associates | Software Development Intern - Spring 2027 | Fort Wayne, IN | Workday | not_applied | [Apply](https://dmainc.wd5.myworkdayjobs.com/DMA/job/Fort-Wayne-IN/Software-Development-Intern---Spring-2027_REQ634) | 1d |
 | Availity | Software Engineering Intern | Remote - United States | Workday | not_applied | [Apply](https://availity.wd1.myworkdayjobs.com/Availity_Careers_US/job/Remote---United-States/Software-Engineering-Intern_R0008436) | 4d |
 | Availity | Software Engineer Intern | Remote - United States | Workday | not_applied | [Apply](https://availity.wd1.myworkdayjobs.com/Availity_Careers_US/job/Remote---United-States/Software-Engineer-Intern_R0008479) | 4d |
 | Toshiba Global Commerce | AI Software Engineering Intern | Durham, NC | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5214224007) | 4d |
@@ -22,6 +23,7 @@
 | Sierra | Software Engineer, Agent - Public Sector | San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/Sierra/c66b30fc-9588-4699-85c1-2166b23b8778) | 0d |
 | General Matter | Software Engineer – Manufacturing Systems | Los Angeles, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5389914008) | 0d |
 | Persona AI | Robotics Full Stack Software Engineer | Pensacola, FL or Houston, TX  | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/persona.ai/7bc07e51-fb3e-4363-bd10-83bb5c933e80) | 0d |
+| Insperity | Software Development Engineer in Test | Kingwood, TX | Workday | not_applied | [Apply](https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Software-Development-Engineer-in-Test_JR103131) | 1d |
 | Hewlett Packard Enterprise | Systems/Software Engineer | Roseville, California, United States of America | Workday | not_applied | [Apply](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Roseville-California-United-States-of-America/Systems-Software-Engineer_1206283-2) | 1d |
 | ASML | J-00346826 System Integration and Test Engineer CWW Front End Nights or CWW Back End Nights | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/J-00346826-System-Integration-and-Test-Engineer-CWW-Front-End-Nights-or-CWW-Back-End-Nights_J-00350868) | 1d |
 | Ascensus | Associate Software Engineer | Dresher, PA | Workday | not_applied | [Apply](https://ascensushr.wd1.myworkdayjobs.com/ascensuscareers/job/Dresher-PA/Associate-Software-Engineer_R0021231) | 1d |
@@ -31,7 +33,6 @@
 | Smith+Nephew | Software Development Engineer | Pittsburgh, PA | Workday | not_applied | [Apply](https://smithnephew.wd5.myworkdayjobs.com/External/job/Pittsburgh-PA/Software-Development-Engineer_R90731) | 1d |
 | NVIDIA | System Software Engineer, Multi-Node Analysis | US, IL, Champaign | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-IL-Champaign/System-Software-Engineer--Multi-Node-Analysis_JR2023603) | 1d |
 | Light & Wonder | Software Engineer | Reno, NV | Workday | not_applied | [Apply](https://lnw.wd5.myworkdayjobs.com/LightWonderExternalCareers/job/Reno-NV/Software-Engineer_R322663) | 1d |
-| Insperity | Software Development Engineer in Test | Kingwood, TX | Workday | not_applied | [Apply](https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Software-Development-Engineer-in-Test_JR103131) | 1d |
 | Hy-Vee | Front End Clerk | Emmetsburg Dollar Fresh Market, Main St., Emmetsburg, IA | Workday | not_applied | [Apply](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Emmetsburg-Dollar-Fresh-Market-Main-St-Emmetsburg-IA/Front-End-Clerk_R247667-1) | 1d |
 | Autodesk | Software Engineer | San Francisco, CA, USA | Workday | not_applied | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/San-Francisco-CA-USA/Software-Engineer_26WD100611-1) | 1d |
 | TJX | Front End Supervosor | Davis, CA 95618 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Davis-CA-95618/Front-End-Supervosor_REQ148878) | 2d |
@@ -48,17 +49,17 @@
 | Oklo | Software Engineer (Applied AI/ML) | Santa Clara, CA or Remote | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/oklo/jobs/6150355004) | 3d |
 | iSpot.tv | Software Development Engineer 1 | Bellevue, WA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/ispottv/jobs/4708631005) | 3d |
 | GitLab | Fullstack Engineer (TypeScript), AI Engineering: Duo Client SDK | Remote, Canada; Remote, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8698330002) | 4d |
-| Crowdstrike | Engineer II, Software Assurance, Product Security (Remote) | USA - Remote | Workday | not_applied | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-II--Software-Assurance--Product-Security--Remote-_R29908) | 4d |
-| KION Group | Software Support Engineer | Grand Rapids, MI, United States | Workday | not_applied | [Apply](https://kiongroup.wd3.myworkdayjobs.com/KIONGroup/job/Grand-Rapids-MI-United-States/Software-Support-Engineer_JR-0091456-1) | 4d |
-| Ken Garff Auto Group | Dealership Software Specialist | Garff Enterprises Corporate Office - Salt Lake City, UT | Workday | not_applied | [Apply](https://kengarff.wd1.myworkdayjobs.com/External_Site/job/Garff-Enterprises-Corporate-Office---Salt-Lake-City-UT/Dealership-Software-Specialist_R0043298) | 4d |
-| Amazon | Software Development Engineer, Security Platform, Security Platform | San Francisco, California, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10510816/apply) | 4d |
 | Hewlett Packard (HP) | Software and Engineering Graduate Roles - HP Solutions (HPS) | Fort Collins, Colorado, United States of America | Workday | not_applied | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Fort-Collins-Colorado-United-States-of-America/Software-and-Engineering-Graduate-Roles---HP-Solutions--HPS-_3167276) | 4d |
-| Axos Bank | Software Engineer | HQ - San Diego, CA | Workday | not_applied | [Apply](https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Software-Engineer_JR5286) | 4d |
+| KION Group | Software Support Engineer | Grand Rapids, MI, United States | Workday | not_applied | [Apply](https://kiongroup.wd3.myworkdayjobs.com/KIONGroup/job/Grand-Rapids-MI-United-States/Software-Support-Engineer_JR-0091456-1) | 4d |
+| General Motors | Software Engineer, AV Data Collection | Sunnyvale, California, United States of America | Workday | not_applied | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Data-Collection_JR-202618529) | 4d |
+| Fidelity Investments | October 2027 - Leap Software Engineer | Westlake, TX | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/targeted/job/Westlake-TX/October-2027---Leap-Software-Engineer_2133884) | 4d |
 | Dematic | Software Support Engineer | Grand Rapids, MI, United States | Workday | not_applied | [Apply](https://kiongroup.wd3.myworkdayjobs.com/KION_SCS/job/Grand-Rapids-MI-United-States/Software-Support-Engineer_JR-0091456) | 4d |
 | Applied Materials | Software QA Engineer | Santa Clara,CA | Workday | not_applied | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-QA-Engineer_R2626830) | 4d |
-| Fidelity Investments | October 2027 - Leap Software Engineer | Westlake, TX | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/targeted/job/Westlake-TX/October-2027---Leap-Software-Engineer_2133884) | 4d |
+| Amazon | Software Development Engineer, Security Platform, Security Platform | San Francisco, California, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10510816/apply) | 4d |
+| Crowdstrike | Engineer II, Software Assurance, Product Security (Remote) | USA - Remote | Workday | not_applied | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-II--Software-Assurance--Product-Security--Remote-_R29908) | 4d |
+| Ken Garff Auto Group | Dealership Software Specialist | Garff Enterprises Corporate Office - Salt Lake City, UT | Workday | not_applied | [Apply](https://kengarff.wd1.myworkdayjobs.com/External_Site/job/Garff-Enterprises-Corporate-Office---Salt-Lake-City-UT/Dealership-Software-Specialist_R0043298) | 4d |
 | TJX | Frontend | Huntsville, AL 35806 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Huntsville-AL-35806/Frontend_REQ147395) | 4d |
-| General Motors | Software Engineer, AV Data Collection | Sunnyvale, California, United States of America | Workday | not_applied | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Data-Collection_JR-202618529) | 4d |
+| Axos Bank | Software Engineer | HQ - San Diego, CA | Workday | not_applied | [Apply](https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Software-Engineer_JR5286) | 4d |
 | GitLab | Intermediate Software Engineer, Security Factory: Vulnerability Management  | Remote, Canada; Remote, Israel; Remote, United Kingdom; Remote, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8688078002) | 4d |
 | Woongjin | Java Full-Stack Developer - Bilingual (Korean/ English) | Santa Ana, CA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WJCompany/744000144652559-java-full-stack-developer-bilingual-korean-english-) | 4d |
 | GitLab | Backend Engineer, AI Engineering: Duo Chat | Remote, Canada; Remote, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8698314002) | 4d |
@@ -67,17 +68,17 @@
 | Mulligan Funding | Data Scientist I - Full Stack Management Trainee | San Diego, CA | Lever | not_applied | [Apply](https://jobs.lever.co/mulliganfunding/1eee966d-c798-4b4f-937d-7e2f73b00287) | 4d |
 | Hatch IT | Full Stack Developer | Washington, DC | Lever | not_applied | [Apply](https://jobs.lever.co/hatchit/01dc3371-523c-451b-b4e7-14f5b5d7ef9b) | 4d |
 | Crusoe | Software Engineer I, Network | San Francisco, CA - US | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/Crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed) | 5d |
+| Wood Mackenzie | Software Engineer – Data Engineering Platform (Python _ SQL _ PostGIS | Boston, US | Workday | not_applied | [Apply](https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Boston-US/Software-Engineer---Data-Engineering-Platform--Python---SQL---PostGIS_JR3246) | 5d |
+| Antithesis | Entry Level -Software Developer - Web Development | Vienna, Virginia, USA | JSearch | not_applied | [Apply](https://bebee.com/us/jobs/entry-level-software-developer-web-development-antithesis-vienna-va--jooble--3278312600029573465) | 5d |
+| CVS Health | Site Reliability Engineer | Woonsocket, Rhode Island, USA | JSearch | not_applied | [Apply](https://jobs.cvshealth.com/us/en/job/R0959789/Site-Reliability-Engineer) | 5d |
+| TJX | Front End | Concord, CA 94523 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Concord-CA-94523/Front-End_REQ148129) | 5d |
+| TJX | Retail Front End Coordinator | West Bend, WI 53095 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/West-Bend-WI-53095/Retail-Front-End-Coordinator_REQ148113-1) | 5d |
 | BTI Solutions | Full stack Developer (Java) | Santa Ana, CA | Workday | not_applied | [Apply](https://btisolutions.wd12.myworkdayjobs.com/External/job/Santa-Ana-CA/Full-stack-Developer--Java-_JR101984) | 5d |
 | Atrium Health | Software Engineer Associate | Milwaukee, WI - 3031 W Montana St | Workday | not_applied | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Milwaukee-WI---3031-W-Montana-St/Software-Engineer-Associate_R251098) | 5d |
 | Advocate Health Care | Software Engineer Associate | Milwaukee, WI - 3031 W Montana St | Workday | not_applied | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Milwaukee-WI---3031-W-Montana-St/Software-Engineer-Associate_R251098) | 5d |
 | AAA Club Alliance | Software Engineer | Coppell, TX | Workday | not_applied | [Apply](https://ace.wd5.myworkdayjobs.com/careers/job/Coppell-TX/Software-Engineer_JR202638320-1) | 5d |
 | Wood Mackenzie | Software Engineer Energy Grid Data Platform. | Boston, US | Workday | not_applied | [Apply](https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Boston-US/Software-Engineer-Energy-Grid-Data-Platform_JR3247) | 5d |
-| Wood Mackenzie | Software Engineer – Data Engineering Platform (Python _ SQL _ PostGIS | Boston, US | Workday | not_applied | [Apply](https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Boston-US/Software-Engineer---Data-Engineering-Platform--Python---SQL---PostGIS_JR3246) | 5d |
 | Ferrovial | Webber - FrontEnd Loader Operator - Heavy Civil | San Antonio, TX | Workday | not_applied | [Apply](https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/San-Antonio-TX/Webber---FrontEnd-Loader-Operator---Heavy-Civil_JR18825-1) | 5d |
-| CVS Health | Site Reliability Engineer | Woonsocket, Rhode Island, USA | JSearch | not_applied | [Apply](https://jobs.cvshealth.com/us/en/job/R0959789/Site-Reliability-Engineer) | 5d |
-| TJX | Front End | Concord, CA 94523 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Concord-CA-94523/Front-End_REQ148129) | 5d |
-| TJX | Retail Front End Coordinator | West Bend, WI 53095 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/West-Bend-WI-53095/Retail-Front-End-Coordinator_REQ148113-1) | 5d |
-| Antithesis | Entry Level -Software Developer - Web Development | Vienna, Virginia, USA | JSearch | not_applied | [Apply](https://bebee.com/us/jobs/entry-level-software-developer-web-development-antithesis-vienna-va--jooble--3278312600029573465) | 5d |
 | Freeform | Software Engineer (New Grad Summer 2027) | Los Angeles, CA (On-site) | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003) | 5d |
 | Cribl | Software Engineer, Edge | Remote - United States | Greenhouse | not_applied | [Apply](https://cribl.io/job-detail/?gh_jid=6144377004) | 5d |
 | AbbVie | Software Engineer | North Chicago, IL, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990014689396-software-engineer) | 5d |
