@@ -1,5 +1,16 @@
 [
   {
+    "id": 291075,
+    "company": "Philips",
+    "role": "Co-op \u2013 Software Test Automation Engineer \u2013 Orange, OH \u2013 January 2027",
+    "location": "Orange (OH), Ohio, United States",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Orange-OH-Ohio-United-States/Co-op---Software-Test-Automation-Engineer---Orange--OH---January-2027_581888",
+    "age": "0d",
+    "is_internship": true
+  },
+  {
     "id": 290015,
     "company": "LinkedIn",
     "role": "Fullstack Engineer- Personalization Platform",
@@ -55,15 +66,26 @@
     "is_internship": false
   },
   {
-    "id": 289685,
-    "company": "Amazon",
-    "role": "Robotics - Software Development Engineer Fall Intern/Co-op - 2026",
-    "location": "Westboro, Wisconsin, USA",
-    "source": "amazon",
+    "id": 288938,
+    "company": "Dematic",
+    "role": "Software Support Engineer",
+    "location": "Grand Rapids, MI, United States",
+    "source": "Workday",
     "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10517149/apply",
+    "url": "https://kiongroup.wd3.myworkdayjobs.com/KION_SCS/job/Grand-Rapids-MI-United-States/Software-Support-Engineer_JR-0092880",
     "age": "1d",
-    "is_internship": true
+    "is_internship": false
+  },
+  {
+    "id": 289061,
+    "company": "KION Group",
+    "role": "Software Support Engineer",
+    "location": "Grand Rapids, MI, United States",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://kiongroup.wd3.myworkdayjobs.com/KIONGroup/job/Grand-Rapids-MI-United-States/Software-Support-Engineer_JR-0092880-1",
+    "age": "1d",
+    "is_internship": false
   },
   {
     "id": 290064,
@@ -73,17 +95,6 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Backend--New-College-Grad-2026_JR2017290",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 289686,
-    "company": "Amazon",
-    "role": "Software Development Engineer ,  Project Dawn",
-    "location": "Seattle, Washington, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10517671/apply",
     "age": "1d",
     "is_internship": false
   },
@@ -99,6 +110,28 @@
     "is_internship": true
   },
   {
+    "id": 289686,
+    "company": "Amazon",
+    "role": "Software Development Engineer ,  Project Dawn",
+    "location": "Seattle, Washington, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10517671/apply",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 289685,
+    "company": "Amazon",
+    "role": "Robotics - Software Development Engineer Fall Intern/Co-op - 2026",
+    "location": "Westboro, Wisconsin, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10517149/apply",
+    "age": "1d",
+    "is_internship": true
+  },
+  {
     "id": 289666,
     "company": "Ambarella",
     "role": "Software Architecture Engineer Intern",
@@ -108,28 +141,6 @@
     "url": "https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/Software-Architecture-Engineer-Intern_JR100365",
     "age": "1d",
     "is_internship": true
-  },
-  {
-    "id": 289061,
-    "company": "KION Group",
-    "role": "Software Support Engineer",
-    "location": "Grand Rapids, MI, United States",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://kiongroup.wd3.myworkdayjobs.com/KIONGroup/job/Grand-Rapids-MI-United-States/Software-Support-Engineer_JR-0092880-1",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 288938,
-    "company": "Dematic",
-    "role": "Software Support Engineer",
-    "location": "Grand Rapids, MI, United States",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://kiongroup.wd3.myworkdayjobs.com/KION_SCS/job/Grand-Rapids-MI-United-States/Software-Support-Engineer_JR-0092880",
-    "age": "1d",
-    "is_internship": false
   },
   {
     "id": 288094,
@@ -209,17 +220,6 @@
     "is_internship": false
   },
   {
-    "id": 286889,
-    "company": "Robert Bosch",
-    "role": "Phone as a Key Software Engineering - Intern",
-    "location": "Plymouth, MI, us",
-    "source": "SmartRecruiters",
-    "status": "not_applied",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145785190-phone-as-a-key-software-engineering-intern",
-    "age": "1d",
-    "is_internship": true
-  },
-  {
     "id": 287207,
     "company": "Bosch Group",
     "role": "Phone as a Key Software Engineering - Intern",
@@ -244,6 +244,17 @@
   {
     "id": 286893,
     "company": "Robert Bosch Venture Capital",
+    "role": "Phone as a Key Software Engineering - Intern",
+    "location": "Plymouth, MI, us",
+    "source": "SmartRecruiters",
+    "status": "not_applied",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145785190-phone-as-a-key-software-engineering-intern",
+    "age": "1d",
+    "is_internship": true
+  },
+  {
+    "id": 286889,
+    "company": "Robert Bosch",
     "role": "Phone as a Key Software Engineering - Intern",
     "location": "Plymouth, MI, us",
     "source": "SmartRecruiters",
@@ -352,13 +363,13 @@
     "is_internship": false
   },
   {
-    "id": 288045,
-    "company": "Ferrovial",
-    "role": "Webber - FrontEnd Loader Operator - Heavy Civil WKY",
-    "location": "Seguin, TX",
+    "id": 286851,
+    "company": "Viavi Solutions",
+    "role": "Early Careers Rotational Program Development Engineer - Software Engineering/AI Track",
+    "location": "Indianapolis, IN USA",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Seguin-TX/Webber---FrontEnd-Loader-Operator---Heavy-Civil-WKY_JR18934",
+    "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Indianapolis-IN-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004983-1",
     "age": "2d",
     "is_internship": false
   },
@@ -385,17 +396,6 @@
     "is_internship": false
   },
   {
-    "id": 286850,
-    "company": "Viavi Solutions",
-    "role": "Early Careers Rotational Program Development Engineer - Software Engineering/AI Track",
-    "location": "Morrisville, NC USA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Morrisville-NC-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004987-1",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
     "id": 287266,
     "company": "Light & Wonder",
     "role": "Associate Software QA Engineer",
@@ -407,13 +407,24 @@
     "is_internship": false
   },
   {
-    "id": 286851,
-    "company": "Viavi Solutions",
-    "role": "Early Careers Rotational Program Development Engineer - Software Engineering/AI Track",
-    "location": "Indianapolis, IN USA",
+    "id": 288045,
+    "company": "Ferrovial",
+    "role": "Webber - FrontEnd Loader Operator - Heavy Civil WKY",
+    "location": "Seguin, TX",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Indianapolis-IN-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004983-1",
+    "url": "https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Seguin-TX/Webber---FrontEnd-Loader-Operator---Heavy-Civil-WKY_JR18934",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 286850,
+    "company": "Viavi Solutions",
+    "role": "Early Careers Rotational Program Development Engineer - Software Engineering/AI Track",
+    "location": "Morrisville, NC USA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Morrisville-NC-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004987-1",
     "age": "2d",
     "is_internship": false
   },
@@ -616,13 +627,13 @@
     "is_internship": false
   },
   {
-    "id": 279852,
-    "company": "Embry-Riddle Aeronautical University",
-    "role": "Assistant/Associate Professor of Computer, Electrical, and Software Engineering (NTT). Prescott Campus",
-    "location": "Prescott, AZ",
+    "id": 279897,
+    "company": "Fidelity National Information Services",
+    "role": "Software Engineer, Pro-C, Unix, Pearl",
+    "location": "US FL JAX 347",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://embryriddle.wd1.myworkdayjobs.com/External/job/Prescott-AZ/Assistant-Associate-Professor-of-Computer--Electrical--and-Software-Engineering--NTT--Prescott-Campus_R312032",
+    "url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Agile-Product-Owner-Lead_JR0308918",
     "age": "3d",
     "is_internship": false
   },
@@ -671,13 +682,13 @@
     "is_internship": false
   },
   {
-    "id": 279897,
-    "company": "Fidelity National Information Services",
-    "role": "Software Engineer, Pro-C, Unix, Pearl",
-    "location": "US FL JAX 347",
+    "id": 279852,
+    "company": "Embry-Riddle Aeronautical University",
+    "role": "Assistant/Associate Professor of Computer, Electrical, and Software Engineering (NTT). Prescott Campus",
+    "location": "Prescott, AZ",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Agile-Product-Owner-Lead_JR0308918",
+    "url": "https://embryriddle.wd1.myworkdayjobs.com/External/job/Prescott-AZ/Assistant-Associate-Professor-of-Computer--Electrical--and-Software-Engineering--NTT--Prescott-Campus_R312032",
     "age": "3d",
     "is_internship": false
   },
@@ -1041,17 +1052,17 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://www.linkedin.com/jobs/view/software-developer-junior-at-tharp-consulting-4456622524",
-    "age": "5d",
+    "age": "6d",
     "is_internship": false
   },
   {
-    "id": 277840,
-    "company": "Blue Origin",
-    "role": "Junior Software Engineer - Spaceflight",
-    "location": "Reston, Virginia, USA",
-    "source": "JSearch",
+    "id": 267604,
+    "company": "TJX",
+    "role": "Front End Associate",
+    "location": "St Joseph, MO 64506",
+    "source": "Workday",
     "status": "not_applied",
-    "url": "https://bebee.com/us/jobs/junior-software-engineer-spaceflight-blue-origin-reston--lensa-7428_ecb96917929480d4d8ce6b4059bd4fe08eab1426bb075ea324ddc7b1a69f8cc9",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/St-Joseph-MO-64506/Front-End-Associate_REQ148697",
     "age": "6d",
     "is_internship": false
   },
@@ -1100,24 +1111,13 @@
     "is_internship": false
   },
   {
-    "id": 267604,
-    "company": "TJX",
-    "role": "Front End Associate",
-    "location": "St Joseph, MO 64506",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/St-Joseph-MO-64506/Front-End-Associate_REQ148697",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 265875,
-    "company": "RG&T Solutions",
-    "role": "Software Developer - Mid-Level",
-    "location": "La Plata, Maryland, USA",
+    "id": 277840,
+    "company": "Blue Origin",
+    "role": "Junior Software Engineer - Spaceflight",
+    "location": "Reston, Virginia, USA",
     "source": "JSearch",
     "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/software-developer-mid-level-at-rg-t-solutions-4456298933",
+    "url": "https://bebee.com/us/jobs/junior-software-engineer-spaceflight-blue-origin-reston--lensa-7428_ecb96917929480d4d8ce6b4059bd4fe08eab1426bb075ea324ddc7b1a69f8cc9",
     "age": "6d",
     "is_internship": false
   },
@@ -1144,6 +1144,17 @@
     "is_internship": false
   },
   {
+    "id": 265875,
+    "company": "RG&T Solutions",
+    "role": "Software Developer - Mid-Level",
+    "location": "La Plata, Maryland, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/software-developer-mid-level-at-rg-t-solutions-4456298933",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
     "id": 265865,
     "company": "LS Solutions",
     "role": "Junior Software Developer",
@@ -1155,17 +1166,6 @@
     "is_internship": false
   },
   {
-    "id": 264082,
-    "company": "Twitch",
-    "role": "Software Development Engineer, Security Platform",
-    "location": "Irvine, CA",
-    "source": "Greenhouse",
-    "status": "not_applied",
-    "url": "https://job-boards.greenhouse.io/twitch/jobs/8739196002",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
     "id": 264083,
     "company": "Twitch",
     "role": "Software Development Engineer, Security Platform",
@@ -1173,6 +1173,17 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/twitch/jobs/8739185002",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 264082,
+    "company": "Twitch",
+    "role": "Software Development Engineer, Security Platform",
+    "location": "Irvine, CA",
+    "source": "Greenhouse",
+    "status": "not_applied",
+    "url": "https://job-boards.greenhouse.io/twitch/jobs/8739196002",
     "age": "6d",
     "is_internship": false
   },
@@ -1217,17 +1228,6 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/ispottv/jobs/4708631005",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 260847,
-    "company": "GitLab",
-    "role": "Fullstack Engineer (TypeScript), AI Engineering: Duo Client SDK",
-    "location": "Remote, Canada; Remote, United States",
-    "source": "Greenhouse",
-    "status": "not_applied",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8698330002",
     "age": "6d",
     "is_internship": false
   }
