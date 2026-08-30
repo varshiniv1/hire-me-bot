@@ -30,7 +30,7 @@
 | Hermeus | Autonomy Software Engineer | Los Angeles, CA | Lever | not_applied | [Apply](https://jobs.lever.co/hermeus/4b1f62d7-4a70-4d79-b83d-f8a6cae6ccaa) | 1d |
 | Best Egg | Software Engineer II | Wilmington, DE | Lever | not_applied | [Apply](https://jobs.lever.co/BestEgg/5b5bc67c-d921-4d41-85f7-9eaca7cd5464) | 1d |
 | Syncreon Consulting | Full Stack Software Engineer (Java / Spring Boot) - W2 Position  | New York, NY, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/SyncreonConsulting/744000146178229-full-stack-software-engineer-java-spring-boot-w2-position-) | 1d |
-| GitLab | Intermediate Backend Engineer, Platform Readiness | Remote, Canada; Remote, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8644569002) | 1d |
+| GitLab | Intermediate Backend Engineer, Platform Readiness | Remote, Canada; Remote, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8644569002) | 2d |
 | Motorola | Software Engineer | Schaumburg, IL | Workday | not_applied | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineer_R67582) | 2d |
 | Ferrovial | Webber - Front End Loader Operator - Heavy Civil | Canyon, TX | Workday | not_applied | [Apply](https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Canyon-TX/Webber---Front-End-Loader-Operator---Heavy-Civil_JR19016) | 2d |
 | LinkedIn | Fullstack Engineer- Personalization Platform | Mountain View, CA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000146028526-fullstack-engineer-personalization-platform) | 2d |
@@ -81,7 +81,7 @@
 | Rainmaker | Software Engineer, Infrastructure | El Segundo, CA | Lever | not_applied | [Apply](https://jobs.lever.co/make-rain/91bdb036-ae7d-47e4-828b-fb7761665226) | 4d |
 | Anduril | Mission Software Engineer - Undersea Reconnaissance & Strike | Quincy, Massachusetts, United States | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5221253007?gh_jid=5221253007) | 4d |
 | The Voleon Group | Software Engineer - University Hire 2027 | Berkeley, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/voleon/d732fd5a-ac98-4985-9e60-d1d59f02a66c) | 4d |
-| Acme Markets | Front End Entry Level | Newtown Square, Pennsylvania, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-acme-markets-4448661311) | 4d |
+| Acme Markets | Front End Entry Level | Newtown Square, Pennsylvania, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-acme-markets-4448661311) | 5d |
 | Acme Markets | Front End Entry Level | Tuckerton, New Jersey, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-acme-markets-4459081333) | 5d |
 | Vermeer | IT Systems Analyst - Digital Manufacturing Software Systems | USA - Remote | Workday | not_applied | [Apply](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/USA---Remote/IT-Systems-Analyst_REQ-21969) | 5d |
 | Safeway | Front End Entry Level | Arlington, Virginia, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-safeway-4448653734) | 5d |
