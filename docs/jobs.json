@@ -22,17 +22,6 @@
     "is_internship": false
   },
   {
-    "id": 300079,
-    "company": "Hewlett Packard Enterprise",
-    "role": "Systems Software Engineer \u2014 Marvis Minis & Edge AI",
-    "location": "Cupertino, California, United States of America",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Cupertino-California-United-States-of-America/Systems-Software-Engineer---Marvis-Minis---Edge-AI_1205090-1",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
     "id": 299137,
     "company": "Hewlett Packard Enterprise",
     "role": "Systems Software Engineer",
@@ -40,6 +29,17 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Roseville-California-United-States-of-America/Systems-Software-Engineer_1212359",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 300079,
+    "company": "Hewlett Packard Enterprise",
+    "role": "Systems Software Engineer \u2014 Marvis Minis & Edge AI",
+    "location": "Cupertino, California, United States of America",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Cupertino-California-United-States-of-America/Systems-Software-Engineer---Marvis-Minis---Edge-AI_1205090-1",
     "age": "1d",
     "is_internship": false
   },
@@ -106,7 +106,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/hpiq/jobs/6173700004",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -117,7 +117,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5054523007?gh_jid=5054523007",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -128,7 +128,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/trace3/jobs/8164535",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -139,7 +139,7 @@
     "source": "Ashby",
     "status": "not_applied",
     "url": "https://jobs.ashbyhq.com/ramp/c01a2ed9-fcb4-48c0-ad7a-c59476d9c986",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -150,7 +150,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/hermeus/4b1f62d7-4a70-4d79-b83d-f8a6cae6ccaa",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -161,7 +161,7 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/Keenfinity/744000146207420-software-engineer-critical-communication-systems",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -172,7 +172,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/BestEgg/5b5bc67c-d921-4d41-85f7-9eaca7cd5464",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -198,15 +198,15 @@
     "is_internship": false
   },
   {
-    "id": 291075,
-    "company": "Philips",
-    "role": "Co-op \u2013 Software Test Automation Engineer \u2013 Orange, OH \u2013 January 2027",
-    "location": "Orange (OH), Ohio, United States",
+    "id": 292665,
+    "company": "Ferrovial",
+    "role": "Webber - Front End Loader Operator - Heavy Civil",
+    "location": "Canyon, TX",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Orange-OH-Ohio-United-States/Co-op---Software-Test-Automation-Engineer---Orange--OH---January-2027_581888",
+    "url": "https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Canyon-TX/Webber---Front-End-Loader-Operator---Heavy-Civil_JR19016",
     "age": "3d",
-    "is_internship": true
+    "is_internship": false
   },
   {
     "id": 291876,
@@ -220,15 +220,15 @@
     "is_internship": false
   },
   {
-    "id": 292665,
-    "company": "Ferrovial",
-    "role": "Webber - Front End Loader Operator - Heavy Civil",
-    "location": "Canyon, TX",
+    "id": 291075,
+    "company": "Philips",
+    "role": "Co-op \u2013 Software Test Automation Engineer \u2013 Orange, OH \u2013 January 2027",
+    "location": "Orange (OH), Ohio, United States",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Canyon-TX/Webber---Front-End-Loader-Operator---Heavy-Civil_JR19016",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Orange-OH-Ohio-United-States/Co-op---Software-Test-Automation-Engineer---Orange--OH---January-2027_581888",
     "age": "3d",
-    "is_internship": false
+    "is_internship": true
   },
   {
     "id": 290015,
@@ -238,7 +238,7 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000146028526-fullstack-engineer-personalization-platform",
-    "age": "3d",
+    "age": "4d",
     "is_internship": false
   },
   {
@@ -249,7 +249,7 @@
     "source": "Ashby",
     "status": "not_applied",
     "url": "https://jobs.ashbyhq.com/8vc/1625aeeb-f518-4f16-81cb-a42c25ef1014",
-    "age": "3d",
+    "age": "4d",
     "is_internship": false
   },
   {
@@ -260,7 +260,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/arrivelogistics/ed5b4a1d-619e-4b35-9c56-ece700a5282d",
-    "age": "3d",
+    "age": "4d",
     "is_internship": false
   },
   {
@@ -271,7 +271,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/globalizationpartners/jobs/7979219003",
-    "age": "3d",
+    "age": "4d",
     "is_internship": false
   },
   {
@@ -282,17 +282,6 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/SyncreonConsulting/744000145998704-full-stack-software-engineer-java-spring-boot-w2-position-",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 289686,
-    "company": "Amazon",
-    "role": "Software Development Engineer ,  Project Dawn",
-    "location": "Seattle, Washington, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10517671/apply",
     "age": "4d",
     "is_internship": false
   },
@@ -308,37 +297,15 @@
     "is_internship": true
   },
   {
-    "id": 290064,
-    "company": "NVIDIA",
-    "role": "Compiler Engineer, Backend- New College Grad 2026",
-    "location": "US, CA, Santa Clara",
+    "id": 288938,
+    "company": "Dematic",
+    "role": "Software Support Engineer",
+    "location": "Grand Rapids, MI, United States",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Backend--New-College-Grad-2026_JR2017290",
+    "url": "https://kiongroup.wd3.myworkdayjobs.com/KION_SCS/job/Grand-Rapids-MI-United-States/Software-Support-Engineer_JR-0092880",
     "age": "4d",
     "is_internship": false
-  },
-  {
-    "id": 289685,
-    "company": "Amazon",
-    "role": "Robotics - Software Development Engineer Fall Intern/Co-op - 2026",
-    "location": "Westboro, Wisconsin, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10517149/apply",
-    "age": "4d",
-    "is_internship": true
-  },
-  {
-    "id": 289666,
-    "company": "Ambarella",
-    "role": "Software Architecture Engineer Intern",
-    "location": "US Headquarters",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/Software-Architecture-Engineer-Intern_JR100365",
-    "age": "4d",
-    "is_internship": true
   },
   {
     "id": 289061,
@@ -352,13 +319,46 @@
     "is_internship": false
   },
   {
-    "id": 288938,
-    "company": "Dematic",
-    "role": "Software Support Engineer",
-    "location": "Grand Rapids, MI, United States",
+    "id": 289666,
+    "company": "Ambarella",
+    "role": "Software Architecture Engineer Intern",
+    "location": "US Headquarters",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://kiongroup.wd3.myworkdayjobs.com/KION_SCS/job/Grand-Rapids-MI-United-States/Software-Support-Engineer_JR-0092880",
+    "url": "https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/Software-Architecture-Engineer-Intern_JR100365",
+    "age": "4d",
+    "is_internship": true
+  },
+  {
+    "id": 289685,
+    "company": "Amazon",
+    "role": "Robotics - Software Development Engineer Fall Intern/Co-op - 2026",
+    "location": "Westboro, Wisconsin, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10517149/apply",
+    "age": "4d",
+    "is_internship": true
+  },
+  {
+    "id": 289686,
+    "company": "Amazon",
+    "role": "Software Development Engineer ,  Project Dawn",
+    "location": "Seattle, Washington, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10517671/apply",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 290064,
+    "company": "NVIDIA",
+    "role": "Compiler Engineer, Backend- New College Grad 2026",
+    "location": "US, CA, Santa Clara",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Backend--New-College-Grad-2026_JR2017290",
     "age": "4d",
     "is_internship": false
   },
@@ -403,7 +403,7 @@
     "source": "Ashby",
     "status": "not_applied",
     "url": "https://jobs.ashbyhq.com/vanta/0ccbb65f-f675-410a-ae54-1d34575f228a",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -414,7 +414,7 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/BryceTech/744000145809769-software-developer",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -425,7 +425,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/5397299008",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -436,7 +436,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/twitch/jobs/8751076002",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -447,30 +447,8 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/twitch/jobs/8748320002",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
-  },
-  {
-    "id": 287202,
-    "company": "Bosch",
-    "role": "Phone as a Key Software Engineering - Intern",
-    "location": "Plymouth, MI, us",
-    "source": "SmartRecruiters",
-    "status": "not_applied",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145785190-phone-as-a-key-software-engineering-intern",
-    "age": "4d",
-    "is_internship": true
-  },
-  {
-    "id": 286889,
-    "company": "Robert Bosch",
-    "role": "Phone as a Key Software Engineering - Intern",
-    "location": "Plymouth, MI, us",
-    "source": "SmartRecruiters",
-    "status": "not_applied",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145785190-phone-as-a-key-software-engineering-intern",
-    "age": "4d",
-    "is_internship": true
   },
   {
     "id": 286893,
@@ -480,7 +458,7 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145785190-phone-as-a-key-software-engineering-intern",
-    "age": "4d",
+    "age": "5d",
     "is_internship": true
   },
   {
@@ -491,7 +469,29 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145785190-phone-as-a-key-software-engineering-intern",
-    "age": "4d",
+    "age": "5d",
+    "is_internship": true
+  },
+  {
+    "id": 287202,
+    "company": "Bosch",
+    "role": "Phone as a Key Software Engineering - Intern",
+    "location": "Plymouth, MI, us",
+    "source": "SmartRecruiters",
+    "status": "not_applied",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145785190-phone-as-a-key-software-engineering-intern",
+    "age": "5d",
+    "is_internship": true
+  },
+  {
+    "id": 286889,
+    "company": "Robert Bosch",
+    "role": "Phone as a Key Software Engineering - Intern",
+    "location": "Plymouth, MI, us",
+    "source": "SmartRecruiters",
+    "status": "not_applied",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145785190-phone-as-a-key-software-engineering-intern",
+    "age": "5d",
     "is_internship": true
   },
   {
@@ -502,7 +502,7 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/SyncreonConsulting/744000145782545-full-stack-software-engineer-java-spring-boot-w2-position-",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -513,7 +513,7 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/SyncreonConsulting/744000145783649-fullstack-developer-java-fixed-income-securities-w2-position",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -524,7 +524,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/betterhelpcom/jobs/5395576008",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -535,7 +535,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/energysolutions/jobs/5222431007",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -546,7 +546,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/energysolutions/jobs/5222429007",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -557,7 +557,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/energysolutions/jobs/5222428007",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -568,7 +568,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/energysolutions/jobs/5222432007",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -579,7 +579,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/energysolutions/jobs/5222430007",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -590,7 +590,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/energysolutions/jobs/5201891007",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -733,7 +733,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/glydways/jobs/5161245007",
-    "age": "5d",
+    "age": "6d",
     "is_internship": false
   },
   {
@@ -744,7 +744,7 @@
     "source": "Ashby",
     "status": "not_applied",
     "url": "https://jobs.ashbyhq.com/kong/7ae8b357-a8f0-4c3d-868d-add1789de7ff",
-    "age": "5d",
+    "age": "6d",
     "is_internship": false
   },
   {
@@ -755,7 +755,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/addepar1/jobs/8733680002",
-    "age": "5d",
+    "age": "6d",
     "is_internship": false
   },
   {
@@ -766,7 +766,7 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/SyncreonConsulting/744000145560789-fullstack-developer-java-fixed-income-securities-w2-position",
-    "age": "5d",
+    "age": "6d",
     "is_internship": false
   },
   {
@@ -777,7 +777,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7954195003",
-    "age": "5d",
+    "age": "6d",
     "is_internship": false
   },
   {
@@ -788,7 +788,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/reltio/jobs/6119393004",
-    "age": "5d",
+    "age": "6d",
     "is_internship": false
   },
   {
@@ -799,7 +799,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/reltio/jobs/6119388004",
-    "age": "5d",
+    "age": "6d",
     "is_internship": false
   },
   {
@@ -810,7 +810,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/agatesoftware/144f3e0b-140d-42fe-aaaf-fb57b91a9bca",
-    "age": "5d",
+    "age": "6d",
     "is_internship": false
   },
   {
@@ -821,7 +821,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/make-rain/91bdb036-ae7d-47e4-828b-fb7761665226",
-    "age": "5d",
+    "age": "6d",
     "is_internship": false
   },
   {
@@ -832,7 +832,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5221253007?gh_jid=5221253007",
-    "age": "5d",
+    "age": "6d",
     "is_internship": false
   },
   {
@@ -843,7 +843,7 @@
     "source": "Ashby",
     "status": "not_applied",
     "url": "https://jobs.ashbyhq.com/voleon/d732fd5a-ac98-4985-9e60-d1d59f02a66c",
-    "age": "5d",
+    "age": "6d",
     "is_internship": false
   },
   {
@@ -869,6 +869,50 @@
     "is_internship": false
   },
   {
+    "id": 300721,
+    "company": "Prophet Security",
+    "role": "Software Engineer New Grad",
+    "location": "Palo Alto, California, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-prophet-security-4459058143",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 277829,
+    "company": "Acme Markets",
+    "role": "Front End Entry Level",
+    "location": "Logan Township, New Jersey, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-acme-markets-4458531556",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 277832,
+    "company": "Safeway",
+    "role": "Front End Entry Level",
+    "location": "Newark, California, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-safeway-4458530515",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 279018,
+    "company": "Health Research",
+    "role": "Software Engineer/Developer",
+    "location": "Albany, NY",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://healthresearch.wd1.myworkdayjobs.com/HRI_Careers/job/Albany-NY/Software-Engineer-Developer_JR-0002291",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
     "id": 279682,
     "company": "Apex Fintech Solutions",
     "role": "Software Engineer I (SHARK)",
@@ -880,6 +924,17 @@
     "is_internship": false
   },
   {
+    "id": 279852,
+    "company": "Embry-Riddle Aeronautical University",
+    "role": "Assistant/Associate Professor of Computer, Electrical, and Software Engineering (NTT). Prescott Campus",
+    "location": "Prescott, AZ",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://embryriddle.wd1.myworkdayjobs.com/External/job/Prescott-AZ/Assistant-Associate-Professor-of-Computer--Electrical--and-Software-Engineering--NTT--Prescott-Campus_R312032",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
     "id": 279897,
     "company": "Fidelity National Information Services",
     "role": "Software Engineer, Pro-C, Unix, Pearl",
@@ -887,17 +942,6 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Agile-Product-Owner-Lead_JR0308918",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 282468,
-    "company": "Brown & Brown Insurance",
-    "role": "Software Engineer",
-    "location": "Remote - USA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://bbinsurance.wd1.myworkdayjobs.com/Careers/job/Remote---USA/Software-Engineer_R26_0000002843",
     "age": "6d",
     "is_internship": false
   },
@@ -924,24 +968,13 @@
     "is_internship": false
   },
   {
-    "id": 279018,
-    "company": "Health Research",
-    "role": "Software Engineer/Developer",
-    "location": "Albany, NY",
+    "id": 280842,
+    "company": "Hewlett Packard (HP)",
+    "role": "Software and Engineering Graduate Roles - HP Solutions (HPS)",
+    "location": "Fort Collins, Colorado, United States of America",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://healthresearch.wd1.myworkdayjobs.com/HRI_Careers/job/Albany-NY/Software-Engineer-Developer_JR-0002291",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 281416,
-    "company": "Vermeer",
-    "role": "IT Systems Analyst - Digital Manufacturing Software Systems",
-    "location": "USA - Remote",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/USA---Remote/IT-Systems-Analyst_REQ-21969",
+    "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Fort-Collins-Colorado-United-States-of-America/Software-and-Engineering-Graduate-Roles---HP-Solutions--HPS-_3168009",
     "age": "6d",
     "is_internship": false
   },
@@ -957,57 +990,24 @@
     "is_internship": false
   },
   {
-    "id": 280842,
-    "company": "Hewlett Packard (HP)",
-    "role": "Software and Engineering Graduate Roles - HP Solutions (HPS)",
-    "location": "Fort Collins, Colorado, United States of America",
+    "id": 281416,
+    "company": "Vermeer",
+    "role": "IT Systems Analyst - Digital Manufacturing Software Systems",
+    "location": "USA - Remote",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Fort-Collins-Colorado-United-States-of-America/Software-and-Engineering-Graduate-Roles---HP-Solutions--HPS-_3168009",
+    "url": "https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/USA---Remote/IT-Systems-Analyst_REQ-21969",
     "age": "6d",
     "is_internship": false
   },
   {
-    "id": 277829,
-    "company": "Acme Markets",
-    "role": "Front End Entry Level",
-    "location": "Logan Township, New Jersey, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-acme-markets-4458531556",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 292390,
-    "company": "Safeway",
-    "role": "Front End Entry Level",
-    "location": "Arlington, Virginia, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-safeway-4448653734",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 279852,
-    "company": "Embry-Riddle Aeronautical University",
-    "role": "Assistant/Associate Professor of Computer, Electrical, and Software Engineering (NTT). Prescott Campus",
-    "location": "Prescott, AZ",
+    "id": 282468,
+    "company": "Brown & Brown Insurance",
+    "role": "Software Engineer",
+    "location": "Remote - USA",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://embryriddle.wd1.myworkdayjobs.com/External/job/Prescott-AZ/Assistant-Associate-Professor-of-Computer--Electrical--and-Software-Engineering--NTT--Prescott-Campus_R312032",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 277832,
-    "company": "Safeway",
-    "role": "Front End Entry Level",
-    "location": "Newark, California, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-safeway-4458530515",
+    "url": "https://bbinsurance.wd1.myworkdayjobs.com/Careers/job/Remote---USA/Software-Engineer_R26_0000002843",
     "age": "6d",
     "is_internship": false
   },
@@ -1067,6 +1067,160 @@
     "is_internship": false
   },
   {
+    "id": 292390,
+    "company": "Safeway",
+    "role": "Front End Entry Level",
+    "location": "Arlington, Virginia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-safeway-4448653734",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 300717,
+    "company": "Vertex Elite LLC",
+    "role": "Site Reliability Engineer II",
+    "location": "Pennington, New Jersey, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/site-reliability-engineer-ii-at-vertex-elite-llc-4457484601",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 300718,
+    "company": "talentpluto",
+    "role": "Full Stack Engineering Intern",
+    "location": "New York, New York, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/full-stack-engineering-intern-at-talentpluto-4459027597",
+    "age": "6d",
+    "is_internship": true
+  },
+  {
+    "id": 300720,
+    "company": "Citadel",
+    "role": "Software Engineer - University Graduate (US)",
+    "location": "New York, New York, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-us/",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 300699,
+    "company": "Amazon Web Services (AWS)",
+    "role": "Software Dev Engineer I, AWS Region Expansion",
+    "location": "Arlington, Virginia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/software-dev-engineer-i-aws-region-expansion-at-amazon-web-services-aws-4458728761",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 300700,
+    "company": "Epic",
+    "role": "Software Engineer",
+    "location": "Alexandria, Virginia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986118105",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 300701,
+    "company": "Epic",
+    "role": "Software Engineer",
+    "location": "Alexandria, Virginia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986118105",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 300702,
+    "company": "Safeway",
+    "role": "Front End Entry Level",
+    "location": "Arlington, Virginia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-safeway-4448653734",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 300703,
+    "company": "Cognizant",
+    "role": "Entry-level Software Engineer and Spring Boot Microservices and Core Java",
+    "location": "Raleigh, North Carolina, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://jobs.digitalhire.com/job-listing/opening/120YSG3N70gLQZopOLkj8y",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 300705,
+    "company": "Acme Markets",
+    "role": "Front End Entry Level",
+    "location": "Newtown Square, Pennsylvania, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-acme-markets-4448661311",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 300706,
+    "company": "Safeway",
+    "role": "Front End Entry Level",
+    "location": "Arlington, Virginia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-safeway-4448653734",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 300708,
+    "company": "Acme Markets",
+    "role": "Front End Entry Level",
+    "location": "Newtown Square, Pennsylvania, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-acme-markets-4448661311",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 300713,
+    "company": "Albertsons Companies",
+    "role": "Front End Entry Level",
+    "location": "Lewiston, Idaho, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-albertsons-companies-4448664106",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 300714,
+    "company": "Albertsons",
+    "role": "Front End Entry Level",
+    "location": "Farmington, New Mexico, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.ziprecruiter.com/c/Albertsons/Job/Front-End-Entry-Level/-in-Farmington,NM?jid=1fe56997c2f40b96",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
     "id": 274924,
     "company": "STCU",
     "role": "Software Developer I",
@@ -1096,94 +1250,6 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/SyncreonConsulting/744000145355357-fullstack-developer-java-fixed-income-securities-w2-position",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 277834,
-    "company": "Takt",
-    "role": "Associate Software Engineer, Frontend",
-    "location": "Reston, Virginia, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-frontend-at-takt-4458262790",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 277824,
-    "company": "Takt",
-    "role": "Associate Software Engineer, Frontend",
-    "location": "Reston, Virginia, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-frontend-at-takt-4458262790",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 273772,
-    "company": "Renesas Electronics",
-    "role": "Software Engineer",
-    "location": "Austin, TEXAS, us",
-    "source": "SmartRecruiters",
-    "status": "not_applied",
-    "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000145339679-software-engineer",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 277830,
-    "company": "Acme Markets",
-    "role": "Front End Entry Level",
-    "location": "Fort Lee, New Jersey, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-acme-markets-4458266383",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 273789,
-    "company": "Sierra",
-    "role": "Software Engineer, Agent - Public Sector",
-    "location": "San Francisco, CA",
-    "source": "Ashby",
-    "status": "not_applied",
-    "url": "https://jobs.ashbyhq.com/Sierra/c66b30fc-9588-4699-85c1-2166b23b8778",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 273469,
-    "company": "General Matter",
-    "role": "Software Engineer \u2013 Manufacturing Systems",
-    "location": "Los Angeles, CA",
-    "source": "Greenhouse",
-    "status": "not_applied",
-    "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5389914008",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 273714,
-    "company": "Persona AI",
-    "role": "Robotics Full Stack Software Engineer",
-    "location": "Pensacola, FL or Houston, TX ",
-    "source": "Ashby",
-    "status": "not_applied",
-    "url": "https://jobs.ashbyhq.com/persona.ai/7bc07e51-fb3e-4363-bd10-83bb5c933e80",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 277837,
-    "company": "CodeAnalytiqa Consultancy and Services",
-    "role": "Site Reliability Engineer",
-    "location": "Pennington, New Jersey, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/site-reliability-engineer-at-codeanalytiqa-consultancy-and-services-4458244183",
     "age": "6d",
     "is_internship": false
   }
