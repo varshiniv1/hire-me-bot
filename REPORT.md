@@ -1,6 +1,6 @@
 # Job Postings Report
 
-66 postings from the last 6 days.
+76 postings from the last 6 days.
 
 ## Internships (8)
 
@@ -10,24 +10,37 @@
 | Ambarella | Software Architecture Engineer Intern | US Headquarters | Workday | not_applied | [Apply](https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/Software-Architecture-Engineer-Intern_JR100365) | 4d |
 | Amazon | Robotics - Software Development Engineer Fall Intern/Co-op - 2026 | Westboro, Wisconsin, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10517149/apply) | 4d |
 | Ambarella | Software Development Engineer Intern | US Headquarters | Workday | not_applied | [Apply](https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/Software-Development-Engineer-Intern_JR100366-1) | 4d |
-| Robert Bosch Venture Capital | Phone as a Key Software Engineering - Intern | Plymouth, MI, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000145785190-phone-as-a-key-software-engineering-intern) | 5d |
-| Bosch Group | Phone as a Key Software Engineering - Intern | Plymouth, MI, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000145785190-phone-as-a-key-software-engineering-intern) | 5d |
 | Bosch | Phone as a Key Software Engineering - Intern | Plymouth, MI, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000145785190-phone-as-a-key-software-engineering-intern) | 5d |
+| Bosch Group | Phone as a Key Software Engineering - Intern | Plymouth, MI, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000145785190-phone-as-a-key-software-engineering-intern) | 5d |
+| Robert Bosch Venture Capital | Phone as a Key Software Engineering - Intern | Plymouth, MI, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000145785190-phone-as-a-key-software-engineering-intern) | 5d |
 | Robert Bosch | Phone as a Key Software Engineering - Intern | Plymouth, MI, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000145785190-phone-as-a-key-software-engineering-intern) | 5d |
 
-## Full-Time (58)
+## Full-Time (68)
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
+| Atoms | Software Engineer - Networking | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8767251002) | 0d |
+| onXmaps | Full-Stack Engineer | Austin, Texas, United States; Bozeman, Montana, United States; Denver, Colorado, United States; Free Solo; Kalispell, Montana, United States; Minneapolis, Minnesota, United States; Missoula, Montana, United States; Portland, Oregon, United States; Salt Lake City, Utah, United States; Seattle, Washington, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/onxmaps/jobs/4708765006) | 0d |
+| Everlaw | Software Engineer I | Oakland, California, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/everlaw/jobs/4705236006) | 0d |
+| Sierra | Software Engineer, Agent (Spanish speaking) | San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/Sierra/1d5cf6f0-feba-46a6-98bc-70a1627a76d0) | 0d |
+| Anduril | Mission Software Engineer - Undersea Reconnaissance & Strike | Washington, District of Columbia, United States | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5226473007?gh_jid=5226473007) | 0d |
+| Anduril | Mission Software Engineer - Undersea Reconnaissance & Strike | Boston, Massachusetts, United States | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5226471007?gh_jid=5226471007) | 0d |
+| Sierra | Software Engineer, Agent (New Grad 2027) | San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/Sierra/149f368c-52d5-408f-ba26-ad888f318a00) | 0d |
+| Cartesian | Software Engineer | Cambridge, MA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/cartesiansystems/jobs/4388471009) | 0d |
+| RF-SMART | Software Developer | Jacksonville, Florida, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/rfsmart/jobs/5409573008) | 0d |
 | CapTech Consulting | Software Engineering Associate Consultant (Graduating Dec. 2026 - Summer 2027) | Richmond, VA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/CapTechConsulting/744000146449269-software-engineering-associate-consultant-graduating-dec-2026-summer-2027-) | 0d |
+| ASML | Optical Fabrication Technician Metrology- CWW Back End Nights, 6:00 PM – 6:00 AM (Wednesday, Thursday, Friday, and every other Saturday) | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-Metrology--CWW-Back-End-Nights--6-00-PM---6-00-AM--Wednesday--Thursday--Friday--and-every-other-Saturday-_J-00351183) | 0d |
+| Hewlett Packard (HP) | Hardware/Software Lab Technician | San Diego, California, United States of America | Workday | not_applied | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Diego-California-United-States-of-America/Hardware-Software-Lab-Technician_3167571) | 0d |
+| iHeartMedia | Software Tester | Gainesville, FL | Workday | not_applied | [Apply](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Gainesville-FL/Software-Tester_Req39222-2) | 0d |
+| Alation | UX Software Engineer I (Contractor) | USA-CA-REDWOOD CITY | Workday | not_applied | [Apply](https://alation.wd503.myworkdayjobs.com/ExternalSite/job/USA-CA-REDWOOD-CITY/UX-Software-Engineer-I--Contractor-_R10000770) | 0d |
 | Amazon | Software Development Engineer, ML Symphony | Santa Clara, California, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10521497/apply) | 0d |
 | ASML | EXE FLS Production Engineer – Mechanical Competency | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/EXE-FLS-Production-Engineer---Mechanical-Competency_J-00350480-1) | 1d |
-| Hewlett Packard Enterprise | Systems Software Engineer — Marvis Minis & Edge AI | Cupertino, California, United States of America | Workday | not_applied | [Apply](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Cupertino-California-United-States-of-America/Systems-Software-Engineer---Marvis-Minis---Edge-AI_1205090-1) | 1d |
 | Hewlett Packard Enterprise | Systems Software Engineer | Roseville, California, United States of America | Workday | not_applied | [Apply](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Roseville-California-United-States-of-America/Systems-Software-Engineer_1212359) | 1d |
-| Woongjin | Back-End (+RPA) Developer_ Bilingual (Korean/ English) | Plano, TX, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WJCompany/744000146265809-back-end-rpa-developer-bilingual-korean-english-) | 2d |
-| Neighbor | Software Engineer | Lehi, UT | Lever | not_applied | [Apply](https://jobs.lever.co/neighbor/3c27afec-628f-4305-9519-9b525035e3f0) | 2d |
-| Crusoe | Software Engineer II, Storage | San Francisco, CA - US | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/Crusoe/ca49cb96-50b9-4a3d-a490-2e1d88c357b3) | 2d |
-| Snowflake | Software Engineer, Full Stack - Marketplace | US-CA-Menlo Park | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/snowflake/a51a1e30-94ec-4550-b39f-90ef328dfa87) | 2d |
+| Hewlett Packard Enterprise | Systems Software Engineer — Marvis Minis & Edge AI | Cupertino, California, United States of America | Workday | not_applied | [Apply](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Cupertino-California-United-States-of-America/Systems-Software-Engineer---Marvis-Minis---Edge-AI_1205090-1) | 1d |
+| Woongjin | Back-End (+RPA) Developer_ Bilingual (Korean/ English) | Plano, TX, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WJCompany/744000146265809-back-end-rpa-developer-bilingual-korean-english-) | 3d |
+| Neighbor | Software Engineer | Lehi, UT | Lever | not_applied | [Apply](https://jobs.lever.co/neighbor/3c27afec-628f-4305-9519-9b525035e3f0) | 3d |
+| Crusoe | Software Engineer II, Storage | San Francisco, CA - US | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/Crusoe/ca49cb96-50b9-4a3d-a490-2e1d88c357b3) | 3d |
+| Snowflake | Software Engineer, Full Stack - Marketplace | US-CA-Menlo Park | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/snowflake/a51a1e30-94ec-4550-b39f-90ef328dfa87) | 3d |
 | HP IQ | Software Engineer, Tooling and Development Infrastructure | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6173700004) | 3d |
 | Anduril | Flight Software (FSW) Engineer - Platform - HITL Infrastructure | Costa Mesa, California, United States | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5054523007?gh_jid=5054523007) | 3d |
 | Trace3 | Algorithm Software Engineer | Huntsville, AL | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8164535) | 3d |
@@ -37,8 +50,8 @@
 | Best Egg | Software Engineer II | Wilmington, DE | Lever | not_applied | [Apply](https://jobs.lever.co/BestEgg/5b5bc67c-d921-4d41-85f7-9eaca7cd5464) | 3d |
 | Syncreon Consulting | Full Stack Software Engineer (Java / Spring Boot) - W2 Position  | New York, NY, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/SyncreonConsulting/744000146178229-full-stack-software-engineer-java-spring-boot-w2-position-) | 3d |
 | GitLab | Intermediate Backend Engineer, Platform Readiness | Remote, Canada; Remote, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8644569002) | 3d |
-| Ferrovial | Webber - Front End Loader Operator - Heavy Civil | Canyon, TX | Workday | not_applied | [Apply](https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Canyon-TX/Webber---Front-End-Loader-Operator---Heavy-Civil_JR19016) | 3d |
 | Motorola | Software Engineer | Schaumburg, IL | Workday | not_applied | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineer_R67582) | 3d |
+| Ferrovial | Webber - Front End Loader Operator - Heavy Civil | Canyon, TX | Workday | not_applied | [Apply](https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Canyon-TX/Webber---Front-End-Loader-Operator---Heavy-Civil_JR19016) | 3d |
 | LinkedIn | Fullstack Engineer- Personalization Platform | Mountain View, CA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000146028526-fullstack-engineer-personalization-platform) | 4d |
 | 8VC | Software Engineer - MeritFirst | Austin, TX | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/8vc/1625aeeb-f518-4f16-81cb-a42c25ef1014) | 4d |
 | Arrive Logistics | Software Engineer | Chicago, IL | Lever | not_applied | [Apply](https://jobs.lever.co/arrivelogistics/ed5b4a1d-619e-4b35-9c56-ece700a5282d) | 4d |
@@ -48,9 +61,9 @@
 | Dematic | Software Support Engineer | Grand Rapids, MI, United States | Workday | not_applied | [Apply](https://kiongroup.wd3.myworkdayjobs.com/KION_SCS/job/Grand-Rapids-MI-United-States/Software-Support-Engineer_JR-0092880) | 4d |
 | KION Group | Software Support Engineer | Grand Rapids, MI, United States | Workday | not_applied | [Apply](https://kiongroup.wd3.myworkdayjobs.com/KIONGroup/job/Grand-Rapids-MI-United-States/Software-Support-Engineer_JR-0092880-1) | 4d |
 | Amazon | Software Development Engineer ,  Project Dawn | Seattle, Washington, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10517671/apply) | 4d |
-| HP IQ | Wireless Systems Software Engineer | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6164689004) | 4d |
-| Zoox | Software Engineer, Wireless Technologies | Foster City, CA | Lever | not_applied | [Apply](https://jobs.lever.co/zoox/7522162e-a518-444e-8fe7-49b8b45bbdd3) | 4d |
-| Re:Build Manufacturing | Production Engineer | Kalamazoo, MI | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4727393005) | 4d |
+| HP IQ | Wireless Systems Software Engineer | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6164689004) | 5d |
+| Zoox | Software Engineer, Wireless Technologies | Foster City, CA | Lever | not_applied | [Apply](https://jobs.lever.co/zoox/7522162e-a518-444e-8fe7-49b8b45bbdd3) | 5d |
+| Re:Build Manufacturing | Production Engineer | Kalamazoo, MI | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4727393005) | 5d |
 | Vanta | Software Engineer, Integrations Platform, Vanta For Government (V4G) | Remote U.S. | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/vanta/0ccbb65f-f675-410a-ae54-1d34575f228a) | 5d |
 | BryceTech | Software Developer | Huntsville, AL, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/BryceTech/744000145809769-software-developer) | 5d |
 | TeleTracking | Software Engineer I | Pittsburgh, PA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/5397299008) | 5d |
@@ -65,16 +78,13 @@
 | Energy Solutions | Software Engineer I (New York, NY - US) | New York, New York, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/energysolutions/jobs/5222432007) | 5d |
 | Energy Solutions | Software Engineer I (Chicago, IL - US) | Chicago, Illinois, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/energysolutions/jobs/5222430007) | 5d |
 | Energy Solutions | Software Engineer I (Boston, MA - US) | Boston, Massachusetts, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/energysolutions/jobs/5201891007) | 5d |
-| Viavi Solutions | Early Careers Rotational Program Development Engineer - Software Engineering/AI Track | Indianapolis, IN USA | Workday | not_applied | [Apply](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Indianapolis-IN-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004983-1) | 5d |
-| Light & Wonder | Associate Software QA Engineer | Las Vegas, NV | Workday | not_applied | [Apply](https://lnw.wd5.myworkdayjobs.com/LightWonderExternalCareers/job/Las-Vegas-NV/Associate-Software-QA-Engineer_R322730) | 5d |
-| Viavi Solutions | Early Careers Rotational Program Development Engineer - Software Engineering/AI Track | Morrisville, NC USA | Workday | not_applied | [Apply](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Morrisville-NC-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004987-1) | 5d |
-| Ferrovial | Webber - FrontEnd Loader Operator - Heavy Civil WKY | Seguin, TX | Workday | not_applied | [Apply](https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Seguin-TX/Webber---FrontEnd-Loader-Operator---Heavy-Civil-WKY_JR18934) | 5d |
-| Texas A&M AgriLife Research | Web Applications Developer II -  WordPress & Full Stack Web Development | College Station, TX | Workday | not_applied | [Apply](https://tamus.wd1.myworkdayjobs.com/AgriLife_Research_External/job/College-Station-TX/Web-Applications-Developer-II----WordPress---Full-Stack-Web-Development_R-096473-1) | 5d |
 | Texas A&M University System | Web Applications Developer II -  WordPress & Full Stack Web Development | College Station, TX | Workday | not_applied | [Apply](https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Web-Applications-Developer-II----WordPress---Full-Stack-Web-Development_R-096473) | 5d |
+| Texas A&M AgriLife Research | Web Applications Developer II -  WordPress & Full Stack Web Development | College Station, TX | Workday | not_applied | [Apply](https://tamus.wd1.myworkdayjobs.com/AgriLife_Research_External/job/College-Station-TX/Web-Applications-Developer-II----WordPress---Full-Stack-Web-Development_R-096473-1) | 5d |
+| Viavi Solutions | Early Careers Rotational Program Development Engineer - Software Engineering/AI Track | Morrisville, NC USA | Workday | not_applied | [Apply](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Morrisville-NC-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004987-1) | 5d |
+| Viavi Solutions | Early Careers Rotational Program Development Engineer - Software Engineering/AI Track | Indianapolis, IN USA | Workday | not_applied | [Apply](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Indianapolis-IN-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004983-1) | 5d |
+| Ferrovial | Webber - FrontEnd Loader Operator - Heavy Civil WKY | Seguin, TX | Workday | not_applied | [Apply](https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Seguin-TX/Webber---FrontEnd-Loader-Operator---Heavy-Civil-WKY_JR18934) | 5d |
+| Light & Wonder | Associate Software QA Engineer | Las Vegas, NV | Workday | not_applied | [Apply](https://lnw.wd5.myworkdayjobs.com/LightWonderExternalCareers/job/Las-Vegas-NV/Associate-Software-QA-Engineer_R322730) | 5d |
 | Ennoble Care | Junior Software Engineer | United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/ennoblecare/jobs/4708416006) | 5d |
 | Zoox | Software Engineer - C++ Core Data | Foster City, CA | Lever | not_applied | [Apply](https://jobs.lever.co/zoox/c2abc555-0105-4eda-b9c9-5c9ee28703e7) | 5d |
 | Archer | Software Engineer - (SJ2026BS) | San Jose, California, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7977707003) | 5d |
-| Syncreon Consulting | Full Stack Software Engineer (Java / Spring Boot) - W2 Position  | New York, NY, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/SyncreonConsulting/744000145606224-full-stack-software-engineer-java-spring-boot-w2-position-) | 5d |
-| Bellese | Engineer II, Full Stack (copy) | United States | Lever | not_applied | [Apply](https://jobs.lever.co/bellese/06f71894-60f4-4119-9f48-b37d81f89ab3) | 5d |
-| Eurofins | Software Programmer | Lancaster, PA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000145592459-software-programmer) | 5d |
 
