@@ -1,5 +1,16 @@
 [
   {
+    "id": 305575,
+    "company": "Harbinger Motors",
+    "role": "Software Engineer, DevOps",
+    "location": "Garden Grove, CA",
+    "source": "Greenhouse",
+    "status": "not_applied",
+    "url": "https://job-boards.greenhouse.io/harbingermotors/jobs/4518625007",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
     "id": 304519,
     "company": "bet365",
     "role": "Software Engineer - DTS",
@@ -33,6 +44,39 @@
     "is_internship": false
   },
   {
+    "id": 305550,
+    "company": "Flex",
+    "role": "Software Test Development Engineer",
+    "location": "USA, TX, Austin",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Software-Test-Development-Engineer_WD223041",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
+    "id": 305549,
+    "company": "Flextronics International",
+    "role": "Software Test Development Engineer",
+    "location": "USA, TX, Austin",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Software-Test-Development-Engineer_WD223041",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
+    "id": 304754,
+    "company": "Merative",
+    "role": "Principle SRE",
+    "location": "Remote \u2013 United States",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://merative.wd12.myworkdayjobs.com/External_Career_Site/job/Remote--United-States/Principle-SRE_JR01727",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
     "id": 304463,
     "company": "Autostore",
     "role": "Software AI Engineer",
@@ -42,17 +86,6 @@
     "url": "https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Software-AI-Engineer_JR102673",
     "age": "0d",
     "is_internship": false
-  },
-  {
-    "id": 304652,
-    "company": "Genuine Parts Company",
-    "role": "Cloud SRE Intern",
-    "location": "Birmingham, AL, USA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Cloud-SRE-Intern_R26_0000029134",
-    "age": "0d",
-    "is_internship": true
   },
   {
     "id": 304651,
@@ -75,17 +108,6 @@
     "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Developer-Intern_R26_0000029140",
     "age": "0d",
     "is_internship": true
-  },
-  {
-    "id": 304754,
-    "company": "Merative",
-    "role": "Principle SRE",
-    "location": "Remote \u2013 United States",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://merative.wd12.myworkdayjobs.com/External_Career_Site/job/Remote--United-States/Principle-SRE_JR01727",
-    "age": "0d",
-    "is_internship": false
   },
   {
     "id": 303826,
@@ -143,6 +165,50 @@
     "is_internship": false
   },
   {
+    "id": 304652,
+    "company": "Genuine Parts Company",
+    "role": "Cloud SRE Intern",
+    "location": "Birmingham, AL, USA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Cloud-SRE-Intern_R26_0000029134",
+    "age": "0d",
+    "is_internship": true
+  },
+  {
+    "id": 305660,
+    "company": "LexisNexis Legal & Professional",
+    "role": "Software Engineer II",
+    "location": "Raleigh, NC",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Software-Engineer-II_R117664",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
+    "id": 305640,
+    "company": "KLA",
+    "role": "AI Software Engineer - Operations",
+    "location": "Ann Arbor, MI",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/AI-Software-Engineer---Operations_2640067-1",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
+    "id": 305637,
+    "company": "Jones Lang LaSalle (JLL)",
+    "role": "Software Engineer",
+    "location": "Denver, CO",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Denver-CO/Software-Engineer_REQ528624",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
     "id": 301973,
     "company": "Katalyst Space Technologies",
     "role": "Recent Graduate - Software Engineer I",
@@ -150,7 +216,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/katalyst/jobs/6176710004",
-    "age": "0d",
+    "age": "1d",
     "is_internship": false
   },
   {
@@ -161,7 +227,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8767297002",
-    "age": "0d",
+    "age": "1d",
     "is_internship": false
   },
   {
@@ -172,7 +238,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8767251002",
-    "age": "0d",
+    "age": "1d",
     "is_internship": false
   },
   {
@@ -183,7 +249,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/onxmaps/jobs/4708765006",
-    "age": "0d",
+    "age": "1d",
     "is_internship": false
   },
   {
@@ -275,13 +341,24 @@
     "is_internship": false
   },
   {
-    "id": 301033,
-    "company": "iHeartMedia",
-    "role": "Software Tester",
-    "location": "Gainesville, FL",
+    "id": 300876,
+    "company": "ASML",
+    "role": "Optical Fabrication Technician Metrology- CWW Back End Nights, 6:00 PM \u2013 6:00 AM (Wednesday, Thursday, Friday, and every other Saturday)",
+    "location": "Wilton, CT, USA",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Gainesville-FL/Software-Tester_Req39222-2",
+    "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-Metrology--CWW-Back-End-Nights--6-00-PM---6-00-AM--Wednesday--Thursday--Friday--and-every-other-Saturday-_J-00351183",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 299841,
+    "company": "Amazon",
+    "role": "Software Development Engineer, ML Symphony",
+    "location": "Santa Clara, California, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10521497/apply",
     "age": "1d",
     "is_internship": false
   },
@@ -297,17 +374,6 @@
     "is_internship": false
   },
   {
-    "id": 300876,
-    "company": "ASML",
-    "role": "Optical Fabrication Technician Metrology- CWW Back End Nights, 6:00 PM \u2013 6:00 AM (Wednesday, Thursday, Friday, and every other Saturday)",
-    "location": "Wilton, CT, USA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-Metrology--CWW-Back-End-Nights--6-00-PM---6-00-AM--Wednesday--Thursday--Friday--and-every-other-Saturday-_J-00351183",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
     "id": 300746,
     "company": "Alation",
     "role": "UX Software Engineer I (Contractor)",
@@ -319,14 +385,25 @@
     "is_internship": false
   },
   {
-    "id": 299841,
-    "company": "Amazon",
-    "role": "Software Development Engineer, ML Symphony",
-    "location": "Santa Clara, California, USA",
-    "source": "amazon",
+    "id": 301033,
+    "company": "iHeartMedia",
+    "role": "Software Tester",
+    "location": "Gainesville, FL",
+    "source": "Workday",
     "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10521497/apply",
+    "url": "https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Gainesville-FL/Software-Tester_Req39222-2",
     "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 300079,
+    "company": "Hewlett Packard Enterprise",
+    "role": "Systems Software Engineer \u2014 Marvis Minis & Edge AI",
+    "location": "Cupertino, California, United States of America",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Cupertino-California-United-States-of-America/Systems-Software-Engineer---Marvis-Minis---Edge-AI_1205090-1",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -352,17 +429,6 @@
     "is_internship": false
   },
   {
-    "id": 300079,
-    "company": "Hewlett Packard Enterprise",
-    "role": "Systems Software Engineer \u2014 Marvis Minis & Edge AI",
-    "location": "Cupertino, California, United States of America",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Cupertino-California-United-States-of-America/Systems-Software-Engineer---Marvis-Minis---Edge-AI_1205090-1",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
     "id": 293294,
     "company": "Woongjin",
     "role": "Back-End (+RPA) Developer_ Bilingual (Korean/ English)",
@@ -370,7 +436,7 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/WJCompany/744000146265809-back-end-rpa-developer-bilingual-korean-english-",
-    "age": "3d",
+    "age": "4d",
     "is_internship": false
   },
   {
@@ -528,17 +594,6 @@
     "is_internship": false
   },
   {
-    "id": 302488,
-    "company": "The Walt Disney Company",
-    "role": "Software Engineer (PH)",
-    "location": "Lake Buena Vista, FL, USA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Software-Engineer--PH-_10158403-1",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
     "id": 291075,
     "company": "Philips",
     "role": "Co-op \u2013 Software Test Automation Engineer \u2013 Orange, OH \u2013 January 2027",
@@ -548,6 +603,17 @@
     "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Orange-OH-Ohio-United-States/Co-op---Software-Test-Automation-Engineer---Orange--OH---January-2027_581888",
     "age": "4d",
     "is_internship": true
+  },
+  {
+    "id": 302488,
+    "company": "The Walt Disney Company",
+    "role": "Software Engineer (PH)",
+    "location": "Lake Buena Vista, FL, USA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Software-Engineer--PH-_10158403-1",
+    "age": "4d",
+    "is_internship": false
   },
   {
     "id": 290015,
@@ -605,15 +671,15 @@
     "is_internship": false
   },
   {
-    "id": 289061,
-    "company": "KION Group",
-    "role": "Software Support Engineer",
-    "location": "Grand Rapids, MI, United States",
+    "id": 289666,
+    "company": "Ambarella",
+    "role": "Software Architecture Engineer Intern",
+    "location": "US Headquarters",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://kiongroup.wd3.myworkdayjobs.com/KIONGroup/job/Grand-Rapids-MI-United-States/Software-Support-Engineer_JR-0092880-1",
+    "url": "https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/Software-Architecture-Engineer-Intern_JR100365",
     "age": "5d",
-    "is_internship": false
+    "is_internship": true
   },
   {
     "id": 289665,
@@ -660,15 +726,15 @@
     "is_internship": true
   },
   {
-    "id": 289666,
-    "company": "Ambarella",
-    "role": "Software Architecture Engineer Intern",
-    "location": "US Headquarters",
+    "id": 289061,
+    "company": "KION Group",
+    "role": "Software Support Engineer",
+    "location": "Grand Rapids, MI, United States",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/Software-Architecture-Engineer-Intern_JR100365",
+    "url": "https://kiongroup.wd3.myworkdayjobs.com/KIONGroup/job/Grand-Rapids-MI-United-States/Software-Support-Engineer_JR-0092880-1",
     "age": "5d",
-    "is_internship": true
+    "is_internship": false
   },
   {
     "id": 288938,
@@ -689,7 +755,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/hpiq/jobs/6164689004",
-    "age": "5d",
+    "age": "6d",
     "is_internship": false
   },
   {
@@ -770,8 +836,8 @@
     "is_internship": false
   },
   {
-    "id": 286889,
-    "company": "Robert Bosch",
+    "id": 287202,
+    "company": "Bosch",
     "role": "Phone as a Key Software Engineering - Intern",
     "location": "Plymouth, MI, us",
     "source": "SmartRecruiters",
@@ -792,8 +858,8 @@
     "is_internship": true
   },
   {
-    "id": 286893,
-    "company": "Robert Bosch Venture Capital",
+    "id": 286889,
+    "company": "Robert Bosch",
     "role": "Phone as a Key Software Engineering - Intern",
     "location": "Plymouth, MI, us",
     "source": "SmartRecruiters",
@@ -803,8 +869,8 @@
     "is_internship": true
   },
   {
-    "id": 287202,
-    "company": "Bosch",
+    "id": 286893,
+    "company": "Robert Bosch Venture Capital",
     "role": "Phone as a Key Software Engineering - Intern",
     "location": "Plymouth, MI, us",
     "source": "SmartRecruiters",
@@ -913,24 +979,13 @@
     "is_internship": false
   },
   {
-    "id": 288045,
-    "company": "Ferrovial",
-    "role": "Webber - FrontEnd Loader Operator - Heavy Civil WKY",
-    "location": "Seguin, TX",
+    "id": 287266,
+    "company": "Light & Wonder",
+    "role": "Associate Software QA Engineer",
+    "location": "Las Vegas, NV",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Seguin-TX/Webber---FrontEnd-Loader-Operator---Heavy-Civil-WKY_JR18934",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 286850,
-    "company": "Viavi Solutions",
-    "role": "Early Careers Rotational Program Development Engineer - Software Engineering/AI Track",
-    "location": "Morrisville, NC USA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Morrisville-NC-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004987-1",
+    "url": "https://lnw.wd5.myworkdayjobs.com/LightWonderExternalCareers/job/Las-Vegas-NV/Associate-Software-QA-Engineer_R322730",
     "age": "6d",
     "is_internship": false
   },
@@ -946,24 +1001,24 @@
     "is_internship": false
   },
   {
-    "id": 287266,
-    "company": "Light & Wonder",
-    "role": "Associate Software QA Engineer",
-    "location": "Las Vegas, NV",
+    "id": 286850,
+    "company": "Viavi Solutions",
+    "role": "Early Careers Rotational Program Development Engineer - Software Engineering/AI Track",
+    "location": "Morrisville, NC USA",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://lnw.wd5.myworkdayjobs.com/LightWonderExternalCareers/job/Las-Vegas-NV/Associate-Software-QA-Engineer_R322730",
+    "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Morrisville-NC-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004987-1",
     "age": "6d",
     "is_internship": false
   },
   {
-    "id": 288640,
-    "company": "Texas A&M University System",
-    "role": "Web Applications Developer II -  WordPress & Full Stack Web Development",
-    "location": "College Station, TX",
+    "id": 288045,
+    "company": "Ferrovial",
+    "role": "Webber - FrontEnd Loader Operator - Heavy Civil WKY",
+    "location": "Seguin, TX",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Web-Applications-Developer-II----WordPress---Full-Stack-Web-Development_R-096473",
+    "url": "https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Seguin-TX/Webber---FrontEnd-Loader-Operator---Heavy-Civil-WKY_JR18934",
     "age": "6d",
     "is_internship": false
   },
@@ -975,6 +1030,17 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://tamus.wd1.myworkdayjobs.com/AgriLife_Research_External/job/College-Station-TX/Web-Applications-Developer-II----WordPress---Full-Stack-Web-Development_R-096473-1",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 288640,
+    "company": "Texas A&M University System",
+    "role": "Web Applications Developer II -  WordPress & Full Stack Web Development",
+    "location": "College Station, TX",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Web-Applications-Developer-II----WordPress---Full-Stack-Web-Development_R-096473",
     "age": "6d",
     "is_internship": false
   },
@@ -997,28 +1063,6 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/zoox/c2abc555-0105-4eda-b9c9-5c9ee28703e7",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 281504,
-    "company": "Archer",
-    "role": "Software Engineer - (SJ2026BS)",
-    "location": "San Jose, California, United States",
-    "source": "Greenhouse",
-    "status": "not_applied",
-    "url": "https://job-boards.greenhouse.io/archer56/jobs/7977707003",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 282271,
-    "company": "Syncreon Consulting",
-    "role": "Full Stack Software Engineer (Java / Spring Boot) - W2 Position ",
-    "location": "New York, NY, us",
-    "source": "SmartRecruiters",
-    "status": "not_applied",
-    "url": "https://jobs.smartrecruiters.com/SyncreonConsulting/744000145606224-full-stack-software-engineer-java-spring-boot-w2-position-",
     "age": "6d",
     "is_internship": false
   }
