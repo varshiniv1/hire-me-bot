@@ -1,25 +1,26 @@
 # Job Postings Report
 
-71 postings from the last 6 days.
+72 postings from the last 6 days.
 
 ## Internships (8)
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
 | Philips | Co-op – Software Test Automation Engineer – Orange, OH – January 2027 | Orange (OH), Ohio, United States | Workday | not_applied | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Orange-OH-Ohio-United-States/Co-op---Software-Test-Automation-Engineer---Orange--OH---January-2027_581888) | 4d |
-| Ambarella | Software Architecture Engineer Intern | US Headquarters | Workday | not_applied | [Apply](https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/Software-Architecture-Engineer-Intern_JR100365) | 5d |
 | Ambarella | Software Development Engineer Intern | US Headquarters | Workday | not_applied | [Apply](https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/Software-Development-Engineer-Intern_JR100366-1) | 5d |
 | Amazon | Robotics - Software Development Engineer Fall Intern/Co-op - 2026 | Westboro, Wisconsin, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10517149/apply) | 5d |
-| Robert Bosch | Phone as a Key Software Engineering - Intern | Plymouth, MI, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000145785190-phone-as-a-key-software-engineering-intern) | 5d |
+| Ambarella | Software Architecture Engineer Intern | US Headquarters | Workday | not_applied | [Apply](https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/Software-Architecture-Engineer-Intern_JR100365) | 5d |
 | Bosch Group | Phone as a Key Software Engineering - Intern | Plymouth, MI, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000145785190-phone-as-a-key-software-engineering-intern) | 5d |
 | Bosch | Phone as a Key Software Engineering - Intern | Plymouth, MI, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000145785190-phone-as-a-key-software-engineering-intern) | 5d |
 | Robert Bosch Venture Capital | Phone as a Key Software Engineering - Intern | Plymouth, MI, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000145785190-phone-as-a-key-software-engineering-intern) | 5d |
+| Robert Bosch | Phone as a Key Software Engineering - Intern | Plymouth, MI, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000145785190-phone-as-a-key-software-engineering-intern) | 5d |
 
-## Full-Time (63)
+## Full-Time (64)
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
 | DiDi Global | Software Engineer, Motion Planning  | San Jose, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/didi/jobs/8168501) | 0d |
+| Regions Bank | Software Engineer - Mainframe/COBOL | Hoover, AL - Riverchase Operations Center (Birmingham, AL) | Workday | not_applied | [Apply](https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Software-Engineer---Mainframe-COBOL_R105440) | 0d |
 | Katalyst Space Technologies | Recent Graduate - Software Engineer I | Broomfield, Colorado, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/katalyst/jobs/6176710004) | 0d |
 | Atoms | Software Engineer, Customer Lifecycle | Mountain View, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8767297002) | 0d |
 | Atoms | Software Engineer - Networking | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8767251002) | 0d |
@@ -52,19 +53,19 @@
 | Keenfinity | Software Engineer, Critical Communication Systems | Lincoln, NE, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Keenfinity/744000146207420-software-engineer-critical-communication-systems) | 3d |
 | Best Egg | Software Engineer II | Wilmington, DE | Lever | not_applied | [Apply](https://jobs.lever.co/BestEgg/5b5bc67c-d921-4d41-85f7-9eaca7cd5464) | 3d |
 | Syncreon Consulting | Full Stack Software Engineer (Java / Spring Boot) - W2 Position  | New York, NY, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/SyncreonConsulting/744000146178229-full-stack-software-engineer-java-spring-boot-w2-position-) | 3d |
-| GitLab | Intermediate Backend Engineer, Platform Readiness | Remote, Canada; Remote, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8644569002) | 3d |
-| Motorola | Software Engineer | Schaumburg, IL | Workday | not_applied | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineer_R67582) | 4d |
+| GitLab | Intermediate Backend Engineer, Platform Readiness | Remote, Canada; Remote, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8644569002) | 4d |
 | Ferrovial | Webber - Front End Loader Operator - Heavy Civil | Canyon, TX | Workday | not_applied | [Apply](https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Canyon-TX/Webber---Front-End-Loader-Operator---Heavy-Civil_JR19016) | 4d |
+| Motorola | Software Engineer | Schaumburg, IL | Workday | not_applied | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineer_R67582) | 4d |
 | The Walt Disney Company | Software Engineer (PH) | Lake Buena Vista, FL, USA | Workday | not_applied | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Software-Engineer--PH-_10158403-1) | 4d |
 | LinkedIn | Fullstack Engineer- Personalization Platform | Mountain View, CA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000146028526-fullstack-engineer-personalization-platform) | 4d |
 | 8VC | Software Engineer - MeritFirst | Austin, TX | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/8vc/1625aeeb-f518-4f16-81cb-a42c25ef1014) | 4d |
 | Arrive Logistics | Software Engineer | Chicago, IL | Lever | not_applied | [Apply](https://jobs.lever.co/arrivelogistics/ed5b4a1d-619e-4b35-9c56-ece700a5282d) | 4d |
 | Globalization Partners | Fullstack AI Engineer  | United States (Remote-First) | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/globalizationpartners/jobs/7979219003) | 4d |
 | Syncreon Consulting | Full Stack Software Engineer (Java / Spring Boot) - W2 Position  | New York, NY, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/SyncreonConsulting/744000145998704-full-stack-software-engineer-java-spring-boot-w2-position-) | 4d |
-| Dematic | Software Support Engineer | Grand Rapids, MI, United States | Workday | not_applied | [Apply](https://kiongroup.wd3.myworkdayjobs.com/KION_SCS/job/Grand-Rapids-MI-United-States/Software-Support-Engineer_JR-0092880) | 5d |
-| KION Group | Software Support Engineer | Grand Rapids, MI, United States | Workday | not_applied | [Apply](https://kiongroup.wd3.myworkdayjobs.com/KIONGroup/job/Grand-Rapids-MI-United-States/Software-Support-Engineer_JR-0092880-1) | 5d |
 | NVIDIA | Compiler Engineer, Backend- New College Grad 2026 | US, CA, Santa Clara | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Backend--New-College-Grad-2026_JR2017290) | 5d |
 | Amazon | Software Development Engineer ,  Project Dawn | Seattle, Washington, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10517671/apply) | 5d |
+| KION Group | Software Support Engineer | Grand Rapids, MI, United States | Workday | not_applied | [Apply](https://kiongroup.wd3.myworkdayjobs.com/KIONGroup/job/Grand-Rapids-MI-United-States/Software-Support-Engineer_JR-0092880-1) | 5d |
+| Dematic | Software Support Engineer | Grand Rapids, MI, United States | Workday | not_applied | [Apply](https://kiongroup.wd3.myworkdayjobs.com/KION_SCS/job/Grand-Rapids-MI-United-States/Software-Support-Engineer_JR-0092880) | 5d |
 | HP IQ | Wireless Systems Software Engineer | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6164689004) | 5d |
 | Zoox | Software Engineer, Wireless Technologies | Foster City, CA | Lever | not_applied | [Apply](https://jobs.lever.co/zoox/7522162e-a518-444e-8fe7-49b8b45bbdd3) | 5d |
 | Re:Build Manufacturing | Production Engineer | Kalamazoo, MI | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4727393005) | 5d |

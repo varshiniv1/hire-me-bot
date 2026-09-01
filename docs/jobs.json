@@ -11,6 +11,17 @@
     "is_internship": false
   },
   {
+    "id": 303101,
+    "company": "Regions Bank",
+    "role": "Software Engineer - Mainframe/COBOL",
+    "location": "Hoover, AL - Riverchase Operations Center (Birmingham, AL)",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Software-Engineer---Mainframe-COBOL_R105440",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
     "id": 301973,
     "company": "Katalyst Space Technologies",
     "role": "Recent Graduate - Software Engineer I",
@@ -370,7 +381,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8644569002",
-    "age": "3d",
+    "age": "4d",
     "is_internship": false
   },
   {
@@ -473,35 +484,13 @@
     "is_internship": false
   },
   {
-    "id": 289666,
-    "company": "Ambarella",
-    "role": "Software Architecture Engineer Intern",
-    "location": "US Headquarters",
+    "id": 289061,
+    "company": "KION Group",
+    "role": "Software Support Engineer",
+    "location": "Grand Rapids, MI, United States",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/Software-Architecture-Engineer-Intern_JR100365",
-    "age": "5d",
-    "is_internship": true
-  },
-  {
-    "id": 289685,
-    "company": "Amazon",
-    "role": "Robotics - Software Development Engineer Fall Intern/Co-op - 2026",
-    "location": "Westboro, Wisconsin, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10517149/apply",
-    "age": "5d",
-    "is_internship": true
-  },
-  {
-    "id": 290064,
-    "company": "NVIDIA",
-    "role": "Compiler Engineer, Backend- New College Grad 2026",
-    "location": "US, CA, Santa Clara",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Backend--New-College-Grad-2026_JR2017290",
+    "url": "https://kiongroup.wd3.myworkdayjobs.com/KIONGroup/job/Grand-Rapids-MI-United-States/Software-Support-Engineer_JR-0092880-1",
     "age": "5d",
     "is_internship": false
   },
@@ -517,15 +506,26 @@
     "is_internship": false
   },
   {
-    "id": 289061,
-    "company": "KION Group",
-    "role": "Software Support Engineer",
-    "location": "Grand Rapids, MI, United States",
+    "id": 289685,
+    "company": "Amazon",
+    "role": "Robotics - Software Development Engineer Fall Intern/Co-op - 2026",
+    "location": "Westboro, Wisconsin, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10517149/apply",
+    "age": "5d",
+    "is_internship": true
+  },
+  {
+    "id": 289666,
+    "company": "Ambarella",
+    "role": "Software Architecture Engineer Intern",
+    "location": "US Headquarters",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://kiongroup.wd3.myworkdayjobs.com/KIONGroup/job/Grand-Rapids-MI-United-States/Software-Support-Engineer_JR-0092880-1",
+    "url": "https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/Software-Architecture-Engineer-Intern_JR100365",
     "age": "5d",
-    "is_internship": false
+    "is_internship": true
   },
   {
     "id": 289686,
@@ -535,6 +535,17 @@
     "source": "amazon",
     "status": "not_applied",
     "url": "https://account.amazon.jobs/jobs/10517671/apply",
+    "age": "5d",
+    "is_internship": false
+  },
+  {
+    "id": 290064,
+    "company": "NVIDIA",
+    "role": "Compiler Engineer, Backend- New College Grad 2026",
+    "location": "US, CA, Santa Clara",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Backend--New-College-Grad-2026_JR2017290",
     "age": "5d",
     "is_internship": false
   },
@@ -638,17 +649,6 @@
     "is_internship": false
   },
   {
-    "id": 286893,
-    "company": "Robert Bosch Venture Capital",
-    "role": "Phone as a Key Software Engineering - Intern",
-    "location": "Plymouth, MI, us",
-    "source": "SmartRecruiters",
-    "status": "not_applied",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145785190-phone-as-a-key-software-engineering-intern",
-    "age": "5d",
-    "is_internship": true
-  },
-  {
     "id": 287207,
     "company": "Bosch Group",
     "role": "Phone as a Key Software Engineering - Intern",
@@ -660,8 +660,8 @@
     "is_internship": true
   },
   {
-    "id": 286889,
-    "company": "Robert Bosch",
+    "id": 287202,
+    "company": "Bosch",
     "role": "Phone as a Key Software Engineering - Intern",
     "location": "Plymouth, MI, us",
     "source": "SmartRecruiters",
@@ -671,8 +671,19 @@
     "is_internship": true
   },
   {
-    "id": 287202,
-    "company": "Bosch",
+    "id": 286893,
+    "company": "Robert Bosch Venture Capital",
+    "role": "Phone as a Key Software Engineering - Intern",
+    "location": "Plymouth, MI, us",
+    "source": "SmartRecruiters",
+    "status": "not_applied",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145785190-phone-as-a-key-software-engineering-intern",
+    "age": "5d",
+    "is_internship": true
+  },
+  {
+    "id": 286889,
+    "company": "Robert Bosch",
     "role": "Phone as a Key Software Engineering - Intern",
     "location": "Plymouth, MI, us",
     "source": "SmartRecruiters",
@@ -781,35 +792,13 @@
     "is_internship": false
   },
   {
-    "id": 286850,
-    "company": "Viavi Solutions",
-    "role": "Early Careers Rotational Program Development Engineer - Software Engineering/AI Track",
-    "location": "Morrisville, NC USA",
+    "id": 288640,
+    "company": "Texas A&M University System",
+    "role": "Web Applications Developer II -  WordPress & Full Stack Web Development",
+    "location": "College Station, TX",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Morrisville-NC-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004987-1",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 287266,
-    "company": "Light & Wonder",
-    "role": "Associate Software QA Engineer",
-    "location": "Las Vegas, NV",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://lnw.wd5.myworkdayjobs.com/LightWonderExternalCareers/job/Las-Vegas-NV/Associate-Software-QA-Engineer_R322730",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 288045,
-    "company": "Ferrovial",
-    "role": "Webber - FrontEnd Loader Operator - Heavy Civil WKY",
-    "location": "Seguin, TX",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Seguin-TX/Webber---FrontEnd-Loader-Operator---Heavy-Civil-WKY_JR18934",
+    "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Web-Applications-Developer-II----WordPress---Full-Stack-Web-Development_R-096473",
     "age": "6d",
     "is_internship": false
   },
@@ -825,13 +814,24 @@
     "is_internship": false
   },
   {
-    "id": 288640,
-    "company": "Texas A&M University System",
-    "role": "Web Applications Developer II -  WordPress & Full Stack Web Development",
-    "location": "College Station, TX",
+    "id": 288045,
+    "company": "Ferrovial",
+    "role": "Webber - FrontEnd Loader Operator - Heavy Civil WKY",
+    "location": "Seguin, TX",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Web-Applications-Developer-II----WordPress---Full-Stack-Web-Development_R-096473",
+    "url": "https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Seguin-TX/Webber---FrontEnd-Loader-Operator---Heavy-Civil-WKY_JR18934",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 287266,
+    "company": "Light & Wonder",
+    "role": "Associate Software QA Engineer",
+    "location": "Las Vegas, NV",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://lnw.wd5.myworkdayjobs.com/LightWonderExternalCareers/job/Las-Vegas-NV/Associate-Software-QA-Engineer_R322730",
     "age": "6d",
     "is_internship": false
   },
@@ -843,6 +843,17 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Indianapolis-IN-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004983-1",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 286850,
+    "company": "Viavi Solutions",
+    "role": "Early Careers Rotational Program Development Engineer - Software Engineering/AI Track",
+    "location": "Morrisville, NC USA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Morrisville-NC-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004987-1",
     "age": "6d",
     "is_internship": false
   },
@@ -1030,28 +1041,6 @@
     "source": "Ashby",
     "status": "not_applied",
     "url": "https://jobs.ashbyhq.com/voleon/d732fd5a-ac98-4985-9e60-d1d59f02a66c",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 277831,
-    "company": "Acme Markets",
-    "role": "Front End Entry Level",
-    "location": "Newtown Square, Pennsylvania, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-acme-markets-4448661311",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 297260,
-    "company": "Foundation Health",
-    "role": "Software Engineer",
-    "location": "Orlando, FL",
-    "source": "Ashby",
-    "status": "not_applied",
-    "url": "https://jobs.ashbyhq.com/foundationhealthcareers/e5a46260-f26d-4c62-a641-defcc04db137",
     "age": "6d",
     "is_internship": false
   }
