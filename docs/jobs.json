@@ -11,6 +11,17 @@
     "is_internship": false
   },
   {
+    "id": 307630,
+    "company": "Regions Bank",
+    "role": "Software Engineer - .NET / Full Stack",
+    "location": "Hoover, AL - Riverchase Operations Center (Birmingham, AL)",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Software-Engineer---NET---Full-Stack_R105515",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
     "id": 305575,
     "company": "Harbinger Motors",
     "role": "Software Engineer, DevOps",
@@ -55,17 +66,6 @@
     "is_internship": false
   },
   {
-    "id": 305660,
-    "company": "LexisNexis Legal & Professional",
-    "role": "Software Engineer II",
-    "location": "Raleigh, NC",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Software-Engineer-II_R117664",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
     "id": 305640,
     "company": "KLA",
     "role": "AI Software Engineer - Operations",
@@ -99,13 +99,13 @@
     "is_internship": false
   },
   {
-    "id": 305549,
-    "company": "Flextronics International",
-    "role": "Software Test Development Engineer",
-    "location": "USA, TX, Austin",
+    "id": 304754,
+    "company": "Merative",
+    "role": "Principle SRE",
+    "location": "Remote \u2013 United States",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Software-Test-Development-Engineer_WD223041",
+    "url": "https://merative.wd12.myworkdayjobs.com/External_Career_Site/job/Remote--United-States/Principle-SRE_JR01727",
     "age": "1d",
     "is_internship": false
   },
@@ -209,13 +209,13 @@
     "is_internship": false
   },
   {
-    "id": 304754,
-    "company": "Merative",
-    "role": "Principle SRE",
-    "location": "Remote \u2013 United States",
+    "id": 305549,
+    "company": "Flextronics International",
+    "role": "Software Test Development Engineer",
+    "location": "USA, TX, Austin",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://merative.wd12.myworkdayjobs.com/External_Career_Site/job/Remote--United-States/Principle-SRE_JR01727",
+    "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Software-Test-Development-Engineer_WD223041",
     "age": "1d",
     "is_internship": false
   },
@@ -262,6 +262,17 @@
     "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--Content-IDE-Software-Development--LCS-_R26-5010-2",
     "age": "1d",
     "is_internship": true
+  },
+  {
+    "id": 305660,
+    "company": "LexisNexis Legal & Professional",
+    "role": "Software Engineer II",
+    "location": "Raleigh, NC",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Software-Engineer-II_R117664",
+    "age": "1d",
+    "is_internship": false
   },
   {
     "id": 301973,
@@ -396,24 +407,13 @@
     "is_internship": false
   },
   {
-    "id": 299841,
-    "company": "Amazon",
-    "role": "Software Development Engineer, ML Symphony",
-    "location": "Santa Clara, California, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10521497/apply",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 301033,
-    "company": "iHeartMedia",
-    "role": "Software Tester",
-    "location": "Gainesville, FL",
+    "id": 300746,
+    "company": "Alation",
+    "role": "UX Software Engineer I (Contractor)",
+    "location": "USA-CA-REDWOOD CITY",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Gainesville-FL/Software-Tester_Req39222-2",
+    "url": "https://alation.wd503.myworkdayjobs.com/ExternalSite/job/USA-CA-REDWOOD-CITY/UX-Software-Engineer-I--Contractor-_R10000770",
     "age": "2d",
     "is_internship": false
   },
@@ -440,25 +440,25 @@
     "is_internship": false
   },
   {
-    "id": 300746,
-    "company": "Alation",
-    "role": "UX Software Engineer I (Contractor)",
-    "location": "USA-CA-REDWOOD CITY",
-    "source": "Workday",
+    "id": 299841,
+    "company": "Amazon",
+    "role": "Software Development Engineer, ML Symphony",
+    "location": "Santa Clara, California, USA",
+    "source": "amazon",
     "status": "not_applied",
-    "url": "https://alation.wd503.myworkdayjobs.com/ExternalSite/job/USA-CA-REDWOOD-CITY/UX-Software-Engineer-I--Contractor-_R10000770",
+    "url": "https://account.amazon.jobs/jobs/10521497/apply",
     "age": "2d",
     "is_internship": false
   },
   {
-    "id": 300079,
-    "company": "Hewlett Packard Enterprise",
-    "role": "Systems Software Engineer \u2014 Marvis Minis & Edge AI",
-    "location": "Cupertino, California, United States of America",
+    "id": 301033,
+    "company": "iHeartMedia",
+    "role": "Software Tester",
+    "location": "Gainesville, FL",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Cupertino-California-United-States-of-America/Systems-Software-Engineer---Marvis-Minis---Edge-AI_1205090-1",
-    "age": "3d",
+    "url": "https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Gainesville-FL/Software-Tester_Req39222-2",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -480,6 +480,17 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/EXE-FLS-Production-Engineer---Mechanical-Competency_J-00350480-1",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 300079,
+    "company": "Hewlett Packard Enterprise",
+    "role": "Systems Software Engineer \u2014 Marvis Minis & Edge AI",
+    "location": "Cupertino, California, United States of America",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Cupertino-California-United-States-of-America/Systems-Software-Engineer---Marvis-Minis---Edge-AI_1205090-1",
     "age": "3d",
     "is_internship": false
   },
@@ -623,8 +634,19 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8644569002",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
+  },
+  {
+    "id": 291075,
+    "company": "Philips",
+    "role": "Co-op \u2013 Software Test Automation Engineer \u2013 Orange, OH \u2013 January 2027",
+    "location": "Orange (OH), Ohio, United States",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Orange-OH-Ohio-United-States/Co-op---Software-Test-Automation-Engineer---Orange--OH---January-2027_581888",
+    "age": "5d",
+    "is_internship": true
   },
   {
     "id": 292665,
@@ -658,17 +680,6 @@
     "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Software-Engineer--PH-_10158403-1",
     "age": "5d",
     "is_internship": false
-  },
-  {
-    "id": 291075,
-    "company": "Philips",
-    "role": "Co-op \u2013 Software Test Automation Engineer \u2013 Orange, OH \u2013 January 2027",
-    "location": "Orange (OH), Ohio, United States",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Orange-OH-Ohio-United-States/Co-op---Software-Test-Automation-Engineer---Orange--OH---January-2027_581888",
-    "age": "5d",
-    "is_internship": true
   },
   {
     "id": 290015,
