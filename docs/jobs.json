@@ -11,6 +11,17 @@
     "is_internship": false
   },
   {
+    "id": 312238,
+    "company": "ASML",
+    "role": "Optical Fab technician- CWW Front End Nights, 6:00 PM \u2013 6:00 AM (Sunday, Monday, Tuesday, and every other Saturday)",
+    "location": "Wilton, CT, USA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fab-technician--CWW-Front-End-Nights--6-00-PM---6-00-AM--Sunday--Monday--Tuesday--and-every-other-Saturday-_J-00346858",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
     "id": 311367,
     "company": "Crowdstrike",
     "role": "Software Engineer, Product Security - Security Automation (Remote)",
@@ -51,6 +62,17 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/addepar1/jobs/8765252002",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 310194,
+    "company": "Texas A&M University - Corpus Christi",
+    "role": "Software Applications Developer I",
+    "location": "Corpus Christi, TX",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Software-Applications-Developer-I_R-096789",
     "age": "1d",
     "is_internship": false
   },
@@ -143,17 +165,6 @@
     "is_internship": true
   },
   {
-    "id": 310194,
-    "company": "Texas A&M University - Corpus Christi",
-    "role": "Software Applications Developer I",
-    "location": "Corpus Christi, TX",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Software-Applications-Developer-I_R-096789",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
     "id": 305575,
     "company": "Harbinger Motors",
     "role": "Software Engineer, DevOps",
@@ -183,7 +194,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/verisign/jobs/7675923003",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -198,24 +209,46 @@
     "is_internship": false
   },
   {
-    "id": 303101,
-    "company": "Regions Bank",
-    "role": "Software Engineer - Mainframe/COBOL",
-    "location": "Hoover, AL - Riverchase Operations Center (Birmingham, AL)",
+    "id": 303826,
+    "company": "Magna International",
+    "role": "Software Engineering Student",
+    "location": "Troy, Michigan, US",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Software-Engineer---Mainframe-COBOL_R105440",
+    "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/Software-Engineering-Student_R00259672",
     "age": "2d",
     "is_internship": false
   },
   {
-    "id": 305660,
-    "company": "LexisNexis Legal & Professional",
-    "role": "Software Engineer II",
-    "location": "Raleigh, NC",
+    "id": 305549,
+    "company": "Flextronics International",
+    "role": "Software Test Development Engineer",
+    "location": "USA, TX, Austin",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Software-Engineer-II_R117664",
+    "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Software-Test-Development-Engineer_WD223041",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 305550,
+    "company": "Flex",
+    "role": "Software Test Development Engineer",
+    "location": "USA, TX, Austin",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Software-Test-Development-Engineer_WD223041",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 305637,
+    "company": "Jones Lang LaSalle (JLL)",
+    "role": "Software Engineer",
+    "location": "Denver, CO",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Denver-CO/Software-Engineer_REQ528624",
     "age": "2d",
     "is_internship": false
   },
@@ -264,6 +297,17 @@
     "is_internship": true
   },
   {
+    "id": 305660,
+    "company": "LexisNexis Legal & Professional",
+    "role": "Software Engineer II",
+    "location": "Raleigh, NC",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Software-Engineer-II_R117664",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
     "id": 305640,
     "company": "KLA",
     "role": "AI Software Engineer - Operations",
@@ -275,35 +319,46 @@
     "is_internship": false
   },
   {
-    "id": 305637,
-    "company": "Jones Lang LaSalle (JLL)",
-    "role": "Software Engineer",
-    "location": "Denver, CO",
+    "id": 303101,
+    "company": "Regions Bank",
+    "role": "Software Engineer - Mainframe/COBOL",
+    "location": "Hoover, AL - Riverchase Operations Center (Birmingham, AL)",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Denver-CO/Software-Engineer_REQ528624",
+    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Software-Engineer---Mainframe-COBOL_R105440",
     "age": "2d",
     "is_internship": false
   },
   {
-    "id": 305550,
-    "company": "Flex",
-    "role": "Software Test Development Engineer",
-    "location": "USA, TX, Austin",
+    "id": 303968,
+    "company": "Philips",
+    "role": "Co-op - Software Development Engineer - Cambridge, MA - Jan-Aug 2027",
+    "location": "Cambridge (US), Massachusetts, United States",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Software-Test-Development-Engineer_WD223041",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Development-Engineer---Cambridge--MA---Jan-Aug-2027_590095",
     "age": "2d",
-    "is_internship": false
+    "is_internship": true
   },
   {
-    "id": 305549,
-    "company": "Flextronics International",
-    "role": "Software Test Development Engineer",
-    "location": "USA, TX, Austin",
+    "id": 303969,
+    "company": "Philips",
+    "role": "Co-op \u2013 Software Engineer (R&D) \u2013 Cambridge, MA \u2013 January - August 2027",
+    "location": "Cambridge (US), Massachusetts, United States",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Software-Test-Development-Engineer_WD223041",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Engineer--R-D----Cambridge--MA---January---August-2027_588891",
+    "age": "2d",
+    "is_internship": true
+  },
+  {
+    "id": 303676,
+    "company": "Equifax",
+    "role": "Site Reliability Engineer - Rotational Development Program",
+    "location": "USA - Missouri - St. Louis - Lackland",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Missouri---St-Louis---Lackland/Site-Reliability-Engineer---Rotational-Development-Program_J00178675",
     "age": "2d",
     "is_internship": false
   },
@@ -319,24 +374,13 @@
     "is_internship": false
   },
   {
-    "id": 304463,
-    "company": "Autostore",
-    "role": "Software AI Engineer",
-    "location": "Atlanta, GA, USA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Software-AI-Engineer_JR102673",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 304652,
+    "id": 304650,
     "company": "Genuine Parts Company",
-    "role": "Cloud SRE Intern",
+    "role": "Software Developer Intern",
     "location": "Birmingham, AL, USA",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Cloud-SRE-Intern_R26_0000029134",
+    "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Developer-Intern_R26_0000029140",
     "age": "2d",
     "is_internship": true
   },
@@ -352,59 +396,26 @@
     "is_internship": true
   },
   {
-    "id": 304650,
+    "id": 304652,
     "company": "Genuine Parts Company",
-    "role": "Software Developer Intern",
+    "role": "Cloud SRE Intern",
     "location": "Birmingham, AL, USA",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Developer-Intern_R26_0000029140",
+    "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Cloud-SRE-Intern_R26_0000029134",
     "age": "2d",
     "is_internship": true
   },
   {
-    "id": 303826,
-    "company": "Magna International",
-    "role": "Software Engineering Student",
-    "location": "Troy, Michigan, US",
+    "id": 304463,
+    "company": "Autostore",
+    "role": "Software AI Engineer",
+    "location": "Atlanta, GA, USA",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/Software-Engineering-Student_R00259672",
+    "url": "https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Software-AI-Engineer_JR102673",
     "age": "2d",
     "is_internship": false
-  },
-  {
-    "id": 303676,
-    "company": "Equifax",
-    "role": "Site Reliability Engineer - Rotational Development Program",
-    "location": "USA - Missouri - St. Louis - Lackland",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Missouri---St-Louis---Lackland/Site-Reliability-Engineer---Rotational-Development-Program_J00178675",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 303969,
-    "company": "Philips",
-    "role": "Co-op \u2013 Software Engineer (R&D) \u2013 Cambridge, MA \u2013 January - August 2027",
-    "location": "Cambridge (US), Massachusetts, United States",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Engineer--R-D----Cambridge--MA---January---August-2027_588891",
-    "age": "2d",
-    "is_internship": true
-  },
-  {
-    "id": 303968,
-    "company": "Philips",
-    "role": "Co-op - Software Development Engineer - Cambridge, MA - Jan-Aug 2027",
-    "location": "Cambridge (US), Massachusetts, United States",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Development-Engineer---Cambridge--MA---Jan-Aug-2027_590095",
-    "age": "2d",
-    "is_internship": true
   },
   {
     "id": 301973,
@@ -513,7 +524,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/cartesiansystems/jobs/4388471009",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -524,7 +535,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5409573008",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -535,7 +546,7 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/CapTechConsulting/744000146449269-software-engineering-associate-consultant-graduating-dec-2026-summer-2027-",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -546,39 +557,6 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Diego-California-United-States-of-America/Hardware-Software-Lab-Technician_3167571",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 301033,
-    "company": "iHeartMedia",
-    "role": "Software Tester",
-    "location": "Gainesville, FL",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Gainesville-FL/Software-Tester_Req39222-2",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 300876,
-    "company": "ASML",
-    "role": "Optical Fabrication Technician Metrology- CWW Back End Nights, 6:00 PM \u2013 6:00 AM (Wednesday, Thursday, Friday, and every other Saturday)",
-    "location": "Wilton, CT, USA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-Metrology--CWW-Back-End-Nights--6-00-PM---6-00-AM--Wednesday--Thursday--Friday--and-every-other-Saturday-_J-00351183",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 300746,
-    "company": "Alation",
-    "role": "UX Software Engineer I (Contractor)",
-    "location": "USA-CA-REDWOOD CITY",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://alation.wd503.myworkdayjobs.com/ExternalSite/job/USA-CA-REDWOOD-CITY/UX-Software-Engineer-I--Contractor-_R10000770",
     "age": "3d",
     "is_internship": false
   },
@@ -594,6 +572,39 @@
     "is_internship": false
   },
   {
+    "id": 300746,
+    "company": "Alation",
+    "role": "UX Software Engineer I (Contractor)",
+    "location": "USA-CA-REDWOOD CITY",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://alation.wd503.myworkdayjobs.com/ExternalSite/job/USA-CA-REDWOOD-CITY/UX-Software-Engineer-I--Contractor-_R10000770",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 300876,
+    "company": "ASML",
+    "role": "Optical Fabrication Technician Metrology- CWW Back End Nights, 6:00 PM \u2013 6:00 AM (Wednesday, Thursday, Friday, and every other Saturday)",
+    "location": "Wilton, CT, USA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-Metrology--CWW-Back-End-Nights--6-00-PM---6-00-AM--Wednesday--Thursday--Friday--and-every-other-Saturday-_J-00351183",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 301033,
+    "company": "iHeartMedia",
+    "role": "Software Tester",
+    "location": "Gainesville, FL",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Gainesville-FL/Software-Tester_Req39222-2",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
     "id": 299137,
     "company": "Hewlett Packard Enterprise",
     "role": "Systems Software Engineer",
@@ -605,17 +616,6 @@
     "is_internship": false
   },
   {
-    "id": 300079,
-    "company": "Hewlett Packard Enterprise",
-    "role": "Systems Software Engineer \u2014 Marvis Minis & Edge AI",
-    "location": "Cupertino, California, United States of America",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Cupertino-California-United-States-of-America/Systems-Software-Engineer---Marvis-Minis---Edge-AI_1205090-1",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
     "id": 299001,
     "company": "ASML",
     "role": "EXE FLS Production Engineer \u2013 Mechanical Competency",
@@ -623,6 +623,17 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/EXE-FLS-Production-Engineer---Mechanical-Competency_J-00350480-1",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 300079,
+    "company": "Hewlett Packard Enterprise",
+    "role": "Systems Software Engineer \u2014 Marvis Minis & Edge AI",
+    "location": "Cupertino, California, United States of America",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Cupertino-California-United-States-of-America/Systems-Software-Engineer---Marvis-Minis---Edge-AI_1205090-1",
     "age": "4d",
     "is_internship": false
   },
@@ -711,7 +722,7 @@
     "source": "Ashby",
     "status": "not_applied",
     "url": "https://jobs.ashbyhq.com/ramp/c01a2ed9-fcb4-48c0-ad7a-c59476d9c986",
-    "age": "5d",
+    "age": "6d",
     "is_internship": false
   },
   {
@@ -722,7 +733,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/hermeus/4b1f62d7-4a70-4d79-b83d-f8a6cae6ccaa",
-    "age": "5d",
+    "age": "6d",
     "is_internship": false
   },
   {
@@ -733,7 +744,7 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/Keenfinity/744000146207420-software-engineer-critical-communication-systems",
-    "age": "5d",
+    "age": "6d",
     "is_internship": false
   },
   {
@@ -744,7 +755,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/BestEgg/5b5bc67c-d921-4d41-85f7-9eaca7cd5464",
-    "age": "5d",
+    "age": "6d",
     "is_internship": false
   },
   {
@@ -755,7 +766,7 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/SyncreonConsulting/744000146178229-full-stack-software-engineer-java-spring-boot-w2-position-",
-    "age": "5d",
+    "age": "6d",
     "is_internship": false
   },
   {
@@ -781,17 +792,6 @@
     "is_internship": true
   },
   {
-    "id": 302488,
-    "company": "The Walt Disney Company",
-    "role": "Software Engineer (PH)",
-    "location": "Lake Buena Vista, FL, USA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Software-Engineer--PH-_10158403-1",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
     "id": 292665,
     "company": "Ferrovial",
     "role": "Webber - Front End Loader Operator - Heavy Civil",
@@ -814,6 +814,17 @@
     "is_internship": false
   },
   {
+    "id": 302488,
+    "company": "The Walt Disney Company",
+    "role": "Software Engineer (PH)",
+    "location": "Lake Buena Vista, FL, USA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Software-Engineer--PH-_10158403-1",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
     "id": 290015,
     "company": "LinkedIn",
     "role": "Fullstack Engineer- Personalization Platform",
@@ -821,50 +832,6 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000146028526-fullstack-engineer-personalization-platform",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 289631,
-    "company": "8VC",
-    "role": "Software Engineer - MeritFirst",
-    "location": "Austin, TX",
-    "source": "Ashby",
-    "status": "not_applied",
-    "url": "https://jobs.ashbyhq.com/8vc/1625aeeb-f518-4f16-81cb-a42c25ef1014",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 289679,
-    "company": "Arrive Logistics",
-    "role": "Software Engineer",
-    "location": "Chicago, IL",
-    "source": "Lever",
-    "status": "not_applied",
-    "url": "https://jobs.lever.co/arrivelogistics/ed5b4a1d-619e-4b35-9c56-ece700a5282d",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 289905,
-    "company": "Globalization Partners",
-    "role": "Fullstack AI Engineer ",
-    "location": "United States (Remote-First)",
-    "source": "Greenhouse",
-    "status": "not_applied",
-    "url": "https://job-boards.greenhouse.io/globalizationpartners/jobs/7979219003",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 290442,
-    "company": "Syncreon Consulting",
-    "role": "Full Stack Software Engineer (Java / Spring Boot) - W2 Position ",
-    "location": "New York, NY, us",
-    "source": "SmartRecruiters",
-    "status": "not_applied",
-    "url": "https://jobs.smartrecruiters.com/SyncreonConsulting/744000145998704-full-stack-software-engineer-java-spring-boot-w2-position-",
     "age": "6d",
     "is_internship": false
   }
