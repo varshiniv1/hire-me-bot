@@ -1,5 +1,16 @@
 [
   {
+    "id": 310341,
+    "company": "Amazon",
+    "role": "Software Dev Engineer, Publisher Ad Server",
+    "location": "Seattle, Washington, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10528085/apply",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
     "id": 309919,
     "company": "Reflect Orbital",
     "role": "Flight Software Engineering Intern",
@@ -29,8 +40,19 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/addepar1/jobs/8765252002",
-    "age": "0d",
+    "age": "1d",
     "is_internship": false
+  },
+  {
+    "id": 308259,
+    "company": "Genuine Parts Company",
+    "role": "Software Engineer - QA Analyst Intern",
+    "location": "Birmingham, AL, USA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Engineer---QA-Analyst-Intern_R26_0000029235",
+    "age": "1d",
+    "is_internship": true
   },
   {
     "id": 308355,
@@ -40,18 +62,7 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering-Software_R00258617",
-    "age": "0d",
-    "is_internship": true
-  },
-  {
-    "id": 308258,
-    "company": "Genuine Parts Company",
-    "role": "Software Engineer - QA Analyst Intern",
-    "location": "Birmingham, AL, USA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Engineer---QA-Analyst-Intern_R26_0000029236",
-    "age": "0d",
+    "age": "1d",
     "is_internship": true
   },
   {
@@ -62,62 +73,18 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Software-Engineer---NET---Full-Stack_R105515",
-    "age": "0d",
+    "age": "1d",
     "is_internship": false
   },
   {
-    "id": 310194,
-    "company": "Texas A&M University - Corpus Christi",
-    "role": "Software Applications Developer I",
-    "location": "Corpus Christi, TX",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Software-Applications-Developer-I_R-096789",
-    "age": "0d",
-    "is_internship": false
-  },
-  {
-    "id": 309481,
-    "company": "Baker Hughes",
-    "role": "Software Engineer",
-    "location": "US-NV-MINDEN-1631 BENTLY PARKWAY SOUTH",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-NV-MINDEN-1631-BENTLY-PARKWAY-SOUTH/Software-Engineer_R168272",
-    "age": "0d",
-    "is_internship": false
-  },
-  {
-    "id": 309002,
-    "company": "Philips",
-    "role": "Co-op - Software Development Engineer (Automation) \u2013 Cambridge, MA \u2013 Fall 2026",
-    "location": "Cambridge (US), Massachusetts, United States",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Development-Engineer--Automation----Cambridge--MA---Fall-2026_590708",
-    "age": "0d",
-    "is_internship": true
-  },
-  {
-    "id": 308663,
-    "company": "Copart",
-    "role": "Software Engineering Intern",
-    "location": "Dallas, TX - Headquarters",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR111173",
-    "age": "0d",
-    "is_internship": true
-  },
-  {
-    "id": 308259,
+    "id": 308258,
     "company": "Genuine Parts Company",
     "role": "Software Engineer - QA Analyst Intern",
     "location": "Birmingham, AL, USA",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Engineer---QA-Analyst-Intern_R26_0000029235",
-    "age": "0d",
+    "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Engineer---QA-Analyst-Intern_R26_0000029236",
+    "age": "1d",
     "is_internship": true
   },
   {
@@ -128,7 +95,51 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Seguin-TX/Webber---FrontEnd-Loader-Operator---Heavy-Civil-WKY_JR19074",
-    "age": "0d",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 309002,
+    "company": "Philips",
+    "role": "Co-op - Software Development Engineer (Automation) \u2013 Cambridge, MA \u2013 Fall 2026",
+    "location": "Cambridge (US), Massachusetts, United States",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Development-Engineer--Automation----Cambridge--MA---Fall-2026_590708",
+    "age": "1d",
+    "is_internship": true
+  },
+  {
+    "id": 308663,
+    "company": "Copart",
+    "role": "Software Engineering Intern",
+    "location": "Dallas, TX - Headquarters",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR111173",
+    "age": "1d",
+    "is_internship": true
+  },
+  {
+    "id": 310194,
+    "company": "Texas A&M University - Corpus Christi",
+    "role": "Software Applications Developer I",
+    "location": "Corpus Christi, TX",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Software-Applications-Developer-I_R-096789",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 309481,
+    "company": "Baker Hughes",
+    "role": "Software Engineer",
+    "location": "US-NV-MINDEN-1631 BENTLY PARKWAY SOUTH",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-NV-MINDEN-1631-BENTLY-PARKWAY-SOUTH/Software-Engineer_R168272",
+    "age": "1d",
     "is_internship": false
   },
   {
@@ -172,19 +183,8 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/didi/jobs/8168501",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
-  },
-  {
-    "id": 303969,
-    "company": "Philips",
-    "role": "Co-op \u2013 Software Engineer (R&D) \u2013 Cambridge, MA \u2013 January - August 2027",
-    "location": "Cambridge (US), Massachusetts, United States",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Engineer--R-D----Cambridge--MA---January---August-2027_588891",
-    "age": "1d",
-    "is_internship": true
   },
   {
     "id": 303968,
@@ -194,7 +194,7 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Development-Engineer---Cambridge--MA---Jan-Aug-2027_590095",
-    "age": "1d",
+    "age": "2d",
     "is_internship": true
   },
   {
@@ -205,18 +205,18 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Software-Engineer---Mainframe-COBOL_R105440",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
   },
   {
-    "id": 305637,
-    "company": "Jones Lang LaSalle (JLL)",
-    "role": "Software Engineer",
-    "location": "Denver, CO",
+    "id": 305660,
+    "company": "LexisNexis Legal & Professional",
+    "role": "Software Engineer II",
+    "location": "Raleigh, NC",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Denver-CO/Software-Engineer_REQ528624",
-    "age": "1d",
+    "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Software-Engineer-II_R117664",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -227,7 +227,7 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/AI-Software-Engineer---Operations_2640067-1",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -238,7 +238,7 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/Entry-Level-Software-Quality---Testing-Engineer_JR-202619105",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -249,7 +249,7 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level-Software-Engineer_JR-202618756",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -260,19 +260,8 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--Content-IDE-Software-Development--LCS-_R26-5010-2",
-    "age": "1d",
+    "age": "2d",
     "is_internship": true
-  },
-  {
-    "id": 305660,
-    "company": "LexisNexis Legal & Professional",
-    "role": "Software Engineer II",
-    "location": "Raleigh, NC",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Software-Engineer-II_R117664",
-    "age": "1d",
-    "is_internship": false
   },
   {
     "id": 305640,
@@ -282,7 +271,18 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/AI-Software-Engineer---Operations_2640067-1",
-    "age": "1d",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 305637,
+    "company": "Jones Lang LaSalle (JLL)",
+    "role": "Software Engineer",
+    "location": "Denver, CO",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Denver-CO/Software-Engineer_REQ528624",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -293,7 +293,7 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Software-Test-Development-Engineer_WD223041",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -304,7 +304,7 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Software-Test-Development-Engineer_WD223041",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -315,7 +315,7 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://merative.wd12.myworkdayjobs.com/External_Career_Site/job/Remote--United-States/Principle-SRE_JR01727",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -326,7 +326,7 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Software-AI-Engineer_JR102673",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -337,7 +337,7 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Cloud-SRE-Intern_R26_0000029134",
-    "age": "1d",
+    "age": "2d",
     "is_internship": true
   },
   {
@@ -348,7 +348,7 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Customer-Software-Development-Intern_R26_0000029135",
-    "age": "1d",
+    "age": "2d",
     "is_internship": true
   },
   {
@@ -359,7 +359,7 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Developer-Intern_R26_0000029140",
-    "age": "1d",
+    "age": "2d",
     "is_internship": true
   },
   {
@@ -370,7 +370,7 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/Software-Engineering-Student_R00259672",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -381,8 +381,19 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Missouri---St-Louis---Lackland/Site-Reliability-Engineer---Rotational-Development-Program_J00178675",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
+  },
+  {
+    "id": 303969,
+    "company": "Philips",
+    "role": "Co-op \u2013 Software Engineer (R&D) \u2013 Cambridge, MA \u2013 January - August 2027",
+    "location": "Cambridge (US), Massachusetts, United States",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Engineer--R-D----Cambridge--MA---January---August-2027_588891",
+    "age": "2d",
+    "is_internship": true
   },
   {
     "id": 301973,
@@ -517,39 +528,6 @@
     "is_internship": false
   },
   {
-    "id": 301021,
-    "company": "Hewlett Packard (HP)",
-    "role": "Hardware/Software Lab Technician",
-    "location": "San Diego, California, United States of America",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Diego-California-United-States-of-America/Hardware-Software-Lab-Technician_3167571",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 300746,
-    "company": "Alation",
-    "role": "UX Software Engineer I (Contractor)",
-    "location": "USA-CA-REDWOOD CITY",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://alation.wd503.myworkdayjobs.com/ExternalSite/job/USA-CA-REDWOOD-CITY/UX-Software-Engineer-I--Contractor-_R10000770",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 299841,
-    "company": "Amazon",
-    "role": "Software Development Engineer, ML Symphony",
-    "location": "Santa Clara, California, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10521497/apply",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
     "id": 300876,
     "company": "ASML",
     "role": "Optical Fabrication Technician Metrology- CWW Back End Nights, 6:00 PM \u2013 6:00 AM (Wednesday, Thursday, Friday, and every other Saturday)",
@@ -557,7 +535,7 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-Metrology--CWW-Back-End-Nights--6-00-PM---6-00-AM--Wednesday--Thursday--Friday--and-every-other-Saturday-_J-00351183",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -568,7 +546,40 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Gainesville-FL/Software-Tester_Req39222-2",
-    "age": "2d",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 301021,
+    "company": "Hewlett Packard (HP)",
+    "role": "Hardware/Software Lab Technician",
+    "location": "San Diego, California, United States of America",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Diego-California-United-States-of-America/Hardware-Software-Lab-Technician_3167571",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 300746,
+    "company": "Alation",
+    "role": "UX Software Engineer I (Contractor)",
+    "location": "USA-CA-REDWOOD CITY",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://alation.wd503.myworkdayjobs.com/ExternalSite/job/USA-CA-REDWOOD-CITY/UX-Software-Engineer-I--Contractor-_R10000770",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 299841,
+    "company": "Amazon",
+    "role": "Software Development Engineer, ML Symphony",
+    "location": "Santa Clara, California, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10521497/apply",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -579,7 +590,7 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Cupertino-California-United-States-of-America/Systems-Software-Engineer---Marvis-Minis---Edge-AI_1205090-1",
-    "age": "3d",
+    "age": "4d",
     "is_internship": false
   },
   {
@@ -590,7 +601,7 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Roseville-California-United-States-of-America/Systems-Software-Engineer_1212359",
-    "age": "3d",
+    "age": "4d",
     "is_internship": false
   },
   {
@@ -601,7 +612,7 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/EXE-FLS-Production-Engineer---Mechanical-Competency_J-00350480-1",
-    "age": "3d",
+    "age": "4d",
     "is_internship": false
   },
   {
@@ -748,28 +759,6 @@
     "is_internship": false
   },
   {
-    "id": 291876,
-    "company": "Motorola",
-    "role": "Software Engineer",
-    "location": "Schaumburg, IL",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineer_R67582",
-    "age": "5d",
-    "is_internship": false
-  },
-  {
-    "id": 292665,
-    "company": "Ferrovial",
-    "role": "Webber - Front End Loader Operator - Heavy Civil",
-    "location": "Canyon, TX",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Canyon-TX/Webber---Front-End-Loader-Operator---Heavy-Civil_JR19016",
-    "age": "5d",
-    "is_internship": false
-  },
-  {
     "id": 302488,
     "company": "The Walt Disney Company",
     "role": "Software Engineer (PH)",
@@ -777,7 +766,7 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Software-Engineer--PH-_10158403-1",
-    "age": "5d",
+    "age": "6d",
     "is_internship": false
   },
   {
@@ -788,8 +777,30 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Orange-OH-Ohio-United-States/Co-op---Software-Test-Automation-Engineer---Orange--OH---January-2027_581888",
-    "age": "5d",
+    "age": "6d",
     "is_internship": true
+  },
+  {
+    "id": 291876,
+    "company": "Motorola",
+    "role": "Software Engineer",
+    "location": "Schaumburg, IL",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineer_R67582",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 292665,
+    "company": "Ferrovial",
+    "role": "Webber - Front End Loader Operator - Heavy Civil",
+    "location": "Canyon, TX",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Canyon-TX/Webber---Front-End-Loader-Operator---Heavy-Civil_JR19016",
+    "age": "6d",
+    "is_internship": false
   },
   {
     "id": 290015,
@@ -843,83 +854,6 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/SyncreonConsulting/744000145998704-full-stack-software-engineer-java-spring-boot-w2-position-",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 290064,
-    "company": "NVIDIA",
-    "role": "Compiler Engineer, Backend- New College Grad 2026",
-    "location": "US, CA, Santa Clara",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Backend--New-College-Grad-2026_JR2017290",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 289686,
-    "company": "Amazon",
-    "role": "Software Development Engineer ,  Project Dawn",
-    "location": "Seattle, Washington, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10517671/apply",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 289665,
-    "company": "Ambarella",
-    "role": "Software Development Engineer Intern",
-    "location": "US Headquarters",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/Software-Development-Engineer-Intern_JR100366-1",
-    "age": "6d",
-    "is_internship": true
-  },
-  {
-    "id": 288938,
-    "company": "Dematic",
-    "role": "Software Support Engineer",
-    "location": "Grand Rapids, MI, United States",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://kiongroup.wd3.myworkdayjobs.com/KION_SCS/job/Grand-Rapids-MI-United-States/Software-Support-Engineer_JR-0092880",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 289685,
-    "company": "Amazon",
-    "role": "Robotics - Software Development Engineer Fall Intern/Co-op - 2026",
-    "location": "Westboro, Wisconsin, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10517149/apply",
-    "age": "6d",
-    "is_internship": true
-  },
-  {
-    "id": 289666,
-    "company": "Ambarella",
-    "role": "Software Architecture Engineer Intern",
-    "location": "US Headquarters",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/Software-Architecture-Engineer-Intern_JR100365",
-    "age": "6d",
-    "is_internship": true
-  },
-  {
-    "id": 289061,
-    "company": "KION Group",
-    "role": "Software Support Engineer",
-    "location": "Grand Rapids, MI, United States",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://kiongroup.wd3.myworkdayjobs.com/KIONGroup/job/Grand-Rapids-MI-United-States/Software-Support-Engineer_JR-0092880-1",
     "age": "6d",
     "is_internship": false
   }
