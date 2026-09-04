@@ -1,14 +1,15 @@
 # Job Postings Report
 
-70 postings from the last 6 days.
+75 postings from the last 6 days.
 
-## Internships (12)
+## Internships (13)
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
+| Copart | SDET Intern | Dallas, TX - Headquarters | Workday | not_applied | [Apply](https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/SDET-Intern_JR111190) | 0d |
 | Reflect Orbital | Flight Software Engineering Intern | Hawthorne, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/reflect-orbital/d2ad1427-89aa-404d-8678-7b8e6dace5e2) | 1d |
-| Magna International | Intern - Engineering Software | Southfield, Michigan, US | Workday | not_applied | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering-Software_R00258617) | 2d |
 | Genuine Parts Company | Software Engineer - QA Analyst Intern | Birmingham, AL, USA | Workday | not_applied | [Apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Engineer---QA-Analyst-Intern_R26_0000029236) | 2d |
+| Magna International | Intern - Engineering Software | Southfield, Michigan, US | Workday | not_applied | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering-Software_R00258617) | 2d |
 | Genuine Parts Company | Software Engineer - QA Analyst Intern | Birmingham, AL, USA | Workday | not_applied | [Apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Engineer---QA-Analyst-Intern_R26_0000029235) | 2d |
 | Copart | Software Engineering Intern | Dallas, TX - Headquarters | Workday | not_applied | [Apply](https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR111173) | 2d |
 | Philips | Co-op - Software Development Engineer (Automation) – Cambridge, MA – Fall 2026 | Cambridge (US), Massachusetts, United States | Workday | not_applied | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Development-Engineer--Automation----Cambridge--MA---Fall-2026_590708) | 2d |
@@ -19,11 +20,15 @@
 | Genuine Parts Company | Cloud SRE Intern | Birmingham, AL, USA | Workday | not_applied | [Apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Cloud-SRE-Intern_R26_0000029134) | 3d |
 | Rockwell Automation | Intern, Content IDE Software Development (LCS) | Mayfield Heights, Ohio, United States | Workday | not_applied | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--Content-IDE-Software-Development--LCS-_R26-5010-2) | 3d |
 
-## Full-Time (58)
+## Full-Time (62)
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
+| Anduril | Mission Software Engineer | Costa Mesa, California, United States | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5208852007?gh_jid=5208852007) | 0d |
 | DoorDash | Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US | Los Angeles, CA; New York, NY; San Francisco, CA; Sunnyvale, CA ; Seattle, WA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8163709) | 0d |
+| ASML | NXE 2nd Shift Production Engineer First Line Support MBTM | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/NXE-2nd-Shift-Production-Engineer-First-Line-Support-MBTM_J-00350026) | 0d |
+| U.S. Bank | Software Engineer 1 (Java, Linux, SQL) | Saint Paul, MN | Workday | not_applied | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Saint-Paul-MN/Software-Engineer-1--Java--Linux--SQL-_2026-0026539) | 0d |
+| U.S. Bank | Software Engineer 1 (Mainframe, COBOL) | Saint Paul, MN | Workday | not_applied | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Saint-Paul-MN/Software-Engineer-1--Mainframe--COBOL-_2026-0026538-1) | 0d |
 | Zoox | Software Engineer - Collision Avoidance System Metrics | Foster City, CA | Lever | not_applied | [Apply](https://jobs.lever.co/zoox/d5d0608a-aa33-43c3-abe2-5ff8b40028d5) | 0d |
 | The Pokémon Company | Frontend Software Development Engineer | Bellevue, Washington, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/pokemoncareers/jobs/7983587003) | 0d |
 | Veeva Systems | Technical Consultant - Front-end Development | Washington - DC | Lever | not_applied | [Apply](https://jobs.lever.co/veeva/58edfcf2-acbf-4646-8976-a05fe29b4be5) | 0d |
@@ -31,24 +36,24 @@
 | xAI | Software Engineer - Data Center |  Southaven, MS; Memphis, Tennessee | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/5209858007) | 0d |
 | PDI Technologies | Software Engineer II | Temple, TX | Lever | not_applied | [Apply](https://jobs.lever.co/pditechnologies/93776ffa-d08a-471d-9e63-4ba60e2acd00) | 0d |
 | Zoox | Software Engineer, Operational Tools | Foster City, CA | Lever | not_applied | [Apply](https://jobs.lever.co/zoox/998ca0ca-4e3a-409f-bc84-f364d5451e01) | 0d |
-| Amazon | Software Dev Engineer, Publisher Ad Server | Seattle, Washington, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10528085/apply) | 1d |
-| The Walt Disney Company | Software Engineer II | Seattle, WA, USA | Workday | not_applied | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Seattle-WA-USA/Software-Engineer-II_10157095) | 1d |
 | The Walt Disney Company | Software Engineer II | Glendale, CA, USA | Workday | not_applied | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Software-Engineer-II_10157527) | 1d |
-| Greystar Worldwide | Software Support Coordinator | Remote, United States | Workday | not_applied | [Apply](https://greystar.wd1.myworkdayjobs.com/External/job/Remote-United-States/Software-Support-Coordinator_R0200156-1) | 1d |
 | Bose | Software Customer Resident Engineer | US, MI - Bloomfield Hills | Workday | not_applied | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MI---Bloomfield-Hills/Software-Customer-Resident-Engineer_R29154) | 1d |
 | ASML | Optical Fab technician- CWW Front End Nights, 6:00 PM – 6:00 AM (Sunday, Monday, Tuesday, and every other Saturday) | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fab-technician--CWW-Front-End-Nights--6-00-PM---6-00-AM--Sunday--Monday--Tuesday--and-every-other-Saturday-_J-00346858) | 1d |
 | Crowdstrike | Software Engineer, Product Security - Security Automation (Remote) | USA - Remote, TX | Workday | not_applied | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/Software-Engineer--Product-Security---Security-Automation--Remote-_R29972) | 1d |
+| The Walt Disney Company | Software Engineer II | Seattle, WA, USA | Workday | not_applied | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Seattle-WA-USA/Software-Engineer-II_10157095) | 1d |
+| Greystar Worldwide | Software Support Coordinator | Remote, United States | Workday | not_applied | [Apply](https://greystar.wd1.myworkdayjobs.com/External/job/Remote-United-States/Software-Support-Coordinator_R0200156-1) | 1d |
+| Amazon | Software Dev Engineer, Publisher Ad Server | Seattle, Washington, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10528085/apply) | 1d |
 | GitLab | Intermediate Backend Engineer, AMER | Remote, Canada; Remote, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8773006002) | 1d |
 | Addepar | Software Engineer - Platform Integration | New York, NY | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8765252002) | 2d |
 | Texas A&M University - Corpus Christi | Software Applications Developer I | Corpus Christi, TX | Workday | not_applied | [Apply](https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Software-Applications-Developer-I_R-096789) | 2d |
-| Baker Hughes | Software Engineer | US-NV-MINDEN-1631 BENTLY PARKWAY SOUTH | Workday | not_applied | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-NV-MINDEN-1631-BENTLY-PARKWAY-SOUTH/Software-Engineer_R168272) | 2d |
-| Ferrovial | Webber - FrontEnd Loader Operator - Heavy Civil WKY | Seguin, TX | Workday | not_applied | [Apply](https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Seguin-TX/Webber---FrontEnd-Loader-Operator---Heavy-Civil-WKY_JR19074) | 2d |
 | Regions Bank | Software Engineer - .NET / Full Stack | Hoover, AL - Riverchase Operations Center (Birmingham, AL) | Workday | not_applied | [Apply](https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Software-Engineer---NET---Full-Stack_R105515) | 2d |
+| Ferrovial | Webber - FrontEnd Loader Operator - Heavy Civil WKY | Seguin, TX | Workday | not_applied | [Apply](https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Seguin-TX/Webber---FrontEnd-Loader-Operator---Heavy-Civil-WKY_JR19074) | 2d |
+| Baker Hughes | Software Engineer | US-NV-MINDEN-1631 BENTLY PARKWAY SOUTH | Workday | not_applied | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-NV-MINDEN-1631-BENTLY-PARKWAY-SOUTH/Software-Engineer_R168272) | 2d |
 | Harbinger Motors | Software Engineer, DevOps | Garden Grove, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/harbingermotors/jobs/4518625007) | 2d |
 | bet365 | Software Engineer - DTS | Denver, Colorado, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Bet3651/744000146814888-software-engineer-dts) | 2d |
 | Verisign | Software Engineer - Network and Automation | Reston,Virginia,United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/verisign/jobs/7675923003) | 2d |
 | DiDi Global | Software Engineer, Motion Planning  | San Jose, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/didi/jobs/8168501) | 3d |
-| KLA Corporation | AI Software Engineer - Operations | Ann Arbor, MI | Workday | not_applied | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/AI-Software-Engineer---Operations_2640067-1) | 3d |
+| KLA | AI Software Engineer - Operations | Ann Arbor, MI | Workday | not_applied | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/AI-Software-Engineer---Operations_2640067-1) | 3d |
 | Regions Bank | Software Engineer - Mainframe/COBOL | Hoover, AL - Riverchase Operations Center (Birmingham, AL) | Workday | not_applied | [Apply](https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Software-Engineer---Mainframe-COBOL_R105440) | 3d |
 | Equifax | Site Reliability Engineer - Rotational Development Program | USA - Missouri - St. Louis - Lackland | Workday | not_applied | [Apply](https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Missouri---St-Louis---Lackland/Site-Reliability-Engineer---Rotational-Development-Program_J00178675) | 3d |
 | Magna International | Software Engineering Student | Troy, Michigan, US | Workday | not_applied | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/Software-Engineering-Student_R00259672) | 3d |
@@ -57,10 +62,10 @@
 | Flextronics International | Software Test Development Engineer | USA, TX, Austin | Workday | not_applied | [Apply](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Software-Test-Development-Engineer_WD223041) | 3d |
 | Flex | Software Test Development Engineer | USA, TX, Austin | Workday | not_applied | [Apply](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Software-Test-Development-Engineer_WD223041) | 3d |
 | Jones Lang LaSalle (JLL) | Software Engineer | Denver, CO | Workday | not_applied | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Denver-CO/Software-Engineer_REQ528624) | 3d |
-| KLA | AI Software Engineer - Operations | Ann Arbor, MI | Workday | not_applied | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/AI-Software-Engineer---Operations_2640067-1) | 3d |
 | LexisNexis Legal & Professional | Software Engineer II | Raleigh, NC | Workday | not_applied | [Apply](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Software-Engineer-II_R117664) | 3d |
 | General Motors | Entry Level Software Engineer | Warren, Michigan, United States of America | Workday | not_applied | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level-Software-Engineer_JR-202618756) | 3d |
 | General Motors | Entry Level Software Quality & Testing Engineer | Milford, Michigan, United States of America | Workday | not_applied | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/Entry-Level-Software-Quality---Testing-Engineer_JR-202619105) | 3d |
+| KLA Corporation | AI Software Engineer - Operations | Ann Arbor, MI | Workday | not_applied | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/AI-Software-Engineer---Operations_2640067-1) | 3d |
 | Katalyst Space Technologies | Recent Graduate - Software Engineer I | Broomfield, Colorado, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/katalyst/jobs/6176710004) | 3d |
 | Atoms | Software Engineer, Customer Lifecycle | Mountain View, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8767297002) | 3d |
 | Atoms | Software Engineer - Networking | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8767251002) | 3d |
@@ -70,9 +75,9 @@
 | Anduril | Mission Software Engineer - Undersea Reconnaissance & Strike | Washington, District of Columbia, United States | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5226473007?gh_jid=5226473007) | 3d |
 | Anduril | Mission Software Engineer - Undersea Reconnaissance & Strike | Boston, Massachusetts, United States | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5226471007?gh_jid=5226471007) | 3d |
 | Sierra | Software Engineer, Agent (New Grad 2027) | San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/Sierra/149f368c-52d5-408f-ba26-ad888f318a00) | 3d |
-| Cartesian | Software Engineer | Cambridge, MA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/cartesiansystems/jobs/4388471009) | 3d |
-| RF-SMART | Software Developer | Jacksonville, Florida, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/rfsmart/jobs/5409573008) | 3d |
-| CapTech Consulting | Software Engineering Associate Consultant (Graduating Dec. 2026 - Summer 2027) | Richmond, VA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/CapTechConsulting/744000146449269-software-engineering-associate-consultant-graduating-dec-2026-summer-2027-) | 3d |
+| Cartesian | Software Engineer | Cambridge, MA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/cartesiansystems/jobs/4388471009) | 4d |
+| RF-SMART | Software Developer | Jacksonville, Florida, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/rfsmart/jobs/5409573008) | 4d |
+| CapTech Consulting | Software Engineering Associate Consultant (Graduating Dec. 2026 - Summer 2027) | Richmond, VA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/CapTechConsulting/744000146449269-software-engineering-associate-consultant-graduating-dec-2026-summer-2027-) | 4d |
 | ASML | Optical Fabrication Technician Metrology- CWW Back End Nights, 6:00 PM – 6:00 AM (Wednesday, Thursday, Friday, and every other Saturday) | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-Metrology--CWW-Back-End-Nights--6-00-PM---6-00-AM--Wednesday--Thursday--Friday--and-every-other-Saturday-_J-00351183) | 4d |
 | Hewlett Packard (HP) | Hardware/Software Lab Technician | San Diego, California, United States of America | Workday | not_applied | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Diego-California-United-States-of-America/Hardware-Software-Lab-Technician_3167571) | 4d |
 | iHeartMedia | Software Tester | Gainesville, FL | Workday | not_applied | [Apply](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Gainesville-FL/Software-Tester_Req39222-2) | 4d |
