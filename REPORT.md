@@ -51,7 +51,7 @@
 | Baker Hughes | Software Engineer | US-NV-MINDEN-1631 BENTLY PARKWAY SOUTH | Workday | not_applied | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-NV-MINDEN-1631-BENTLY-PARKWAY-SOUTH/Software-Engineer_R168272) | 2d |
 | Harbinger Motors | Software Engineer, DevOps | Garden Grove, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/harbingermotors/jobs/4518625007) | 2d |
 | bet365 | Software Engineer - DTS | Denver, Colorado, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Bet3651/744000146814888-software-engineer-dts) | 2d |
-| Verisign | Software Engineer - Network and Automation | Reston,Virginia,United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/verisign/jobs/7675923003) | 2d |
+| Verisign | Software Engineer - Network and Automation | Reston,Virginia,United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/verisign/jobs/7675923003) | 3d |
 | DiDi Global | Software Engineer, Motion Planning  | San Jose, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/didi/jobs/8168501) | 3d |
 | KLA | AI Software Engineer - Operations | Ann Arbor, MI | Workday | not_applied | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/AI-Software-Engineer---Operations_2640067-1) | 3d |
 | Regions Bank | Software Engineer - Mainframe/COBOL | Hoover, AL - Riverchase Operations Center (Birmingham, AL) | Workday | not_applied | [Apply](https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Software-Engineer---Mainframe-COBOL_R105440) | 3d |
