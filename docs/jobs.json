@@ -1,5 +1,16 @@
 [
   {
+    "id": 318800,
+    "company": "Drivemode",
+    "role": "Full Stack Software Engineer",
+    "location": "Mountain View, CA",
+    "source": "Lever",
+    "status": "not_applied",
+    "url": "https://jobs.lever.co/drivemode/a289405d-f147-412d-993e-b9436713bd35",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
     "id": 317255,
     "company": "ID.me",
     "role": "Summer 2027- Software Development Engineer - New Grad ",
@@ -66,39 +77,6 @@
     "is_internship": false
   },
   {
-    "id": 317994,
-    "company": "Epiq Systems",
-    "role": "AI Software Engineer",
-    "location": "Overland Park, KS",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://epiqsystems.wd503.myworkdayjobs.com/Epiq_Careers/job/Overland-Park-KS/Lead-AI-Software-Engineer_R0034835",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 316318,
-    "company": "Copart",
-    "role": "SDET Intern",
-    "location": "Dallas, TX - Headquarters",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/SDET-Intern_JR111190",
-    "age": "1d",
-    "is_internship": true
-  },
-  {
-    "id": 317235,
-    "company": "GlobalFoundries",
-    "role": "Software Engineer, Cloud Platform (2027 New College Graduate)",
-    "location": "USA - California - Santa Clara",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Software-Engineer--Cloud-Platform--2027-New-College-Graduate-_JR-2604056",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
     "id": 317117,
     "company": "ASML",
     "role": "CWW Optical Fabrication Technician Back End Days",
@@ -139,6 +117,39 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/NXE-2nd-Shift-Production-Engineer-First-Line-Support-MBTM_J-00350026",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 316318,
+    "company": "Copart",
+    "role": "SDET Intern",
+    "location": "Dallas, TX - Headquarters",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/SDET-Intern_JR111190",
+    "age": "1d",
+    "is_internship": true
+  },
+  {
+    "id": 317994,
+    "company": "Epiq Systems",
+    "role": "AI Software Engineer",
+    "location": "Overland Park, KS",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://epiqsystems.wd503.myworkdayjobs.com/Epiq_Careers/job/Overland-Park-KS/Lead-AI-Software-Engineer_R0034835",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 317235,
+    "company": "GlobalFoundries",
+    "role": "Software Engineer, Cloud Platform (2027 New College Graduate)",
+    "location": "USA - California - Santa Clara",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Software-Engineer--Cloud-Platform--2027-New-College-Graduate-_JR-2604056",
     "age": "1d",
     "is_internship": false
   },
@@ -220,13 +231,13 @@
     "is_internship": false
   },
   {
-    "id": 311367,
-    "company": "Crowdstrike",
-    "role": "Software Engineer, Product Security - Security Automation (Remote)",
-    "location": "USA - Remote, TX",
+    "id": 312980,
+    "company": "Bose",
+    "role": "Software Customer Resident Engineer",
+    "location": "US, MI - Bloomfield Hills",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/Software-Engineer--Product-Security---Security-Automation--Remote-_R29972",
+    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MI---Bloomfield-Hills/Software-Customer-Resident-Engineer_R29154",
     "age": "2d",
     "is_internship": false
   },
@@ -264,17 +275,6 @@
     "is_internship": false
   },
   {
-    "id": 312980,
-    "company": "Bose",
-    "role": "Software Customer Resident Engineer",
-    "location": "US, MI - Bloomfield Hills",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MI---Bloomfield-Hills/Software-Customer-Resident-Engineer_R29154",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
     "id": 312238,
     "company": "ASML",
     "role": "Optical Fab technician- CWW Front End Nights, 6:00 PM \u2013 6:00 AM (Sunday, Monday, Tuesday, and every other Saturday)",
@@ -282,6 +282,17 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fab-technician--CWW-Front-End-Nights--6-00-PM---6-00-AM--Sunday--Monday--Tuesday--and-every-other-Saturday-_J-00346858",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 311367,
+    "company": "Crowdstrike",
+    "role": "Software Engineer, Product Security - Security Automation (Remote)",
+    "location": "USA - Remote, TX",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/Software-Engineer--Product-Security---Security-Automation--Remote-_R29972",
     "age": "2d",
     "is_internship": false
   },
@@ -330,28 +341,6 @@
     "is_internship": false
   },
   {
-    "id": 309481,
-    "company": "Baker Hughes",
-    "role": "Software Engineer",
-    "location": "US-NV-MINDEN-1631 BENTLY PARKWAY SOUTH",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-NV-MINDEN-1631-BENTLY-PARKWAY-SOUTH/Software-Engineer_R168272",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 310194,
-    "company": "Texas A&M University - Corpus Christi",
-    "role": "Software Applications Developer I",
-    "location": "Corpus Christi, TX",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Software-Applications-Developer-I_R-096789",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
     "id": 308704,
     "company": "Ferrovial",
     "role": "Webber - FrontEnd Loader Operator - Heavy Civil WKY",
@@ -385,17 +374,6 @@
     "is_internship": true
   },
   {
-    "id": 307630,
-    "company": "Regions Bank",
-    "role": "Software Engineer - .NET / Full Stack",
-    "location": "Hoover, AL - Riverchase Operations Center (Birmingham, AL)",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Software-Engineer---NET---Full-Stack_R105515",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
     "id": 308259,
     "company": "Genuine Parts Company",
     "role": "Software Engineer - QA Analyst Intern",
@@ -405,6 +383,17 @@
     "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Engineer---QA-Analyst-Intern_R26_0000029235",
     "age": "3d",
     "is_internship": true
+  },
+  {
+    "id": 307630,
+    "company": "Regions Bank",
+    "role": "Software Engineer - .NET / Full Stack",
+    "location": "Hoover, AL - Riverchase Operations Center (Birmingham, AL)",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Software-Engineer---NET---Full-Stack_R105515",
+    "age": "3d",
+    "is_internship": false
   },
   {
     "id": 308355,
@@ -427,6 +416,28 @@
     "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Engineer---QA-Analyst-Intern_R26_0000029236",
     "age": "3d",
     "is_internship": true
+  },
+  {
+    "id": 310194,
+    "company": "Texas A&M University - Corpus Christi",
+    "role": "Software Applications Developer I",
+    "location": "Corpus Christi, TX",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Software-Applications-Developer-I_R-096789",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 309481,
+    "company": "Baker Hughes",
+    "role": "Software Engineer",
+    "location": "US-NV-MINDEN-1631 BENTLY PARKWAY SOUTH",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-NV-MINDEN-1631-BENTLY-PARKWAY-SOUTH/Software-Engineer_R168272",
+    "age": "3d",
+    "is_internship": false
   },
   {
     "id": 305575,
@@ -473,13 +484,13 @@
     "is_internship": false
   },
   {
-    "id": 306546,
-    "company": "KLA Corporation",
-    "role": "AI Software Engineer - Operations",
-    "location": "Ann Arbor, MI",
+    "id": 306484,
+    "company": "General Motors",
+    "role": "Entry Level Software Engineer",
+    "location": "Warren, Michigan, United States of America",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/AI-Software-Engineer---Operations_2640067-1",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level-Software-Engineer_JR-202618756",
     "age": "4d",
     "is_internship": false
   },
@@ -660,17 +671,6 @@
     "is_internship": false
   },
   {
-    "id": 306484,
-    "company": "General Motors",
-    "role": "Entry Level Software Engineer",
-    "location": "Warren, Michigan, United States of America",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level-Software-Engineer_JR-202618756",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
     "id": 306485,
     "company": "General Motors",
     "role": "Entry Level Software Quality & Testing Engineer",
@@ -678,6 +678,17 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/Entry-Level-Software-Quality---Testing-Engineer_JR-202619105",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 306546,
+    "company": "KLA Corporation",
+    "role": "AI Software Engineer - Operations",
+    "location": "Ann Arbor, MI",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/AI-Software-Engineer---Operations_2640067-1",
     "age": "4d",
     "is_internship": false
   },
