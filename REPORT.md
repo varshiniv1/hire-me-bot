@@ -1,23 +1,26 @@
 # Job Postings Report
 
-50 postings from the last 6 days.
+53 postings from the last 6 days.
 
 ## Internships (7)
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
 | Adobe | 2027 Intern - Software Engineer | San José, California, USA | JSearch | not_applied | [Apply](https://www.careerbuilder.com/job-details/2027-intern-software-engineer-san-jose-ca--bb15b738-b324-412b-addd-8718fecb319b?trk=bingjobs) | 3d |
-| Zipline International Inc | Software Engineer Intern Spring 2027 | South San Francisco, California, USA | JSearch | not_applied | [Apply](https://www.careerbuilder.com/job-details/software-engineer-intern-spring-2027-south-san-francisco-ca--b5e52e2f-19b6-46a0-afd2-ec59e2ee08ab?trk=bingjobs) | 4d |
-| Copart | SDET Intern | Dallas, TX - Headquarters | Workday | not_applied | [Apply](https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/SDET-Intern_JR111190) | 4d |
 | Simon Property Group | Intern - Front End Developer (Computer Science, Web Development, or Information Sciences Majors) | Indianapolis, IN | Workday | not_applied | [Apply](https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/Intern---Front-End-Developer--Computer-Science--Web-Development--or-Information-Sciences-Majors-_R13975) | 4d |
+| Copart | SDET Intern | Dallas, TX - Headquarters | Workday | not_applied | [Apply](https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/SDET-Intern_JR111190) | 4d |
+| Zipline International Inc | Software Engineer Intern Spring 2027 | South San Francisco, California, USA | JSearch | not_applied | [Apply](https://www.careerbuilder.com/job-details/software-engineer-intern-spring-2027-south-san-francisco-ca--b5e52e2f-19b6-46a0-afd2-ec59e2ee08ab?trk=bingjobs) | 4d |
 | Adobe | 2027 Intern - Software Engineer | Waltham, Massachusetts, USA | JSearch | not_applied | [Apply](https://www.careerbuilder.com/job-details/2027-intern-software-engineer-waltham-ma--d516f94d-46ca-461a-ba2e-db9b9796d02f?trk=bingjobs) | 4d |
 | Schweitzer Engineering Laboratories Inc | Software Engineering Intern - Power Systems | Boise, Idaho, USA | JSearch | not_applied | [Apply](https://www.careerbuilder.com/job-details/software-engineering-intern-power-systems-boise-id--0e860cd4-178e-4f23-93eb-ad9f6779187f?trk=bingjobs) | 4d |
 | Reflect Orbital | Flight Software Engineering Intern | Hawthorne, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/reflect-orbital/d2ad1427-89aa-404d-8678-7b8e6dace5e2) | 5d |
 
-## Full-Time (43)
+## Full-Time (46)
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
+| bet365 | Software Engineer, MarTech | Denver, Colorado, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Bet3651/744000148265998-software-engineer-martech) | 0d |
+| KLA | Software Applications Engineer | Milpitas, CA | Workday | not_applied | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Applications-Engineer_2640096) | 0d |
+| KLA Corporation | Software Applications Engineer | Milpitas, CA | Workday | not_applied | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Applications-Engineer_2640096) | 0d |
 | 3PillarGlobal | Software Engineer | United States | Lever | not_applied | [Apply](https://jobs.lever.co/3pillarglobal/ef44f27b-a469-4374-82c9-93105ffdc574) | 0d |
 | Rocket Science Group | Full-Stack Engineer - Albany | Albany, NY | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/rocketsciencegg/35edbb83-22f4-4882-8849-5247babd772a) | 1d |
 | Hy-Vee | Front End Checker | Iowa Falls, S Oak St, Iowa Falls, IA | Workday | not_applied | [Apply](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Iowa-Falls-S-Oak-St-Iowa-Falls-IA/Front-End-Checker_R250607) | 1d |
@@ -29,7 +32,7 @@
 | Yext | Software Engineer | New York, NY | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/yext/jobs/8174875) | 3d |
 | Filevine | Software Development Engineer in Test (SDET) - Immigration AI | United States | Lever | not_applied | [Apply](https://jobs.lever.co/filevine/fadc2d63-2103-4be5-a16f-4400a05b454f) | 3d |
 | Scale AI | Software Engineer - New Grad | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730836005) | 3d |
-| Anduril | Mission Software Engineer | Costa Mesa, California, United States | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5208852007?gh_jid=5208852007) | 3d |
+| Anduril | Mission Software Engineer | Costa Mesa, California, United States | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5208852007?gh_jid=5208852007) | 4d |
 | DoorDash | Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US | Los Angeles, CA; New York, NY; San Francisco, CA; Sunnyvale, CA ; Seattle, WA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8163709) | 4d |
 | ASML | NXE 2nd Shift Production Engineer First Line Support MBTM | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/NXE-2nd-Shift-Production-Engineer-First-Line-Support-MBTM_J-00350026) | 4d |
 | U.S. Bank | Software Engineer 1 (Mainframe, COBOL) | Saint Paul, MN | Workday | not_applied | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Saint-Paul-MN/Software-Engineer-1--Mainframe--COBOL-_2026-0026538-1) | 4d |
@@ -50,15 +53,15 @@
 | Torc Robotics | Software Engineer, I - Data Engineering | Ann Arbor, MI, Blacksburg, VA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/torcrobotics/jobs/8649372002) | 4d |
 | xAI | Software Engineer - Data Center |  Southaven, MS; Memphis, Tennessee | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/5209858007) | 4d |
 | PDI Technologies | Software Engineer II | Temple, TX | Lever | not_applied | [Apply](https://jobs.lever.co/pditechnologies/93776ffa-d08a-471d-9e63-4ba60e2acd00) | 4d |
-| Zoox | Software Engineer, Operational Tools | Foster City, CA | Lever | not_applied | [Apply](https://jobs.lever.co/zoox/998ca0ca-4e3a-409f-bc84-f364d5451e01) | 4d |
-| ASML | Optical Fab technician- CWW Front End Nights, 6:00 PM – 6:00 AM (Sunday, Monday, Tuesday, and every other Saturday) | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fab-technician--CWW-Front-End-Nights--6-00-PM---6-00-AM--Sunday--Monday--Tuesday--and-every-other-Saturday-_J-00346858) | 5d |
-| Amazon | Software Dev Engineer, Publisher Ad Server | Seattle, Washington, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10528085/apply) | 5d |
-| The Walt Disney Company | Software Engineer II | Seattle, WA, USA | Workday | not_applied | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Seattle-WA-USA/Software-Engineer-II_10157095) | 5d |
-| Greystar Worldwide | Software Support Coordinator | Remote, United States | Workday | not_applied | [Apply](https://greystar.wd1.myworkdayjobs.com/External/job/Remote-United-States/Software-Support-Coordinator_R0200156-1) | 5d |
-| Crowdstrike | Software Engineer, Product Security - Security Automation (Remote) | USA - Remote, TX | Workday | not_applied | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/Software-Engineer--Product-Security---Security-Automation--Remote-_R29972) | 5d |
-| Bose | Software Customer Resident Engineer | US, MI - Bloomfield Hills | Workday | not_applied | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MI---Bloomfield-Hills/Software-Customer-Resident-Engineer_R29154) | 5d |
+| Zoox | Software Engineer, Operational Tools | Foster City, CA | Lever | not_applied | [Apply](https://jobs.lever.co/zoox/998ca0ca-4e3a-409f-bc84-f364d5451e01) | 5d |
 | 365Labs | Entry Level Software Tester/Support Engineer | Bâton-Rouge, Louisiana, USA | JSearch | not_applied | [Apply](https://www.careerbuilder.com/job-details/entry-level-software-tester-support-engineer-baton-rouge-la--ae329e1e-6b13-4309-850f-46ff02612557?trk=bingjobs) | 5d |
 | The Walt Disney Company | Software Engineer II | Glendale, CA, USA | Workday | not_applied | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Software-Engineer-II_10157527) | 5d |
+| Crowdstrike | Software Engineer, Product Security - Security Automation (Remote) | USA - Remote, TX | Workday | not_applied | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/Software-Engineer--Product-Security---Security-Automation--Remote-_R29972) | 5d |
+| Greystar Worldwide | Software Support Coordinator | Remote, United States | Workday | not_applied | [Apply](https://greystar.wd1.myworkdayjobs.com/External/job/Remote-United-States/Software-Support-Coordinator_R0200156-1) | 5d |
+| Amazon | Software Dev Engineer, Publisher Ad Server | Seattle, Washington, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10528085/apply) | 5d |
+| ASML | Optical Fab technician- CWW Front End Nights, 6:00 PM – 6:00 AM (Sunday, Monday, Tuesday, and every other Saturday) | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fab-technician--CWW-Front-End-Nights--6-00-PM---6-00-AM--Sunday--Monday--Tuesday--and-every-other-Saturday-_J-00346858) | 5d |
+| The Walt Disney Company | Software Engineer II | Seattle, WA, USA | Workday | not_applied | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Seattle-WA-USA/Software-Engineer-II_10157095) | 5d |
+| Bose | Software Customer Resident Engineer | US, MI - Bloomfield Hills | Workday | not_applied | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MI---Bloomfield-Hills/Software-Customer-Resident-Engineer_R29154) | 5d |
 | PQ | AI-Augmented Software Engineer | Malvern, PA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/PQ/744000147064769-ai-augmented-software-engineer) | 5d |
 | GitLab | Intermediate Backend Engineer, AMER | Remote, Canada; Remote, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8773006002) | 5d |
 
