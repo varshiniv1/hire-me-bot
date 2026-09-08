@@ -1,5 +1,38 @@
 [
   {
+    "id": 331234,
+    "company": "Katalyst Space Technologies",
+    "role": "Robotics Software Engineer ",
+    "location": "Broomfield, Colorado, United States",
+    "source": "Greenhouse",
+    "status": "not_applied",
+    "url": "https://job-boards.greenhouse.io/katalyst/jobs/6186135004",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
+    "id": 331232,
+    "company": "Katalyst Space Technologies",
+    "role": "Flight Software Engineer",
+    "location": "Broomfield, Colorado, United States",
+    "source": "Greenhouse",
+    "status": "not_applied",
+    "url": "https://job-boards.greenhouse.io/katalyst/jobs/6185969004",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
+    "id": 331256,
+    "company": "Lendbuzz",
+    "role": "Software Engineer (Frontend-Focused Full Stack)",
+    "location": "Boston, MA",
+    "source": "Lever",
+    "status": "not_applied",
+    "url": "https://jobs.lever.co/lendbuzz/f3c0d168-fc27-4a3e-89f4-b3efcf1db4b4",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
     "id": 330053,
     "company": "1Password",
     "role": "Developer, Full Stack/iOS",
@@ -33,17 +66,6 @@
     "is_internship": false
   },
   {
-    "id": 330356,
-    "company": "Health Research",
-    "role": "Software Engineer/Developer",
-    "location": "Albany, NY",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://healthresearch.wd1.myworkdayjobs.com/HRI_Careers/job/Albany-NY/Software-Engineer-Developer_JR-0002301",
-    "age": "0d",
-    "is_internship": false
-  },
-  {
     "id": 330211,
     "company": "ASML",
     "role": "Spindle Polishing Technician CWW Back End Nights, 6:00 PM \u2013 6:00 AM (Wednesday, Thursday, Friday, and every other Saturday)",
@@ -55,13 +77,24 @@
     "is_internship": false
   },
   {
-    "id": 329583,
-    "company": "KLA",
-    "role": "Software Applications Engineer",
-    "location": "Milpitas, CA",
+    "id": 330471,
+    "company": "NCR Voyix",
+    "role": "Fuel Software Engineer",
+    "location": "FLORIDA VIRTUAL, USA",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Applications-Engineer_2640096",
+    "url": "https://ncr.wd1.myworkdayjobs.com/ext_us/job/FLORIDA-VIRTUAL-USA/Fuel-Software-Engineer_R0158046",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
+    "id": 330356,
+    "company": "Health Research",
+    "role": "Software Engineer/Developer",
+    "location": "Albany, NY",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://healthresearch.wd1.myworkdayjobs.com/HRI_Careers/job/Albany-NY/Software-Engineer-Developer_JR-0002301",
     "age": "0d",
     "is_internship": false
   },
@@ -88,13 +121,13 @@
     "is_internship": false
   },
   {
-    "id": 330471,
-    "company": "NCR Voyix",
-    "role": "Fuel Software Engineer",
-    "location": "FLORIDA VIRTUAL, USA",
+    "id": 329583,
+    "company": "KLA",
+    "role": "Software Applications Engineer",
+    "location": "Milpitas, CA",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://ncr.wd1.myworkdayjobs.com/ext_us/job/FLORIDA-VIRTUAL-USA/Fuel-Software-Engineer_R0158046",
+    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Applications-Engineer_2640096",
     "age": "0d",
     "is_internship": false
   },
@@ -264,24 +297,13 @@
     "is_internship": false
   },
   {
-    "id": 326730,
-    "company": "Mistral Solutions",
-    "role": "Reseach Engineer, Full Stack",
-    "location": "Palo Alto, California, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.careerbuilder.com/job-details/reseach-engineer-full-stack-palo-alto-ca--1aabcffb-ba29-478f-957e-bef81f5c972b?trk=bingjobs",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
-    "id": 326729,
-    "company": "EliseAI",
-    "role": "Software Engineer (Full Stack And Mobile)",
+    "id": 326728,
+    "company": "Clera",
+    "role": "Full Stack Software Engineer",
     "location": "New York, New York, USA",
     "source": "JSearch",
     "status": "not_applied",
-    "url": "https://www.careerbuilder.com/job-details/software-engineer-full-stack-and-mobile-new-york-ny--02926453-4be6-4408-a966-5e2a8a94efc0?trk=bingjobs",
+    "url": "https://www.careerbuilder.com/job-details/full-stack-software-engineer-new-york-ny--953888a5-1228-4602-bd4c-4634505f96fb?trk=bingjobs",
     "age": "4d",
     "is_internship": false
   },
@@ -352,17 +374,6 @@
     "is_internship": false
   },
   {
-    "id": 326728,
-    "company": "Clera",
-    "role": "Full Stack Software Engineer",
-    "location": "New York, New York, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.careerbuilder.com/job-details/full-stack-software-engineer-new-york-ny--953888a5-1228-4602-bd4c-4634505f96fb?trk=bingjobs",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
     "id": 317994,
     "company": "Epiq Systems",
     "role": "AI Software Engineer",
@@ -370,17 +381,6 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://epiqsystems.wd503.myworkdayjobs.com/Epiq_Careers/job/Overland-Park-KS/Lead-AI-Software-Engineer_R0034835",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
-    "id": 326726,
-    "company": "International Business Machines Corp",
-    "role": "Entry Level Site Reliability Engineering Professional - Austin TX - 2027",
-    "location": "Austin, Texas, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.careerbuilder.com/job-details/entry-level-site-reliability-engineering-professional-austin-tx-2027-austin-tx--643ea6c7-5063-47ba-b2e3-93a3e69d4079?trk=bingjobs",
     "age": "4d",
     "is_internship": false
   },
@@ -407,35 +407,46 @@
     "is_internship": false
   },
   {
-    "id": 326745,
-    "company": "Morgan Stanley",
-    "role": "Associate, Software Engineer",
+    "id": 326726,
+    "company": "International Business Machines Corp",
+    "role": "Entry Level Site Reliability Engineering Professional - Austin TX - 2027",
+    "location": "Austin, Texas, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.careerbuilder.com/job-details/entry-level-site-reliability-engineering-professional-austin-tx-2027-austin-tx--643ea6c7-5063-47ba-b2e3-93a3e69d4079?trk=bingjobs",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 326729,
+    "company": "EliseAI",
+    "role": "Software Engineer (Full Stack And Mobile)",
     "location": "New York, New York, USA",
     "source": "JSearch",
     "status": "not_applied",
-    "url": "https://www.careerbuilder.com/job-details/associate-software-engineer-new-york-ny--d3fb9308-2c91-48c2-918b-37c17d8dcf5c?trk=bingjobs",
+    "url": "https://www.careerbuilder.com/job-details/software-engineer-full-stack-and-mobile-new-york-ny--02926453-4be6-4408-a966-5e2a8a94efc0?trk=bingjobs",
     "age": "4d",
     "is_internship": false
   },
   {
-    "id": 326744,
-    "company": "Appian Corp",
-    "role": "Software Engineer",
-    "location": "McLean, Virginia, USA",
+    "id": 326730,
+    "company": "Mistral Solutions",
+    "role": "Reseach Engineer, Full Stack",
+    "location": "Palo Alto, California, USA",
     "source": "JSearch",
     "status": "not_applied",
-    "url": "https://www.careerbuilder.com/job-details/software-engineer-mclean-va--56f25ab5-6e07-4a20-aa56-99084c1187ca?trk=bingjobs",
+    "url": "https://www.careerbuilder.com/job-details/reseach-engineer-full-stack-palo-alto-ca--1aabcffb-ba29-478f-957e-bef81f5c972b?trk=bingjobs",
     "age": "4d",
     "is_internship": false
   },
   {
-    "id": 326740,
-    "company": "Schweitzer Engineering Laboratories Inc",
-    "role": "Software Engineering Intern - Power Systems",
-    "location": "Boise, Idaho, USA",
+    "id": 326735,
+    "company": "Zipline International Inc",
+    "role": "Software Engineer Intern Spring 2027",
+    "location": "South San Francisco, California, USA",
     "source": "JSearch",
     "status": "not_applied",
-    "url": "https://www.careerbuilder.com/job-details/software-engineering-intern-power-systems-boise-id--0e860cd4-178e-4f23-93eb-ad9f6779187f?trk=bingjobs",
+    "url": "https://www.careerbuilder.com/job-details/software-engineer-intern-spring-2027-south-san-francisco-ca--b5e52e2f-19b6-46a0-afd2-ec59e2ee08ab?trk=bingjobs",
     "age": "4d",
     "is_internship": true
   },
@@ -451,15 +462,37 @@
     "is_internship": true
   },
   {
-    "id": 326735,
-    "company": "Zipline International Inc",
-    "role": "Software Engineer Intern Spring 2027",
-    "location": "South San Francisco, California, USA",
+    "id": 326740,
+    "company": "Schweitzer Engineering Laboratories Inc",
+    "role": "Software Engineering Intern - Power Systems",
+    "location": "Boise, Idaho, USA",
     "source": "JSearch",
     "status": "not_applied",
-    "url": "https://www.careerbuilder.com/job-details/software-engineer-intern-spring-2027-south-san-francisco-ca--b5e52e2f-19b6-46a0-afd2-ec59e2ee08ab?trk=bingjobs",
+    "url": "https://www.careerbuilder.com/job-details/software-engineering-intern-power-systems-boise-id--0e860cd4-178e-4f23-93eb-ad9f6779187f?trk=bingjobs",
     "age": "4d",
     "is_internship": true
+  },
+  {
+    "id": 326744,
+    "company": "Appian Corp",
+    "role": "Software Engineer",
+    "location": "McLean, Virginia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.careerbuilder.com/job-details/software-engineer-mclean-va--56f25ab5-6e07-4a20-aa56-99084c1187ca?trk=bingjobs",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 326745,
+    "company": "Morgan Stanley",
+    "role": "Associate, Software Engineer",
+    "location": "New York, New York, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.careerbuilder.com/job-details/associate-software-engineer-new-york-ny--d3fb9308-2c91-48c2-918b-37c17d8dcf5c?trk=bingjobs",
+    "age": "4d",
+    "is_internship": false
   },
   {
     "id": 314478,
@@ -469,7 +502,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/zoox/d5d0608a-aa33-43c3-abe2-5ff8b40028d5",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -480,7 +513,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/pokemoncareers/jobs/7983587003",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -528,6 +561,17 @@
     "is_internship": false
   },
   {
+    "id": 331300,
+    "company": "Neighbor",
+    "role": "Software Engineer Intern 2027",
+    "location": "Lehi, UT",
+    "source": "Lever",
+    "status": "not_applied",
+    "url": "https://jobs.lever.co/neighbor/7d66629f-3f4b-41ee-a324-fe0154e13c46",
+    "age": "5d",
+    "is_internship": true
+  },
+  {
     "id": 313674,
     "company": "Zoox",
     "role": "Software Engineer, Operational Tools",
@@ -539,24 +583,13 @@
     "is_internship": false
   },
   {
-    "id": 313979,
-    "company": "Greystar Worldwide",
-    "role": "Software Support Coordinator",
-    "location": "Remote, United States",
+    "id": 312980,
+    "company": "Bose",
+    "role": "Software Customer Resident Engineer",
+    "location": "US, MI - Bloomfield Hills",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://greystar.wd1.myworkdayjobs.com/External/job/Remote-United-States/Software-Support-Coordinator_R0200156-1",
-    "age": "5d",
-    "is_internship": false
-  },
-  {
-    "id": 310341,
-    "company": "Amazon",
-    "role": "Software Dev Engineer, Publisher Ad Server",
-    "location": "Seattle, Washington, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10528085/apply",
+    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MI---Bloomfield-Hills/Software-Customer-Resident-Engineer_R29154",
     "age": "5d",
     "is_internship": false
   },
@@ -583,13 +616,24 @@
     "is_internship": false
   },
   {
-    "id": 312980,
-    "company": "Bose",
-    "role": "Software Customer Resident Engineer",
-    "location": "US, MI - Bloomfield Hills",
+    "id": 311367,
+    "company": "Crowdstrike",
+    "role": "Software Engineer, Product Security - Security Automation (Remote)",
+    "location": "USA - Remote, TX",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MI---Bloomfield-Hills/Software-Customer-Resident-Engineer_R29154",
+    "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/Software-Engineer--Product-Security---Security-Automation--Remote-_R29972",
+    "age": "5d",
+    "is_internship": false
+  },
+  {
+    "id": 310341,
+    "company": "Amazon",
+    "role": "Software Dev Engineer, Publisher Ad Server",
+    "location": "Seattle, Washington, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10528085/apply",
     "age": "5d",
     "is_internship": false
   },
@@ -616,13 +660,13 @@
     "is_internship": false
   },
   {
-    "id": 311367,
-    "company": "Crowdstrike",
-    "role": "Software Engineer, Product Security - Security Automation (Remote)",
-    "location": "USA - Remote, TX",
+    "id": 313979,
+    "company": "Greystar Worldwide",
+    "role": "Software Support Coordinator",
+    "location": "Remote, United States",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/Software-Engineer--Product-Security---Security-Automation--Remote-_R29972",
+    "url": "https://greystar.wd1.myworkdayjobs.com/External/job/Remote-United-States/Software-Support-Coordinator_R0200156-1",
     "age": "5d",
     "is_internship": false
   },
@@ -634,7 +678,7 @@
     "source": "Ashby",
     "status": "not_applied",
     "url": "https://jobs.ashbyhq.com/reflect-orbital/d2ad1427-89aa-404d-8678-7b8e6dace5e2",
-    "age": "5d",
+    "age": "6d",
     "is_internship": true
   },
   {
@@ -671,83 +715,6 @@
     "is_internship": false
   },
   {
-    "id": 309481,
-    "company": "Baker Hughes",
-    "role": "Software Engineer",
-    "location": "US-NV-MINDEN-1631 BENTLY PARKWAY SOUTH",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-NV-MINDEN-1631-BENTLY-PARKWAY-SOUTH/Software-Engineer_R168272",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 326748,
-    "company": "American Express",
-    "role": "Campus Graduate Masters Full-Time Engineer - 2027 Software Engineer II, Enterprise Technology Services- Charlotte, NC",
-    "location": "Charlotte, North Carolina, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.careerbuilder.com/job-details/campus-graduate-masters-full-time-engineer-2027-software-engineer-ii-enterprise-technology-services-charlotte-nc-charlotte-nc--c232795f-47a4-4bbd-acde-41cb662c215b?trk=bingjobs",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 310194,
-    "company": "Texas A&M University - Corpus Christi",
-    "role": "Software Applications Developer I",
-    "location": "Corpus Christi, TX",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Software-Applications-Developer-I_R-096789",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 308704,
-    "company": "Ferrovial",
-    "role": "Webber - FrontEnd Loader Operator - Heavy Civil WKY",
-    "location": "Seguin, TX",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Seguin-TX/Webber---FrontEnd-Loader-Operator---Heavy-Civil-WKY_JR19074",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 309002,
-    "company": "Philips",
-    "role": "Co-op - Software Development Engineer (Automation) \u2013 Cambridge, MA \u2013 Fall 2026",
-    "location": "Cambridge (US), Massachusetts, United States",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Development-Engineer--Automation----Cambridge--MA---Fall-2026_590708",
-    "age": "6d",
-    "is_internship": true
-  },
-  {
-    "id": 308663,
-    "company": "Copart",
-    "role": "Software Engineering Intern",
-    "location": "Dallas, TX - Headquarters",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR111173",
-    "age": "6d",
-    "is_internship": true
-  },
-  {
-    "id": 308259,
-    "company": "Genuine Parts Company",
-    "role": "Software Engineer - QA Analyst Intern",
-    "location": "Birmingham, AL, USA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Engineer---QA-Analyst-Intern_R26_0000029235",
-    "age": "6d",
-    "is_internship": true
-  },
-  {
     "id": 308355,
     "company": "Magna International",
     "role": "Intern - Engineering Software",
@@ -781,6 +748,83 @@
     "is_internship": false
   },
   {
+    "id": 308259,
+    "company": "Genuine Parts Company",
+    "role": "Software Engineer - QA Analyst Intern",
+    "location": "Birmingham, AL, USA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Engineer---QA-Analyst-Intern_R26_0000029235",
+    "age": "6d",
+    "is_internship": true
+  },
+  {
+    "id": 326748,
+    "company": "American Express",
+    "role": "Campus Graduate Masters Full-Time Engineer - 2027 Software Engineer II, Enterprise Technology Services- Charlotte, NC",
+    "location": "Charlotte, North Carolina, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.careerbuilder.com/job-details/campus-graduate-masters-full-time-engineer-2027-software-engineer-ii-enterprise-technology-services-charlotte-nc-charlotte-nc--c232795f-47a4-4bbd-acde-41cb662c215b?trk=bingjobs",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 309481,
+    "company": "Baker Hughes",
+    "role": "Software Engineer",
+    "location": "US-NV-MINDEN-1631 BENTLY PARKWAY SOUTH",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-NV-MINDEN-1631-BENTLY-PARKWAY-SOUTH/Software-Engineer_R168272",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 309002,
+    "company": "Philips",
+    "role": "Co-op - Software Development Engineer (Automation) \u2013 Cambridge, MA \u2013 Fall 2026",
+    "location": "Cambridge (US), Massachusetts, United States",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Development-Engineer--Automation----Cambridge--MA---Fall-2026_590708",
+    "age": "6d",
+    "is_internship": true
+  },
+  {
+    "id": 310194,
+    "company": "Texas A&M University - Corpus Christi",
+    "role": "Software Applications Developer I",
+    "location": "Corpus Christi, TX",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Software-Applications-Developer-I_R-096789",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 308663,
+    "company": "Copart",
+    "role": "Software Engineering Intern",
+    "location": "Dallas, TX - Headquarters",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR111173",
+    "age": "6d",
+    "is_internship": true
+  },
+  {
+    "id": 308704,
+    "company": "Ferrovial",
+    "role": "Webber - FrontEnd Loader Operator - Heavy Civil WKY",
+    "location": "Seguin, TX",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Seguin-TX/Webber---FrontEnd-Loader-Operator---Heavy-Civil-WKY_JR19074",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
     "id": 323342,
     "company": "Tebra",
     "role": "Software Engineer I",
@@ -788,17 +832,6 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/tebra/jobs/4726985005",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 305575,
-    "company": "Harbinger Motors",
-    "role": "Software Engineer, DevOps",
-    "location": "Garden Grove, CA",
-    "source": "Greenhouse",
-    "status": "not_applied",
-    "url": "https://job-boards.greenhouse.io/harbingermotors/jobs/4518625007",
     "age": "6d",
     "is_internship": false
   }
