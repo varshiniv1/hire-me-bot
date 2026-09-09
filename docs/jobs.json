@@ -165,17 +165,6 @@
     "is_internship": false
   },
   {
-    "id": 334139,
-    "company": "University Corporation for Atmospheric Research",
-    "role": "Software Engineer II - WRF",
-    "location": "Boulder, CO",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/Software-Engineer-II---WRF_REQ-2026-150-1",
-    "age": "0d",
-    "is_internship": false
-  },
-  {
     "id": 334312,
     "company": "Availity",
     "role": "Software Engineer Intern",
@@ -183,39 +172,6 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://availity.wd1.myworkdayjobs.com/Availity_Careers_US/job/Remote---United-States/Software-Engineer-Intern_R0008419",
-    "age": "0d",
-    "is_internship": true
-  },
-  {
-    "id": 333616,
-    "company": "Ferrovial",
-    "role": "Webber - Frontend Loader Operator - Heavy Civil",
-    "location": "Canyon, TX",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Canyon-TX/Webber---Frontend-Loader-Operator---Heavy-Civil_JR19201",
-    "age": "0d",
-    "is_internship": false
-  },
-  {
-    "id": 333415,
-    "company": "Allstate Insurance Company",
-    "role": "Software Engineer (C#/.Net)",
-    "location": "US - Remote",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/Software-Engineer--C--Net-_R28963",
-    "age": "0d",
-    "is_internship": false
-  },
-  {
-    "id": 334246,
-    "company": "Ambarella",
-    "role": "Software Engineer Intern",
-    "location": "US Headquarters",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/Software-Engineer-Intern_JR100363",
     "age": "0d",
     "is_internship": true
   },
@@ -231,6 +187,61 @@
     "is_internship": false
   },
   {
+    "id": 334246,
+    "company": "Ambarella",
+    "role": "Software Engineer Intern",
+    "location": "US Headquarters",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/Software-Engineer-Intern_JR100363",
+    "age": "0d",
+    "is_internship": true
+  },
+  {
+    "id": 333415,
+    "company": "Allstate Insurance Company",
+    "role": "Software Engineer (C#/.Net)",
+    "location": "US - Remote",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/Software-Engineer--C--Net-_R28963",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
+    "id": 333616,
+    "company": "Ferrovial",
+    "role": "Webber - Frontend Loader Operator - Heavy Civil",
+    "location": "Canyon, TX",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Canyon-TX/Webber---Frontend-Loader-Operator---Heavy-Civil_JR19201",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
+    "id": 334139,
+    "company": "University Corporation for Atmospheric Research",
+    "role": "Software Engineer II - WRF",
+    "location": "Boulder, CO",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/Software-Engineer-II---WRF_REQ-2026-150-1",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
+    "id": 335825,
+    "company": "U.S. Bank",
+    "role": "Software engineer 1 \u2013 AI/ML Engineer (Generative AI)",
+    "location": "Chicago, IL",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chicago-IL/Software-engineer-1---AI-ML-Engineer--Generative-AI-_2026-0027055",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
     "id": 331234,
     "company": "Katalyst Space Technologies",
     "role": "Robotics Software Engineer ",
@@ -238,7 +249,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/katalyst/jobs/6186135004",
-    "age": "0d",
+    "age": "1d",
     "is_internship": false
   },
   {
@@ -249,7 +260,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/katalyst/jobs/6185969004",
-    "age": "0d",
+    "age": "1d",
     "is_internship": false
   },
   {
@@ -260,7 +271,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/lendbuzz/f3c0d168-fc27-4a3e-89f4-b3efcf1db4b4",
-    "age": "0d",
+    "age": "1d",
     "is_internship": false
   },
   {
@@ -297,24 +308,13 @@
     "is_internship": false
   },
   {
-    "id": 329582,
-    "company": "KLA Corporation",
-    "role": "Software Applications Engineer",
-    "location": "Milpitas, CA",
+    "id": 330777,
+    "company": "Stevens Institute of Technology",
+    "role": "Course Assistant - AI-First Software Engineering",
+    "location": "Hoboken, NJ - Main Campus",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Applications-Engineer_2640096",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 329583,
-    "company": "KLA",
-    "role": "Software Applications Engineer",
-    "location": "Milpitas, CA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Applications-Engineer_2640096",
+    "url": "https://stevens.wd5.myworkdayjobs.com/External/job/Hoboken-NJ---Main-Campus/Course-Assistant---AI-First-Software-Engineering_RQ30787",
     "age": "1d",
     "is_internship": false
   },
@@ -352,13 +352,24 @@
     "is_internship": false
   },
   {
-    "id": 330777,
-    "company": "Stevens Institute of Technology",
-    "role": "Course Assistant - AI-First Software Engineering",
-    "location": "Hoboken, NJ - Main Campus",
+    "id": 329583,
+    "company": "KLA",
+    "role": "Software Applications Engineer",
+    "location": "Milpitas, CA",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://stevens.wd5.myworkdayjobs.com/External/job/Hoboken-NJ---Main-Campus/Course-Assistant---AI-First-Software-Engineering_RQ30787",
+    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Applications-Engineer_2640096",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 329582,
+    "company": "KLA Corporation",
+    "role": "Software Applications Engineer",
+    "location": "Milpitas, CA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Applications-Engineer_2640096",
     "age": "1d",
     "is_internship": false
   },
@@ -429,17 +440,6 @@
     "is_internship": false
   },
   {
-    "id": 326739,
-    "company": "Adobe",
-    "role": "2027 Intern - Software Engineer",
-    "location": "San Jos\u00e9, California, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.careerbuilder.com/job-details/2027-intern-software-engineer-san-jose-ca--bb15b738-b324-412b-addd-8718fecb319b?trk=bingjobs",
-    "age": "4d",
-    "is_internship": true
-  },
-  {
     "id": 326746,
     "company": "Scale AI, Inc.",
     "role": "Software Engineer - New Grad",
@@ -451,6 +451,17 @@
     "is_internship": false
   },
   {
+    "id": 326739,
+    "company": "Adobe",
+    "role": "2027 Intern - Software Engineer",
+    "location": "San Jos\u00e9, California, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.careerbuilder.com/job-details/2027-intern-software-engineer-san-jose-ca--bb15b738-b324-412b-addd-8718fecb319b?trk=bingjobs",
+    "age": "4d",
+    "is_internship": true
+  },
+  {
     "id": 334579,
     "company": "Leland",
     "role": "Software Engineer",
@@ -458,7 +469,7 @@
     "source": "Ashby",
     "status": "not_applied",
     "url": "https://jobs.ashbyhq.com/leland/b447fec5-42cd-48b2-aed3-8d62c777019c",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -744,7 +755,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/zoox/d5d0608a-aa33-43c3-abe2-5ff8b40028d5",
-    "age": "5d",
+    "age": "6d",
     "is_internship": false
   },
   {
@@ -755,7 +766,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/pokemoncareers/jobs/7983587003",
-    "age": "5d",
+    "age": "6d",
     "is_internship": false
   },
   {
@@ -825,13 +836,13 @@
     "is_internship": false
   },
   {
-    "id": 310341,
-    "company": "Amazon",
-    "role": "Software Dev Engineer, Publisher Ad Server",
-    "location": "Seattle, Washington, USA",
-    "source": "amazon",
+    "id": 313979,
+    "company": "Greystar Worldwide",
+    "role": "Software Support Coordinator",
+    "location": "Remote, United States",
+    "source": "Workday",
     "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10528085/apply",
+    "url": "https://greystar.wd1.myworkdayjobs.com/External/job/Remote-United-States/Software-Support-Coordinator_R0200156-1",
     "age": "6d",
     "is_internship": false
   },
@@ -854,17 +865,6 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Seattle-WA-USA/Software-Engineer-II_10157095",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 313979,
-    "company": "Greystar Worldwide",
-    "role": "Software Support Coordinator",
-    "location": "Remote, United States",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://greystar.wd1.myworkdayjobs.com/External/job/Remote-United-States/Software-Support-Coordinator_R0200156-1",
     "age": "6d",
     "is_internship": false
   },
@@ -913,14 +913,14 @@
     "is_internship": false
   },
   {
-    "id": 309919,
-    "company": "Reflect Orbital",
-    "role": "Flight Software Engineering Intern",
-    "location": "Hawthorne, CA",
-    "source": "Ashby",
+    "id": 310341,
+    "company": "Amazon",
+    "role": "Software Dev Engineer, Publisher Ad Server",
+    "location": "Seattle, Washington, USA",
+    "source": "amazon",
     "status": "not_applied",
-    "url": "https://jobs.ashbyhq.com/reflect-orbital/d2ad1427-89aa-404d-8678-7b8e6dace5e2",
+    "url": "https://account.amazon.jobs/jobs/10528085/apply",
     "age": "6d",
-    "is_internship": true
+    "is_internship": false
   }
 ]
