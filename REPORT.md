@@ -31,7 +31,7 @@
 | Health Research | Software Engineer/Developer | Albany, NY | Workday | not_applied | [Apply](https://healthresearch.wd1.myworkdayjobs.com/HRI_Careers/job/Albany-NY/Software-Engineer-Developer_JR-0002301) | 1d |
 | NCR Voyix | Fuel Software Engineer | FLORIDA VIRTUAL, USA | Workday | not_applied | [Apply](https://ncr.wd1.myworkdayjobs.com/ext_us/job/FLORIDA-VIRTUAL-USA/Fuel-Software-Engineer_R0158046) | 1d |
 | 3PillarGlobal | Software Engineer | United States | Lever | not_applied | [Apply](https://jobs.lever.co/3pillarglobal/ef44f27b-a469-4374-82c9-93105ffdc574) | 1d |
-| Rocket Science Group | Full-Stack Engineer - Albany | Albany, NY | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/rocketsciencegg/35edbb83-22f4-4882-8849-5247babd772a) | 1d |
+| Rocket Science Group | Full-Stack Engineer - Albany | Albany, NY | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/rocketsciencegg/35edbb83-22f4-4882-8849-5247babd772a) | 2d |
 | Hy-Vee | Front End Checker | Iowa Falls, S Oak St, Iowa Falls, IA | Workday | not_applied | [Apply](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Iowa-Falls-S-Oak-St-Iowa-Falls-IA/Front-End-Checker_R250607) | 2d |
 | Field AI | 3D/AR/VR Software Engineer | Boston, MA | Lever | not_applied | [Apply](https://jobs.lever.co/field-ai/e22d37a0-6247-4e20-8c63-cb2d84056b85) | 2d |
 | SynergisticIT | Data Scientist/Software Engineer - Junior (Remote) | Virginia, USA | JSearch | not_applied | [Apply](https://www.careerbuilder.com/job-details/data-scientist-software-engineer-junior-remote-mclean-va--3c898a88-258e-457a-b897-bdd13aae85d1?trk=bingjobs) | 3d |
@@ -43,7 +43,7 @@
 | PlusAI | Software Verification & Validation Engineer | Santa Clara, CA | Lever | not_applied | [Apply](https://jobs.lever.co/plus-2/af178060-fe47-4133-9559-223e668c0f5a) | 4d |
 | Scale AI | Software Engineer - New Grad | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730836005) | 4d |
 | Anduril | Mission Software Engineer | Costa Mesa, California, United States | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5208852007?gh_jid=5208852007) | 4d |
-| DoorDash | Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US | Los Angeles, CA; New York, NY; San Francisco, CA; Sunnyvale, CA ; Seattle, WA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8163709) | 4d |
+| DoorDash | Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US | Los Angeles, CA; New York, NY; San Francisco, CA; Sunnyvale, CA ; Seattle, WA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8163709) | 5d |
 | ASML | NXE 2nd Shift Production Engineer First Line Support MBTM | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/NXE-2nd-Shift-Production-Engineer-First-Line-Support-MBTM_J-00350026) | 5d |
 | U.S. Bank | Software Engineer 1 (Mainframe, COBOL) | Saint Paul, MN | Workday | not_applied | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Saint-Paul-MN/Software-Engineer-1--Mainframe--COBOL-_2026-0026538-1) | 5d |
 | U.S. Bank | Software Engineer 1 (Java, Linux, SQL) | Saint Paul, MN | Workday | not_applied | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Saint-Paul-MN/Software-Engineer-1--Java--Linux--SQL-_2026-0026539) | 5d |
