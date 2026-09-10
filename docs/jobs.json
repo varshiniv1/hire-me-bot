@@ -1,5 +1,27 @@
 [
   {
+    "id": 337880,
+    "company": "Hudl",
+    "role": "Software Engineering Intern",
+    "location": "Lincoln, NE, United States",
+    "source": "Greenhouse",
+    "status": "not_applied",
+    "url": "https://job-boards.greenhouse.io/hudl/jobs/8114314",
+    "age": "0d",
+    "is_internship": true
+  },
+  {
+    "id": 337783,
+    "company": "Copeland",
+    "role": "Production Engineer",
+    "location": "Natchitoches, LA, USA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://copeland.wd5.myworkdayjobs.com/Copeland_External_Careers_Page/job/Natchitoches-LA-USA/Production-Engineer_JR117319-1",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
     "id": 334938,
     "company": "StubHub",
     "role": "Software Engineer I - Platform Engineer - Core Compute Platform",
@@ -165,13 +187,13 @@
     "is_internship": false
   },
   {
-    "id": 333415,
-    "company": "Allstate Insurance Company",
-    "role": "Software Engineer (C#/.Net)",
-    "location": "US - Remote",
+    "id": 334139,
+    "company": "University Corporation for Atmospheric Research",
+    "role": "Software Engineer II - WRF",
+    "location": "Boulder, CO",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/Software-Engineer--C--Net-_R28963",
+    "url": "https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/Software-Engineer-II---WRF_REQ-2026-150-1",
     "age": "1d",
     "is_internship": false
   },
@@ -209,17 +231,6 @@
     "is_internship": true
   },
   {
-    "id": 334139,
-    "company": "University Corporation for Atmospheric Research",
-    "role": "Software Engineer II - WRF",
-    "location": "Boulder, CO",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/Software-Engineer-II---WRF_REQ-2026-150-1",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
     "id": 333616,
     "company": "Ferrovial",
     "role": "Webber - Frontend Loader Operator - Heavy Civil",
@@ -227,6 +238,17 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Canyon-TX/Webber---Frontend-Loader-Operator---Heavy-Civil_JR19201",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 333415,
+    "company": "Allstate Insurance Company",
+    "role": "Software Engineer (C#/.Net)",
+    "location": "US - Remote",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/Software-Engineer--C--Net-_R28963",
     "age": "1d",
     "is_internship": false
   },
@@ -304,7 +326,29 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/Bet3651/744000148265998-software-engineer-martech",
-    "age": "1d",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 329583,
+    "company": "KLA",
+    "role": "Software Applications Engineer",
+    "location": "Milpitas, CA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Applications-Engineer_2640096",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 330777,
+    "company": "Stevens Institute of Technology",
+    "role": "Course Assistant - AI-First Software Engineering",
+    "location": "Hoboken, NJ - Main Campus",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://stevens.wd5.myworkdayjobs.com/External/job/Hoboken-NJ---Main-Campus/Course-Assistant---AI-First-Software-Engineering_RQ30787",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -315,17 +359,6 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://ncr.wd1.myworkdayjobs.com/ext_us/job/FLORIDA-VIRTUAL-USA/Fuel-Software-Engineer_R0158046",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 329582,
-    "company": "KLA Corporation",
-    "role": "Software Applications Engineer",
-    "location": "Milpitas, CA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Applications-Engineer_2640096",
     "age": "2d",
     "is_internship": false
   },
@@ -341,8 +374,8 @@
     "is_internship": false
   },
   {
-    "id": 329583,
-    "company": "KLA",
+    "id": 329582,
+    "company": "KLA Corporation",
     "role": "Software Applications Engineer",
     "location": "Milpitas, CA",
     "source": "Workday",
@@ -359,17 +392,6 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Spindle-Polishing-Technician-CWW-Back-End-Nights--6-00-PM---6-00-AM--Wednesday--Thursday--Friday--and-every-other-Saturday-_J-00350510",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 330777,
-    "company": "Stevens Institute of Technology",
-    "role": "Course Assistant - AI-First Software Engineering",
-    "location": "Hoboken, NJ - Main Campus",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://stevens.wd5.myworkdayjobs.com/External/job/Hoboken-NJ---Main-Campus/Course-Assistant---AI-First-Software-Engineering_RQ30787",
     "age": "2d",
     "is_internship": false
   },
@@ -535,7 +557,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208852007?gh_jid=5208852007",
-    "age": "5d",
+    "age": "6d",
     "is_internship": false
   },
   {
@@ -546,61 +568,6 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8163709",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 326736,
-    "company": "Adobe",
-    "role": "2027 Intern - Software Engineer",
-    "location": "Waltham, Massachusetts, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.careerbuilder.com/job-details/2027-intern-software-engineer-waltham-ma--d516f94d-46ca-461a-ba2e-db9b9796d02f?trk=bingjobs",
-    "age": "6d",
-    "is_internship": true
-  },
-  {
-    "id": 326735,
-    "company": "Zipline International Inc",
-    "role": "Software Engineer Intern Spring 2027",
-    "location": "South San Francisco, California, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.careerbuilder.com/job-details/software-engineer-intern-spring-2027-south-san-francisco-ca--b5e52e2f-19b6-46a0-afd2-ec59e2ee08ab?trk=bingjobs",
-    "age": "6d",
-    "is_internship": true
-  },
-  {
-    "id": 326730,
-    "company": "Mistral Solutions",
-    "role": "Reseach Engineer, Full Stack",
-    "location": "Palo Alto, California, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.careerbuilder.com/job-details/reseach-engineer-full-stack-palo-alto-ca--1aabcffb-ba29-478f-957e-bef81f5c972b?trk=bingjobs",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 326729,
-    "company": "EliseAI",
-    "role": "Software Engineer (Full Stack And Mobile)",
-    "location": "New York, New York, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.careerbuilder.com/job-details/software-engineer-full-stack-and-mobile-new-york-ny--02926453-4be6-4408-a966-5e2a8a94efc0?trk=bingjobs",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 326728,
-    "company": "Clera",
-    "role": "Full Stack Software Engineer",
-    "location": "New York, New York, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.careerbuilder.com/job-details/full-stack-software-engineer-new-york-ny--953888a5-1228-4602-bd4c-4634505f96fb?trk=bingjobs",
     "age": "6d",
     "is_internship": false
   },
@@ -746,6 +713,61 @@
     "url": "https://www.careerbuilder.com/job-details/software-engineering-intern-power-systems-boise-id--0e860cd4-178e-4f23-93eb-ad9f6779187f?trk=bingjobs",
     "age": "6d",
     "is_internship": true
+  },
+  {
+    "id": 326736,
+    "company": "Adobe",
+    "role": "2027 Intern - Software Engineer",
+    "location": "Waltham, Massachusetts, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.careerbuilder.com/job-details/2027-intern-software-engineer-waltham-ma--d516f94d-46ca-461a-ba2e-db9b9796d02f?trk=bingjobs",
+    "age": "6d",
+    "is_internship": true
+  },
+  {
+    "id": 326735,
+    "company": "Zipline International Inc",
+    "role": "Software Engineer Intern Spring 2027",
+    "location": "South San Francisco, California, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.careerbuilder.com/job-details/software-engineer-intern-spring-2027-south-san-francisco-ca--b5e52e2f-19b6-46a0-afd2-ec59e2ee08ab?trk=bingjobs",
+    "age": "6d",
+    "is_internship": true
+  },
+  {
+    "id": 326730,
+    "company": "Mistral Solutions",
+    "role": "Reseach Engineer, Full Stack",
+    "location": "Palo Alto, California, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.careerbuilder.com/job-details/reseach-engineer-full-stack-palo-alto-ca--1aabcffb-ba29-478f-957e-bef81f5c972b?trk=bingjobs",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 326729,
+    "company": "EliseAI",
+    "role": "Software Engineer (Full Stack And Mobile)",
+    "location": "New York, New York, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.careerbuilder.com/job-details/software-engineer-full-stack-and-mobile-new-york-ny--02926453-4be6-4408-a966-5e2a8a94efc0?trk=bingjobs",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 326728,
+    "company": "Clera",
+    "role": "Full Stack Software Engineer",
+    "location": "New York, New York, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.careerbuilder.com/job-details/full-stack-software-engineer-new-york-ny--953888a5-1228-4602-bd4c-4634505f96fb?trk=bingjobs",
+    "age": "6d",
+    "is_internship": false
   },
   {
     "id": 314478,

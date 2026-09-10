@@ -1,11 +1,12 @@
 # Job Postings Report
 
-49 postings from the last 6 days.
+50 postings from the last 6 days.
 
-## Internships (3)
+## Internships (4)
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
+| Hudl | Software Engineering Intern | Lincoln, NE, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/hudl/jobs/8114314) | 0d |
 | Ambarella | Software Engineer Intern | US Headquarters | Workday | not_applied | [Apply](https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/Software-Engineer-Intern_JR100363) | 1d |
 | Availity | Software Engineer Intern | Remote - United States | Workday | not_applied | [Apply](https://availity.wd1.myworkdayjobs.com/Availity_Careers_US/job/Remote---United-States/Software-Engineer-Intern_R0008419) | 1d |
 | Adobe | 2027 Intern - Software Engineer | San José, California, USA | JSearch | not_applied | [Apply](https://www.careerbuilder.com/job-details/2027-intern-software-engineer-san-jose-ca--bb15b738-b324-412b-addd-8718fecb319b?trk=bingjobs) | 5d |
@@ -14,6 +15,7 @@
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
+| Copeland | Production Engineer | Natchitoches, LA, USA | Workday | not_applied | [Apply](https://copeland.wd5.myworkdayjobs.com/Copeland_External_Careers_Page/job/Natchitoches-LA-USA/Production-Engineer_JR117319-1) | 0d |
 | StubHub | Software Engineer I - Platform Engineer - Core Compute Platform | New York, New York, United States | Greenhouse | not_applied | [Apply](https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4967177101) | 0d |
 | Instabase | Software Engineer - Early Careers | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/instabase/jobs/8783218002) | 0d |
 | Replit | Software Engineer - New Grad (Summer 2027) | Foster City, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc) | 0d |
@@ -39,7 +41,7 @@
 | Lendbuzz | Software Engineer (Frontend-Focused Full Stack) | Boston, MA | Lever | not_applied | [Apply](https://jobs.lever.co/lendbuzz/f3c0d168-fc27-4a3e-89f4-b3efcf1db4b4) | 1d |
 | 1Password | Developer, Full Stack/iOS | Remote (United States \| Canada) | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/1password/f51cc73a-fde2-4686-b54b-f183cdaedb45) | 1d |
 | Zoox | Software Engineer - Robot Software Infrastructure | Foster City, CA | Lever | not_applied | [Apply](https://jobs.lever.co/zoox/6da52aa7-0ccb-48d0-af25-0889f41ddee5) | 1d |
-| bet365 | Software Engineer, MarTech | Denver, Colorado, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Bet3651/744000148265998-software-engineer-martech) | 1d |
+| bet365 | Software Engineer, MarTech | Denver, Colorado, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Bet3651/744000148265998-software-engineer-martech) | 2d |
 | Stevens Institute of Technology | Course Assistant - AI-First Software Engineering | Hoboken, NJ - Main Campus | Workday | not_applied | [Apply](https://stevens.wd5.myworkdayjobs.com/External/job/Hoboken-NJ---Main-Campus/Course-Assistant---AI-First-Software-Engineering_RQ30787) | 2d |
 | Health Research | Software Engineer/Developer | Albany, NY | Workday | not_applied | [Apply](https://healthresearch.wd1.myworkdayjobs.com/HRI_Careers/job/Albany-NY/Software-Engineer-Developer_JR-0002301) | 2d |
 | ASML | Spindle Polishing Technician CWW Back End Nights, 6:00 PM – 6:00 AM (Wednesday, Thursday, Friday, and every other Saturday) | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Spindle-Polishing-Technician-CWW-Back-End-Nights--6-00-PM---6-00-AM--Wednesday--Thursday--Friday--and-every-other-Saturday-_J-00350510) | 2d |
@@ -59,5 +61,4 @@
 | Filevine | Software Development Engineer in Test (SDET) - Immigration AI | United States | Lever | not_applied | [Apply](https://jobs.lever.co/filevine/fadc2d63-2103-4be5-a16f-4400a05b454f) | 5d |
 | PlusAI | Software Verification & Validation Engineer | Santa Clara, CA | Lever | not_applied | [Apply](https://jobs.lever.co/plus-2/af178060-fe47-4133-9559-223e668c0f5a) | 5d |
 | Scale AI | Software Engineer - New Grad | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730836005) | 5d |
-| Anduril | Mission Software Engineer | Costa Mesa, California, United States | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5208852007?gh_jid=5208852007) | 5d |
 
