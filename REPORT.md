@@ -1,6 +1,6 @@
 # Job Postings Report
 
-50 postings from the last 6 days.
+49 postings from the last 6 days.
 
 ## Internships (3)
 
@@ -10,7 +10,7 @@
 | Availity | Software Engineer Intern | Remote - United States | Workday | not_applied | [Apply](https://availity.wd1.myworkdayjobs.com/Availity_Careers_US/job/Remote---United-States/Software-Engineer-Intern_R0008419) | 1d |
 | Adobe | 2027 Intern - Software Engineer | San José, California, USA | JSearch | not_applied | [Apply](https://www.careerbuilder.com/job-details/2027-intern-software-engineer-san-jose-ca--bb15b738-b324-412b-addd-8718fecb319b?trk=bingjobs) | 5d |
 
-## Full-Time (47)
+## Full-Time (46)
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
@@ -40,14 +40,14 @@
 | 1Password | Developer, Full Stack/iOS | Remote (United States \| Canada) | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/1password/f51cc73a-fde2-4686-b54b-f183cdaedb45) | 1d |
 | Zoox | Software Engineer - Robot Software Infrastructure | Foster City, CA | Lever | not_applied | [Apply](https://jobs.lever.co/zoox/6da52aa7-0ccb-48d0-af25-0889f41ddee5) | 1d |
 | bet365 | Software Engineer, MarTech | Denver, Colorado, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Bet3651/744000148265998-software-engineer-martech) | 1d |
-| ASML | Spindle Polishing Technician CWW Back End Nights, 6:00 PM – 6:00 AM (Wednesday, Thursday, Friday, and every other Saturday) | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Spindle-Polishing-Technician-CWW-Back-End-Nights--6-00-PM---6-00-AM--Wednesday--Thursday--Friday--and-every-other-Saturday-_J-00350510) | 2d |
-| KLA | Software Applications Engineer | Milpitas, CA | Workday | not_applied | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Applications-Engineer_2640096) | 2d |
-| KLA Corporation | Software Applications Engineer | Milpitas, CA | Workday | not_applied | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Applications-Engineer_2640096) | 2d |
 | Stevens Institute of Technology | Course Assistant - AI-First Software Engineering | Hoboken, NJ - Main Campus | Workday | not_applied | [Apply](https://stevens.wd5.myworkdayjobs.com/External/job/Hoboken-NJ---Main-Campus/Course-Assistant---AI-First-Software-Engineering_RQ30787) | 2d |
-| NCR Voyix | Fuel Software Engineer | FLORIDA VIRTUAL, USA | Workday | not_applied | [Apply](https://ncr.wd1.myworkdayjobs.com/ext_us/job/FLORIDA-VIRTUAL-USA/Fuel-Software-Engineer_R0158046) | 2d |
 | Health Research | Software Engineer/Developer | Albany, NY | Workday | not_applied | [Apply](https://healthresearch.wd1.myworkdayjobs.com/HRI_Careers/job/Albany-NY/Software-Engineer-Developer_JR-0002301) | 2d |
+| ASML | Spindle Polishing Technician CWW Back End Nights, 6:00 PM – 6:00 AM (Wednesday, Thursday, Friday, and every other Saturday) | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Spindle-Polishing-Technician-CWW-Back-End-Nights--6-00-PM---6-00-AM--Wednesday--Thursday--Friday--and-every-other-Saturday-_J-00350510) | 2d |
+| KLA Corporation | Software Applications Engineer | Milpitas, CA | Workday | not_applied | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Applications-Engineer_2640096) | 2d |
+| NCR Voyix | Fuel Software Engineer | FLORIDA VIRTUAL, USA | Workday | not_applied | [Apply](https://ncr.wd1.myworkdayjobs.com/ext_us/job/FLORIDA-VIRTUAL-USA/Fuel-Software-Engineer_R0158046) | 2d |
+| KLA | Software Applications Engineer | Milpitas, CA | Workday | not_applied | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Applications-Engineer_2640096) | 2d |
 | 3PillarGlobal | Software Engineer | United States | Lever | not_applied | [Apply](https://jobs.lever.co/3pillarglobal/ef44f27b-a469-4374-82c9-93105ffdc574) | 2d |
-| Rocket Science Group | Full-Stack Engineer - Albany | Albany, NY | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/rocketsciencegg/35edbb83-22f4-4882-8849-5247babd772a) | 2d |
+| Rocket Science Group | Full-Stack Engineer - Albany | Albany, NY | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/rocketsciencegg/35edbb83-22f4-4882-8849-5247babd772a) | 3d |
 | Hy-Vee | Front End Checker | Iowa Falls, S Oak St, Iowa Falls, IA | Workday | not_applied | [Apply](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Iowa-Falls-S-Oak-St-Iowa-Falls-IA/Front-End-Checker_R250607) | 3d |
 | Field AI | 3D/AR/VR Software Engineer | Boston, MA | Lever | not_applied | [Apply](https://jobs.lever.co/field-ai/e22d37a0-6247-4e20-8c63-cb2d84056b85) | 3d |
 | SynergisticIT | Data Scientist/Software Engineer - Junior (Remote) | Virginia, USA | JSearch | not_applied | [Apply](https://www.careerbuilder.com/job-details/data-scientist-software-engineer-junior-remote-mclean-va--3c898a88-258e-457a-b897-bdd13aae85d1?trk=bingjobs) | 4d |
@@ -60,5 +60,4 @@
 | PlusAI | Software Verification & Validation Engineer | Santa Clara, CA | Lever | not_applied | [Apply](https://jobs.lever.co/plus-2/af178060-fe47-4133-9559-223e668c0f5a) | 5d |
 | Scale AI | Software Engineer - New Grad | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730836005) | 5d |
 | Anduril | Mission Software Engineer | Costa Mesa, California, United States | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5208852007?gh_jid=5208852007) | 5d |
-| DoorDash | Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US | Los Angeles, CA; New York, NY; San Francisco, CA; Sunnyvale, CA ; Seattle, WA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8163709) | 5d |
 
