@@ -1,5 +1,16 @@
 [
   {
+    "id": 339851,
+    "company": "Re:Build Manufacturing",
+    "role": "Software Development Engineer",
+    "location": "Los Angeles, CA; Seattle, WA",
+    "source": "Greenhouse",
+    "status": "not_applied",
+    "url": "https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4732952005",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
     "id": 338674,
     "company": "Eikon Therapeutics",
     "role": "Software Engineer (Contractor)",
@@ -22,28 +33,6 @@
     "is_internship": true
   },
   {
-    "id": 337783,
-    "company": "Copeland",
-    "role": "Production Engineer",
-    "location": "Natchitoches, LA, USA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://copeland.wd5.myworkdayjobs.com/Copeland_External_Careers_Page/job/Natchitoches-LA-USA/Production-Engineer_JR117319-1",
-    "age": "0d",
-    "is_internship": false
-  },
-  {
-    "id": 338817,
-    "company": "KLA Corporation",
-    "role": "AI Software Engineer|Manufacturing",
-    "location": "Ann Arbor, MI",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/AI-Software-Engineer-Manufacturing_2640648-1",
-    "age": "0d",
-    "is_internship": false
-  },
-  {
     "id": 338613,
     "company": "ASML",
     "role": "Optical Fabrication Tech CWW Front End Days",
@@ -51,6 +40,17 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Tech-CWW-Front-End-Days_J-00351665",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
+    "id": 337783,
+    "company": "Copeland",
+    "role": "Production Engineer",
+    "location": "Natchitoches, LA, USA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://copeland.wd5.myworkdayjobs.com/Copeland_External_Careers_Page/job/Natchitoches-LA-USA/Production-Engineer_JR117319-1",
     "age": "0d",
     "is_internship": false
   },
@@ -66,13 +66,24 @@
     "is_internship": false
   },
   {
-    "id": 339041,
-    "company": "Sandvik",
-    "role": "Software Engineer",
-    "location": "USA, MI, Detroit",
+    "id": 338845,
+    "company": "Magna International",
+    "role": "Intern - Engineering Software",
+    "location": "Southfield, Michigan, US",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://sandvik.wd3.myworkdayjobs.com/sandvik-jobs/job/USA-MI-Detroit/Principal-Software-Engineer_R0096913",
+    "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering-Software_R00260232",
+    "age": "0d",
+    "is_internship": true
+  },
+  {
+    "id": 338817,
+    "company": "KLA Corporation",
+    "role": "AI Software Engineer|Manufacturing",
+    "location": "Ann Arbor, MI",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/AI-Software-Engineer-Manufacturing_2640648-1",
     "age": "0d",
     "is_internship": false
   },
@@ -88,15 +99,15 @@
     "is_internship": false
   },
   {
-    "id": 338845,
-    "company": "Magna International",
-    "role": "Intern - Engineering Software",
-    "location": "Southfield, Michigan, US",
+    "id": 339041,
+    "company": "Sandvik",
+    "role": "Software Engineer",
+    "location": "USA, MI, Detroit",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering-Software_R00260232",
+    "url": "https://sandvik.wd3.myworkdayjobs.com/sandvik-jobs/job/USA-MI-Detroit/Principal-Software-Engineer_R0096913",
     "age": "0d",
-    "is_internship": true
+    "is_internship": false
   },
   {
     "id": 334938,
@@ -198,8 +209,8 @@
     "is_internship": false
   },
   {
-    "id": 334650,
-    "company": "NICE",
+    "id": 334754,
+    "company": "NiCE",
     "role": "Software Engineer, AI",
     "location": "USA - Atlanta, GA; USA - Hoboken, NJ; USA - Sandy, UT",
     "source": "Greenhouse",
@@ -209,8 +220,8 @@
     "is_internship": false
   },
   {
-    "id": 334754,
-    "company": "NiCE",
+    "id": 334650,
+    "company": "NICE",
     "role": "Software Engineer, AI",
     "location": "USA - Atlanta, GA; USA - Hoboken, NJ; USA - Sandy, UT",
     "source": "Greenhouse",
@@ -370,7 +381,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/katalyst/jobs/6186135004",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -381,7 +392,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/katalyst/jobs/6185969004",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -392,7 +403,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/lendbuzz/f3c0d168-fc27-4a3e-89f4-b3efcf1db4b4",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -557,7 +568,7 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://www.linkedin.com/jobs/view/software-engineer-at-growx-4463225299?trk=bingjobs",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -693,17 +704,6 @@
     "is_internship": false
   },
   {
-    "id": 326739,
-    "company": "Adobe",
-    "role": "2027 Intern - Software Engineer",
-    "location": "San Jos\u00e9, California, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.careerbuilder.com/job-details/2027-intern-software-engineer-san-jose-ca--bb15b738-b324-412b-addd-8718fecb319b?trk=bingjobs",
-    "age": "5d",
-    "is_internship": true
-  },
-  {
     "id": 326746,
     "company": "Scale AI, Inc.",
     "role": "Software Engineer - New Grad",
@@ -713,6 +713,17 @@
     "url": "https://www.careerbuilder.com/job-details/software-engineer-new-grad-san-francisco-ca--71081b98-a3d9-4385-9b99-2f8aec3cef51?trk=bingjobs",
     "age": "5d",
     "is_internship": false
+  },
+  {
+    "id": 326739,
+    "company": "Adobe",
+    "role": "2027 Intern - Software Engineer",
+    "location": "San Jos\u00e9, California, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.careerbuilder.com/job-details/2027-intern-software-engineer-san-jose-ca--bb15b738-b324-412b-addd-8718fecb319b?trk=bingjobs",
+    "age": "5d",
+    "is_internship": true
   },
   {
     "id": 338427,
@@ -814,15 +825,15 @@
     "is_internship": false
   },
   {
-    "id": 338432,
-    "company": "Clera",
-    "role": "Full Stack Engineer",
-    "location": "San Mateo, California, USA",
+    "id": 338434,
+    "company": "Adobe",
+    "role": "2027 Intern - Software Engineer",
+    "location": "Lehi, Utah, USA",
     "source": "JSearch",
     "status": "not_applied",
-    "url": "https://www.ziprecruiter.com/c/Clera/Job/Full-Stack-Engineer/-in-San-Mateo,CA?jid=135ada51f7a25c0f&trk=bingjobs",
+    "url": "https://www.careerbuilder.com/job-details/2027-intern-software-engineer-lehi-ut--530e7fec-2f83-40b4-a0b9-d1030003de2e?trk=bingjobs",
     "age": "6d",
-    "is_internship": false
+    "is_internship": true
   },
   {
     "id": 326740,
@@ -834,6 +845,17 @@
     "url": "https://www.careerbuilder.com/job-details/software-engineering-intern-power-systems-boise-id--0e860cd4-178e-4f23-93eb-ad9f6779187f?trk=bingjobs",
     "age": "6d",
     "is_internship": true
+  },
+  {
+    "id": 338432,
+    "company": "Clera",
+    "role": "Full Stack Engineer",
+    "location": "San Mateo, California, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.ziprecruiter.com/c/Clera/Job/Full-Stack-Engineer/-in-San-Mateo,CA?jid=135ada51f7a25c0f&trk=bingjobs",
+    "age": "6d",
+    "is_internship": false
   },
   {
     "id": 326744,
@@ -856,6 +878,17 @@
     "url": "https://www.careerbuilder.com/job-details/associate-software-engineer-new-york-ny--d3fb9308-2c91-48c2-918b-37c17d8dcf5c?trk=bingjobs",
     "age": "6d",
     "is_internship": false
+  },
+  {
+    "id": 326736,
+    "company": "Adobe",
+    "role": "2027 Intern - Software Engineer",
+    "location": "Waltham, Massachusetts, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.careerbuilder.com/job-details/2027-intern-software-engineer-waltham-ma--d516f94d-46ca-461a-ba2e-db9b9796d02f?trk=bingjobs",
+    "age": "6d",
+    "is_internship": true
   },
   {
     "id": 326735,
@@ -1012,28 +1045,6 @@
     "is_internship": true
   },
   {
-    "id": 338434,
-    "company": "Adobe",
-    "role": "2027 Intern - Software Engineer",
-    "location": "Lehi, Utah, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.careerbuilder.com/job-details/2027-intern-software-engineer-lehi-ut--530e7fec-2f83-40b4-a0b9-d1030003de2e?trk=bingjobs",
-    "age": "6d",
-    "is_internship": true
-  },
-  {
-    "id": 326736,
-    "company": "Adobe",
-    "role": "2027 Intern - Software Engineer",
-    "location": "Waltham, Massachusetts, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.careerbuilder.com/job-details/2027-intern-software-engineer-waltham-ma--d516f94d-46ca-461a-ba2e-db9b9796d02f?trk=bingjobs",
-    "age": "6d",
-    "is_internship": true
-  },
-  {
     "id": 338447,
     "company": "Scale AI, Inc.",
     "role": "Software Engineer - New Grad",
@@ -1052,28 +1063,6 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://www.careerbuilder.com/job-details/software-engineer-new-york-ny--6c5e2344-08cc-47f8-abff-a4636250c670?trk=bingjobs",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 314478,
-    "company": "Zoox",
-    "role": "Software Engineer - Collision Avoidance System Metrics",
-    "location": "Foster City, CA",
-    "source": "Lever",
-    "status": "not_applied",
-    "url": "https://jobs.lever.co/zoox/d5d0608a-aa33-43c3-abe2-5ff8b40028d5",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 314403,
-    "company": "The Pok\u00e9mon Company",
-    "role": "Frontend Software Development Engineer",
-    "location": "Bellevue, Washington, United States",
-    "source": "Greenhouse",
-    "status": "not_applied",
-    "url": "https://job-boards.greenhouse.io/pokemoncareers/jobs/7983587003",
     "age": "6d",
     "is_internship": false
   }
