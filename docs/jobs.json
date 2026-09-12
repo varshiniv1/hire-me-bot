@@ -18,7 +18,7 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/AveryDennison/744000149092580-back-end-distribution-tech-night-shift",
-    "age": "0d",
+    "age": "1d",
     "is_internship": false
   },
   {
@@ -29,7 +29,7 @@
     "source": "Ashby",
     "status": "not_applied",
     "url": "https://jobs.ashbyhq.com/Commure/c6a735ef-3d84-4447-94a9-9e8b2dfefced",
-    "age": "0d",
+    "age": "1d",
     "is_internship": false
   },
   {
@@ -40,7 +40,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/hudl/jobs/8155102",
-    "age": "0d",
+    "age": "1d",
     "is_internship": true
   },
   {
@@ -77,35 +77,13 @@
     "is_internship": false
   },
   {
-    "id": 344141,
-    "company": "Piper Sandler",
-    "role": "Site Reliability Engineer",
-    "location": "New York, NY",
+    "id": 342776,
+    "company": "ABB",
+    "role": "Supplier Quality and Development Engineer (SQE/SDE))",
+    "location": "USA, MS, Senatobia",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/New-York-NY/Site-Reliability-Engineer_R-100707",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 343861,
-    "company": "Fidelity Investments",
-    "role": "Co-op, Software Engineer",
-    "location": "Boston, MA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/fmr/targeted/job/Boston-MA/Co-op--Software-Engineer_2135200",
-    "age": "1d",
-    "is_internship": true
-  },
-  {
-    "id": 342217,
-    "company": "Motorola",
-    "role": "Android Software Engineer",
-    "location": "Plantation, FL",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Software-Engineer_R62561",
+    "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MS-Senatobia/Supplier-Quality-and-Development-Engineer--SQE-SDE--_JR00036452-1",
     "age": "1d",
     "is_internship": false
   },
@@ -121,24 +99,35 @@
     "is_internship": true
   },
   {
-    "id": 344148,
-    "company": "Philips",
-    "role": "Co-op \u2013 Software Design Assurance (IGTD) \u2013 Plymouth, MN \u2013 January 2027",
-    "location": "Plymouth, Minnesota, United States",
+    "id": 342217,
+    "company": "Motorola",
+    "role": "Android Software Engineer",
+    "location": "Plantation, FL",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Co-op---Software-Design-Assurance--IGTD----Plymouth--MN---January-2027_592000",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Software-Engineer_R62561",
     "age": "1d",
-    "is_internship": true
+    "is_internship": false
   },
   {
-    "id": 343862,
+    "id": 343861,
     "company": "Fidelity Investments",
     "role": "Co-op, Software Engineer",
     "location": "Boston, MA",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/fmr/targeted/job/Boston-MA/Co-op--Software-Engineer_2135230",
+    "url": "https://wd1.myworkdaysite.com/recruiting/fmr/targeted/job/Boston-MA/Co-op--Software-Engineer_2135200",
+    "age": "1d",
+    "is_internship": true
+  },
+  {
+    "id": 342986,
+    "company": "Direct Supply",
+    "role": "Software Engineer Intern",
+    "location": "Milwaukee, WI",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/Software-Engineer-Intern_REQ-2026-2559",
     "age": "1d",
     "is_internship": true
   },
@@ -152,6 +141,28 @@
     "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Software-Engineer-I---AI_JR30290",
     "age": "1d",
     "is_internship": false
+  },
+  {
+    "id": 346395,
+    "company": "Fidelity National Information Services",
+    "role": "Software Engineering, FIS University Program",
+    "location": "US FL JAX 347",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Software-Engineering--FIS-University-Program_JR0309486",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 344148,
+    "company": "Philips",
+    "role": "Co-op \u2013 Software Design Assurance (IGTD) \u2013 Plymouth, MN \u2013 January 2027",
+    "location": "Plymouth, Minnesota, United States",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Co-op---Software-Design-Assurance--IGTD----Plymouth--MN---January-2027_592000",
+    "age": "1d",
+    "is_internship": true
   },
   {
     "id": 341945,
@@ -187,15 +198,15 @@
     "is_internship": false
   },
   {
-    "id": 342776,
-    "company": "ABB",
-    "role": "Supplier Quality and Development Engineer (SQE/SDE))",
-    "location": "USA, MS, Senatobia",
+    "id": 343862,
+    "company": "Fidelity Investments",
+    "role": "Co-op, Software Engineer",
+    "location": "Boston, MA",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MS-Senatobia/Supplier-Quality-and-Development-Engineer--SQE-SDE--_JR00036452-1",
+    "url": "https://wd1.myworkdaysite.com/recruiting/fmr/targeted/job/Boston-MA/Co-op--Software-Engineer_2135230",
     "age": "1d",
-    "is_internship": false
+    "is_internship": true
   },
   {
     "id": 343986,
@@ -209,15 +220,15 @@
     "is_internship": false
   },
   {
-    "id": 342986,
-    "company": "Direct Supply",
-    "role": "Software Engineer Intern",
-    "location": "Milwaukee, WI",
+    "id": 344141,
+    "company": "Piper Sandler",
+    "role": "Site Reliability Engineer",
+    "location": "New York, NY",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/Software-Engineer-Intern_REQ-2026-2559",
+    "url": "https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/New-York-NY/Site-Reliability-Engineer_R-100707",
     "age": "1d",
-    "is_internship": true
+    "is_internship": false
   },
   {
     "id": 339851,
@@ -238,7 +249,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/eikontherapeutics/jobs/5234127007",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -249,17 +260,17 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/hudl/jobs/8114314",
-    "age": "1d",
+    "age": "2d",
     "is_internship": true
   },
   {
-    "id": 342676,
+    "id": 342677,
     "company": "TJX",
-    "role": "Retail Part Time Front End Supervisor",
+    "role": "Retail Full Time Front End Supervisor",
     "location": "Bowling Green, OH 43402",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Bowling-Green-OH-43402/Retail-Part-Time-Front-End-Supervisor_REQ155311",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Bowling-Green-OH-43402/Retail-Full-Time-Front-End-Supervisor_REQ155307",
     "age": "2d",
     "is_internship": false
   },
@@ -363,13 +374,13 @@
     "is_internship": false
   },
   {
-    "id": 342677,
+    "id": 342676,
     "company": "TJX",
-    "role": "Retail Full Time Front End Supervisor",
+    "role": "Retail Part Time Front End Supervisor",
     "location": "Bowling Green, OH 43402",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Bowling-Green-OH-43402/Retail-Full-Time-Front-End-Supervisor_REQ155307",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Bowling-Green-OH-43402/Retail-Part-Time-Front-End-Supervisor_REQ155311",
     "age": "2d",
     "is_internship": false
   },
@@ -403,7 +414,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4967177101",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -414,7 +425,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/instabase/jobs/8783218002",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -425,7 +436,7 @@
     "source": "Ashby",
     "status": "not_applied",
     "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -436,7 +447,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/purvis/766dcff5-6f16-4b4e-a7e9-b757f2f4fba2",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -447,7 +458,7 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/WJCompany/744000148578409-jr-full-stack-developer-bilingual-korean-english-",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -458,7 +469,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/testnisc/jobs/8189052",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -469,7 +480,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/testnisc/jobs/8189030",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -480,7 +491,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/testnisc/jobs/8189028",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -491,7 +502,7 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/AveryDennison/744000148570229-distribution-tech-back-end-night-shift-wed-10-30pm-7am-thurs-sat-8pm-7-30am",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -502,7 +513,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://boards.eu.greenhouse.io/nice/jobs/4871267101?gh_jid=4871267101",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -513,7 +524,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://boards.eu.greenhouse.io/nice/jobs/4871267101?gh_jid=4871267101",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -524,7 +535,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/purvis/bd0748db-5f15-4ec8-927e-f192f9fea855",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -535,7 +546,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/testnisc/jobs/8188905",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -546,7 +557,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/testnisc/jobs/8188904",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -557,7 +568,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/testnisc/jobs/8188898",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -744,7 +755,7 @@
     "source": "Ashby",
     "status": "not_applied",
     "url": "https://jobs.ashbyhq.com/1password/f51cc73a-fde2-4686-b54b-f183cdaedb45",
-    "age": "3d",
+    "age": "4d",
     "is_internship": false
   },
   {
@@ -755,7 +766,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/zoox/6da52aa7-0ccb-48d0-af25-0889f41ddee5",
-    "age": "3d",
+    "age": "4d",
     "is_internship": false
   },
   {
@@ -766,7 +777,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/zoox/978e36ef-e8e9-4874-ade6-f33a80e46309",
-    "age": "3d",
+    "age": "4d",
     "is_internship": false
   },
   {
@@ -836,17 +847,6 @@
     "is_internship": false
   },
   {
-    "id": 338433,
-    "company": "Neighbor",
-    "role": "Software Engineer Intern 2027",
-    "location": "Lehi, Utah, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.careerbuilder.com/job-details/software-engineer-intern-2027-lehi-ut--cf065e05-bf75-4697-830c-b48fcaf027d9?trk=bingjobs",
-    "age": "4d",
-    "is_internship": true
-  },
-  {
     "id": 342683,
     "company": "TJX",
     "role": "Part Time Front End Customer Service Associate",
@@ -856,6 +856,17 @@
     "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Bonita-Springs-FL-34135/Part-Time-Front-End-Customer-Service-Associate_REQ154567",
     "age": "4d",
     "is_internship": false
+  },
+  {
+    "id": 338433,
+    "company": "Neighbor",
+    "role": "Software Engineer Intern 2027",
+    "location": "Lehi, Utah, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.careerbuilder.com/job-details/software-engineer-intern-2027-lehi-ut--cf065e05-bf75-4697-830c-b48fcaf027d9?trk=bingjobs",
+    "age": "4d",
+    "is_internship": true
   },
   {
     "id": 342684,
@@ -986,7 +997,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/3pillarglobal/ef44f27b-a469-4374-82c9-93105ffdc574",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -997,7 +1008,7 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-training-%E2%80%94-remote-contract-at-alignerr-4464433099?trk=bingjobs",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -1008,7 +1019,7 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://www.ziprecruiter.com/c/microsoft/Job/Software-Engineer-UX/-in-Redmond,WA?jid=1aa1e77b47a8e756&trk=bingjobs",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -1100,17 +1111,6 @@
     "is_internship": false
   },
   {
-    "id": 342688,
-    "company": "TJX",
-    "role": "FRONT END CASHIER",
-    "location": "Pleasant Hill, CA 94523",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Pleasant-Hill-CA-94523/FRONT-END-CASHIER_REQ153938",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
     "id": 326743,
     "company": "SynergisticIT",
     "role": "Data Scientist/Software Engineer - Junior (Remote)",
@@ -1118,6 +1118,17 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://www.careerbuilder.com/job-details/data-scientist-software-engineer-junior-remote-mclean-va--3c898a88-258e-457a-b897-bdd13aae85d1?trk=bingjobs",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 342688,
+    "company": "TJX",
+    "role": "FRONT END CASHIER",
+    "location": "Pleasant Hill, CA 94523",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Pleasant-Hill-CA-94523/FRONT-END-CASHIER_REQ153938",
     "age": "6d",
     "is_internship": false
   },
