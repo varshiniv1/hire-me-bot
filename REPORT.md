@@ -27,7 +27,7 @@
 | DoorDash | Software Engineer - Developer Experience, Web | San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA; New York, NY | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8197854) | 0d |
 | Avery Dennison | Back End Distribution Tech - Night shift | Charlotte, NC, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000149092580-back-end-distribution-tech-night-shift) | 0d |
 | Commure | Software Engineer, Early Career 2027 | Mountain View, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/Commure/c6a735ef-3d84-4447-94a9-9e8b2dfefced) | 0d |
-| Anduril | Production Software Engineer | Fort Collins, Colorado, United States | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5189514007?gh_jid=5189514007) | 0d |
+| Anduril | Production Software Engineer | Fort Collins, Colorado, United States | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5189514007?gh_jid=5189514007) | 1d |
 | Cohere | Software Engineer, Data Infrastructure | United States | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/cohere/70313283-6532-450a-8cae-18f9e05a7673) | 1d |
 | Chamberlain Group | Software Engineer I - AI (Hybrid in Oak Brook, IL) | Oak Brook, IL | Workday | not_applied | [Apply](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Software-Engineer-I---AI_JR30290) | 1d |
 | LexisNexis Legal & Professional | Software Engineer II | Raleigh, NC | Workday | not_applied | [Apply](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Software-Engineer-II_R116942) | 1d |
@@ -83,7 +83,7 @@
 | 1Password | Developer, Full Stack/iOS | Remote (United States \| Canada) | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/1password/f51cc73a-fde2-4686-b54b-f183cdaedb45) | 3d |
 | Zoox | Software Engineer - Robot Software Infrastructure | Foster City, CA | Lever | not_applied | [Apply](https://jobs.lever.co/zoox/6da52aa7-0ccb-48d0-af25-0889f41ddee5) | 3d |
 | Zoox | Software Engineer - Pipeline Infrastructure & Integration | Foster City, CA | Lever | not_applied | [Apply](https://jobs.lever.co/zoox/978e36ef-e8e9-4874-ade6-f33a80e46309) | 3d |
-| bet365 | Software Engineer, MarTech | Denver, Colorado, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Bet3651/744000148265998-software-engineer-martech) | 3d |
+| bet365 | Software Engineer, MarTech | Denver, Colorado, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Bet3651/744000148265998-software-engineer-martech) | 4d |
 | TechChain Talent | Full Stack Engineer | Austin, Texas, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/full-stack-engineer-at-techchain-talent-4462537054?trk=bingjobs) | 4d |
 | Albert Bow | Software Engineer | New York metropolitan area, Pennsylvania, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/software-engineer-at-albert-bow-4459948168?trk=bingjobs) | 4d |
 | Google | Software Engineer, Search Ads In AI Experiences | Mountain View, California, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/software-engineer-search-ads-in-ai-experiences-at-google-4463270194?trk=bingjobs) | 4d |
@@ -103,7 +103,7 @@
 | 3PillarGlobal | Software Engineer | United States | Lever | not_applied | [Apply](https://jobs.lever.co/3pillarglobal/ef44f27b-a469-4374-82c9-93105ffdc574) | 4d |
 | Alignerr | Software Engineer (AI Training) — Remote Contract | New York, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/software-engineer-ai-training-%E2%80%94-remote-contract-at-alignerr-4464433099?trk=bingjobs) | 4d |
 | Microsoft | Software Engineer UX | Redmond, Washington, USA | JSearch | not_applied | [Apply](https://www.ziprecruiter.com/c/microsoft/Job/Software-Engineer-UX/-in-Redmond,WA?jid=1aa1e77b47a8e756&trk=bingjobs) | 4d |
-| Rocket Science Group | Full-Stack Engineer - Albany | Albany, NY | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/rocketsciencegg/35edbb83-22f4-4882-8849-5247babd772a) | 4d |
+| Rocket Science Group | Full-Stack Engineer - Albany | Albany, NY | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/rocketsciencegg/35edbb83-22f4-4882-8849-5247babd772a) | 5d |
 | Turing | Remote Software Engineer - C++ | New York, USA | JSearch | not_applied | [Apply](https://www.monster.com/job-openings/remote-software-engineer-c-new-york-ny--8826d6f7-028e-4b29-b43b-078e938844ea?mstr_dist=true&trk=bingjobs) | 5d |
 | Soni | Software Engineer | New York, New York, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/software-engineer-at-soni-4444028257?trk=bingjobs) | 5d |
 | Customer Success Nordics | Junior Software Engineer | NY, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/junior-software-engineer-at-customer-success-nordics-4464336525?trk=bingjobs) | 5d |
