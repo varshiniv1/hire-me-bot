@@ -33,6 +33,17 @@
     "is_internship": false
   },
   {
+    "id": 349050,
+    "company": "Mirantis",
+    "role": "Software Engineer",
+    "location": "Raleigh, NC, us",
+    "source": "SmartRecruiters",
+    "status": "not_applied",
+    "url": "https://jobs.smartrecruiters.com/Mirantis/744000149065869-software-engineer",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
     "id": 342111,
     "company": "Hudl",
     "role": "Software Quality Assurance Engineering Intern",
@@ -40,7 +51,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/hudl/jobs/8155102",
-    "age": "1d",
+    "age": "2d",
     "is_internship": true
   },
   {
@@ -51,7 +62,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5189514007?gh_jid=5189514007",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -77,17 +88,6 @@
     "is_internship": false
   },
   {
-    "id": 344612,
-    "company": "Chamberlain Group",
-    "role": "Software Engineer I - AI (Hybrid in Oak Brook, IL)",
-    "location": "Oak Brook, IL",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Software-Engineer-I---AI_JR30290",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
     "id": 343986,
     "company": "LexisNexis Legal & Professional",
     "role": "Software Engineer II",
@@ -99,46 +99,13 @@
     "is_internship": false
   },
   {
-    "id": 343860,
-    "company": "Fidelity Investments",
-    "role": "Co-op, Software Full Stack Engineer",
-    "location": "Boston, MA",
+    "id": 342776,
+    "company": "ABB",
+    "role": "Supplier Quality and Development Engineer (SQE/SDE))",
+    "location": "USA, MS, Senatobia",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/fmr/targeted/job/Boston-MA/Co-op--Software-Full-Stack-Engineer_2135236",
-    "age": "2d",
-    "is_internship": true
-  },
-  {
-    "id": 344141,
-    "company": "Piper Sandler",
-    "role": "Site Reliability Engineer",
-    "location": "New York, NY",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/New-York-NY/Site-Reliability-Engineer_R-100707",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 346395,
-    "company": "Fidelity National Information Services",
-    "role": "Software Engineering, FIS University Program",
-    "location": "US FL JAX 347",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Software-Engineering--FIS-University-Program_JR0309486",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 342217,
-    "company": "Motorola",
-    "role": "Android Software Engineer",
-    "location": "Plantation, FL",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Software-Engineer_R62561",
+    "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MS-Senatobia/Supplier-Quality-and-Development-Engineer--SQE-SDE--_JR00036452-1",
     "age": "2d",
     "is_internship": false
   },
@@ -154,39 +121,6 @@
     "is_internship": true
   },
   {
-    "id": 341945,
-    "company": "ASML",
-    "role": "Optical Fabrication Technician CWW Back End Nights, 6:00 PM \u2013 6:00 AM (Wednesday, Thursday, Friday, and every other Saturday)15% Differential",
-    "location": "Wilton, CT, USA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-CWW-Back-End-Nights--6-00-PM---6-00-AM--Wednesday--Thursday--Friday--and-every-other-Saturday-15--Differential_J-00351781",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 342018,
-    "company": "DuCharme, McMillen & Associates",
-    "role": "Associate Software Support",
-    "location": "Fort Wayne, IN",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://dmainc.wd5.myworkdayjobs.com/DMA/job/Fort-Wayne-IN/Associate-Software-Support_REQ691",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 342986,
-    "company": "Direct Supply",
-    "role": "Software Engineer Intern",
-    "location": "Milwaukee, WI",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/Software-Engineer-Intern_REQ-2026-2559",
-    "age": "2d",
-    "is_internship": true
-  },
-  {
     "id": 342253,
     "company": "NVIDIA",
     "role": "Software Platform Support Engineer - GPU Cloud",
@@ -194,6 +128,28 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Platform-Support-Engineer---GPU-Cloud_JR2025175",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 344612,
+    "company": "Chamberlain Group",
+    "role": "Software Engineer I - AI (Hybrid in Oak Brook, IL)",
+    "location": "Oak Brook, IL",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Software-Engineer-I---AI_JR30290",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 344141,
+    "company": "Piper Sandler",
+    "role": "Site Reliability Engineer",
+    "location": "New York, NY",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/New-York-NY/Site-Reliability-Engineer_R-100707",
     "age": "2d",
     "is_internship": false
   },
@@ -209,6 +165,72 @@
     "is_internship": true
   },
   {
+    "id": 342986,
+    "company": "Direct Supply",
+    "role": "Software Engineer Intern",
+    "location": "Milwaukee, WI",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/Software-Engineer-Intern_REQ-2026-2559",
+    "age": "2d",
+    "is_internship": true
+  },
+  {
+    "id": 346395,
+    "company": "Fidelity National Information Services",
+    "role": "Software Engineering, FIS University Program",
+    "location": "US FL JAX 347",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Software-Engineering--FIS-University-Program_JR0309486",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 342018,
+    "company": "DuCharme, McMillen & Associates",
+    "role": "Associate Software Support",
+    "location": "Fort Wayne, IN",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://dmainc.wd5.myworkdayjobs.com/DMA/job/Fort-Wayne-IN/Associate-Software-Support_REQ691",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 342217,
+    "company": "Motorola",
+    "role": "Android Software Engineer",
+    "location": "Plantation, FL",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Software-Engineer_R62561",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 341945,
+    "company": "ASML",
+    "role": "Optical Fabrication Technician CWW Back End Nights, 6:00 PM \u2013 6:00 AM (Wednesday, Thursday, Friday, and every other Saturday)15% Differential",
+    "location": "Wilton, CT, USA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-CWW-Back-End-Nights--6-00-PM---6-00-AM--Wednesday--Thursday--Friday--and-every-other-Saturday-15--Differential_J-00351781",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 343860,
+    "company": "Fidelity Investments",
+    "role": "Co-op, Software Full Stack Engineer",
+    "location": "Boston, MA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/fmr/targeted/job/Boston-MA/Co-op--Software-Full-Stack-Engineer_2135236",
+    "age": "2d",
+    "is_internship": true
+  },
+  {
     "id": 343861,
     "company": "Fidelity Investments",
     "role": "Co-op, Software Engineer",
@@ -218,17 +240,6 @@
     "url": "https://wd1.myworkdaysite.com/recruiting/fmr/targeted/job/Boston-MA/Co-op--Software-Engineer_2135200",
     "age": "2d",
     "is_internship": true
-  },
-  {
-    "id": 342776,
-    "company": "ABB",
-    "role": "Supplier Quality and Development Engineer (SQE/SDE))",
-    "location": "USA, MS, Senatobia",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MS-Senatobia/Supplier-Quality-and-Development-Engineer--SQE-SDE--_JR00036452-1",
-    "age": "2d",
-    "is_internship": false
   },
   {
     "id": 339851,
@@ -264,13 +275,13 @@
     "is_internship": true
   },
   {
-    "id": 342677,
-    "company": "TJX",
-    "role": "Retail Full Time Front End Supervisor",
-    "location": "Bowling Green, OH 43402",
+    "id": 337783,
+    "company": "Copeland",
+    "role": "Production Engineer",
+    "location": "Natchitoches, LA, USA",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Bowling-Green-OH-43402/Retail-Full-Time-Front-End-Supervisor_REQ155307",
+    "url": "https://copeland.wd5.myworkdayjobs.com/Copeland_External_Careers_Page/job/Natchitoches-LA-USA/Production-Engineer_JR117319-1",
     "age": "3d",
     "is_internship": false
   },
@@ -385,13 +396,13 @@
     "is_internship": false
   },
   {
-    "id": 337783,
-    "company": "Copeland",
-    "role": "Production Engineer",
-    "location": "Natchitoches, LA, USA",
+    "id": 342677,
+    "company": "TJX",
+    "role": "Retail Full Time Front End Supervisor",
+    "location": "Bowling Green, OH 43402",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://copeland.wd5.myworkdayjobs.com/Copeland_External_Careers_Page/job/Natchitoches-LA-USA/Production-Engineer_JR117319-1",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Bowling-Green-OH-43402/Retail-Full-Time-Front-End-Supervisor_REQ155307",
     "age": "3d",
     "is_internship": false
   },
@@ -403,6 +414,17 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/West-Lebanon-NH-03784/Retail-Front-End-Coordinator-Nights-Weekends_REQ155415",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 348994,
+    "company": "John Gore Organization",
+    "role": "Software Engineer",
+    "location": "Boca Raton, FL (Mon - Th in Office)",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://johngore.wd1.myworkdayjobs.com/Careers/job/Boca-Raton-FL-Mon---Th-in-Office/Software-Engineer_R100723",
     "age": "3d",
     "is_internship": false
   },
@@ -788,7 +810,7 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/Bet3651/744000148265998-software-engineer-martech",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
