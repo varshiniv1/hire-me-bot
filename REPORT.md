@@ -80,7 +80,7 @@
 | Spotify | Backend Engineer, Mimir, Personalization | New York, NY | Lever | not_applied | [Apply](https://jobs.lever.co/spotify/318f73b5-6a78-49c7-b625-ecb1481042b9) | 2d |
 | SingleStore | Software Engineer \| Aura Platform  | United States  | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/8159062) | 2d |
 | Interco | Junior Software Developer | St. Louis, MO, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Interco/744000149591649-junior-software-developer) | 2d |
-| DoorDash | Software Engineer, Code Quality | San Francisco, CA; Seattle, WA; New York, NY; Los Angeles, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8202736) | 2d |
+| DoorDash | Software Engineer, Code Quality | San Francisco, CA; Seattle, WA; New York, NY; Los Angeles, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8202736) | 3d |
 | LexisNexis Legal & Professional | Aspire Tech Graduate Software Engineer I | Raleigh, NC | Workday | not_applied | [Apply](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Aspire-Tech-Graduate-Software-Engineer-I_R118694) | 3d |
 | ASML | Optical Fabrication Technician CWW Back End Days | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-CWW-Back-End-Days_J-00349252) | 3d |
 | Iowa State University | Software Developer I | Ames, IA | Workday | not_applied | [Apply](https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Software-Developer-I_R19926) | 3d |
