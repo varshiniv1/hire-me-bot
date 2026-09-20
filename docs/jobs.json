@@ -18,7 +18,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4408295009",
-    "age": "0d",
+    "age": "1d",
     "is_internship": false
   },
   {
@@ -77,6 +77,17 @@
     "is_internship": false
   },
   {
+    "id": 373129,
+    "company": "Fable",
+    "role": "Software Engineering Intern",
+    "location": "San Francisco, CA (Hybrid)",
+    "source": "Ashby",
+    "status": "not_applied",
+    "url": "https://jobs.ashbyhq.com/fable/3fd04c23-a63d-4b40-bfae-feafaa478caf",
+    "age": "1d",
+    "is_internship": true
+  },
+  {
     "id": 366616,
     "company": "Agile Defense",
     "role": "Applied Data & Software Engineer",
@@ -132,6 +143,17 @@
     "is_internship": false
   },
   {
+    "id": 366113,
+    "company": "KLA",
+    "role": "Software Engineer",
+    "location": "Milpitas, CA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer_2640361",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
     "id": 370389,
     "company": "Fidelity National Information Services",
     "role": "Software Engineers II - Risk and Fraud Technology",
@@ -150,17 +172,6 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Software-Developer---Manufacturing-Applications_JR-202618702",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 370403,
-    "company": "General Motors",
-    "role": "Manufacturing Software Integration Developer",
-    "location": "Warren, Michigan, United States of America",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Manufacturing-Software-Integration-Developer_JR-202618704",
     "age": "2d",
     "is_internship": false
   },
@@ -242,13 +253,13 @@
     "is_internship": false
   },
   {
-    "id": 366113,
-    "company": "KLA",
-    "role": "Software Engineer",
-    "location": "Milpitas, CA",
+    "id": 370403,
+    "company": "General Motors",
+    "role": "Manufacturing Software Integration Developer",
+    "location": "Warren, Michigan, United States of America",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer_2640361",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Manufacturing-Software-Integration-Developer_JR-202618704",
     "age": "2d",
     "is_internship": false
   },
@@ -260,6 +271,17 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/sugarcrm/8c9af0c3-ad2a-4675-b922-58e205f41bfb",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 373457,
+    "company": "Radiant",
+    "role": "2027 New Graduate - Software Engineer",
+    "location": "El Segundo, CA",
+    "source": "Ashby",
+    "status": "not_applied",
+    "url": "https://jobs.ashbyhq.com/radiant-industries/1ec29cec-d18f-417d-adc6-31adda87c687",
     "age": "2d",
     "is_internship": false
   },
@@ -319,6 +341,17 @@
     "is_internship": false
   },
   {
+    "id": 373315,
+    "company": "Nanopath",
+    "role": "Software Development Co-op (Jan '27 Start)",
+    "location": "Cambridge, MA",
+    "source": "Greenhouse",
+    "status": "not_applied",
+    "url": "https://job-boards.greenhouse.io/nanopathinc/jobs/4732881005",
+    "age": "2d",
+    "is_internship": true
+  },
+  {
     "id": 363604,
     "company": "Omada Health",
     "role": "Software Engineer II, Solutions Engineering",
@@ -352,15 +385,26 @@
     "is_internship": false
   },
   {
-    "id": 370083,
-    "company": "Visa",
-    "role": "2027 Sophomore Internship Program - Software Engineer Intern, Ashburn",
-    "location": "Ashburn, Virginia, USA",
-    "source": "JSearch",
+    "id": 372994,
+    "company": "ALTEN Mexico",
+    "role": "Software Update Engineer ",
+    "location": "Troy, MI, us",
+    "source": "SmartRecruiters",
     "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/2027-sophomore-internship-program-software-engineer-intern-ashburn-at-visa-4468666893",
+    "url": "https://jobs.smartrecruiters.com/ALTEN/744000150043469-software-update-engineer-",
     "age": "3d",
-    "is_internship": true
+    "is_internship": false
+  },
+  {
+    "id": 363049,
+    "company": "TJX",
+    "role": "Front End Associate",
+    "location": "Braintree, MA 02184",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Braintree-MA-02184/Front-End-Associate_REQ158482",
+    "age": "3d",
+    "is_internship": false
   },
   {
     "id": 371008,
@@ -372,6 +416,17 @@
     "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Alpharetta-GA-30022/Frontend-Supervisor_REQ157058",
     "age": "3d",
     "is_internship": false
+  },
+  {
+    "id": 370083,
+    "company": "Visa",
+    "role": "2027 Sophomore Internship Program - Software Engineer Intern, Ashburn",
+    "location": "Ashburn, Virginia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/2027-sophomore-internship-program-software-engineer-intern-ashburn-at-visa-4468666893",
+    "age": "3d",
+    "is_internship": true
   },
   {
     "id": 370089,
@@ -495,15 +550,15 @@
     "is_internship": false
   },
   {
-    "id": 363049,
-    "company": "TJX",
-    "role": "Front End Associate",
-    "location": "Braintree, MA 02184",
+    "id": 361092,
+    "company": "Smith+Nephew",
+    "role": "Intern Robotics Software Engineering",
+    "location": "US - Pittsburgh, PA",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Braintree-MA-02184/Front-End-Associate_REQ158482",
+    "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482",
     "age": "3d",
-    "is_internship": false
+    "is_internship": true
   },
   {
     "id": 362624,
@@ -570,17 +625,6 @@
     "url": "https://account.amazon.jobs/jobs/10551396/apply",
     "age": "3d",
     "is_internship": false
-  },
-  {
-    "id": 361092,
-    "company": "Smith+Nephew",
-    "role": "Intern Robotics Software Engineering",
-    "location": "US - Pittsburgh, PA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482",
-    "age": "3d",
-    "is_internship": true
   },
   {
     "id": 360065,
@@ -656,7 +700,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/meds/d5ec1d14-0472-4742-a45d-6a2795f8675d",
-    "age": "3d",
+    "age": "4d",
     "is_internship": false
   },
   {
@@ -667,7 +711,18 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/cartesiansystems/jobs/4408204009",
-    "age": "3d",
+    "age": "4d",
+    "is_internship": true
+  },
+  {
+    "id": 373123,
+    "company": "Duolingo",
+    "role": "Software Engineer, Intern",
+    "location": "Pittsburgh, PA; New York, NY; Seattle, WA",
+    "source": "Greenhouse",
+    "status": "not_applied",
+    "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806878002",
+    "age": "4d",
     "is_internship": true
   },
   {
@@ -678,61 +733,17 @@
     "source": "Ashby",
     "status": "not_applied",
     "url": "https://jobs.ashbyhq.com/bedrock-robotics/8927dd7e-a48d-49a2-92eb-09ec059432f4",
-    "age": "3d",
-    "is_internship": true
-  },
-  {
-    "id": 360089,
-    "company": "Scientific Games",
-    "role": "Full Stack Software Developer",
-    "location": "Alpharetta, GA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://sglottery.wd5.myworkdayjobs.com/ScientificGamesExternalCareers/job/Alpharetta-GA/Full-Stack-Software-Developer_R504819",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
-    "id": 370092,
-    "company": "Meta",
-    "role": "Software Engineer, Systems ML",
-    "location": "Atlanta, Georgia, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.scholaro.com/jobs/listing/Adzuna_5887573079",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
-    "id": 370084,
-    "company": "Feedinkoo",
-    "role": "Software Engineering Intern \u2014 Secure Web Apps & DevOps",
-    "location": "Washington, District of Columbia, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.learn4good.com/jobs/washington/district-of-columbia/software_development/5474576401/e/",
     "age": "4d",
     "is_internship": true
   },
   {
-    "id": 363051,
-    "company": "TJX",
-    "role": "Front End Retail Supervisor",
-    "location": "Reading, MA 01867",
+    "id": 359766,
+    "company": "Greystar Worldwide",
+    "role": "Procure-to-Pay Software Support Specialist",
+    "location": "Remote, United States",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Reading-MA-01867/Front-End-Retail-Supervisor_REQ158371",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
-    "id": 363052,
-    "company": "TJX",
-    "role": "FRONT END CUSTOMER EXPERIENCE SUPERVISOR",
-    "location": "Menomonee Falls, WI 53051",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Menomonee-Falls-WI-53051/FRONT-END-CUSTOMER-EXPERIENCE-SUPERVISOR_REQ158241",
+    "url": "https://greystar.wd1.myworkdayjobs.com/External/job/Remote-United-States/Procure-to-Pay-Software-Support-Specialist_R0201313",
     "age": "4d",
     "is_internship": false
   },
@@ -748,35 +759,24 @@
     "is_internship": false
   },
   {
-    "id": 360358,
-    "company": "TJX",
-    "role": "Part Time Front End/Cashier Supervisor",
-    "location": "Mishawaka, IN 46545",
+    "id": 358899,
+    "company": "ICF International",
+    "role": "Junior Software Engineer (Entry level - Remote US)",
+    "location": "Reston, VA",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Mishawaka-IN-46545/Part-Time-Front-End-Cashier-Supervisor_REQ157919",
+    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Junior-Software-Engineer--Entry-level---Remote-US-_R2603054",
     "age": "4d",
     "is_internship": false
   },
   {
-    "id": 359763,
-    "company": "Graco",
-    "role": "Software Engineer Intern",
-    "location": "Dayton, Minnesota, USA (French Lake)",
+    "id": 358950,
+    "company": "KLA",
+    "role": "Software Engineer",
+    "location": "Milpitas, CA",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA-French-Lake/Software-Engineer-Intern_R0023556",
-    "age": "4d",
-    "is_internship": true
-  },
-  {
-    "id": 360284,
-    "company": "U.S. Bank",
-    "role": "Software Engineer 2 - CorePointAI",
-    "location": "Cincinnati, OH",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Cincinnati-OH/Software-Engineer-2---CorePointAI_2026-0027523",
+    "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer_2640149",
     "age": "4d",
     "is_internship": false
   },
@@ -790,6 +790,17 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-DevOps-Engineer--Networking_JR2025882",
     "age": "4d",
     "is_internship": false
+  },
+  {
+    "id": 359763,
+    "company": "Graco",
+    "role": "Software Engineer Intern",
+    "location": "Dayton, Minnesota, USA (French Lake)",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA-French-Lake/Software-Engineer-Intern_R0023556",
+    "age": "4d",
+    "is_internship": true
   },
   {
     "id": 359634,
@@ -836,28 +847,6 @@
     "is_internship": false
   },
   {
-    "id": 359766,
-    "company": "Greystar Worldwide",
-    "role": "Procure-to-Pay Software Support Specialist",
-    "location": "Remote, United States",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://greystar.wd1.myworkdayjobs.com/External/job/Remote-United-States/Procure-to-Pay-Software-Support-Specialist_R0201313",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
-    "id": 358950,
-    "company": "KLA",
-    "role": "Software Engineer",
-    "location": "Milpitas, CA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer_2640149",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
     "id": 359877,
     "company": "Medtronic",
     "role": "Software Test Engineer I",
@@ -869,13 +858,13 @@
     "is_internship": false
   },
   {
-    "id": 358899,
-    "company": "ICF International",
-    "role": "Junior Software Engineer (Entry level - Remote US)",
-    "location": "Reston, VA",
+    "id": 360089,
+    "company": "Scientific Games",
+    "role": "Full Stack Software Developer",
+    "location": "Alpharetta, GA",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Junior-Software-Engineer--Entry-level---Remote-US-_R2603054",
+    "url": "https://sglottery.wd5.myworkdayjobs.com/ScientificGamesExternalCareers/job/Alpharetta-GA/Full-Stack-Software-Developer_R504819",
     "age": "4d",
     "is_internship": false
   },
@@ -889,6 +878,72 @@
     "url": "https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Operating-Systems-Software-Programmer-I---EHRA_JR-124246",
     "age": "4d",
     "is_internship": false
+  },
+  {
+    "id": 360284,
+    "company": "U.S. Bank",
+    "role": "Software Engineer 2 - CorePointAI",
+    "location": "Cincinnati, OH",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Cincinnati-OH/Software-Engineer-2---CorePointAI_2026-0027523",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 360358,
+    "company": "TJX",
+    "role": "Part Time Front End/Cashier Supervisor",
+    "location": "Mishawaka, IN 46545",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Mishawaka-IN-46545/Part-Time-Front-End-Cashier-Supervisor_REQ157919",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 363051,
+    "company": "TJX",
+    "role": "Front End Retail Supervisor",
+    "location": "Reading, MA 01867",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Reading-MA-01867/Front-End-Retail-Supervisor_REQ158371",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 363052,
+    "company": "TJX",
+    "role": "FRONT END CUSTOMER EXPERIENCE SUPERVISOR",
+    "location": "Menomonee Falls, WI 53051",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Menomonee-Falls-WI-53051/FRONT-END-CUSTOMER-EXPERIENCE-SUPERVISOR_REQ158241",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 370092,
+    "company": "Meta",
+    "role": "Software Engineer, Systems ML",
+    "location": "Atlanta, Georgia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.scholaro.com/jobs/listing/Adzuna_5887573079",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 370084,
+    "company": "Feedinkoo",
+    "role": "Software Engineering Intern \u2014 Secure Web Apps & DevOps",
+    "location": "Washington, District of Columbia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.learn4good.com/jobs/washington/district-of-columbia/software_development/5474576401/e/",
+    "age": "4d",
+    "is_internship": true
   },
   {
     "id": 357199,
@@ -1008,7 +1063,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/singlestore/jobs/8159062",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -1019,7 +1074,7 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/Interco/744000149591649-junior-software-developer",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -1030,7 +1085,7 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/Interco/744000149591449-paid-internship-software-development-react-",
-    "age": "4d",
+    "age": "5d",
     "is_internship": true
   },
   {
@@ -1041,39 +1096,6 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8202736",
-    "age": "5d",
-    "is_internship": false
-  },
-  {
-    "id": 359439,
-    "company": "Safeway",
-    "role": "Front End Entry Level",
-    "location": "La Plata, Maryland, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-safeway-4458532508",
-    "age": "5d",
-    "is_internship": false
-  },
-  {
-    "id": 359442,
-    "company": "General Motors",
-    "role": "Entry Level Software Engineer - Full-time",
-    "location": "Milford, Michigan, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.snagajob.com/jobs/1293202195",
-    "age": "5d",
-    "is_internship": false
-  },
-  {
-    "id": 359438,
-    "company": "Arcfield",
-    "role": "Entry level Software Engineer",
-    "location": "Middletown, Rhode Island, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/entry-level-software-engineer-at-arcfield-4465531346",
     "age": "5d",
     "is_internship": false
   },
@@ -1089,6 +1111,28 @@
     "is_internship": false
   },
   {
+    "id": 359438,
+    "company": "Arcfield",
+    "role": "Entry level Software Engineer",
+    "location": "Middletown, Rhode Island, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/entry-level-software-engineer-at-arcfield-4465531346",
+    "age": "5d",
+    "is_internship": false
+  },
+  {
+    "id": 359439,
+    "company": "Safeway",
+    "role": "Front End Entry Level",
+    "location": "La Plata, Maryland, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-safeway-4458532508",
+    "age": "5d",
+    "is_internship": false
+  },
+  {
     "id": 356806,
     "company": "TJX",
     "role": "Part Time Front End Cashier",
@@ -1096,6 +1140,28 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Dublin-CA-94568/Part-Time-Front-End-Cashier_REQ157589-1",
+    "age": "5d",
+    "is_internship": false
+  },
+  {
+    "id": 355265,
+    "company": "Hitachi Energy",
+    "role": "Intern - Onboard Software Developer",
+    "location": "Pittsburgh, Pennsylvania, United States",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Pittsburgh-Pennsylvania-United-States/Intern---Onboard-Software-Developer_R0145042",
+    "age": "5d",
+    "is_internship": true
+  },
+  {
+    "id": 359442,
+    "company": "General Motors",
+    "role": "Entry Level Software Engineer - Full-time",
+    "location": "Milford, Michigan, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.snagajob.com/jobs/1293202195",
     "age": "5d",
     "is_internship": false
   },
@@ -1177,17 +1243,6 @@
     "is_internship": true
   },
   {
-    "id": 355265,
-    "company": "Hitachi Energy",
-    "role": "Intern - Onboard Software Developer",
-    "location": "Pittsburgh, Pennsylvania, United States",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Pittsburgh-Pennsylvania-United-States/Intern---Onboard-Software-Developer_R0145042",
-    "age": "5d",
-    "is_internship": true
-  },
-  {
     "id": 360011,
     "company": "Pivotal Software",
     "role": "Full Stack Data Engineer - Internal Flight Data Applications",
@@ -1210,8 +1265,8 @@
     "is_internship": false
   },
   {
-    "id": 352657,
-    "company": "NICE",
+    "id": 352668,
+    "company": "NiCE",
     "role": "Software Engineer, AI Solutions",
     "location": "USA - Remote",
     "source": "Greenhouse",
@@ -1221,8 +1276,8 @@
     "is_internship": false
   },
   {
-    "id": 352668,
-    "company": "NiCE",
+    "id": 352657,
+    "company": "NICE",
     "role": "Software Engineer, AI Solutions",
     "location": "USA - Remote",
     "source": "Greenhouse",
@@ -1320,6 +1375,28 @@
     "is_internship": false
   },
   {
+    "id": 351832,
+    "company": "Scientific Games",
+    "role": "Advanced Software Engineer",
+    "location": "Alpharetta, GA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://sglottery.wd5.myworkdayjobs.com/ScientificGamesExternalCareers/job/Alpharetta-GA/Advanced-Software-Engineer_R505146",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 370085,
+    "company": "Viavi Solutions",
+    "role": "Software Engineering Co-Op",
+    "location": "Germantown, Maryland, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.indeed.com/viewjob?jk=6dd1b5440b69ccdb",
+    "age": "6d",
+    "is_internship": true
+  },
+  {
     "id": 352472,
     "company": "Ferrovial",
     "role": "Webber - FrontEnd Loader Operator - Heavy Civil W1P",
@@ -1331,13 +1408,13 @@
     "is_internship": false
   },
   {
-    "id": 360057,
-    "company": "Johnson Controls",
-    "role": "NextGen Software Engineer",
-    "location": "Glendale-Wisconsin-United States of America",
+    "id": 352395,
+    "company": "Chickasaw Nation Industries",
+    "role": "Software Engineer",
+    "location": "Dothan, AL",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Glendale-Wisconsin-United-States-of-America/NextGen-Software-Engineer_WD30279373",
+    "url": "https://cni.wd503.myworkdayjobs.com/CNI/job/Dothan-AL/Electrical-Engineer-II_R9032-1",
     "age": "6d",
     "is_internship": false
   },
@@ -1375,17 +1452,6 @@
     "is_internship": false
   },
   {
-    "id": 370085,
-    "company": "Viavi Solutions",
-    "role": "Software Engineering Co-Op",
-    "location": "Germantown, Maryland, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.indeed.com/viewjob?jk=6dd1b5440b69ccdb",
-    "age": "6d",
-    "is_internship": true
-  },
-  {
     "id": 352118,
     "company": "TJX",
     "role": "* Front End Cashier *",
@@ -1393,6 +1459,28 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/La-Place-LA-70068/XMLNAME---Front-End-Cashier--_REQ156495",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 351533,
+    "company": "Genuine Parts Company",
+    "role": "Software Engineer - Global Industrial",
+    "location": "Birmingham, AL, USA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Engineer---Global-Industrial_R26_0000029083-1",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 370091,
+    "company": "Meta",
+    "role": "Software Engineer, SystemML - AI Networking",
+    "location": "Menlo Park, California, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.metacareers.com/profile/job_details/1124065870041690/",
     "age": "6d",
     "is_internship": false
   },
@@ -1430,101 +1518,13 @@
     "is_internship": false
   },
   {
-    "id": 359446,
-    "company": "VIAVI Solutions",
-    "role": "Software Engineering Co-Op",
-    "location": "Germantown, Maryland, USA",
+    "id": 359443,
+    "company": "Apex Systems",
+    "role": "Site Reliability Engineer (SRE)",
+    "location": "Pennington, New Jersey, USA",
     "source": "JSearch",
     "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/software-engineering-co-op-at-viavi-solutions-4465764628",
-    "age": "6d",
-    "is_internship": true
-  },
-  {
-    "id": 351530,
-    "company": "General Motors",
-    "role": "ECU Software Deployment Supervisor \u2013 Manufacturing Engineering",
-    "location": "Warren, Michigan, United States of America",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Loose-Piece-Reflash-Deployment-Supervisor---Global-Manufacturing-Electrical---SDV_JR-202608389",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 359445,
-    "company": "VIAVI Solutions",
-    "role": "Software Engineering Co-Op",
-    "location": "Germantown, Maryland, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/software-engineering-co-op-at-viavi-solutions-4465764628",
-    "age": "6d",
-    "is_internship": true
-  },
-  {
-    "id": 370091,
-    "company": "Meta",
-    "role": "Software Engineer, SystemML - AI Networking",
-    "location": "Menlo Park, California, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.metacareers.com/profile/job_details/1124065870041690/",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 352061,
-    "company": "Viavi Solutions",
-    "role": "Software Engineering Co-Op",
-    "location": "Germantown, MD USA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Software-Engineering-Co-Op_260005140-1",
-    "age": "6d",
-    "is_internship": true
-  },
-  {
-    "id": 360058,
-    "company": "Johnson Controls",
-    "role": "NextGen Software Engineer",
-    "location": "Westford-Massachusetts-United States of America",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Westford-Massachusetts-United-States-of-America/NextGen-Software-Engineer_WD30279369",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 351832,
-    "company": "Scientific Games",
-    "role": "Advanced Software Engineer",
-    "location": "Alpharetta, GA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://sglottery.wd5.myworkdayjobs.com/ScientificGamesExternalCareers/job/Alpharetta-GA/Advanced-Software-Engineer_R505146",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 352395,
-    "company": "Chickasaw Nation Industries",
-    "role": "Software Engineer",
-    "location": "Dothan, AL",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://cni.wd503.myworkdayjobs.com/CNI/job/Dothan-AL/Electrical-Engineer-II_R9032-1",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 351640,
-    "company": "Mimecast",
-    "role": "Software Engineer I",
-    "location": "United States of America\u2013 Minnesota \u2013 Minneapolis",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/United-States-of-America-Minnesota--Minneapolis/Software-Engineer-I_R6708-1",
+    "url": "https://www.linkedin.com/jobs/view/site-reliability-engineer-sre-at-apex-systems-4467203618",
     "age": "6d",
     "is_internship": false
   },
@@ -1540,15 +1540,70 @@
     "is_internship": false
   },
   {
-    "id": 351533,
-    "company": "Genuine Parts Company",
-    "role": "Software Engineer - Global Industrial",
-    "location": "Birmingham, AL, USA",
+    "id": 360057,
+    "company": "Johnson Controls",
+    "role": "NextGen Software Engineer",
+    "location": "Glendale-Wisconsin-United States of America",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Engineer---Global-Industrial_R26_0000029083-1",
+    "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Glendale-Wisconsin-United-States-of-America/NextGen-Software-Engineer_WD30279373",
     "age": "6d",
     "is_internship": false
+  },
+  {
+    "id": 360058,
+    "company": "Johnson Controls",
+    "role": "NextGen Software Engineer",
+    "location": "Westford-Massachusetts-United States of America",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Westford-Massachusetts-United-States-of-America/NextGen-Software-Engineer_WD30279369",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 351530,
+    "company": "General Motors",
+    "role": "ECU Software Deployment Supervisor \u2013 Manufacturing Engineering",
+    "location": "Warren, Michigan, United States of America",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Loose-Piece-Reflash-Deployment-Supervisor---Global-Manufacturing-Electrical---SDV_JR-202608389",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 351640,
+    "company": "Mimecast",
+    "role": "Software Engineer I",
+    "location": "United States of America\u2013 Minnesota \u2013 Minneapolis",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/United-States-of-America-Minnesota--Minneapolis/Software-Engineer-I_R6708-1",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 352061,
+    "company": "Viavi Solutions",
+    "role": "Software Engineering Co-Op",
+    "location": "Germantown, MD USA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Software-Engineering-Co-Op_260005140-1",
+    "age": "6d",
+    "is_internship": true
+  },
+  {
+    "id": 359445,
+    "company": "VIAVI Solutions",
+    "role": "Software Engineering Co-Op",
+    "location": "Germantown, Maryland, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/software-engineering-co-op-at-viavi-solutions-4465764628",
+    "age": "6d",
+    "is_internship": true
   },
   {
     "id": 354848,
@@ -1573,15 +1628,15 @@
     "is_internship": false
   },
   {
-    "id": 359443,
-    "company": "Apex Systems",
-    "role": "Site Reliability Engineer (SRE)",
-    "location": "Pennington, New Jersey, USA",
+    "id": 359446,
+    "company": "VIAVI Solutions",
+    "role": "Software Engineering Co-Op",
+    "location": "Germantown, Maryland, USA",
     "source": "JSearch",
     "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/site-reliability-engineer-sre-at-apex-systems-4467203618",
+    "url": "https://www.linkedin.com/jobs/view/software-engineering-co-op-at-viavi-solutions-4465764628",
     "age": "6d",
-    "is_internship": false
+    "is_internship": true
   },
   {
     "id": 353386,
