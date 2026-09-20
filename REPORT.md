@@ -108,7 +108,7 @@
 | Spotify | Backend Engineer, Mimir, Personalization | New York, NY | Lever | not_applied | [Apply](https://jobs.lever.co/spotify/318f73b5-6a78-49c7-b625-ecb1481042b9) | 4d |
 | SingleStore | Software Engineer \| Aura Platform  | United States  | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/8159062) | 4d |
 | Interco | Junior Software Developer | St. Louis, MO, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Interco/744000149591649-junior-software-developer) | 4d |
-| DoorDash | Software Engineer, Code Quality | San Francisco, CA; Seattle, WA; New York, NY; Los Angeles, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8202736) | 4d |
+| DoorDash | Software Engineer, Code Quality | San Francisco, CA; Seattle, WA; New York, NY; Los Angeles, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8202736) | 5d |
 | General Motors | Entry Level Software Engineer - Full-time | Milford, Michigan, USA | JSearch | not_applied | [Apply](https://www.snagajob.com/jobs/1293202195) | 5d |
 | Safeway | Front End Entry Level | La Plata, Maryland, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-safeway-4458532508) | 5d |
 | Arcfield | Entry level Software Engineer | Middletown, Rhode Island, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/entry-level-software-engineer-at-arcfield-4465531346) | 5d |
