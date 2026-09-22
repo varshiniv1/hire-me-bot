@@ -8,7 +8,7 @@
 |---|---|---|---|---|---|---|
 | ONE Finance | Software Engineer Intern | United States (Remote) | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/oneapp/ba18d004-3212-44e4-8a0c-bd1215bae770) | 0d |
 | Wellmark | Software Engineer Internship - Technology Healthcare Innovation | Des Moines, IA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000150732768-software-engineer-internship-technology-healthcare-innovation) | 0d |
-| Mercury | Software Engineering Intern - Spring 2027 | San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6199367004) | 0d |
+| Mercury | Software Engineering Intern - Spring 2027 | San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6199367004) | 1d |
 | Nordson | Intern – Manufacturing Electronics / Software Engineering | USA - Texas - Allen | Workday | not_applied | [Apply](https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Texas---Allen/Intern---Manufacturing-Electronics---Software-Engineering_REQ52925) | 2d |
 | Fable | Software Engineering Intern | San Francisco, CA (Hybrid) | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/fable/3fd04c23-a63d-4b40-bfae-feafaa478caf) | 3d |
 | Acron Aviation | Software Engineer Intern - St. Pete Site | St Petersburg, FL | Lever | not_applied | [Apply](https://jobs.lever.co/acronaviation/19dbac7d-b4fb-4d21-9247-dc610bf55fed) | 3d |
@@ -81,7 +81,7 @@
 | Omada Health | Software Engineer II, Solutions Engineering | Remote, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/omadahealth/jobs/8047423) | 4d |
 | bet365 | Software Engineer, MarTech | Denver, Colorado, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Bet3651/744000150181189-software-engineer-martech) | 4d |
 | Acumatica | Full Stack Software Developer | Westerville, OH, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Acumatica/744000150171224-full-stack-software-developer) | 4d |
-| ALTEN Mexico | Software Update Engineer  | Troy, MI, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/ALTEN/744000150043469-software-update-engineer-) | 4d |
+| ALTEN Mexico | Software Update Engineer  | Troy, MI, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/ALTEN/744000150043469-software-update-engineer-) | 5d |
 | ASML | Wilton Factory Optics Fabrication Technician - CWW Back End Days | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Wilton-Factory-Optics-Fabrication-Technician---CWW-Back-End-Days_J-00352553-1) | 5d |
 | Zayo | Software Automation Engineer | United States | Workday | not_applied | [Apply](https://zayo.wd1.myworkdayjobs.com/Zayo_Careers/job/United-States/AI-Engineer_R0016139) | 5d |
 | U.S. Bank | Software Engineer  (Integration Services (.Net)) | Minneapolis, MN | Workday | not_applied | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Software-Engineer---Integration-Services--Net--_2026-0027880) | 5d |
