@@ -1,6 +1,6 @@
 # Job Postings Report
 
-99 postings from the last 6 days.
+98 postings from the last 6 days.
 
 ## Internships (14)
 
@@ -10,18 +10,18 @@
 | SingleStore | MIT- Software Engineer Intern \| Engine | United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/8220919) | 0d |
 | Optiver | Software Engineer Co-Op (January - April 2027) | Chicago, Illinois, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/optiverprivate/jobs/8784302002) | 0d |
 | EQT Corporation | Production Engineering Intern | Canonsburg, PA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/eqtcorporation/jobs/5424728008) | 0d |
-| KLA | Software Engineering Intern (C++, Unix) | Milpitas, CA | Workday | not_applied | [Apply](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325) | 1d |
 | KLA | Algorithm Engineering Intern (AI, Computer Vision & Software Engineering) | Milpitas, CA | Workday | not_applied | [Apply](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-1) | 1d |
+| KLA | Software Engineering Intern (C++, Unix) | Milpitas, CA | Workday | not_applied | [Apply](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325) | 1d |
 | Tencent | Site Reliability Engineer (SRE) Intern — AI Infrastructure | US-California-Palo Alto | Workday | not_applied | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Site-Reliability-Engineer--SRE--Intern---AI-Infrastructure_R108158-1) | 1d |
 | ONE Finance | Software Engineer Intern | United States (Remote) | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/oneapp/ba18d004-3212-44e4-8a0c-bd1215bae770) | 1d |
 | Wellmark | Software Engineer Internship - Technology Healthcare Innovation | Des Moines, IA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000150732768-software-engineer-internship-technology-healthcare-innovation) | 1d |
-| Mercury | Software Engineering Intern - Spring 2027 | San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6199367004) | 1d |
+| Mercury | Software Engineering Intern - Spring 2027 | San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6199367004) | 2d |
 | Nordson | Intern – Manufacturing Electronics / Software Engineering | USA - Texas - Allen | Workday | not_applied | [Apply](https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Texas---Allen/Intern---Manufacturing-Electronics---Software-Engineering_REQ52925) | 3d |
 | Fable | Software Engineering Intern | San Francisco, CA (Hybrid) | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/fable/3fd04c23-a63d-4b40-bfae-feafaa478caf) | 4d |
 | Acron Aviation | Software Engineer Intern - St. Pete Site | St Petersburg, FL | Lever | not_applied | [Apply](https://jobs.lever.co/acronaviation/19dbac7d-b4fb-4d21-9247-dc610bf55fed) | 4d |
 | Nanopath | Software Development Co-op (Jan '27 Start) | Cambridge, MA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/nanopathinc/jobs/4732881005) | 5d |
 
-## Full-Time (85)
+## Full-Time (84)
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
@@ -83,11 +83,10 @@
 | ServiceNow | Software Engineer | Santa Clara, CALIFORNIA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000150444020-software-engineer) | 4d |
 | Augmodo | Software Engineer, Data Intelligence | United States | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/augmodo/34eb5835-cc56-4f7c-a1b0-7da45b2da72d) | 4d |
 | Cartesia | Software Engineer, Product | *HQ - San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/cartesia/154b001a-f818-4798-a802-58057c47cb03) | 4d |
-| McKesson | Software Development Engineer | USA, TX, Irving | Workday | not_applied | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Software-Development-Engineer_JR0153758) | 5d |
+| Vermeer | Engineer I - Software EDP | Pella, Iowa, USA - Plant 7 Segment Office | Workday | not_applied | [Apply](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Plant-7-Segment-Office/Engineer-I---Software-EDP_REQ-22271) | 5d |
 | General Motors | Software Developer - Manufacturing Applications | Warren, Michigan, United States of America | Workday | not_applied | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Software-Developer---Manufacturing-Applications_JR-202618702) | 5d |
 | General Motors | Manufacturing Software Integration Developer | Warren, Michigan, United States of America | Workday | not_applied | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Manufacturing-Software-Integration-Developer_JR-202618704) | 5d |
 | Fidelity National Information Services | Software Engineers II - Risk and Fraud Technology | US FL JAX 347 | Workday | not_applied | [Apply](https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Software-Engineers-II---Risk-and-Fraud-Technology_JR0309714) | 5d |
-| Vermeer | Engineer I - Software EDP | Pella, Iowa, USA - Plant 7 Segment Office | Workday | not_applied | [Apply](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Plant-7-Segment-Office/Engineer-I---Software-EDP_REQ-22271) | 5d |
 | Albertsons | Front End Entry Level | Bristow, Virginia, USA | JSearch | not_applied | [Apply](https://www.ziprecruiter.com/c/Albertsons/Job/Front-End-Entry-Level/-in-Bristow,VA?jid=3d5c6a4098373c78) | 5d |
 | University Corporation for Atmospheric Research | RAF Software Engineer Programmer IV Casual | Broomfield, CO | Workday | not_applied | [Apply](https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Broomfield-CO/RAF-Software-Engineer-Programmer-IV-Casual_REQ-2026-153-1) | 5d |
 | Shaw’s and Star Market | Front End Entry Level | Hudson, Massachusetts, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-shaw%E2%80%99s-and-star-market-4469192941) | 5d |
@@ -95,6 +94,7 @@
 | Meta | Software Engineer, Systems ML | Sunnyvale, California, USA | JSearch | not_applied | [Apply](https://metacareers.dejobs.org/sunnyvale-ca/software-engineer-systems-ml-swhw-co-design/F631A6B20DFE418BA8E0E285D1CD4130/job/?vs=25&utm_source=RR%20RSS%20Feed-DE&utm_medium=Other&utm_campaign=RR%20RSS%20Feed) | 5d |
 | U.S. Bank | Software Engineer 2 (React/Java) Web applications | Irving, TX | Workday | not_applied | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irving-TX/Software-Engineer-2--React-Java--Web-applications_2026-0026284) | 5d |
 | Philips | Software Design Quality Engineer | Bedford, Massachusetts, United States | Workday | not_applied | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bedford-Massachusetts-United-States/Software-Design-Quality-Engineer_579884) | 5d |
+| McKesson | Software Development Engineer | USA, TX, Irving | Workday | not_applied | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Software-Development-Engineer_JR0153758) | 5d |
 | Malvern Panalytical | Concepteur logiciel UI/UX / Software Engineer UI/UX | Quebec, CA | Workday | not_applied | [Apply](https://spectris.wd3.myworkdayjobs.com/Malvern_Panalytical_Careers/job/Quebec-CA/Concepteur-logiciel-UI-UX---Software-Engineer-UI-UX_19084-1) | 5d |
 | Globus Medical | Associate, Software Engineer | Methuen, MA | Workday | not_applied | [Apply](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Methuen-MA/SOFTWARE-ENGINEER_JR107585-1) | 5d |
 | KLA | Software Engineer | Milpitas, CA | Workday | not_applied | [Apply](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer_2640361) | 5d |
@@ -109,5 +109,4 @@
 | Omada Health | Software Engineer II, Solutions Engineering | Remote, USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/omadahealth/jobs/8047423) | 5d |
 | bet365 | Software Engineer, MarTech | Denver, Colorado, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Bet3651/744000150181189-software-engineer-martech) | 5d |
 | Acumatica | Full Stack Software Developer | Westerville, OH, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Acumatica/744000150171224-full-stack-software-developer) | 5d |
-| ALTEN Mexico | Software Update Engineer  | Troy, MI, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/ALTEN/744000150043469-software-update-engineer-) | 5d |
 
