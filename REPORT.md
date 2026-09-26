@@ -29,7 +29,7 @@
 | KLA | Software Engineering Intern (C++, Unix) | Milpitas, CA | Workday | not_applied | [Apply](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325) | 4d |
 | ONE Finance | Software Engineer Intern | United States (Remote) | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/oneapp/ba18d004-3212-44e4-8a0c-bd1215bae770) | 4d |
 | Wellmark | Software Engineer Internship - Technology Healthcare Innovation | Des Moines, IA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000150732768-software-engineer-internship-technology-healthcare-innovation) | 4d |
-| Mercury | Software Engineering Intern - Spring 2027 | San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6199367004) | 4d |
+| Mercury | Software Engineering Intern - Spring 2027 | San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6199367004) | 5d |
 | CME Chicago Mercantile Exchange Inc. | Software Engineering Fellowship: Hybrid Internship with Mentorship | Chicago, Illinois, USA | JSearch | not_applied | [Apply](https://us.jobrapido.com/jobpreview/3358216028738813952) | 5d |
 
 ## Full-Time (131)
@@ -48,7 +48,7 @@
 | RESPEC | IAM Software Developer (Contractor) - 27R0001715 | Austin, TX, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/RESPECInc/744000151905184-iam-software-developer-contractor-27r0001715) | 0d |
 | IBM | Entry level Backend Developer - San Jose, CA - 2027 | San Jose, California, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/entry-level-backend-developer-san-jose-ca-2027-at-ibm-4460752391) | 0d |
 | IBM | Entry Level Back End Developer 2026 | Poughkeepsie, Arkansas, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/entry-level-back-end-developer-2026-at-ibm-4460773310) | 0d |
-| Palantir | Software Engineer – Query Engines | New York, NY | Lever | not_applied | [Apply](https://jobs.lever.co/palantir/a576c5ef-2a51-4522-9c98-bca5ac2abbb3) | 0d |
+| Palantir | Software Engineer – Query Engines | New York, NY | Lever | not_applied | [Apply](https://jobs.lever.co/palantir/a576c5ef-2a51-4522-9c98-bca5ac2abbb3) | 1d |
 | AnaVation | ETL Software Engineer | Chantilly, VA | Lever | not_applied | [Apply](https://jobs.lever.co/anavationllc/9ec5e5f9-fcc0-4782-8633-6507a32ac768) | 1d |
 | ASML | Production Engineer | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Production-Engineer_J-00352801) | 1d |
 | Workday | Software Development Engineer | USA, CA, Pleasanton | Workday | not_applied | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Jobs/job/USA-CA-Pleasanton/Software-Development-Engineer_JR-0110471) | 1d |
