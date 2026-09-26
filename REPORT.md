@@ -14,21 +14,21 @@
 | Ramp | Software Engineering Intern, Android | New York, NY (HQ) | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8) | 2d |
 | Ramp | Software Engineer Internship, Frontend | New York, NY (HQ) | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74) | 2d |
 | Ameren | Intern (Robotics, AI, OT, Software development) | St. Louis, MO | Workday | not_applied | [Apply](https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Intern--Robotics--AI--OT--Software-development-_033945-1) | 2d |
-| Keenfinity | Software Test Automation Co-Op | Fairport, NY, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Keenfinity/744000151395769-software-test-automation-co-op) | 2d |
+| Keenfinity | Software Test Automation Co-Op | Fairport, NY, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Keenfinity/744000151395769-software-test-automation-co-op) | 3d |
 | Deltek, Inc. | Software Engineering Intern | Herndon, Virginia, USA | JSearch | not_applied | [Apply](https://www.indeed.com/viewjob?jk=4021fc935aeb41c5) | 3d |
 | Danaher Corporation | Software Engineer Internships | Upper Marlboro, Maryland, USA | JSearch | not_applied | [Apply](https://www.jobilize.com/job/us-md-upper-marlboro-software-engineer-internships-danaher-corporation) | 3d |
 | Meta | Network Production Engineer Intern | Menlo Park, California, USA | JSearch | not_applied | [Apply](https://www.metacareers.com/profile/job_details/1412139847020398/) | 3d |
 | Deltek, Inc. | Software Engineering Intern | Herndon, Virginia, USA | JSearch | not_applied | [Apply](https://www.indeed.com/viewjob?jk=4021fc935aeb41c5) | 3d |
 | SingleStore | MIT- Software Engineer Intern \| Helios | United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/8220941) | 3d |
 | SingleStore | MIT- Software Engineer Intern \| Engine | United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/8220919) | 3d |
-| Optiver | Software Engineer Co-Op (January - April 2027) | Chicago, Illinois, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/optiverprivate/jobs/8784302002) | 3d |
-| EQT Corporation | Production Engineering Intern | Canonsburg, PA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/eqtcorporation/jobs/5424728008) | 3d |
+| Optiver | Software Engineer Co-Op (January - April 2027) | Chicago, Illinois, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/optiverprivate/jobs/8784302002) | 4d |
+| EQT Corporation | Production Engineering Intern | Canonsburg, PA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/eqtcorporation/jobs/5424728008) | 4d |
 | RTX (Raytheon) | Rotational Software Leadership Fellowship | Arlington, Virginia, USA | JSearch | not_applied | [Apply](https://it.jobserve.com/job-in-Arlington-Virginia-USA/ROTATIONAL-SOFTWARE-LEADERSHIP-FELLOWSHIP-d05f9ea6cb86f526eb/) | 4d |
 | Tencent | Site Reliability Engineer (SRE) Intern — AI Infrastructure | US-California-Palo Alto | Workday | not_applied | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Site-Reliability-Engineer--SRE--Intern---AI-Infrastructure_R108158-1) | 4d |
 | KLA | Algorithm Engineering Intern (AI, Computer Vision & Software Engineering) | Milpitas, CA | Workday | not_applied | [Apply](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-1) | 4d |
 | KLA | Software Engineering Intern (C++, Unix) | Milpitas, CA | Workday | not_applied | [Apply](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325) | 4d |
 | ONE Finance | Software Engineer Intern | United States (Remote) | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/oneapp/ba18d004-3212-44e4-8a0c-bd1215bae770) | 4d |
-| Wellmark | Software Engineer Internship - Technology Healthcare Innovation | Des Moines, IA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000150732768-software-engineer-internship-technology-healthcare-innovation) | 4d |
+| Wellmark | Software Engineer Internship - Technology Healthcare Innovation | Des Moines, IA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000150732768-software-engineer-internship-technology-healthcare-innovation) | 5d |
 | Mercury | Software Engineering Intern - Spring 2027 | San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6199367004) | 5d |
 | CME Chicago Mercantile Exchange Inc. | Software Engineering Fellowship: Hybrid Internship with Mentorship | Chicago, Illinois, USA | JSearch | not_applied | [Apply](https://us.jobrapido.com/jobpreview/3358216028738813952) | 5d |
 
@@ -47,7 +47,7 @@
 | Menlo Security | Platform Infrastructure Engineer (SRE Core) | US - Distributed | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/menlosecurity/56ed8b53-8b4d-49a1-bd1e-bce39b8fc132) | 0d |
 | RESPEC | IAM Software Developer (Contractor) - 27R0001715 | Austin, TX, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/RESPECInc/744000151905184-iam-software-developer-contractor-27r0001715) | 0d |
 | IBM | Entry level Backend Developer - San Jose, CA - 2027 | San Jose, California, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/entry-level-backend-developer-san-jose-ca-2027-at-ibm-4460752391) | 0d |
-| IBM | Entry Level Back End Developer 2026 | Poughkeepsie, Arkansas, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/entry-level-back-end-developer-2026-at-ibm-4460773310) | 0d |
+| IBM | Entry Level Back End Developer 2026 | Poughkeepsie, Arkansas, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/entry-level-back-end-developer-2026-at-ibm-4460773310) | 1d |
 | Palantir | Software Engineer – Query Engines | New York, NY | Lever | not_applied | [Apply](https://jobs.lever.co/palantir/a576c5ef-2a51-4522-9c98-bca5ac2abbb3) | 1d |
 | AnaVation | ETL Software Engineer | Chantilly, VA | Lever | not_applied | [Apply](https://jobs.lever.co/anavationllc/9ec5e5f9-fcc0-4782-8633-6507a32ac768) | 1d |
 | ASML | Production Engineer | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Production-Engineer_J-00352801) | 1d |
@@ -72,7 +72,7 @@
 | Echodyne | Software Engineer II, Manufacturing Test | Kirkland, WA – Hybrid | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/echodynecorp/jobs/4709844006) | 1d |
 | Salesforce | Site Reliability Engineer, GovCloud 24x7 | Burlington, Massachusetts, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/site-reliability-engineer-govcloud-24x7-at-salesforce-4471652811) | 1d |
 | Axon | Site Reliability Engineer II | Washington, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/axon/jobs/7612070003) | 1d |
-| Palantir | Forward Deployed Software Engineer - US Government | Kitsap, WA | Lever | not_applied | [Apply](https://jobs.lever.co/palantir/a2e9ab0f-4dd1-4744-92b9-edc7ae393c58) | 1d |
+| Palantir | Forward Deployed Software Engineer - US Government | Kitsap, WA | Lever | not_applied | [Apply](https://jobs.lever.co/palantir/a2e9ab0f-4dd1-4744-92b9-edc7ae393c58) | 2d |
 | TJX | Front End Associate | Orlando, FL 32819 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Orlando-FL-32819/Front-End-Associate_REQ161226) | 2d |
 | TJX | Frontend Coordinator | Dickson City, PA 18519 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Dickson-City-PA-18519/Frontend-Coordinator_REQ161272) | 2d |
 | TJX | Customer Experience/Front End Coordinator | Austin, TX 78749 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Austin-TX-78749/Customer-Experience-Front-End-Coordinator_REQ161121) | 2d |
@@ -101,7 +101,7 @@
 | Sierra | Software Engineer, Agent - Public Sector | San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/Sierra/7dae2e7c-6556-438c-bf60-509931d8188c) | 2d |
 | Sierra | Software Engineer, Agent - Financial Services | San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/Sierra/33dbd62f-8212-4ea8-9b59-74370c1f2803) | 2d |
 | Sierra | Software Engineer, Agent - Healthcare | New York, NY | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/Sierra/f3308520-6d7d-45ac-b96d-3f5a5012e6c9) | 2d |
-| Toshiba Global Commerce | Associate Software Engineer  | Durham, NC | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5247010007) | 2d |
+| Toshiba Global Commerce | Associate Software Engineer  | Durham, NC | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5247010007) | 3d |
 | ASML | Small Spindle Polishing Technician CWW Front End Days 6 am – 6pm (Sunday, Monday, Tuesday, alternate Wednesday) | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Small-Spindle-Polishing-Technician_J-00353420) | 3d |
 | ASML | Optical Fabrication Technician CWW Front End Days 6 am – 6pm (Sunday, Monday, Tuesday, alternate Wednesday) | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-CWW-Front-End-Days-6-am---6pm--Sunday--Monday--Tuesday--alternate-Wednesday-_J-00353307) | 3d |
 | Axcelis Technologies, Inc. | Software Quality Assurance Engineer | Beverly, MA | Workday | not_applied | [Apply](https://axcelis.wd1.myworkdayjobs.com/Axcelis/job/Beverly-MA/Software-Quality-Assurance-Engineer_12012) | 3d |
@@ -121,8 +121,8 @@
 | Atoms | Full Stack Software Engineer  | Pittsburgh, PA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8831727002) | 3d |
 | Mercedes-Benz | Android Software Developer | San Jose, CA | Lever | not_applied | [Apply](https://jobs.lever.co/MBRDNA/27aa9d00-74a3-4c5d-8faf-b0a9002c814b) | 3d |
 | Acumatica | Full Stack Software Developer | Westerville, OH, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Acumatica/744000151082439-full-stack-software-developer) | 3d |
-| Redhorse | Mid Level Cloud Software Engineer | Quantico, VA | Lever | not_applied | [Apply](https://jobs.lever.co/redhorsecorp/011a33b4-6c60-4b2c-bd2d-0417b8520b83) | 3d |
-| Wise | Graduate Software Engineer | Austin, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Wise/744000151030889-graduate-software-engineer) | 3d |
+| Redhorse | Mid Level Cloud Software Engineer | Quantico, VA | Lever | not_applied | [Apply](https://jobs.lever.co/redhorsecorp/011a33b4-6c60-4b2c-bd2d-0417b8520b83) | 4d |
+| Wise | Graduate Software Engineer | Austin, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Wise/744000151030889-graduate-software-engineer) | 4d |
 | Ivy Tech Community College | Software Development Supplimental Instructor PT | East Chicago, IN | Workday | not_applied | [Apply](https://ivytech.wd1.myworkdayjobs.com/Ivy_Tech_Careers/job/East-Chicago-IN/Software-Development-Supplimental-Instructor-PT_JR0000109663) | 4d |
 | TJX | Retail Front End Coordinator Full Time | Fond Du Lac, WI 54935 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Fond-Du-Lac-WI-54935/Retail-Front-End-Coordinator-Full-Time_REQ160590) | 4d |
 | ASML | Spindle Polishing Technician CWW Front End Nights, 6:00 PM – 6:00 AM | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Spindle-Polishing-Technician-CWW-Front-End-Nights--6-00-PM---6-00-AM_J-00353546) | 4d |
@@ -151,10 +151,10 @@
 | Harvard University | Software Engineer, Computational Policy Lab | Cambridge, MA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/HarvardUniversity/3743990015527226-software-engineer-computational-policy-lab) | 4d |
 | Intuitive Surgical | RISE Software Engineer | Sunnyvale, CA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000150746589-rise-software-engineer) | 4d |
 | Acumatica | Full Stack Software Developer | Westerville, OH, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Acumatica/744000150743375-full-stack-software-developer) | 4d |
-| Assured Guaranty | Product Software Developer – Back-End - Summer 2027 | New York, NY, United States | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/assuredguaranty/jobs/8827458002?gh_jid=8827458002) | 4d |
-| Assured Guaranty | Product Software Developer – Front-End - Summer 2027 | New York, NY, United States | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/assuredguaranty/jobs/8827460002?gh_jid=8827460002) | 4d |
-| TeleTracking | Software Engineer II | Pittsburgh, PA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/5425206008) | 4d |
-| TeleTracking | Software Engineer I | Pittsburgh, PA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/5425154008) | 4d |
+| Assured Guaranty | Product Software Developer – Back-End - Summer 2027 | New York, NY, United States | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/assuredguaranty/jobs/8827458002?gh_jid=8827458002) | 5d |
+| Assured Guaranty | Product Software Developer – Front-End - Summer 2027 | New York, NY, United States | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/assuredguaranty/jobs/8827460002?gh_jid=8827460002) | 5d |
+| TeleTracking | Software Engineer II | Pittsburgh, PA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/5425206008) | 5d |
+| TeleTracking | Software Engineer I | Pittsburgh, PA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/5425154008) | 5d |
 | Kodiak Robotics | Software Engineer, Localization  | Mountain View, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/kodiak/jobs/4297363009) | 5d |
 | Bose | Software Integration Engineer - Audio Technology | US, MA - Framingham | Workday | not_applied | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Software-Integration-Engineer---Audio-Technology_R29231) | 5d |
 | SmackTok | Backend Engineer | Las Vegas, Nevada, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/backend-engineer-at-smacktok-4469939553) | 5d |
