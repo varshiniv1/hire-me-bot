@@ -65,6 +65,9 @@
 - name: 84.51 Degrees
   source: greenhouse
   token: '8451'
+- name: 84.51 Degrees
+  source: greenhouse
+  token: 8451university
 - name: 8VC
   source: ashby
   token: 8vc
@@ -167,6 +170,9 @@
 - name: Achievers
   source: lever
   token: achievers
+- name: Acima
+  source: workday
+  token: upbound/wd501/Acima
 - name: ACLU Kentucky
   source: greenhouse
   token: acluinternships
@@ -281,6 +287,9 @@
 - name: AES
   source: workday
   token: aes/wd1/AES_US
+- name: Aescape
+  source: ashby
+  token: aescape
 - name: Aevex Aerospace
   source: greenhouse
   token: aevexaerospace
@@ -977,6 +986,9 @@
 - name: Artefact
   source: greenhouse
   token: artefactus
+- name: Artefact
+  source: greenhouse
+  token: artefactlinkedin
 - name: Artera
   source: lever
   token: artera-2
@@ -1760,6 +1772,9 @@
 - name: Bracebridge Capital
   source: greenhouse
   token: bracebridgecapital
+- name: Bracket Bot
+  source: ashby
+  token: bracket-bot
 - name: Brain Co.
   source: ashby
   token: brainco
@@ -1823,6 +1838,9 @@
 - name: BrightAI
   source: greenhouse
   token: brightai
+- name: Brightstar.AI
+  source: ashby
+  token: brightstar-ai
 - name: Brilliant
   source: lever
   token: brilliant
@@ -2156,6 +2174,9 @@
 - name: Catbird
   source: lever
   token: Catbird
+- name: Catch22
+  source: smartrecruiters
+  token: Catch22
 - name: Caterpillar
   source: workday
   token: cat/wd5/en-US
@@ -2606,6 +2627,9 @@
 - name: Cognitiv
   source: greenhouse
   token: cognitiv
+- name: Cohen & Steers
+  source: greenhouse
+  token: cnssummerassociates
 - name: Cohere
   source: ashby
   token: cohere
@@ -2645,6 +2669,9 @@
 - name: Collin College
   source: workday
   token: collin/wd1/ExternalStaffCareerSite
+- name: Collinear AI
+  source: ashby
+  token: collinear-ai
 - name: Cologix
   source: lever
   token: cologix
@@ -2885,6 +2912,9 @@
 - name: Covestro
   source: workday
   token: covestro/wd3/cov_external
+- name: Cowboy Space
+  source: ashby
+  token: cowboyspace
 - name: Cox
   source: workday
   token: cox/wd1/Cox_External_Career_Site_1
@@ -3767,6 +3797,9 @@
 - name: Envista
   source: workday
   token: envista/wd1/en-US
+- name: Envoy
+  source: ashby
+  token: envoy
 - name: Eos Energy Storage
   source: workday
   token: eosenergystorage/wd1/eos
@@ -3842,6 +3875,9 @@
 - name: Essentia Health
   source: workday
   token: essentiahealth/wd1/Essentia_Health
+- name: Essex
+  source: workday
+  token: essex/wd5/en-US
 - name: Etched
   source: ashby
   token: Etched
@@ -4238,6 +4274,9 @@
 - name: FlightHub
   source: greenhouse
   token: flighthub
+- name: Flint
+  source: ashby
+  token: flint
 - name: Flip
   source: greenhouse
   token: flip
@@ -4301,6 +4340,9 @@
 - name: Focus Financial Partners
   source: greenhouse
   token: focusfinancialpartners
+- name: Focus Financial Partners
+  source: greenhouse
+  token: focuspartnerswealth
 - name: Foley Hoag
   source: greenhouse
   token: foleyhoag
@@ -4595,6 +4637,9 @@
 - name: Genesis AI
   source: ashby
   token: genesis
+- name: Genesis Molecular AI
+  source: ashby
+  token: genesis-molecular-ai
 - name: Genesis Therapeutics
   source: ashby
   token: genesis-therapeutics
@@ -4643,6 +4688,9 @@
 - name: Georgian Partners Growth
   source: ashby
   token: georgian
+- name: Geospatial Consulting Group International
+  source: greenhouse
+  token: geocgi
 - name: Geotab
   source: greenhouse
   token: internshiplist2000
@@ -4769,6 +4817,9 @@
 - name: Gopuff
   source: lever
   token: gopuff
+- name: Gorbel
+  source: workday
+  token: gorbel/wd501/gorbelcareers
 - name: Gordon Food Service
   source: workday
   token: gfs/wd5/usprivate-gfs
@@ -4898,6 +4949,9 @@
 - name: Groupon
   source: greenhouse
   token: groupon
+- name: Grow Therapy
+  source: ashby
+  token: grow-therapy
 - name: GrowthLoop
   source: greenhouse
   token: growthloop
@@ -5129,6 +5183,9 @@
 - name: Heron Power
   source: ashby
   token: heron-power
+- name: Heven AeroTech
+  source: greenhouse
+  token: hevenaerotech
 - name: Hewlett Packard
   source: workday
   token: hp/wd5/externalcareersite
@@ -5531,6 +5588,9 @@
 - name: Informa Group
   source: smartrecruiters
   token: InformaGroupPlc
+- name: Information Services Corporation
+  source: workday
+  token: isc/wd10/ISC
 - name: Infoways
   source: smartrecruiters
   token: Info-Ways
@@ -5735,6 +5795,9 @@
 - name: IPG DXTRA
   source: greenhouse
   token: dxacirca
+- name: IPT Global
+  source: smartrecruiters
+  token: IPTGlobal
 - name: IQVIA
   source: workday
   token: iqvia/wd1/en-US
@@ -6161,6 +6224,9 @@
 - name: Lamb Weston
   source: workday
   token: lambweston/wd1/lamb_external
+- name: Lamb Weston
+  source: workday
+  token: lambweston/wd1/CTE
 - name: Lambda
   source: ashby
   token: lambda
@@ -6227,6 +6293,12 @@
 - name: League
   source: greenhouse
   token: leagueinc
+- name: Lean TECHniques
+  source: ashby
+  token: leantechniques
+- name: LeanTaaS
+  source: lever
+  token: leantaas
 - name: Learfield Amplify
   source: workday
   token: learfield/wd5/en-US
@@ -6677,6 +6749,9 @@
 - name: Mariana Minerals
   source: ashby
   token: marianaminerals
+- name: Maricopa Association of Governments
+  source: workday
+  token: azmag/wd108/magcareers
 - name: Maricopa County
   source: workday
   token: maricopa/wd1/en-US
@@ -7082,6 +7157,9 @@
 - name: Mintlify
   source: ashby
   token: Mintlify
+- name: MintMCP
+  source: ashby
+  token: mintmcp
 - name: MIO Partners
   source: greenhouse
   token: miopartners
@@ -7412,6 +7490,9 @@
 - name: NCR Voyix
   source: workday
   token: ncr/wd1/ext_us
+- name: Nebraska Medicine
+  source: workday
+  token: nebraskamed/wd5/nm
 - name: NEC Software Solutions
   source: smartrecruiters
   token: NECSWS
@@ -8798,6 +8879,9 @@
 - name: Quince
   source: greenhouse
   token: quince
+- name: Qumulo
+  source: ashby
+  token: qumulo
 - name: Quora
   source: ashby
   token: quora
@@ -9065,6 +9149,9 @@
 - name: Restaurant Technologies
   source: workday
   token: restauranttechnologies/wd5/RT
+- name: Resultant
+  source: smartrecruiters
+  token: Resultant
 - name: Retail Information Systems
   source: smartrecruiters
   token: RetailInformationSystems
@@ -9767,6 +9854,9 @@
 - name: Silvus Technologies
   source: greenhouse
   token: silvus
+- name: Sim
+  source: ashby
+  token: sim
 - name: Simbe Robotics
   source: lever
   token: SimbeRobotics
@@ -9809,6 +9899,9 @@
 - name: SingleStore
   source: greenhouse
   token: singlestore
+- name: Sirona Medical
+  source: greenhouse
+  token: sironamedical
 - name: Sitreps
   source: greenhouse
   token: sitrepsllc
@@ -10793,6 +10886,9 @@
 - name: Thomson Reuters
   source: workday
   token: thomsonreuters/wd5/en-US
+- name: Thought Forge
+  source: smartrecruiters
+  token: ThoughtForge
 - name: ThoughtSpot
   source: workday
   token: thoughtspot/wd5/careers
@@ -11069,6 +11165,9 @@
 - name: TRUMPF
   source: workday
   token: trumpf/wd3/TRUMPF_Students
+- name: Trunk Tools
+  source: ashby
+  token: trunk tools
 - name: TruStage
   source: workday
   token: trustage/wd1/TruStage
@@ -11363,6 +11462,9 @@
 - name: Unwrap
   source: ashby
   token: Unwrap
+- name: Upbound Group
+  source: workday
+  token: upbound/wd501/Upbound
 - name: Upgrade
   source: greenhouse
   token: upgrade
@@ -11585,6 +11687,9 @@
 - name: Via
   source: greenhouse
   token: via
+- name: Vialto Partners
+  source: workday
+  token: vialto/wd107/vialtoexternalcareers
 - name: Viam
   source: greenhouse
   token: viamrobotics
@@ -11939,6 +12044,9 @@
 - name: Wintermute
   source: lever
   token: wintermute-trading
+- name: Winton
+  source: greenhouse
+  token: winton
 - name: WisdomTree
   source: lever
   token: wisdomtree
@@ -12080,6 +12188,9 @@
 - name: Xebia
   source: greenhouse
   token: xebiausa
+- name: Xero
+  source: ashby
+  token: xero
 - name: Xometry
   source: greenhouse
   token: xometry
@@ -12134,6 +12245,9 @@
 - name: Zeiss
   source: workday
   token: zeissgroup/wd3/External
+- name: Zekelman Industries
+  source: workday
+  token: zekelman/wd12/Careers
 - name: Zello
   source: ashby
   token: Zello
@@ -12161,6 +12275,9 @@
 - name: Zip
   source: ashby
   token: zip
+- name: ZipRecruiter
+  source: greenhouse
+  token: ziprecruiter
 - name: Zocdoc
   source: greenhouse
   token: zocdoc
