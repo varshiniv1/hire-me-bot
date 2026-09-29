@@ -39,7 +39,7 @@
 | Acme Markets | Front End Entry Level | Chestertown, Maryland, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-acme-markets-4472463728) | 1d |
 | U.S. Bank | Software Engineer - DevOps (Multiple openings) in Irving, TX. | Irving, TX | Workday | not_applied | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irving-TX/Software-Engineer---DevOps--Multiple-openings--in-Irving--TX_2026-0029790) | 1d |
 | DXC Technology | Analyst II Software Engineering | IND - TN - CHENNAI | Workday | not_applied | [Apply](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/IND---TN---CHENNAI/Analyst-II-Software-Engineering_51555333) | 1d |
-| Zoox | Software Engineer - Planner GPU Compute | Boston, MA | Lever | not_applied | [Apply](https://jobs.lever.co/zoox/5915823a-3546-4748-b102-85e85c0dc71d) | 1d |
+| Zoox | Software Engineer - Planner GPU Compute | Boston, MA | Lever | not_applied | [Apply](https://jobs.lever.co/zoox/5915823a-3546-4748-b102-85e85c0dc71d) | 2d |
 | Safeway | Front End Entry Level | Woodburn, Oregon, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-safeway-4472462244) | 2d |
 | TJX | Front End Associate | Plymouth, MA 02360 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Plymouth-MA-02360/Front-End-Associate_REQ162037) | 2d |
 | DoorDash | Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US | New York, New York, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/software-engineer-i-entry-level-graduation-date-fall-2026-summer-2027-us-at-doordash-4461163914) | 3d |
@@ -64,7 +64,7 @@
 | MintMCP | Software Engineer | San Mateo, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mintmcp/4f5bf102-6aae-4ccb-8e8d-af39082e68af) | 3d |
 | IBM | Entry level Backend Developer - San Jose, CA - 2027 | San Jose, California, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/entry-level-backend-developer-san-jose-ca-2027-at-ibm-4460752391) | 3d |
 | IBM | Entry Level Back End Developer 2026 | Poughkeepsie, Arkansas, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/entry-level-back-end-developer-2026-at-ibm-4460773310) | 3d |
-| Palantir | Software Engineer – Query Engines | New York, NY | Lever | not_applied | [Apply](https://jobs.lever.co/palantir/a576c5ef-2a51-4522-9c98-bca5ac2abbb3) | 3d |
+| Palantir | Software Engineer – Query Engines | New York, NY | Lever | not_applied | [Apply](https://jobs.lever.co/palantir/a576c5ef-2a51-4522-9c98-bca5ac2abbb3) | 4d |
 | AnaVation | ETL Software Engineer | Chantilly, VA | Lever | not_applied | [Apply](https://jobs.lever.co/anavationllc/9ec5e5f9-fcc0-4782-8633-6507a32ac768) | 4d |
 | Amazon | Software Development Engineer, Consumer Domains | Newark, New Jersey, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10560727/apply) | 4d |
 | ASML | Production Engineer | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Production-Engineer_J-00352801) | 4d |
