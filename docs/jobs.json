@@ -172,7 +172,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/profluent/jobs/5441955008",
-    "age": "0d",
+    "age": "1d",
     "is_internship": true
   },
   {
@@ -187,28 +187,6 @@
     "is_internship": false
   },
   {
-    "id": 416343,
-    "company": "Amazon",
-    "role": "Site Reliability Engineer, Amazon Ads PubTech",
-    "location": "Seattle, Washington, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10568206/apply",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 415634,
-    "company": "ASML",
-    "role": "Optical Fabrication Technician- CWW Front End Nights, 6:00 PM \u2013 6:00 AM (Sunday, Monday, Tuesday, and every other Saturday)",
-    "location": "Wilton, CT, USA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician--CWW-Front-End-Nights--6-00-PM---6-00-AM--Sunday--Monday--Tuesday--and-every-other-Saturday-_J-00352604",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
     "id": 415383,
     "company": "U.S. Bank",
     "role": "Software Engineer 2 - Mainframe (COBOL)",
@@ -216,6 +194,17 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Brookfield-WI/Software-Engineer-2---Mainframe--COBOL-_2026-0030501",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 418872,
+    "company": "TJX",
+    "role": "Associate - Front End Cashier",
+    "location": "Henderson, NV 89052",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Henderson-NV-89052/Associate---Front-End-Cashier_REQ164155",
     "age": "1d",
     "is_internship": false
   },
@@ -249,6 +238,28 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Manhattan-KS-66502/Front-End-Coordinator_REQ164132",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 416343,
+    "company": "Amazon",
+    "role": "Site Reliability Engineer, Amazon Ads PubTech",
+    "location": "Seattle, Washington, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10568206/apply",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 415634,
+    "company": "ASML",
+    "role": "Optical Fabrication Technician- CWW Front End Nights, 6:00 PM \u2013 6:00 AM (Sunday, Monday, Tuesday, and every other Saturday)",
+    "location": "Wilton, CT, USA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician--CWW-Front-End-Nights--6-00-PM---6-00-AM--Sunday--Monday--Tuesday--and-every-other-Saturday-_J-00352604",
     "age": "1d",
     "is_internship": false
   },
@@ -381,17 +392,17 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-stealth-startup-4472908424",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
   },
   {
-    "id": 412927,
-    "company": "Amazon",
-    "role": "Software Development Engineer, ROBOTICS, Early Career - 2027",
-    "location": "North Reading, Massachusetts, USA",
-    "source": "amazon",
+    "id": 412641,
+    "company": "Solventum",
+    "role": "SPEC SOFTWARE DEVT",
+    "location": "US, Utah, Murray",
+    "source": "Workday",
     "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10567489/apply",
+    "url": "https://healthcare.wd1.myworkdayjobs.com/Search/job/US-Utah-Murray/SPEC-SOFTWARE-DEVT_R01133647",
     "age": "2d",
     "is_internship": false
   },
@@ -440,24 +451,13 @@
     "is_internship": true
   },
   {
-    "id": 414200,
-    "company": "Morgan Stanley",
-    "role": "Associate, Software Engineer",
-    "location": "New York, New York, United States of America",
-    "source": "Workday",
+    "id": 412927,
+    "company": "Amazon",
+    "role": "Software Development Engineer, ROBOTICS, Early Career - 2027",
+    "location": "North Reading, Massachusetts, USA",
+    "source": "amazon",
     "status": "not_applied",
-    "url": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Associate--Software-Engineer_JR042832",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 412641,
-    "company": "Solventum",
-    "role": "SPEC SOFTWARE DEVT",
-    "location": "US, Utah, Murray",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://healthcare.wd1.myworkdayjobs.com/Search/job/US-Utah-Murray/SPEC-SOFTWARE-DEVT_R01133647",
+    "url": "https://account.amazon.jobs/jobs/10567489/apply",
     "age": "2d",
     "is_internship": false
   },
@@ -491,6 +491,17 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Ft-Collins-Colorado-United-States-of-America/Systems-Software-Engineer_1214909",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 414200,
+    "company": "Morgan Stanley",
+    "role": "Associate, Software Engineer",
+    "location": "New York, New York, United States of America",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Associate--Software-Engineer_JR042832",
     "age": "2d",
     "is_internship": false
   },
@@ -715,13 +726,13 @@
     "is_internship": true
   },
   {
-    "id": 411852,
+    "id": 411853,
     "company": "TJX",
-    "role": "Front End Coordinator",
-    "location": "Springfield, OH 45504",
+    "role": "Front End Associate",
+    "location": "Patchogue, NY 11772",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Springfield-OH-45504/Front-End-Coordinator_REQ163339",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Patchogue-NY-11772/Front-End-Associate_REQ163245",
     "age": "3d",
     "is_internship": false
   },
@@ -792,17 +803,6 @@
     "is_internship": false
   },
   {
-    "id": 408239,
-    "company": "ASML",
-    "role": "Optical Fabrication Technician CWW Front End Nights, 6:00 PM \u2013 6:00 AM (Sunday, Monday, Tuesday, and every other Saturday)",
-    "location": "Wilton, CT, USA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-CWW-Front-End-Nights--6-00-PM---6-00-AM--Sunday--Monday--Tuesday--and-every-other-Saturday-_J-00350752-1",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
     "id": 409238,
     "company": "BTI Solutions",
     "role": "Jr. Front-End Developer",
@@ -847,6 +847,28 @@
     "is_internship": false
   },
   {
+    "id": 408239,
+    "company": "ASML",
+    "role": "Optical Fabrication Technician CWW Front End Nights, 6:00 PM \u2013 6:00 AM (Sunday, Monday, Tuesday, and every other Saturday)",
+    "location": "Wilton, CT, USA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-CWW-Front-End-Nights--6-00-PM---6-00-AM--Sunday--Monday--Tuesday--and-every-other-Saturday-_J-00350752-1",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 411852,
+    "company": "TJX",
+    "role": "Front End Coordinator",
+    "location": "Springfield, OH 45504",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Springfield-OH-45504/Front-End-Coordinator_REQ163339",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
     "id": 408238,
     "company": "ASML",
     "role": "Optical Fabrication BCELL Production Engineer",
@@ -854,17 +876,6 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-BCELL-Production-Engineer_J-00353424",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 411853,
-    "company": "TJX",
-    "role": "Front End Associate",
-    "location": "Patchogue, NY 11772",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Patchogue-NY-11772/Front-End-Associate_REQ163245",
     "age": "3d",
     "is_internship": false
   },
@@ -1448,7 +1459,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/zoox/5915823a-3546-4748-b102-85e85c0dc71d",
-    "age": "5d",
+    "age": "6d",
     "is_internship": false
   },
   {
