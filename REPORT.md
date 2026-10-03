@@ -10,7 +10,7 @@
 | Profluent | Intern, Software Engineering | Emeryville, California, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/profluent/jobs/5441955008) | 1d |
 | Nordson | Intern (Software Engineering) | USA - Rhode Island - East Providence | Workday | not_applied | [Apply](https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Rhode-Island---East-Providence/Intern--Software-Engineering-_REQ53006) | 2d |
 | First Bank & Trust | Software Development Intern | Sioux Falls, SD (I-229) | Workday | not_applied | [Apply](https://bankeasy.wd5.myworkdayjobs.com/bank-easy-job-openings/job/Sioux-Falls-SD-I-229/Software-Development-Intern_R-100829) | 2d |
-| Wellmark | Software Engineer Internship – Metadata Enablement Team | Des Moines, IA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000152679699-software-engineer-internship-metadata-enablement-team) | 2d |
+| Wellmark | Software Engineer Internship – Metadata Enablement Team | Des Moines, IA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000152679699-software-engineer-internship-metadata-enablement-team) | 3d |
 | Moog | Intern, Software Engineering | Torrance, CA | Workday | not_applied | [Apply](https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Torrance-CA/Intern--Software-Engineering_R-26-19948) | 4d |
 | Chamberlain Group | Software Engineer 1, Middleware (Intern Conversion) | Oak Brook, IL | Workday | not_applied | [Apply](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Software-Engineer-1--Middleware--Intern-Conversion-_JR31674) | 4d |
 | Wellmark | Software Engineer Internship – Marketing and Digital Team | Des Moines, IA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000152260188-software-engineer-internship-marketing-and-digital-team) | 4d |
@@ -35,7 +35,7 @@
 | CHAOS Industries | Mid-Career Software Engineer | El Segundo, California, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/chaosindustries/jobs/5255634007) | 0d |
 | E-Space | Core Software Engineer | Saratoga, CA | Lever | not_applied | [Apply](https://jobs.lever.co/espace/5f7afa91-398e-4a30-ac9f-b6f6e04d02fa) | 0d |
 | Woven | Software Engineer II, Safety & Quality Tooling | Ann Arbor, MI | Lever | not_applied | [Apply](https://jobs.lever.co/woven-by-toyota/4eb39629-4378-4f23-af6a-09c52d3a96c8) | 0d |
-| Talan | C++ Software Engineer (Greenfield Market Data Application - HFT Firm) | New York, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Talan/744000153221419-c-software-engineer-greenfield-market-data-application-hft-firm-) | 0d |
+| Talan | C++ Software Engineer (Greenfield Market Data Application - HFT Firm) | New York, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Talan/744000153221419-c-software-engineer-greenfield-market-data-application-hft-firm-) | 1d |
 | Archer | VMS Software Engineer | San Jose, California, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7652666003) | 1d |
 | Amazon | Site Reliability Engineer, Amazon Ads PubTech | Seattle, Washington, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10568206/apply) | 1d |
 | U.S. Bank | Software Engineer 2 - Mainframe (COBOL) | Brookfield, WI | Workday | not_applied | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Brookfield-WI/Software-Engineer-2---Mainframe--COBOL-_2026-0030501) | 1d |
@@ -53,8 +53,8 @@
 | Mirantis | Software Engineer, Backend (Go) | Remote, REMOTE, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Mirantis/744000153011138-software-engineer-backend-go-) | 1d |
 | FiscalNote | Associate Software Engineer | Washington, DC | Lever | not_applied | [Apply](https://jobs.lever.co/fiscalnote/51a2e18f-1af1-416c-9544-5bede8e9537c) | 1d |
 | Strata Decision Technology | Consultant, Healthcare Revenue Cycle (Software)  | Chicago, IL | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/stratacareers/jobs/8010397003) | 1d |
-| Anthropic | Software Engineer, Sandboxing | San Francisco, CA \| New York City, NY | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5440427008) | 1d |
-| MintMCP | Software Engineer | San Mateo, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mintmcp/debb3f4a-da0c-43a4-93de-9c0565881020) | 1d |
+| Anthropic | Software Engineer, Sandboxing | San Francisco, CA \| New York City, NY | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5440427008) | 2d |
+| MintMCP | Software Engineer | San Mateo, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mintmcp/debb3f4a-da0c-43a4-93de-9c0565881020) | 2d |
 | Stealth Startup | Software Engineer (New Grad | San Francisco, California, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-stealth-startup-4472908424) | 2d |
 | U.S. Bank | Software Engineer 2 (Automation Engineer) | Earth City, MO | Workday | not_applied | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Earth-City-MO/Software-Engineer-2--Automation-Engineer-_2026-0030297-1) | 2d |
 | TJX | Retail Front End Supervisor | Orem, UT 84058 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Orem-UT-84058/Retail-Front-End-Supervisor_REQ163740) | 2d |
@@ -82,7 +82,7 @@
 | U.S. Bank | Software Engineer 2 (Full Stack .NET / React) | Saint Paul, MN | Workday | not_applied | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Saint-Paul-MN/Software-Engineer-2--Full-Stack-NET---React-_2026-0029211) | 2d |
 | CX2 | Software Engineer - Software Infrastructure (Cybersecurity) | El Segundo, CA | Lever | not_applied | [Apply](https://jobs.lever.co/cx2/003bd199-3191-4b97-8ee6-4ace916cb446) | 2d |
 | 1-800 Contacts | Frontend Engineer, AI Prototyping  | Draper, UT (Hybrid) | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/1800contacts/jobs/8243533) | 2d |
-| AEG | Software Engineer- CH- AXS | Charlotte, NC | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/aegworldwide/jobs/8590099002) | 2d |
+| AEG | Software Engineer- CH- AXS | Charlotte, NC | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/aegworldwide/jobs/8590099002) | 3d |
 | Republic Services | Front End Loader Helper | Pensacola, FL, USA | Workday | not_applied | [Apply](https://republic.wd5.myworkdayjobs.com/Republic/job/Pensacola-FL-USA/Front-End-Loader-Helper_R-185268) | 3d |
 | TJX | Front End Supervisor | San Marcos, CA 92078 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/San-Marcos-CA-92078/Front-End-Supervisor_REQ163123) | 3d |
 | ASML | Optical Fabrication Technician CWW Front End Nights, 6:00 PM – 6:00 AM (Sunday, Monday, Tuesday, and every other Saturday) | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-CWW-Front-End-Nights--6-00-PM---6-00-AM--Sunday--Monday--Tuesday--and-every-other-Saturday-_J-00350752-1) | 3d |
@@ -103,11 +103,11 @@
 | Prolaio | Site Reliability Engineer | Chicago, IL | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/prolaio/jobs/5416923008) | 3d |
 | Relativity Space | Software Engineer II (Ground Software) | Long Beach, California, United States | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/relativity/jobs/8843637002?gh_jid=8843637002) | 3d |
 | Acumatica | Full Stack Software Developer | Westerville, OH, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Acumatica/744000152488288-full-stack-software-developer) | 3d |
-| Intuitive Surgical | RISE Software Engineer | Sunnyvale, CA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000152472854-rise-software-engineer) | 3d |
-| mthree | Site Reliability Engineer / Production Support Analyst | Salt Lake City, Utah, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4717465006) | 3d |
-| Osmo | Software, TPM | Elizabeth, NJ | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/osmo/64356bd6-0598-40d0-b068-7e7f5b3143f0) | 3d |
-| Spotify | Backend Engineer - Music | New York, NY | Lever | not_applied | [Apply](https://jobs.lever.co/spotify/65d6caca-6d7c-4049-8256-a128e0e7249e) | 3d |
-| MintMCP | Software Engineer | San Mateo, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mintmcp/076ffd8c-3936-4684-9de1-073781655123) | 3d |
+| Intuitive Surgical | RISE Software Engineer | Sunnyvale, CA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000152472854-rise-software-engineer) | 4d |
+| mthree | Site Reliability Engineer / Production Support Analyst | Salt Lake City, Utah, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4717465006) | 4d |
+| Osmo | Software, TPM | Elizabeth, NJ | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/osmo/64356bd6-0598-40d0-b068-7e7f5b3143f0) | 4d |
+| Spotify | Backend Engineer - Music | New York, NY | Lever | not_applied | [Apply](https://jobs.lever.co/spotify/65d6caca-6d7c-4049-8256-a128e0e7249e) | 4d |
+| MintMCP | Software Engineer | San Mateo, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mintmcp/076ffd8c-3936-4684-9de1-073781655123) | 4d |
 | Field AI | Research / Software Engineer - Humanoid Whole Body Learning | Boston, MA | Lever | not_applied | [Apply](https://jobs.lever.co/field-ai/09def7d8-26bf-451f-a4f2-bd8fd4c5f5cf) | 4d |
 | Wild Zebra | Entry Level -Software Developer - Web Development | Washington, District of Columbia, USA | JSearch | not_applied | [Apply](https://bebee.com/us/jobs/entry-level-software-developer-web-development-wild-zebra-washington-dc--jooble--864306763948599399) | 4d |
 | University of Southern California | Software Engineer | Los Angeles, CA - Health Sciences Campus | Workday | not_applied | [Apply](https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Health-Sciences-Campus/Software-Engineer_REQ20180326) | 4d |
@@ -129,7 +129,7 @@
 | Anthropic | Software Engineer, Account Abuse (Machine Learning) | San Francisco, CA \| New York City, NY | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5436293008) | 4d |
 | AI Fund | Software Engineer, AI Systems (United States) | United States | Lever | not_applied | [Apply](https://jobs.lever.co/AIFund/2b6bdd20-f29b-468d-8d07-41b59f2332b6) | 4d |
 | City of Philadelphia | Software Configuration Administrator | Philadelphia, PA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/CityofPhiladelphia/744000152249034-software-configuration-administrator) | 4d |
-| MintMCP | Software Engineer | San Mateo, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mintmcp/83584770-dd7c-499d-973f-36829bed51ad) | 4d |
+| MintMCP | Software Engineer | San Mateo, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mintmcp/83584770-dd7c-499d-973f-36829bed51ad) | 5d |
 | DXC Technology | Analyst II Software Engineering | IND - TN - CHENNAI | Workday | not_applied | [Apply](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/IND---TN---CHENNAI/Analyst-II-Software-Engineering_51555333) | 5d |
 | Victory Staffing Solutions | Junior Front End Developer | Minneapolis, Minnesota, USA | JSearch | not_applied | [Apply](https://www.ziprecruiter.com/c/victory-staffing-solutions/Job/Junior-Front-End-Developer/-in-Minneapolis,MN?jid=fa2c25b29f1f50e6) | 5d |
 | Albertsons Companies | Front End Entry Level | Lakeside, California, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-albertsons-companies-4473043448) | 5d |
