@@ -7,7 +7,7 @@
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
 | Natera | Software Engineering Intern | US Remote | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/natera/jobs/6188497004) | 1d |
-| Profluent | Intern, Software Engineering | Emeryville, California, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/profluent/jobs/5441955008) | 1d |
+| Profluent | Intern, Software Engineering | Emeryville, California, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/profluent/jobs/5441955008) | 2d |
 | First Bank & Trust | Software Development Intern | Sioux Falls, SD (I-229) | Workday | not_applied | [Apply](https://bankeasy.wd5.myworkdayjobs.com/bank-easy-job-openings/job/Sioux-Falls-SD-I-229/Software-Development-Intern_R-100829) | 3d |
 | Nordson | Intern (Software Engineering) | USA - Rhode Island - East Providence | Workday | not_applied | [Apply](https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Rhode-Island---East-Providence/Intern--Software-Engineering-_REQ53006) | 3d |
 | Wellmark | Software Engineer Internship – Metadata Enablement Team | Des Moines, IA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000152679699-software-engineer-internship-metadata-enablement-team) | 3d |
@@ -53,7 +53,7 @@
 | Strata Decision Technology | Consultant, Healthcare Revenue Cycle (Software)  | Chicago, IL | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/stratacareers/jobs/8010397003) | 2d |
 | Anthropic | Software Engineer, Sandboxing | San Francisco, CA \| New York City, NY | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5440427008) | 2d |
 | MintMCP | Software Engineer | San Mateo, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mintmcp/debb3f4a-da0c-43a4-93de-9c0565881020) | 2d |
-| Stealth Startup | Software Engineer (New Grad | San Francisco, California, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-stealth-startup-4472908424) | 2d |
+| Stealth Startup | Software Engineer (New Grad | San Francisco, California, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-stealth-startup-4472908424) | 3d |
 | Nordstrom | Junior SRE (Seattle,WA) | Seattle, WA | Workday | not_applied | [Apply](https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Junior-SRE--Seattle-WA-_R-882591) | 3d |
 | ByteDance | Software Engineer Graduate (AI Infra Compute) - 2027 Start | Seattle, Washington, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/software-engineer-graduate-ai-infra-compute-2027-start-at-bytedance-4473978907) | 3d |
 | ByteDance | Software Engineer Graduate (AI Infra Compute) - 2027 Start | Seattle, Washington, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/software-engineer-graduate-ai-infra-compute-2027-start-at-bytedance-4473978907) | 3d |
