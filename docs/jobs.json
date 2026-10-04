@@ -7,7 +7,7 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-acme-markets-4475332863",
-    "age": "0d",
+    "age": "1d",
     "is_internship": false
   },
   {
@@ -62,7 +62,7 @@
     "source": "Ashby",
     "status": "not_applied",
     "url": "https://jobs.ashbyhq.com/PAR%20Technology/79feb267-7ce4-4d52-ba73-8652c1ed2595",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -73,7 +73,7 @@
     "source": "Ashby",
     "status": "not_applied",
     "url": "https://jobs.ashbyhq.com/range/c065eea6-197a-45f1-81c8-4e03af60e641",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -84,7 +84,7 @@
     "source": "Ashby",
     "status": "not_applied",
     "url": "https://jobs.ashbyhq.com/fluidstack/1f191895-fcfd-4cfb-8d4f-2cc3904e3cf2",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -95,7 +95,7 @@
     "source": "Ashby",
     "status": "not_applied",
     "url": "https://jobs.ashbyhq.com/fluidstack/d724aa9e-db4f-443e-8f86-9d8ac13fd625",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -106,7 +106,7 @@
     "source": "Ashby",
     "status": "not_applied",
     "url": "https://jobs.ashbyhq.com/fluidstack/c761f619-c88f-4e30-b5de-059102f13b16",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -117,7 +117,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/natera/jobs/6188497004",
-    "age": "1d",
+    "age": "2d",
     "is_internship": true
   },
   {
@@ -128,7 +128,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/5255768007",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -139,7 +139,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/chaosindustries/jobs/5255632007",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -150,7 +150,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/chaosindustries/jobs/5255634007",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -209,13 +209,13 @@
     "is_internship": false
   },
   {
-    "id": 423102,
-    "company": "ByteDance",
-    "role": "Software Engineer Graduate (AI Infra Compute) - 2027 Start",
-    "location": "Seattle, Washington, USA",
+    "id": 423093,
+    "company": "Jack Henry & Associates, Inc.",
+    "role": "Remote Front-End UI Developer - Entry Level",
+    "location": "Birmingham, Alabama, USA",
     "source": "JSearch",
     "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/software-engineer-graduate-ai-infra-compute-2027-start-at-bytedance-4475047800",
+    "url": "https://bebee.com/us/jobs/remote-front-end-ui-developer-entry-level-jack-henry-associates-inc-birmingham-al--jooble-8595060846177344740",
     "age": "2d",
     "is_internship": false
   },
@@ -242,17 +242,6 @@
     "is_internship": false
   },
   {
-    "id": 423093,
-    "company": "Jack Henry & Associates, Inc.",
-    "role": "Remote Front-End UI Developer - Entry Level",
-    "location": "Birmingham, Alabama, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://bebee.com/us/jobs/remote-front-end-ui-developer-entry-level-jack-henry-associates-inc-birmingham-al--jooble-8595060846177344740",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
     "id": 423094,
     "company": "Shaw\u2019s and Star Market",
     "role": "Front End Entry Level",
@@ -262,6 +251,17 @@
     "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-shaw%E2%80%99s-and-star-market-4474798611",
     "age": "2d",
     "is_internship": false
+  },
+  {
+    "id": 423099,
+    "company": "L3Harris Technologies",
+    "role": "Software Engineering Intern",
+    "location": "Columbia, Maryland, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://interninsider.me/internships/l3harris-technologies/software-engineering-intern-70b33372-e8b6-44c1-88ad-a2397315bb24",
+    "age": "2d",
+    "is_internship": true
   },
   {
     "id": 423096,
@@ -341,26 +341,15 @@
     "is_internship": false
   },
   {
-    "id": 423099,
-    "company": "L3Harris Technologies",
-    "role": "Software Engineering Intern",
-    "location": "Columbia, Maryland, USA",
+    "id": 423102,
+    "company": "ByteDance",
+    "role": "Software Engineer Graduate (AI Infra Compute) - 2027 Start",
+    "location": "Seattle, Washington, USA",
     "source": "JSearch",
     "status": "not_applied",
-    "url": "https://interninsider.me/internships/l3harris-technologies/software-engineering-intern-70b33372-e8b6-44c1-88ad-a2397315bb24",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-graduate-ai-infra-compute-2027-start-at-bytedance-4475047800",
     "age": "2d",
-    "is_internship": true
-  },
-  {
-    "id": 423100,
-    "company": "United States Digital Space LLC",
-    "role": "Remote SWE Fellow Frontier AI Research",
-    "location": "New York, New York, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://bebee.com/us/jobs/remote-swe-fellow-frontier-ai-research-united-states-digital-space-llc-new-york--lensa-7428_2c90b78d5bc7c97a7101802a240cd40a63ed21f91adfca7e9fb4d72a76541d75",
-    "age": "2d",
-    "is_internship": true
+    "is_internship": false
   },
   {
     "id": 423103,
@@ -372,6 +361,17 @@
     "url": "https://www.linkedin.com/jobs/view/test-software-engineer-graduate-douyin-research-and-development-middle-platform-2027-start-at-bytedance-4475048705",
     "age": "2d",
     "is_internship": false
+  },
+  {
+    "id": 423100,
+    "company": "United States Digital Space LLC",
+    "role": "Remote SWE Fellow Frontier AI Research",
+    "location": "New York, New York, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://bebee.com/us/jobs/remote-swe-fellow-frontier-ai-research-united-states-digital-space-llc-new-york--lensa-7428_2c90b78d5bc7c97a7101802a240cd40a63ed21f91adfca7e9fb4d72a76541d75",
+    "age": "2d",
+    "is_internship": true
   },
   {
     "id": 416343,
@@ -414,7 +414,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/testnisc/jobs/8247626",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -425,7 +425,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/testnisc/jobs/8247625",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -436,7 +436,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/testnisc/jobs/8247617",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -447,7 +447,7 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/WesternDigital/744000153016407-probe-software-engineer",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -458,7 +458,7 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/Mirantis/744000153011138-software-engineer-backend-go-",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -469,7 +469,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/fiscalnote/51a2e18f-1af1-416c-9544-5bede8e9537c",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -480,7 +480,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/stratacareers/jobs/8010397003",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -887,7 +887,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/1800contacts/jobs/8243533",
-    "age": "3d",
+    "age": "4d",
     "is_internship": false
   },
   {
@@ -1118,7 +1118,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/prolaio/jobs/5416923008",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -1129,7 +1129,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://boards.greenhouse.io/relativity/jobs/8843637002?gh_jid=8843637002",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -1437,7 +1437,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5436293008",
-    "age": "5d",
+    "age": "6d",
     "is_internship": false
   },
   {
@@ -1448,7 +1448,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/nimblerobotics/jobs/4371388009",
-    "age": "5d",
+    "age": "6d",
     "is_internship": false
   },
   {
@@ -1459,7 +1459,7 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000152260188-software-engineer-internship-marketing-and-digital-team",
-    "age": "5d",
+    "age": "6d",
     "is_internship": true
   },
   {
@@ -1470,7 +1470,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/AIFund/2b6bdd20-f29b-468d-8d07-41b59f2332b6",
-    "age": "5d",
+    "age": "6d",
     "is_internship": false
   },
   {
@@ -1481,7 +1481,7 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/CityofPhiladelphia/744000152249034-software-configuration-administrator",
-    "age": "5d",
+    "age": "6d",
     "is_internship": false
   },
   {
@@ -1492,7 +1492,7 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/Keenfinity/744000152241469-software-engineering-intern",
-    "age": "5d",
+    "age": "6d",
     "is_internship": true
   },
   {
@@ -1540,13 +1540,13 @@
     "is_internship": false
   },
   {
-    "id": 402553,
-    "company": "Safeway",
-    "role": "Front End Entry Level",
-    "location": "Chester, Maryland, USA",
-    "source": "JSearch",
+    "id": 401878,
+    "company": "DXC Technology",
+    "role": "Analyst II Software Engineering",
+    "location": "IND - TN - CHENNAI",
+    "source": "Workday",
     "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-safeway-4472470528",
+    "url": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/IND---TN---CHENNAI/Analyst-II-Software-Engineering_51555333",
     "age": "6d",
     "is_internship": false
   },
@@ -1584,13 +1584,13 @@
     "is_internship": false
   },
   {
-    "id": 401878,
-    "company": "DXC Technology",
-    "role": "Analyst II Software Engineering",
-    "location": "IND - TN - CHENNAI",
-    "source": "Workday",
+    "id": 402553,
+    "company": "Safeway",
+    "role": "Front End Entry Level",
+    "location": "Chester, Maryland, USA",
+    "source": "JSearch",
     "status": "not_applied",
-    "url": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/IND---TN---CHENNAI/Analyst-II-Software-Engineering_51555333",
+    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-safeway-4472470528",
     "age": "6d",
     "is_internship": false
   },
