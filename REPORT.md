@@ -6,9 +6,9 @@
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
-| Tenstorrent | AI Software Intern - Cloud, Infrastructure & Data Centre Deployment (USA) | Austin, Texas, United States; Santa Clara, California, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256686007) | 0d |
-| SoloPulse | Software Engineer Intern/Co-op - Spring 2027 | Peachtree Corners, GA | Lever | not_applied | [Apply](https://jobs.lever.co/solopulseco/1b36afea-e8eb-4cea-a6e9-0afc384d06ef) | 1d |
-| Viget | Software Developer Intern (2027) | Boulder, CO | Lever | not_applied | [Apply](https://jobs.lever.co/viget/b18cc87d-fca2-485a-a0f2-ad6197db63f2) | 1d |
+| Tenstorrent | AI Software Intern - Cloud, Infrastructure & Data Centre Deployment (USA) | Austin, Texas, United States; Santa Clara, California, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256686007) | 1d |
+| SoloPulse | Software Engineer Intern/Co-op - Spring 2027 | Peachtree Corners, GA | Lever | not_applied | [Apply](https://jobs.lever.co/solopulseco/1b36afea-e8eb-4cea-a6e9-0afc384d06ef) | 2d |
+| Viget | Software Developer Intern (2027) | Boulder, CO | Lever | not_applied | [Apply](https://jobs.lever.co/viget/b18cc87d-fca2-485a-a0f2-ad6197db63f2) | 2d |
 | Badger Meter | Software Engineering Intern | US  - CA - Escondido Facility | Workday | not_applied | [Apply](https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US----CA---Escondido-Facility/Software-Engineering-Intern_4645) | 2d |
 | Tenstorrent | AI Software Intern | Austin, Texas, United States; Santa Clara, California, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5258901007) | 3d |
 | IBM | 2027 Intern - Software Developer, AI & Marketing Platforms | New York, New York, USA | JSearch | not_applied | [Apply](https://www.ziprecruiter.com/c/ibm/Job/2027-Intern-Software-Developer,-AI-&-Marketing-Platforms/-in-New-York,NY?jid=b173454565d1ca33) | 3d |
@@ -23,9 +23,9 @@
 |---|---|---|---|---|---|---|
 | Woven | Software Engineer - Data Acquisition | Ann Arbor, MI | Lever | not_applied | [Apply](https://jobs.lever.co/woven-by-toyota/5c46ddc8-a963-47f9-9138-c74c54d2414a) | 0d |
 | PointClickCare | Intermediate Software Engineer-(A&P) | Salt Lake City, UT | Lever | not_applied | [Apply](https://jobs.lever.co/pointclickcare/6c8f4d1f-c1c7-480f-bd17-45927fd23741) | 0d |
-| Ivanti | Full-Stack Web Developer | United States, Remote | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/8019634003) | 0d |
-| Anysphere | Software Engineer, Grok Connectors  | Palo Alto, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/cursor/5afc044a-00ed-4392-8759-59c7effe179d) | 0d |
-| MintMCP | Software Engineer | San Mateo, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mintmcp/36b14a24-bf5a-48f9-911f-a9ec755872cc) | 0d |
+| Ivanti | Full-Stack Web Developer | United States, Remote | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/8019634003) | 1d |
+| Anysphere | Software Engineer, Grok Connectors  | Palo Alto, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/cursor/5afc044a-00ed-4392-8759-59c7effe179d) | 1d |
+| MintMCP | Software Engineer | San Mateo, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mintmcp/36b14a24-bf5a-48f9-911f-a9ec755872cc) | 1d |
 | Magnet Forensics | SRE/DevOps Engineer | United States | Lever | not_applied | [Apply](https://jobs.lever.co/magnetforensics/efd7e6e1-2cde-4010-8b75-b9500cfdf748) | 1d |
 | Texas A&M University System | Web Applications Developer II - WordPress & Full Stack Web Development | College Station, TX | Workday | not_applied | [Apply](https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Web-Applications-Developer-II---WordPress---Full-Stack-Web-Development_R-097841) | 1d |
 | Texas A&M AgriLife Research | Web Applications Developer II - WordPress & Full Stack Web Development | College Station, TX | Workday | not_applied | [Apply](https://tamus.wd1.myworkdayjobs.com/AgriLife_Research_External/job/College-Station-TX/Web-Applications-Developer-II---WordPress---Full-Stack-Web-Development_R-097841-1) | 1d |
@@ -49,10 +49,10 @@
 | Weave | Site Reliability Engineer, Cloud Infrastructure | Weave - Headquarters (Lehi, UT) | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/weave/ce79425d-20fc-4c15-841f-3445b86b05b5) | 1d |
 | BryceTech | Software Developer | Huntsville, AL, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/BryceTech/744000154508300-software-developer) | 1d |
 | Twitch | Software Engineer I | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8879673002) | 1d |
-| Eko Health | General Interest Application - Software & Hardware Engineering | Emeryville, CA | Lever | not_applied | [Apply](https://jobs.lever.co/ekohealth/f8b0e374-8d2b-44d1-bfb4-a9353794cae6) | 1d |
-| Intuitive Surgical | Service Software Developer | Santa Clara, CA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000154483468-service-software-developer) | 1d |
-| Compeer Financial | Software Engineer | IL-Bloomington, WI-Sun Prairie | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/compeerfinancial/jobs/5447319008) | 1d |
-| MintMCP | Software Engineer | San Mateo, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mintmcp/6b1044ab-168c-413d-b624-cacbc59740c1) | 1d |
+| Eko Health | General Interest Application - Software & Hardware Engineering | Emeryville, CA | Lever | not_applied | [Apply](https://jobs.lever.co/ekohealth/f8b0e374-8d2b-44d1-bfb4-a9353794cae6) | 2d |
+| Intuitive Surgical | Service Software Developer | Santa Clara, CA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000154483468-service-software-developer) | 2d |
+| Compeer Financial | Software Engineer | IL-Bloomington, WI-Sun Prairie | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/compeerfinancial/jobs/5447319008) | 2d |
+| MintMCP | Software Engineer | San Mateo, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mintmcp/6b1044ab-168c-413d-b624-cacbc59740c1) | 2d |
 | Vercel | Security Software Engineer, IAM | Remote - United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/vercel/jobs/6093255004) | 2d |
 | General Motors | Manufacturing Software Integration Supervisor | Warren, Michigan, United States of America | Workday | not_applied | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Manufacturing-Software-Integration-Supervisor_JR-202621732) | 2d |
 | Continental Resources | Production Engineer – International | Oklahoma City, OK | Workday | not_applied | [Apply](https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/Production-Engineer---International_R02683) | 2d |
@@ -62,9 +62,9 @@
 | Lightcast | Software Engineer - 1092 - (Moscow, ID) | Moscow, ID | Lever | not_applied | [Apply](https://jobs.lever.co/economicmodeling/bbd08018-de36-4c25-b259-8e4cc6c91ecc) | 2d |
 | Chime | Software Engineer, Trust & Safety | Chicago, IL, USA; San Francisco, CA, USA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/chime/jobs/8875663002?gh_jid=8875663002) | 2d |
 | Hermeus | Flight Software Engineer – Command & Control | Atlanta, GA | Lever | not_applied | [Apply](https://jobs.lever.co/hermeus/759a5648-15cb-45aa-9fbe-616b953f9fcf) | 2d |
-| MintMCP | Software Engineer | San Mateo, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mintmcp/836247e6-fca5-4299-92b1-03bdbfc35a8c) | 2d |
-| Eurofins | Laboratory Software Specialist | Lancaster, PA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000154107909-laboratory-software-specialist) | 2d |
-| Sierra | Software Engineer, Agent (Spanish speaking) | San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/Sierra/9d59c96e-e7f7-43cc-8069-bcdf3798fe2b) | 2d |
+| MintMCP | Software Engineer | San Mateo, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mintmcp/836247e6-fca5-4299-92b1-03bdbfc35a8c) | 3d |
+| Eurofins | Laboratory Software Specialist | Lancaster, PA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000154107909-laboratory-software-specialist) | 3d |
+| Sierra | Software Engineer, Agent (Spanish speaking) | San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/Sierra/9d59c96e-e7f7-43cc-8069-bcdf3798fe2b) | 3d |
 | Snorkel AI | Software Engineer | San Francisco, CA (Hybrid) | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/snorkelai/jobs/6219198004) | 3d |
 | Balducci's Food Lover's Market | Front End Entry Level | Greenwich, Connecticut, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-balducci-s-food-lover-s-market-4476545766) | 3d |
 | IBM | 2027 Entry-Level - Software Developer, AI & Marketing Platforms | New York, New York, USA | JSearch | not_applied | [Apply](https://www.ziprecruiter.com/c/ibm/Job/2027-Entry-Level-Software-Developer,-AI-&-Marketing-Platforms/-in-New-York,NY?jid=5ba130c000790a2c) | 3d |
@@ -92,9 +92,9 @@
 | Affirm | Software Engineer I (New Grad 2027) (NYC) | New York, New York, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | 3d |
 | RA Capital Management | Software Engineer, Data/AI | Boston, MA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/racapitalmanagementllc/jobs/5445201008) | 3d |
 | Neuralink | Software Engineer, Medical Imaging | Austin, Texas, United States | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/neuralink/jobs/8014659003?gh_jid=8014659003) | 3d |
-| AHEAD | Full Stack Engineer | United States | Lever | not_applied | [Apply](https://jobs.lever.co/thinkahead/a060eb0f-efc2-4b36-8363-049c657df49c) | 3d |
-| Affirm | Software Engineer II, Backend (Decisions Orchestration) | Remote US | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8003016003) | 3d |
-| MintMCP | Software Engineer | San Mateo, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mintmcp/0e06af24-4865-4f72-b29c-6ebbc759b7ca) | 3d |
+| AHEAD | Full Stack Engineer | United States | Lever | not_applied | [Apply](https://jobs.lever.co/thinkahead/a060eb0f-efc2-4b36-8363-049c657df49c) | 4d |
+| Affirm | Software Engineer II, Backend (Decisions Orchestration) | Remote US | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8003016003) | 4d |
+| MintMCP | Software Engineer | San Mateo, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mintmcp/0e06af24-4865-4f72-b29c-6ebbc759b7ca) | 4d |
 | Foundation Health | Software Engineer | Orlando, FL | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/foundationhealthcareers/cb0b5a3f-de52-40bd-b485-4f2b243bdee1) | 4d |
 | Nectar Social | Contract Full Stack Editor | Palo Alto, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/nectar-social/a7f7e374-4691-437e-abe9-6e41743b6c65) | 4d |
 | Alo Yoga | Software Engineers, Retail Systems | San Ramon, California, United States | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/aloyoga/jobs/6217901004?gh_jid=6217901004) | 4d |
@@ -116,9 +116,9 @@
 | Sierra | Software Engineer, Inference | San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/Sierra/b8666a78-fcb1-47bb-ad07-5edb6cd3ad71) | 4d |
 | 10Beauty | Software Technician | Burlington, Massachusetts, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/10beauty/jobs/5257278007) | 4d |
 | The Pokémon Company | Software Development Engineer (24-month Fixed Term) | Bellevue, Washington, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/pokemoncareers/jobs/8010082003) | 4d |
-| Constant Contact | Software Engineering Development Program - Hybrid from Waltham, MA | Waltham, MA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/constantcontact/jobs/8212432) | 4d |
-| MintMCP | Software Engineer | San Mateo, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mintmcp/1d8cbeb0-b0ad-4df5-b611-b8ed05f52599) | 4d |
-| BeyondTrust | Site Reliability Engineer | Remote United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/beyondtrust/jobs/8256040) | 4d |
+| Constant Contact | Software Engineering Development Program - Hybrid from Waltham, MA | Waltham, MA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/constantcontact/jobs/8212432) | 5d |
+| MintMCP | Software Engineer | San Mateo, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mintmcp/1d8cbeb0-b0ad-4df5-b611-b8ed05f52599) | 5d |
+| BeyondTrust | Site Reliability Engineer | Remote United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/beyondtrust/jobs/8256040) | 5d |
 | TJX | Front End Associate | Bishop, CA 93514 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Bishop-CA-93514/Front-End-Associate_REQ163845) | 5d |
 | TJX | Retail Front End Coordinator | West Bend, WI 53095 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/West-Bend-WI-53095/Retail-Front-End-Coordinator_REQ164857-1) | 5d |
 | Fullsteam | Software Support Technician | Monroeville, PA | Workday | not_applied | [Apply](https://fullsteam.wd1.myworkdayjobs.com/External/job/Monroeville-PA/Software-Support-Technician_JR102307) | 5d |
