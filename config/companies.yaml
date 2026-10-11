@@ -62,6 +62,9 @@
 - name: 60decibelsinc
   source: greenhouse
   token: 60decibelsinc
+- name: 66 Degrees
+  source: greenhouse
+  token: 66degrees
 - name: 7-Eleven
   source: workday
   token: my7elevenhr/wd12/Careers
@@ -266,6 +269,9 @@
 - name: Advocate Health Care
   source: workday
   token: aah/wd5/External
+- name: Adyen
+  source: greenhouse
+  token: adyen
 - name: Aechelon Technology
   source: greenhouse
   token: aechelontechnology
@@ -827,6 +833,9 @@
 - name: Appian
   source: greenhouse
   token: appian
+- name: Apple Bank
+  source: workday
+  token: applebank/wd5/applebankcareers
 - name: Applied Fluid Power
   source: workday
   token: applied/wd501/applied
@@ -1094,6 +1103,9 @@
 - name: Astera Labs
   source: greenhouse
   token: asteraearlycareer2026
+- name: Astera Labs
+  source: greenhouse
+  token: asteraearlycareer2027
 - name: Astranis
   source: greenhouse
   token: astranis
@@ -1190,6 +1202,9 @@
 - name: Aurelius Systems
   source: ashby
   token: aureliussystems
+- name: Aurora Innovation
+  source: ashby
+  token: aurora-operations-inc
 - name: Austal USA
   source: workday
   token: austalusa/wd1/austal
@@ -1727,6 +1742,9 @@
 - name: Bob's Discount Furniture
   source: workday
   token: bobsdf/wd1/bobs_careers
+- name: Bobyard
+  source: ashby
+  token: bobyard
 - name: Boeing
   source: workday
   token: boeing/wd1/en-US
@@ -1994,6 +2012,9 @@
 - name: Cadence Design Systems
   source: workday
   token: cadence/wd1/External_Careers
+- name: Cadence Solutions
+  source: greenhouse
+  token: solutions
 - name: Cadwell
   source: greenhouse
   token: cadwell
@@ -2276,6 +2297,9 @@
 - name: Centria Autism
   source: greenhouse
   token: centriaautism
+- name: Centric Software
+  source: workday
+  token: centricsoftware/wd501/Centric
 - name: Centrica
   source: workday
   token: centrica/wd3/Centrica
@@ -2309,6 +2333,9 @@
 - name: Chainlink Labs
   source: ashby
   token: chainlink-labs
+- name: Chalk
+  source: ashby
+  token: chalk
 - name: Chamber Cardio
   source: ashby
   token: chambercardio
@@ -2435,6 +2462,9 @@
 - name: Circle K
   source: workday
   token: circlek/wd3/circlekstorejobs
+- name: Circle Logistics
+  source: smartrecruiters
+  token: CircleLogistics1
 - name: Circleback
   source: ashby
   token: circleback
@@ -2528,6 +2558,9 @@
 - name: Clarivate
   source: workday
   token: clarivate/wd3/Clarivate_Careers
+- name: Clark
+  source: ashby
+  token: clark
 - name: Clasp
   source: ashby
   token: clasp-group
@@ -2612,6 +2645,9 @@
 - name: Cloudscaler
   source: ashby
   token: cloudscaler
+- name: Clēnera
+  source: greenhouse
+  token: clenera
 - name: CMC Markets
   source: workday
   token: cmcmarkets/wd3/CMC_Markets_Careers
@@ -2891,6 +2927,9 @@
 - name: Correlation One
   source: greenhouse
   token: expertnetwork
+- name: Correlation One
+  source: greenhouse
+  token: correlationone
 - name: Corteva
   source: workday
   token: corteva/wd5/corteva
@@ -4079,6 +4118,9 @@
 - name: Fanatics
   source: greenhouse
   token: fanaticscollectibles
+- name: Fanatics
+  source: greenhouse
+  token: fanaticsfbg
 - name: FanDuel
   source: greenhouse
   token: embed
@@ -4241,6 +4283,9 @@
 - name: Fireworks AI
   source: greenhouse
   token: fireworksai
+- name: Fireworks AI
+  source: ashby
+  token: fireworks
 - name: First American
   source: workday
   token: firstam/wd1/firstamericancareers
@@ -4400,6 +4445,9 @@
 - name: Formula 1
   source: workday
   token: formulaone/wd3/F1
+- name: Fortell
+  source: ashby
+  token: fortell
 - name: Fortera
   source: greenhouse
   token: forteracorporation
@@ -4832,6 +4880,9 @@
 - name: Good American
   source: lever
   token: goodamerican
+- name: Goodfire
+  source: greenhouse
+  token: goodfire
 - name: Goodnotes
   source: greenhouse
   token: gntemp
@@ -5090,6 +5141,9 @@
 - name: Hanna Andersson
   source: lever
   token: hannaandersson
+- name: Happyrobot
+  source: ashby
+  token: happyrobot.ai
 - name: Harbinger Motors
   source: greenhouse
   token: harbingermotors
@@ -5189,6 +5243,9 @@
 - name: HeartFlow
   source: greenhouse
   token: heartflowinc
+- name: Hedra
+  source: ashby
+  token: hedra
 - name: Heidelberg Materials
   source: workday
   token: heidelbergmaterials/wd3/global_hm_career_site
@@ -5243,6 +5300,9 @@
 - name: Hewlett Packard Enterprise
   source: workday
   token: hpe/wd5/acjobsite
+- name: Hewlett Packard Enterprise
+  source: workday
+  token: hpe/wd5/jobsathpe
 - name: Hex Technologies
   source: greenhouse
   token: embed
@@ -5423,6 +5483,9 @@
 - name: Hudl
   source: greenhouse
   token: hudl
+- name: Hudson Pacific Properties
+  source: ashby
+  token: hudson-pacific-properties
 - name: HUMAN
   source: ashby
   token: HUMAN
@@ -5546,6 +5609,9 @@
 - name: IEQ Capital
   source: greenhouse
   token: ieqcapital
+- name: IEX
+  source: greenhouse
+  token: iex-interns
 - name: iFLIP4
   source: smartrecruiters
   token: iFLIP4
@@ -6116,6 +6182,9 @@
 - name: Keyrock
   source: ashby
   token: keyrock
+- name: Khan Academy
+  source: greenhouse
+  token: khanacademy
 - name: Kikoff
   source: greenhouse
   token: kikoff
@@ -6464,6 +6533,9 @@
 - name: Life.Church
   source: lever
   token: life
+- name: Lifted Solutions
+  source: smartrecruiters
+  token: LiftedanUpworkCompany
 - name: Light & Wonder
   source: workday
   token: lnw/wd5/lightwonderexternalcareers
@@ -6632,6 +6704,9 @@
 - name: LSEG
   source: workday
   token: lseg/wd3/en-US
+- name: LSEG
+  source: workday
+  token: lseg/wd3/Graduate_Careers
 - name: LTA Research
   source: lever
   token: ltaresearch
@@ -7142,6 +7217,9 @@
 - name: Metaview
   source: ashby
   token: metaview
+- name: Meter
+  source: ashby
+  token: meter
 - name: Metergy Solutions
   source: lever
   token: metergysolutions
@@ -7193,6 +7271,9 @@
 - name: Micron Technology
   source: workday
   token: micron/wd1/External
+- name: Midland States Bank
+  source: workday
+  token: midlandsb/wd1/msbcareers
 - name: Miele
   source: workday
   token: miele/wd3/en-US
@@ -7577,6 +7658,9 @@
 - name: Neighborly
   source: workday
   token: neighborlybrands/wd1/neighborly
+- name: Neko Health
+  source: ashby
+  token: neko-health
 - name: Nelnet
   source: workday
   token: nelnet/wd1/MyNelnet
@@ -8162,6 +8246,9 @@
 - name: Osaic
   source: workday
   token: advisorgroup/wd1/advisor_career_site
+- name: Oscar Health
+  source: greenhouse
+  token: oscar
 - name: Oshkosh
   source: workday
   token: oshkoshcorporation/wd5/Oshkosh
@@ -8270,6 +8357,9 @@
 - name: PanAgora
   source: workday
   token: empower/wd12/PanAgora
+- name: Pangram Labs
+  source: ashby
+  token: pangramlabs
 - name: Pansophic Learning
   source: greenhouse
   token: pansophiclearning
@@ -8435,6 +8525,9 @@
 - name: Perplexity AI
   source: ashby
   token: Perplexity
+- name: Perr&Knight
+  source: lever
+  token: perrknight
 - name: Perry Ellis International
   source: greenhouse
   token: perryellisinternational
@@ -8855,6 +8948,9 @@
 - name: Protolabs
   source: lever
   token: protolabs
+- name: Provectus
+  source: lever
+  token: provectus
 - name: Proxima
   source: ashby
   token: proxima
@@ -9137,6 +9233,9 @@
 - name: Reflect Orbital
   source: ashby
   token: reflect-orbital
+- name: Reflex Robotics
+  source: ashby
+  token: reflexrobotics
 - name: Regal
   source: lever
   token: regalvoice
@@ -10286,6 +10385,9 @@
 - name: SpruceID
   source: lever
   token: sprucesystems
+- name: SpruceID
+  source: ashby
+  token: spruceid
 - name: Spry Methods
   source: lever
   token: sprymethods
@@ -10328,6 +10430,9 @@
 - name: StackAdapt
   source: greenhouse
   token: stackadapt
+- name: StackAdapt
+  source: greenhouse
+  token: stackadapt-confidential
 - name: StackAV
   source: greenhouse
   token: stackav
@@ -10667,6 +10772,9 @@
 - name: Tax Relief Advocates
   source: greenhouse
   token: taxreliefadvocates
+- name: TaxRise
+  source: greenhouse
+  token: taxrise
 - name: Taxwell
   source: workday
   token: taxwell/wd1/taxwellcareers
@@ -10757,6 +10865,9 @@
 - name: Tenergy
   source: smartrecruiters
   token: Tenergy
+- name: Tenet3
+  source: greenhouse
+  token: tenet3
 - name: TENEX.AI
   source: ashby
   token: tenex
