@@ -1,8 +1,8 @@
 # Job Postings Report
 
-73 postings from the last 6 days.
+70 postings from the last 6 days.
 
-## Internships (8)
+## Internships (7)
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
@@ -10,12 +10,11 @@
 | Tenstorrent | AI Software Intern - Cloud, Infrastructure & Data Centre Deployment (USA) | Austin, Texas, United States; Santa Clara, California, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256686007) | 3d |
 | SoloPulse | Software Engineer Intern/Co-op - Spring 2027 | Peachtree Corners, GA | Lever | not_applied | [Apply](https://jobs.lever.co/solopulseco/1b36afea-e8eb-4cea-a6e9-0afc384d06ef) | 4d |
 | Viget | Software Developer Intern (2027) | Boulder, CO | Lever | not_applied | [Apply](https://jobs.lever.co/viget/b18cc87d-fca2-485a-a0f2-ad6197db63f2) | 4d |
-| Badger Meter | Software Engineering Intern | US  - CA - Escondido Facility | Workday | not_applied | [Apply](https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US----CA---Escondido-Facility/Software-Engineering-Intern_4645) | 5d |
 | Range | Software Engineer Intern | McLean, Virginia, USA | JSearch | not_applied | [Apply](https://www.genroam.io/job/947e0edf-c842-4a59-b67c-747847abf090) | 5d |
+| Badger Meter | Software Engineering Intern | US  - CA - Escondido Facility | Workday | not_applied | [Apply](https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US----CA---Escondido-Facility/Software-Engineering-Intern_4645) | 5d |
 | Tenstorrent | AI Software Intern | Austin, Texas, United States; Santa Clara, California, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5258901007) | 5d |
-| IBM | 2027 Intern - Software Developer, AI & Marketing Platforms | New York, New York, USA | JSearch | not_applied | [Apply](https://www.ziprecruiter.com/c/ibm/Job/2027-Intern-Software-Developer,-AI-&-Marketing-Platforms/-in-New-York,NY?jid=b173454565d1ca33) | 5d |
 
-## Full-Time (65)
+## Full-Time (63)
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
@@ -35,8 +34,8 @@
 | Ivanti | Full-Stack Web Developer | United States, Remote | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/8019634003) | 3d |
 | Anysphere | Software Engineer, Grok Connectors  | Palo Alto, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/cursor/5afc044a-00ed-4392-8759-59c7effe179d) | 3d |
 | MintMCP | Software Engineer | San Mateo, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mintmcp/36b14a24-bf5a-48f9-911f-a9ec755872cc) | 3d |
-| Magnet Forensics | SRE/DevOps Engineer | United States | Lever | not_applied | [Apply](https://jobs.lever.co/magnetforensics/efd7e6e1-2cde-4010-8b75-b9500cfdf748) | 3d |
-| Texas A&M University System | Web Applications Developer II - WordPress & Full Stack Web Development | College Station, TX | Workday | not_applied | [Apply](https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Web-Applications-Developer-II---WordPress---Full-Stack-Web-Development_R-097841) | 4d |
+| Magnet Forensics | SRE/DevOps Engineer | United States | Lever | not_applied | [Apply](https://jobs.lever.co/magnetforensics/efd7e6e1-2cde-4010-8b75-b9500cfdf748) | 4d |
+| TJX | FrontEnd Coordinator | Dallas, TX 75225 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Dallas-TX-75225/FrontEnd-Coordinator_REQ166568-1) | 4d |
 | Astreya | Oracle / AI-Fueled Software Engineering Across the SDLC | Remote, GA | Workday | not_applied | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-GA/Oracle---AI-Fueled-Software-Engineering-Across-the-SDLC_R0017359) | 4d |
 | Astreya | Oracle / AI-Fueled Software Engineering Across the SDLC | Remote, GA | Workday | not_applied | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-GA/Oracle---AI-Fueled-Software-Engineering-Across-the-SDLC_R0017361) | 4d |
 | GlobalFoundries | Software Engineer (2027 New College Graduate) | USA - Texas - Austin | Workday | not_applied | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Software-Engineer--2027-New-College-Graduate-_JR-2604100) | 4d |
@@ -45,7 +44,7 @@
 | Becton Dickinson | Software Engineer I | USA MD - Sparks - 7 Loveton Circle | Workday | not_applied | [Apply](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---7-Loveton-Circle/Software-Engineer-I_R-557002-1) | 4d |
 | NVIDIA | C++ Software Engineer, Infrastructure Tools - New College Grad 2027 | US, CA, Santa Clara | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431) | 4d |
 | Texas A&M AgriLife Research | Web Applications Developer II - WordPress & Full Stack Web Development | College Station, TX | Workday | not_applied | [Apply](https://tamus.wd1.myworkdayjobs.com/AgriLife_Research_External/job/College-Station-TX/Web-Applications-Developer-II---WordPress---Full-Stack-Web-Development_R-097841-1) | 4d |
-| TJX | FrontEnd Coordinator | Dallas, TX 75225 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Dallas-TX-75225/FrontEnd-Coordinator_REQ166568-1) | 4d |
+| Texas A&M University System | Web Applications Developer II - WordPress & Full Stack Web Development | College Station, TX | Workday | not_applied | [Apply](https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Web-Applications-Developer-II---WordPress---Full-Stack-Web-Development_R-097841) | 4d |
 | TJX | Front End Customer Service | Moreno Valley, CA 92553 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Moreno-Valley-CA-92553/Front-End-Customer-Service_REQ166512) | 4d |
 | TJX | Frontend Associate | Wilmington, NC 28403 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Wilmington-NC-28403/Frontend-Associate_REQ166505-1) | 4d |
 | TJX | Retail front end coordinator | Burlington, VT 05401 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Burlington-VT-05401/Retail-front-end-coordinator_REQ165509) | 4d |
@@ -63,16 +62,16 @@
 | Compeer Financial | Software Engineer | IL-Bloomington, WI-Sun Prairie | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/compeerfinancial/jobs/5447319008) | 4d |
 | MintMCP | Software Engineer | San Mateo, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mintmcp/6b1044ab-168c-413d-b624-cacbc59740c1) | 4d |
 | Vercel | Security Software Engineer, IAM | Remote - United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/vercel/jobs/6093255004) | 4d |
+| Acme Markets | Front End Entry Level | Tuckerton, New Jersey, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-acme-markets-4477447010) | 5d |
+| TJX | FRONTEND CASHIER | Pleasant Hill, CA 94523 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Pleasant-Hill-CA-94523/FRONTEND-CASHIER_REQ166114) | 5d |
 | RAB, INC. | ENTRY LEVEL FULL STACK SOFTWARE DEVELOPER - AI & BUSINESS AUTOMATION | Addison, Texas, USA | JSearch | not_applied | [Apply](https://www.indeed.com/viewjob?jk=86820abf7c8350c3) | 5d |
 | Amazon | Software Engineer I | San Francisco, California, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10573768/apply) | 5d |
-| TJX | FRONTEND CASHIER | Pleasant Hill, CA 94523 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Pleasant-Hill-CA-94523/FRONTEND-CASHIER_REQ166114) | 5d |
-| Acme Markets | Front End Entry Level | Tuckerton, New Jersey, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-acme-markets-4477447010) | 5d |
+| General Motors | Manufacturing Software Integration Supervisor | Warren, Michigan, United States of America | Workday | not_applied | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Manufacturing-Software-Integration-Supervisor_JR-202621732) | 5d |
 | Jewel-Osco | Front End Entry Level | Bartlett, Illinois, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-jewel-osco-4477435373) | 5d |
 | Ollie's Bargain Outlet, Inc. | Front End Specialist 1 Part Time | Norristown, Pennsylvania, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-specialist-1-part-time-at-ollie-s-bargain-outlet-inc-4477102816) | 5d |
 | Continental Resources | Production Engineer – International | Oklahoma City, OK | Workday | not_applied | [Apply](https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/Production-Engineer---International_R02683) | 5d |
 | Albertsons Companies | Front End Entry Level | Lake Elsinore, California, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-albertsons-companies-4476996936) | 5d |
 | Avante | Entry Level -Software Developer - Web Development | Seattle, Washington, USA | JSearch | not_applied | [Apply](https://bebee.com/us/jobs/entry-level-software-developer-web-development-avante-seattle-wa--jooble--6997201722832794468) | 5d |
-| General Motors | Manufacturing Software Integration Supervisor | Warren, Michigan, United States of America | Workday | not_applied | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Manufacturing-Software-Integration-Supervisor_JR-202621732) | 5d |
 | BetterHelp | Full Stack Software Engineer | US - Remote | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/betterhelpcom/jobs/5444452008) | 5d |
 | Lightcast | Software Engineer - 1092 - (Moscow, ID) | Moscow, ID | Lever | not_applied | [Apply](https://jobs.lever.co/economicmodeling/bbd08018-de36-4c25-b259-8e4cc6c91ecc) | 5d |
 | SpruceID | Full-Stack Software Engineer (New Grad) – Remote | United States | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/spruceid/3d182b7f-482e-45b2-8668-f04f0b5fda8e) | 5d |
@@ -82,6 +81,4 @@
 | Eurofins | Laboratory Software Specialist | Lancaster, PA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000154107909-laboratory-software-specialist) | 5d |
 | Sierra | Software Engineer, Agent (Spanish speaking) | San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/Sierra/9d59c96e-e7f7-43cc-8069-bcdf3798fe2b) | 5d |
 | Snorkel AI | Software Engineer | San Francisco, CA (Hybrid) | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/snorkelai/jobs/6219198004) | 5d |
-| Balducci's Food Lover's Market | Front End Entry Level | Greenwich, Connecticut, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-balducci-s-food-lover-s-market-4476545766) | 5d |
-| IBM | 2027 Entry-Level - Software Developer, AI & Marketing Platforms | New York, New York, USA | JSearch | not_applied | [Apply](https://www.ziprecruiter.com/c/ibm/Job/2027-Entry-Level-Software-Developer,-AI-&-Marketing-Platforms/-in-New-York,NY?jid=5ba130c000790a2c) | 5d |
 
