@@ -1,5 +1,16 @@
 [
   {
+    "id": 449372,
+    "company": "Tenstorrent",
+    "role": "Systems Intern - Validation, Software, Design, Architecture & Packaging (USA)",
+    "location": "Austin, Texas, United States; Santa Clara, California, United States",
+    "source": "Greenhouse",
+    "status": "not_applied",
+    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264424007",
+    "age": "0d",
+    "is_internship": true
+  },
+  {
     "id": 448561,
     "company": "Snowflake",
     "role": "Software Engineer - Ingestion Execution Platform",
@@ -121,17 +132,6 @@
     "is_internship": false
   },
   {
-    "id": 447109,
-    "company": "Xpand Corp",
-    "role": "Entry Level -Software Developer - Web Development",
-    "location": "Herndon, Virginia, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://bebee.com/us/jobs/entry-level-software-developer-web-development-xpand-corp-herndon-va--jooble-8212004122920480688--b2df0225233bcbe8a5027e9085c9e2f4",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
     "id": 447285,
     "company": "Cambridge Investment Research",
     "role": "Full Stack Software Engineer",
@@ -143,13 +143,24 @@
     "is_internship": false
   },
   {
-    "id": 446431,
-    "company": "Booz Allen",
-    "role": "Artificial Intelligence Software Engineer",
-    "location": "Aurora, CO",
+    "id": 446442,
+    "company": "ASML",
+    "role": "Production Engineer",
+    "location": "Wilton, CT, USA",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Artificial-Intelligence-Software-Engineer_R0251531",
+    "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Production-Engineer_J-00354743",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 447449,
+    "company": "Humana",
+    "role": "Software Engineer 2",
+    "location": "Louisville, KY",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Software-Engineer-2_R-432732",
     "age": "1d",
     "is_internship": false
   },
@@ -165,13 +176,46 @@
     "is_internship": false
   },
   {
-    "id": 446442,
-    "company": "ASML",
-    "role": "Production Engineer",
-    "location": "Wilton, CT, USA",
+    "id": 447830,
+    "company": "U.S. Bank",
+    "role": "Software Engineer 2 \u2013 Java, Generative AI, RAG & Cloud Engineering",
+    "location": "Hopkins, MN",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Production-Engineer_J-00354743",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Software-Engineer-2---Java--Generative-AI--RAG---Cloud-Engineering_2026-0032050",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 446431,
+    "company": "Booz Allen",
+    "role": "Artificial Intelligence Software Engineer",
+    "location": "Aurora, CO",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Artificial-Intelligence-Software-Engineer_R0251531",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 446678,
+    "company": "Light & Wonder",
+    "role": "Advanced Software Engineer",
+    "location": "Las Vegas, NV",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://lnw.wd5.myworkdayjobs.com/LightWonderExternalCareers/job/Las-Vegas-NV/Advanced-Software-Engineer_R323045",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 447109,
+    "company": "Xpand Corp",
+    "role": "Entry Level -Software Developer - Web Development",
+    "location": "Herndon, Virginia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://bebee.com/us/jobs/entry-level-software-developer-web-development-xpand-corp-herndon-va--jooble-8212004122920480688--b2df0225233bcbe8a5027e9085c9e2f4",
     "age": "1d",
     "is_internship": false
   },
@@ -194,39 +238,6 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-jewel-osco-4478727048",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 447449,
-    "company": "Humana",
-    "role": "Software Engineer 2",
-    "location": "Louisville, KY",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Software-Engineer-2_R-432732",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 447830,
-    "company": "U.S. Bank",
-    "role": "Software Engineer 2 \u2013 Java, Generative AI, RAG & Cloud Engineering",
-    "location": "Hopkins, MN",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Software-Engineer-2---Java--Generative-AI--RAG---Cloud-Engineering_2026-0032050",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 446678,
-    "company": "Light & Wonder",
-    "role": "Advanced Software Engineer",
-    "location": "Las Vegas, NV",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://lnw.wd5.myworkdayjobs.com/LightWonderExternalCareers/job/Las-Vegas-NV/Advanced-Software-Engineer_R323045",
     "age": "1d",
     "is_internship": false
   },
@@ -283,6 +294,17 @@
     "status": "not_applied",
     "url": "https://jobs.ashbyhq.com/mintmcp/8dae46f3-0194-4f8e-b79b-986385589292",
     "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 448699,
+    "company": "Acceldata",
+    "role": "Software Engineer - Observability (Pulse)",
+    "location": "Campbell, CA",
+    "source": "Lever",
+    "status": "not_applied",
+    "url": "https://jobs.lever.co/acceldata/c12c39cb-68c1-45ae-9a88-601e297957b1",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -876,17 +898,17 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/vercel/jobs/6093255004",
-    "age": "5d",
+    "age": "6d",
     "is_internship": false
   },
   {
-    "id": 439933,
-    "company": "RAB, INC.",
-    "role": "ENTRY LEVEL FULL STACK SOFTWARE DEVELOPER - AI & BUSINESS AUTOMATION",
-    "location": "Addison, Texas, USA",
+    "id": 439937,
+    "company": "Acme Markets",
+    "role": "Front End Entry Level",
+    "location": "Tuckerton, New Jersey, USA",
     "source": "JSearch",
     "status": "not_applied",
-    "url": "https://www.indeed.com/viewjob?jk=86820abf7c8350c3",
+    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-acme-markets-4477447010",
     "age": "6d",
     "is_internship": false
   },
@@ -900,17 +922,6 @@
     "url": "https://account.amazon.jobs/jobs/10573768/apply",
     "age": "6d",
     "is_internship": false
-  },
-  {
-    "id": 433458,
-    "company": "Badger Meter",
-    "role": "Software Engineering Intern",
-    "location": "US  - CA - Escondido Facility",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US----CA---Escondido-Facility/Software-Engineering-Intern_4645",
-    "age": "6d",
-    "is_internship": true
   },
   {
     "id": 447102,
@@ -946,13 +957,24 @@
     "is_internship": false
   },
   {
-    "id": 439937,
-    "company": "Acme Markets",
-    "role": "Front End Entry Level",
-    "location": "Tuckerton, New Jersey, USA",
+    "id": 439933,
+    "company": "RAB, INC.",
+    "role": "ENTRY LEVEL FULL STACK SOFTWARE DEVELOPER - AI & BUSINESS AUTOMATION",
+    "location": "Addison, Texas, USA",
     "source": "JSearch",
     "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-acme-markets-4477447010",
+    "url": "https://www.indeed.com/viewjob?jk=86820abf7c8350c3",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 433665,
+    "company": "General Motors",
+    "role": "Manufacturing Software Integration Supervisor",
+    "location": "Warren, Michigan, United States of America",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Manufacturing-Software-Integration-Supervisor_JR-202621732",
     "age": "6d",
     "is_internship": false
   },
@@ -1023,15 +1045,15 @@
     "is_internship": false
   },
   {
-    "id": 433665,
-    "company": "General Motors",
-    "role": "Manufacturing Software Integration Supervisor",
-    "location": "Warren, Michigan, United States of America",
+    "id": 433458,
+    "company": "Badger Meter",
+    "role": "Software Engineering Intern",
+    "location": "US  - CA - Escondido Facility",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Manufacturing-Software-Integration-Supervisor_JR-202621732",
+    "url": "https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US----CA---Escondido-Facility/Software-Engineering-Intern_4645",
     "age": "6d",
-    "is_internship": false
+    "is_internship": true
   },
   {
     "id": 431726,
@@ -1118,39 +1140,6 @@
     "source": "Ashby",
     "status": "not_applied",
     "url": "https://jobs.ashbyhq.com/Sierra/9d59c96e-e7f7-43cc-8069-bcdf3798fe2b",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 431376,
-    "company": "Snorkel AI",
-    "role": "Software Engineer",
-    "location": "San Francisco, CA (Hybrid)",
-    "source": "Greenhouse",
-    "status": "not_applied",
-    "url": "https://job-boards.greenhouse.io/snorkelai/jobs/6219198004",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 430578,
-    "company": "Tenstorrent",
-    "role": "AI Software Intern",
-    "location": "Austin, Texas, United States; Santa Clara, California, United States",
-    "source": "Greenhouse",
-    "status": "not_applied",
-    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5258901007",
-    "age": "6d",
-    "is_internship": true
-  },
-  {
-    "id": 430688,
-    "company": "Balducci's Food Lover's Market",
-    "role": "Front End Entry Level",
-    "location": "Greenwich, Connecticut, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-balducci-s-food-lover-s-market-4476545766",
     "age": "6d",
     "is_internship": false
   }
