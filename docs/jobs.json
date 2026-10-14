@@ -1,5 +1,27 @@
 [
   {
+    "id": 451084,
+    "company": "Woongjin",
+    "role": "Java Back-end Developer ",
+    "location": "Plano, TX, us",
+    "source": "SmartRecruiters",
+    "status": "not_applied",
+    "url": "https://jobs.smartrecruiters.com/WJCompany/744000155594499-java-back-end-developer-",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
+    "id": 450969,
+    "company": "Skydio",
+    "role": "Manufacturing Software Engineer Intern - Winter 2027",
+    "location": "San Mateo, California, United States",
+    "source": "Ashby",
+    "status": "not_applied",
+    "url": "https://jobs.ashbyhq.com/skydio/ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb",
+    "age": "0d",
+    "is_internship": true
+  },
+  {
     "id": 450223,
     "company": "Twitch",
     "role": "Software Engineer I",
@@ -44,6 +66,17 @@
     "is_internship": false
   },
   {
+    "id": 449717,
+    "company": "Dematic",
+    "role": "Software Engineering Intern",
+    "location": "Grand Rapids, MI, United States",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://kiongroup.wd3.myworkdayjobs.com/KION_SCS/job/Grand-Rapids-MI-United-States/Software-Engineering-Intern_JR-0097732",
+    "age": "0d",
+    "is_internship": true
+  },
+  {
     "id": 449536,
     "company": "Amazon",
     "role": "Amazon Robotics - Software Development Engineer Intern/Co-op - 2027",
@@ -55,15 +88,59 @@
     "is_internship": true
   },
   {
-    "id": 449717,
-    "company": "Dematic",
-    "role": "Software Engineering Intern",
-    "location": "Grand Rapids, MI, United States",
+    "id": 450794,
+    "company": "PacificSource",
+    "role": "Software Developer II, Business Intelligence - Medical Management",
+    "location": "Portland, OR",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://kiongroup.wd3.myworkdayjobs.com/KION_SCS/job/Grand-Rapids-MI-United-States/Software-Engineering-Intern_JR-0097732",
+    "url": "https://pacificsource.wd5.myworkdayjobs.com/PacificSource/job/Portland-OR/Software-Developer-II--Business-Intelligence---Medical-Management_2026-1281-1",
     "age": "0d",
-    "is_internship": true
+    "is_internship": false
+  },
+  {
+    "id": 450793,
+    "company": "PacificSource",
+    "role": "Software Developer II, Business Intelligence - Medical Management",
+    "location": "Boise, ID",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://pacificsource.wd5.myworkdayjobs.com/PacificSource/job/Boise-ID/Software-Developer-II--Business-Intelligence---Medical-Management_2026-1283-1",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
+    "id": 450792,
+    "company": "PacificSource",
+    "role": "Software Developer II, Business Intelligence - Medical Management",
+    "location": "Bend, OR",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://pacificsource.wd5.myworkdayjobs.com/PacificSource/job/Bend-OR/Software-Developer-II--Business-Intelligence---Medical-Management_2026-1282-2",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
+    "id": 450130,
+    "company": "Signet Jewelers",
+    "role": "Software Engineer I (Remote)",
+    "location": "Support Center - Akron, OH",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Software-Engineer-I--Remote-_REQ_83354-1",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
+    "id": 450964,
+    "company": "Simon Property Group",
+    "role": "SRE Engineer",
+    "location": "Indianapolis, IN",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/SRE-Engineer_R14115-1",
+    "age": "0d",
+    "is_internship": false
   },
   {
     "id": 449963,
@@ -88,17 +165,6 @@
     "is_internship": true
   },
   {
-    "id": 450130,
-    "company": "Signet Jewelers",
-    "role": "Software Engineer I (Remote)",
-    "location": "Support Center - Akron, OH",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Software-Engineer-I--Remote-_REQ_83354-1",
-    "age": "0d",
-    "is_internship": false
-  },
-  {
     "id": 448577,
     "company": "TaxRise",
     "role": "Junior Software Developer",
@@ -117,7 +183,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4741976005",
-    "age": "0d",
+    "age": "1d",
     "is_internship": false
   },
   {
@@ -128,7 +194,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/zoox/d3a7605d-7e6e-4361-bc00-04db50418c1e",
-    "age": "0d",
+    "age": "1d",
     "is_internship": false
   },
   {
@@ -209,94 +275,6 @@
     "is_internship": false
   },
   {
-    "id": 447112,
-    "company": "Jewel-Osco",
-    "role": "Front End Entry Level",
-    "location": "Chesterton, Indiana, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-jewel-osco-4478727048",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 447830,
-    "company": "U.S. Bank",
-    "role": "Software Engineer 2 \u2013 Java, Generative AI, RAG & Cloud Engineering",
-    "location": "Hopkins, MN",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Software-Engineer-2---Java--Generative-AI--RAG---Cloud-Engineering_2026-0032050",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 446678,
-    "company": "Light & Wonder",
-    "role": "Advanced Software Engineer",
-    "location": "Las Vegas, NV",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://lnw.wd5.myworkdayjobs.com/LightWonderExternalCareers/job/Las-Vegas-NV/Advanced-Software-Engineer_R323045",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 449650,
-    "company": "Cboe",
-    "role": "Software Engineer, Backend (Clearing)",
-    "location": "Chicago, IL",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Chicago-IL/Software-Engineer--Backend--Clearing-_R-4732-2",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 447285,
-    "company": "Cambridge Investment Research",
-    "role": "Full Stack Software Engineer",
-    "location": "Fairfield, IA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Fairfield-IA/Adobe-Experience-Developer_R-2025-7",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 446438,
-    "company": "Canvas, Inc.",
-    "role": "10070 - Software Engineer II",
-    "location": "Robins AFB, GA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://canvasinc.wd108.myworkdayjobs.com/Canvas/job/Robins-AFB-GA/XMLNAME-10070---Software-Engineer-II_JR100872",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 446442,
-    "company": "ASML",
-    "role": "Production Engineer",
-    "location": "Wilton, CT, USA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Production-Engineer_J-00354743",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 447109,
-    "company": "Xpand Corp",
-    "role": "Entry Level -Software Developer - Web Development",
-    "location": "Herndon, Virginia, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://bebee.com/us/jobs/entry-level-software-developer-web-development-xpand-corp-herndon-va--jooble-8212004122920480688--b2df0225233bcbe8a5027e9085c9e2f4",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
     "id": 447111,
     "company": "Balducci's Food Lover's Market",
     "role": "Front End Entry Level",
@@ -304,17 +282,6 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-balducci-s-food-lover-s-market-4478718437",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 447449,
-    "company": "Humana",
-    "role": "Software Engineer 2",
-    "location": "Louisville, KY",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Software-Engineer-2_R-432732",
     "age": "1d",
     "is_internship": false
   },
@@ -330,6 +297,116 @@
     "is_internship": false
   },
   {
+    "id": 446438,
+    "company": "Canvas, Inc.",
+    "role": "10070 - Software Engineer II",
+    "location": "Robins AFB, GA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://canvasinc.wd108.myworkdayjobs.com/Canvas/job/Robins-AFB-GA/XMLNAME-10070---Software-Engineer-II_JR100872",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 447112,
+    "company": "Jewel-Osco",
+    "role": "Front End Entry Level",
+    "location": "Chesterton, Indiana, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-jewel-osco-4478727048",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 447449,
+    "company": "Humana",
+    "role": "Software Engineer 2",
+    "location": "Louisville, KY",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Software-Engineer-2_R-432732",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 447830,
+    "company": "U.S. Bank",
+    "role": "Software Engineer 2 \u2013 Java, Generative AI, RAG & Cloud Engineering",
+    "location": "Hopkins, MN",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Software-Engineer-2---Java--Generative-AI--RAG---Cloud-Engineering_2026-0032050",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 447109,
+    "company": "Xpand Corp",
+    "role": "Entry Level -Software Developer - Web Development",
+    "location": "Herndon, Virginia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://bebee.com/us/jobs/entry-level-software-developer-web-development-xpand-corp-herndon-va--jooble-8212004122920480688--b2df0225233bcbe8a5027e9085c9e2f4",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 447285,
+    "company": "Cambridge Investment Research",
+    "role": "Full Stack Software Engineer",
+    "location": "Fairfield, IA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Fairfield-IA/Adobe-Experience-Developer_R-2025-7",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 449650,
+    "company": "Cboe",
+    "role": "Software Engineer, Backend (Clearing)",
+    "location": "Chicago, IL",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Chicago-IL/Software-Engineer--Backend--Clearing-_R-4732-2",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 446678,
+    "company": "Light & Wonder",
+    "role": "Advanced Software Engineer",
+    "location": "Las Vegas, NV",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://lnw.wd5.myworkdayjobs.com/LightWonderExternalCareers/job/Las-Vegas-NV/Advanced-Software-Engineer_R323045",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 450703,
+    "company": "Cisco",
+    "role": "QA Software Engineer NC Hybrid",
+    "location": "RTP, North Carolina, US",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/QA-Software-Engineer-NC-Hybrid_2023070",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 446442,
+    "company": "ASML",
+    "role": "Production Engineer",
+    "location": "Wilton, CT, USA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Production-Engineer_J-00354743",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
     "id": 445187,
     "company": "Palantir",
     "role": "Forward Deployed Software Engineer - US Government",
@@ -337,7 +414,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/palantir/5b0f37e6-8569-4a62-9e38-c5a4edc67dcf",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -348,7 +425,7 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://www.linkedin.com/jobs/view/software-engineer-level-1-emerging-technology-at-cintas-4478578781",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -359,7 +436,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/lendbuzz/0549ae13-05a2-497b-ba81-953c6ad50ef2",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -396,17 +473,6 @@
     "is_internship": false
   },
   {
-    "id": 447108,
-    "company": "Capital Data Systems",
-    "role": "Junior Software Engineer - Entry Level - No Experience Required",
-    "location": "Washington, District of Columbia, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://gwma61.robertjob.web.id/?jobs=en-job-junior-software-engineer-entry-level-1779959342752",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
     "id": 445103,
     "company": "Marigold",
     "role": "Associate Software Engineer",
@@ -418,24 +484,13 @@
     "is_internship": false
   },
   {
-    "id": 444790,
-    "company": "Astemo",
-    "role": "Production Engineer",
-    "location": "Berea, Kentucky, United States",
-    "source": "Workday",
+    "id": 447108,
+    "company": "Capital Data Systems",
+    "role": "Junior Software Engineer - Entry Level - No Experience Required",
+    "location": "Washington, District of Columbia, USA",
+    "source": "JSearch",
     "status": "not_applied",
-    "url": "https://astemo.wd102.myworkdayjobs.com/Global_Career_Site/job/Berea-Kentucky-United-States/Production-Engineer_J0052112",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 446528,
-    "company": "Duke Energy",
-    "role": "Associate IT Software Engineer",
-    "location": "Charlotte, NC",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://dukeenergy.wd1.myworkdayjobs.com/Search/job/Charlotte-NC/Associate-IT-Software-Engineer_R41973",
+    "url": "https://gwma61.robertjob.web.id/?jobs=en-job-junior-software-engineer-entry-level-1779959342752",
     "age": "2d",
     "is_internship": false
   },
@@ -451,13 +506,13 @@
     "is_internship": false
   },
   {
-    "id": 446591,
-    "company": "General Motors",
-    "role": "Infotainment Software Verification Engineer",
-    "location": "Warren, Michigan, United States of America",
+    "id": 446528,
+    "company": "Duke Energy",
+    "role": "Associate IT Software Engineer",
+    "location": "Charlotte, NC",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Infotainment-Software-Verification-Engineer_JR-202622242",
+    "url": "https://dukeenergy.wd1.myworkdayjobs.com/Search/job/Charlotte-NC/Associate-IT-Software-Engineer_R41973",
     "age": "2d",
     "is_internship": false
   },
@@ -473,13 +528,35 @@
     "is_internship": false
   },
   {
-    "id": 443587,
-    "company": "NVIDIA",
-    "role": "Software Engineer, DL Kernel Libraries - New College Grad 2027",
-    "location": "US, CA, Santa Clara",
+    "id": 444790,
+    "company": "Astemo",
+    "role": "Production Engineer",
+    "location": "Berea, Kentucky, United States",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337",
+    "url": "https://astemo.wd102.myworkdayjobs.com/Global_Career_Site/job/Berea-Kentucky-United-States/Production-Engineer_J0052112",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 446591,
+    "company": "General Motors",
+    "role": "Infotainment Software Verification Engineer",
+    "location": "Warren, Michigan, United States of America",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Infotainment-Software-Verification-Engineer_JR-202622242",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 443838,
+    "company": "Vizient",
+    "role": "Quality Software Engineer",
+    "location": "Irving, TX 75062 Vizient Corporate HQ",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Quality-Software-Engineer_35367R",
     "age": "3d",
     "is_internship": false
   },
@@ -495,28 +572,6 @@
     "is_internship": false
   },
   {
-    "id": 447119,
-    "company": "Cvent",
-    "role": "Software Engineer Intern - AI & Cloud Projects",
-    "location": "McLean, Virginia, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://bebee.com/us/jobs/software-engineer-intern-ai-cloud-projects-cvent-mclean-va-united-states--appcast-7428_f6d89c953bfabae0c592ba648cbd64b6a791379b15f0545f9c671daf68648c9d",
-    "age": "3d",
-    "is_internship": true
-  },
-  {
-    "id": 443838,
-    "company": "Vizient",
-    "role": "Quality Software Engineer",
-    "location": "Irving, TX 75062 Vizient Corporate HQ",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Quality-Software-Engineer_35367R",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
     "id": 442327,
     "company": "Zoom",
     "role": "Software Engineer",
@@ -528,14 +583,25 @@
     "is_internship": false
   },
   {
-    "id": 447116,
-    "company": "SharpAtoms",
-    "role": "Junior Full Stack Developer (Entry-Level) - United, Pennsylvania, US",
-    "location": "Mt Pleasant, Pennsylvania, USA",
+    "id": 447119,
+    "company": "Cvent",
+    "role": "Software Engineer Intern - AI & Cloud Projects",
+    "location": "McLean, Virginia, USA",
     "source": "JSearch",
     "status": "not_applied",
-    "url": "https://www.talent.com/view?id=641032627656720916",
-    "age": "4d",
+    "url": "https://bebee.com/us/jobs/software-engineer-intern-ai-cloud-projects-cvent-mclean-va-united-states--appcast-7428_f6d89c953bfabae0c592ba648cbd64b6a791379b15f0545f9c671daf68648c9d",
+    "age": "3d",
+    "is_internship": true
+  },
+  {
+    "id": 443587,
+    "company": "NVIDIA",
+    "role": "Software Engineer, DL Kernel Libraries - New College Grad 2027",
+    "location": "US, CA, Santa Clara",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -550,6 +616,17 @@
     "is_internship": true
   },
   {
+    "id": 447116,
+    "company": "SharpAtoms",
+    "role": "Junior Full Stack Developer (Entry-Level) - United, Pennsylvania, US",
+    "location": "Mt Pleasant, Pennsylvania, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.talent.com/view?id=641032627656720916",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
     "id": 437374,
     "company": "Woven",
     "role": "Software Engineer - Data Acquisition",
@@ -557,7 +634,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/woven-by-toyota/5c46ddc8-a963-47f9-9138-c74c54d2414a",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -568,7 +645,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/pointclickcare/6c8f4d1f-c1c7-480f-bd17-45927fd23741",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -579,7 +656,7 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-kings-food-markets-4477840445",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -590,7 +667,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/fanaticsfbg/jobs/4409476009",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -649,13 +726,13 @@
     "is_internship": false
   },
   {
-    "id": 438222,
-    "company": "TJX",
-    "role": "FrontEnd Coordinator",
-    "location": "Dallas, TX 75225",
+    "id": 437889,
+    "company": "NVIDIA",
+    "role": "C++ Software Engineer, Infrastructure Tools - New College Grad 2027",
+    "location": "US, CA, Santa Clara",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Dallas-TX-75225/FrontEnd-Coordinator_REQ166568-1",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431",
     "age": "5d",
     "is_internship": false
   },
@@ -759,17 +836,6 @@
     "is_internship": false
   },
   {
-    "id": 437889,
-    "company": "NVIDIA",
-    "role": "C++ Software Engineer, Infrastructure Tools - New College Grad 2027",
-    "location": "US, CA, Santa Clara",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431",
-    "age": "5d",
-    "is_internship": false
-  },
-  {
     "id": 438112,
     "company": "Texas A&M AgriLife Research",
     "role": "Web Applications Developer II - WordPress & Full Stack Web Development",
@@ -788,6 +854,17 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Web-Applications-Developer-II---WordPress---Full-Stack-Web-Development_R-097841",
+    "age": "5d",
+    "is_internship": false
+  },
+  {
+    "id": 438222,
+    "company": "TJX",
+    "role": "FrontEnd Coordinator",
+    "location": "Dallas, TX 75225",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Dallas-TX-75225/FrontEnd-Coordinator_REQ166568-1",
     "age": "5d",
     "is_internship": false
   },
@@ -898,7 +975,7 @@
     "source": "Ashby",
     "status": "not_applied",
     "url": "https://jobs.ashbyhq.com/weave/ce79425d-20fc-4c15-841f-3445b86b05b5",
-    "age": "5d",
+    "age": "6d",
     "is_internship": false
   },
   {
@@ -909,7 +986,7 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/BryceTech/744000154508300-software-developer",
-    "age": "5d",
+    "age": "6d",
     "is_internship": false
   },
   {
@@ -920,7 +997,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/twitch/jobs/8879673002",
-    "age": "5d",
+    "age": "6d",
     "is_internship": false
   },
   {
@@ -1001,68 +1078,13 @@
     "is_internship": false
   },
   {
-    "id": 439943,
-    "company": "Range",
-    "role": "Software Engineer Intern",
-    "location": "McLean, Virginia, USA",
+    "id": 439938,
+    "company": "Jewel-Osco",
+    "role": "Front End Entry Level",
+    "location": "Bartlett, Illinois, USA",
     "source": "JSearch",
     "status": "not_applied",
-    "url": "https://www.genroam.io/job/947e0edf-c842-4a59-b67c-747847abf090",
-    "age": "6d",
-    "is_internship": true
-  },
-  {
-    "id": 433665,
-    "company": "General Motors",
-    "role": "Manufacturing Software Integration Supervisor",
-    "location": "Warren, Michigan, United States of America",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Manufacturing-Software-Integration-Supervisor_JR-202621732",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 433458,
-    "company": "Badger Meter",
-    "role": "Software Engineering Intern",
-    "location": "US  - CA - Escondido Facility",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US----CA---Escondido-Facility/Software-Engineering-Intern_4645",
-    "age": "6d",
-    "is_internship": true
-  },
-  {
-    "id": 447102,
-    "company": "Mintegral",
-    "role": "Software Engineer - Ads AI Infrastructure (New Grad / PhD Welcome)",
-    "location": "Washington, District of Columbia, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://bebee.com/us/jobs/software-engineer-ads-ai-infrastructure-new-grad-phd-welcome-mintegral-washington-dc--jooble--5271961721425950423",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 447120,
-    "company": "Range",
-    "role": "Software Engineer Intern",
-    "location": "McLean, Virginia, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.genroam.io/job/947e0edf-c842-4a59-b67c-747847abf090",
-    "age": "6d",
-    "is_internship": true
-  },
-  {
-    "id": 438229,
-    "company": "TJX",
-    "role": "FRONTEND CASHIER",
-    "location": "Pleasant Hill, CA 94523",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Pleasant-Hill-CA-94523/FRONTEND-CASHIER_REQ166114",
+    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-jewel-osco-4477435373",
     "age": "6d",
     "is_internship": false
   },
@@ -1074,28 +1096,6 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://www.indeed.com/viewjob?jk=86820abf7c8350c3",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 439937,
-    "company": "Acme Markets",
-    "role": "Front End Entry Level",
-    "location": "Tuckerton, New Jersey, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-acme-markets-4477447010",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 439938,
-    "company": "Jewel-Osco",
-    "role": "Front End Entry Level",
-    "location": "Bartlett, Illinois, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-jewel-osco-4477435373",
     "age": "6d",
     "is_internship": false
   },
@@ -1122,6 +1122,28 @@
     "is_internship": false
   },
   {
+    "id": 438229,
+    "company": "TJX",
+    "role": "FRONTEND CASHIER",
+    "location": "Pleasant Hill, CA 94523",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Pleasant-Hill-CA-94523/FRONTEND-CASHIER_REQ166114",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 447120,
+    "company": "Range",
+    "role": "Software Engineer Intern",
+    "location": "McLean, Virginia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.genroam.io/job/947e0edf-c842-4a59-b67c-747847abf090",
+    "age": "6d",
+    "is_internship": true
+  },
+  {
     "id": 439941,
     "company": "Avante",
     "role": "Entry Level -Software Developer - Web Development",
@@ -1129,6 +1151,28 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://bebee.com/us/jobs/entry-level-software-developer-web-development-avante-seattle-wa--jooble--6997201722832794468",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 433665,
+    "company": "General Motors",
+    "role": "Manufacturing Software Integration Supervisor",
+    "location": "Warren, Michigan, United States of America",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Manufacturing-Software-Integration-Supervisor_JR-202621732",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 447102,
+    "company": "Mintegral",
+    "role": "Software Engineer - Ads AI Infrastructure (New Grad / PhD Welcome)",
+    "location": "Washington, District of Columbia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://bebee.com/us/jobs/software-engineer-ads-ai-infrastructure-new-grad-phd-welcome-mintegral-washington-dc--jooble--5271961721425950423",
     "age": "6d",
     "is_internship": false
   },
@@ -1155,6 +1199,39 @@
     "is_internship": false
   },
   {
+    "id": 439943,
+    "company": "Range",
+    "role": "Software Engineer Intern",
+    "location": "McLean, Virginia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.genroam.io/job/947e0edf-c842-4a59-b67c-747847abf090",
+    "age": "6d",
+    "is_internship": true
+  },
+  {
+    "id": 439937,
+    "company": "Acme Markets",
+    "role": "Front End Entry Level",
+    "location": "Tuckerton, New Jersey, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/front-end-entry-level-at-acme-markets-4477447010",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 433458,
+    "company": "Badger Meter",
+    "role": "Software Engineering Intern",
+    "location": "US  - CA - Escondido Facility",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US----CA---Escondido-Facility/Software-Engineering-Intern_4645",
+    "age": "6d",
+    "is_internship": true
+  },
+  {
     "id": 431726,
     "company": "BetterHelp",
     "role": "Full Stack Software Engineer",
@@ -1162,50 +1239,6 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/betterhelpcom/jobs/5444452008",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 432023,
-    "company": "Lightcast",
-    "role": "Software Engineer - 1092 - (Moscow, ID)",
-    "location": "Moscow, ID",
-    "source": "Lever",
-    "status": "not_applied",
-    "url": "https://jobs.lever.co/economicmodeling/bbd08018-de36-4c25-b259-8e4cc6c91ecc",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 442996,
-    "company": "SpruceID",
-    "role": "Full-Stack Software Engineer (New Grad) \u2013 Remote",
-    "location": "United States",
-    "source": "Ashby",
-    "status": "not_applied",
-    "url": "https://jobs.ashbyhq.com/spruceid/3d182b7f-482e-45b2-8668-f04f0b5fda8e",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 430873,
-    "company": "Chime",
-    "role": "Software Engineer, Trust & Safety",
-    "location": "Chicago, IL, USA; San Francisco, CA, USA",
-    "source": "Greenhouse",
-    "status": "not_applied",
-    "url": "https://boards.greenhouse.io/chime/jobs/8875663002?gh_jid=8875663002",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 431032,
-    "company": "Hermeus",
-    "role": "Flight Software Engineer \u2013 Command & Control",
-    "location": "Atlanta, GA",
-    "source": "Lever",
-    "status": "not_applied",
-    "url": "https://jobs.lever.co/hermeus/759a5648-15cb-45aa-9fbe-616b953f9fcf",
     "age": "6d",
     "is_internship": false
   }
