@@ -1,12 +1,12 @@
 # Job Postings Report
 
-75 postings from the last 6 days.
+74 postings from the last 6 days.
 
 ## Internships (11)
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
-| Skydio | Manufacturing Software Engineer Intern - Winter 2027 | San Mateo, California, United States | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/skydio/ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb) | 0d |
+| Skydio | Manufacturing Software Engineer Intern - Winter 2027 | San Mateo, California, United States | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/skydio/ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb) | 1d |
 | Tenstorrent | Systems Intern - Validation, Software, Design, Architecture & Packaging (USA) | Austin, Texas, United States; Santa Clara, California, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264424007) | 1d |
 | Light & Wonder | Intern Software Engineering | Reno, NV | Workday | not_applied | [Apply](https://lnw.wd5.myworkdayjobs.com/LightWonderExternalCareers/job/Reno-NV/Intern-Software-Engineering_R322885) | 1d |
 | Amazon | Amazon Robotics - Software Development Engineer Intern/Co-op - 2027 | Westborough, Massachusetts, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10578583/apply) | 1d |
@@ -18,34 +18,37 @@
 | Cvent | Software Engineer Intern - AI & Cloud Projects | McLean, Virginia, USA | JSearch | not_applied | [Apply](https://bebee.com/us/jobs/software-engineer-intern-ai-cloud-projects-cvent-mclean-va-united-states--appcast-7428_f6d89c953bfabae0c592ba648cbd64b6a791379b15f0545f9c671daf68648c9d) | 4d |
 | WiCi AI | Data Scientist / Software Engineer Intern — AI Developer Platform | Washington, District of Columbia, USA | JSearch | not_applied | [Apply](https://jobmesh.io/job/636b9336-0f0e-43cf-bf5c-491bcd05f6e5) | 5d |
 
-## Full-Time (64)
+## Full-Time (63)
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
+| Blueprint Technologies | Software Support Engineer, C#/.NET & SQL. | Redmond, WA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/bpcs/jobs/8287383) | 0d |
 | Verkada | Software Engineer, Platform Infrastructure | San Mateo, CA United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/verkada/jobs/4759062007) | 0d |
 | Schonfeld | Software Engineer | New York, New York, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8285213) | 0d |
 | Bedrock Robotics | Software Engineer, Fleet Platform | New York, NY | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/cbcf15d7-6f14-4270-b726-3bfa90242fc5) | 0d |
 | MintMCP | Software Engineer | San Mateo, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mintmcp/077296d4-ffab-4c00-b907-89d2caccd83b) | 0d |
-| Regions Bank | Software Development Engineer in Test (SDET) | Hoover, AL - Riverchase Operations Center (Birmingham, AL) | Workday | not_applied | [Apply](https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Software-Development-Engineer-in-Test--SDET-_R106754-1) | 0d |
-| Amazon | Software Development Engineer, Audible AI Voice Production  | Cambridge, Massachusetts, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10580035/apply) | 0d |
 | U.S. Bank | Software Engineer 1 - ServiceNow - Financial Service Operations | Minneapolis, MN | Workday | not_applied | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Software-Engineer-1---ServiceNow---Financial-Service-Operations_2026-0030980-1) | 0d |
+| Amazon | Software Development Engineer, Audible AI Voice Production  | Cambridge, Massachusetts, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10580035/apply) | 0d |
+| Booz Allen | Software Engineer, Mid | Wharton, NJ | Workday | not_applied | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Wharton-NJ/Software-Engineer--Mid_R0251705) | 0d |
+| Regions Bank | Software Development Engineer in Test (SDET) | Hoover, AL - Riverchase Operations Center (Birmingham, AL) | Workday | not_applied | [Apply](https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Software-Development-Engineer-in-Test--SDET-_R106754-1) | 0d |
 | U.S. Bank | Software Engineer 1 – Full-stack, Generative AI, Cloud | Hopkins, MN | Workday | not_applied | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Software-Engineer-1---Full-stack--Generative-AI--Cloud_2026-0032031) | 0d |
+| ASML | software application engineer | Austin, TX, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Austin-TX-USA/software-application-engineer_J-00355087-1) | 0d |
 | Base Power | Software Engineer, Algorithms & Infrastructure | Austin, TX | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/base-power/0ccc74f5-3330-4379-9faa-6ca1b39d4593) | 0d |
 | Aurora Innovation | Software Engineer II, Core Services | Mountain View, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/aurora-operations-inc/bd2ac31d-c757-43fd-96d8-dc00f0e8cc3b) | 0d |
-| Woongjin | Java Back-end Developer  | Plano, TX, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WJCompany/744000155594499-java-back-end-developer-) | 0d |
+| Woongjin | Java Back-end Developer  | Plano, TX, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WJCompany/744000155594499-java-back-end-developer-) | 1d |
 | Twitch | Software Engineer I | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8887222002) | 1d |
 | MintMCP | Software Engineer | San Mateo, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mintmcp/44363147-6de9-4271-bfa4-b0eac6542362) | 1d |
 | Snowflake | Software Engineer - Ingestion Execution Platform | US-WA-Bellevue | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/snowflake/b6fed204-3317-43ba-b87b-f045e4cf8d68) | 1d |
+| PacificSource | Software Developer II, Business Intelligence - Medical Management | Bend, OR | Workday | not_applied | [Apply](https://pacificsource.wd5.myworkdayjobs.com/PacificSource/job/Bend-OR/Software-Developer-II--Business-Intelligence---Medical-Management_2026-1282-2) | 1d |
+| Sandvik | Software Support Engineer | USA, OH, Cincinnati | Workday | not_applied | [Apply](https://sandvik.wd3.myworkdayjobs.com/sandvik-jobs/job/USA-OH-Cincinnati/Software-Support-Engineer_R0098542-2) | 1d |
+| Simon Property Group | SRE Engineer | Indianapolis, IN | Workday | not_applied | [Apply](https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/SRE-Engineer_R14115-1) | 1d |
+| PacificSource | Software Developer II, Business Intelligence - Medical Management | Portland, OR | Workday | not_applied | [Apply](https://pacificsource.wd5.myworkdayjobs.com/PacificSource/job/Portland-OR/Software-Developer-II--Business-Intelligence---Medical-Management_2026-1281-1) | 1d |
+| PacificSource | Software Developer II, Business Intelligence - Medical Management | Boise, ID | Workday | not_applied | [Apply](https://pacificsource.wd5.myworkdayjobs.com/PacificSource/job/Boise-ID/Software-Developer-II--Business-Intelligence---Medical-Management_2026-1283-1) | 1d |
 | PacificSource | Software Developer II, Business Intelligence - Medical Management | Springfield, OR | Workday | not_applied | [Apply](https://pacificsource.wd5.myworkdayjobs.com/PacificSource/job/Springfield-OR/Software-Developer-II--Business-Intelligence---Medical-Management_2026-1280-2) | 1d |
 | Signet Jewelers | Software Engineer I (Remote) | Support Center - Akron, OH | Workday | not_applied | [Apply](https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Software-Engineer-I--Remote-_REQ_83354-1) | 1d |
-| PacificSource | Software Developer II, Business Intelligence - Medical Management | Bend, OR | Workday | not_applied | [Apply](https://pacificsource.wd5.myworkdayjobs.com/PacificSource/job/Bend-OR/Software-Developer-II--Business-Intelligence---Medical-Management_2026-1282-2) | 1d |
-| PacificSource | Software Developer II, Business Intelligence - Medical Management | Boise, ID | Workday | not_applied | [Apply](https://pacificsource.wd5.myworkdayjobs.com/PacificSource/job/Boise-ID/Software-Developer-II--Business-Intelligence---Medical-Management_2026-1283-1) | 1d |
-| PacificSource | Software Developer II, Business Intelligence - Medical Management | Portland, OR | Workday | not_applied | [Apply](https://pacificsource.wd5.myworkdayjobs.com/PacificSource/job/Portland-OR/Software-Developer-II--Business-Intelligence---Medical-Management_2026-1281-1) | 1d |
-| Simon Property Group | SRE Engineer | Indianapolis, IN | Workday | not_applied | [Apply](https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/SRE-Engineer_R14115-1) | 1d |
-| Sandvik | Software Support Engineer | USA, OH, Cincinnati | Workday | not_applied | [Apply](https://sandvik.wd3.myworkdayjobs.com/sandvik-jobs/job/USA-OH-Cincinnati/Software-Support-Engineer_R0098542-2) | 1d |
 | TaxRise | Junior Software Developer | Irvine, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/taxrise/jobs/4434618009) | 1d |
-| Re:Build Manufacturing | Production Engineer | Kalamazoo, MI | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4741976005) | 1d |
-| Zoox | Software Development Engineer in Test | Foster City, CA | Lever | not_applied | [Apply](https://jobs.lever.co/zoox/d3a7605d-7e6e-4361-bc00-04db50418c1e) | 1d |
+| Re:Build Manufacturing | Production Engineer | Kalamazoo, MI | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4741976005) | 2d |
+| Zoox | Software Development Engineer in Test | Foster City, CA | Lever | not_applied | [Apply](https://jobs.lever.co/zoox/d3a7605d-7e6e-4361-bc00-04db50418c1e) | 2d |
 | Palantir | Forward Deployed Software Engineer - US Government | Laurel, MD | Lever | not_applied | [Apply](https://jobs.lever.co/palantir/29630180-0f10-4826-801f-12e226d3c7f1) | 2d |
 | Testlio | Freelancer Software Tester- Visit St. Louis Airport | United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/testlio/jobs/8278471) | 2d |
 | MintMCP | Software Engineer | San Mateo, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mintmcp/15ecdd98-1171-4e5d-8abb-b8ebe107ddd5) | 2d |
@@ -66,24 +69,20 @@
 | Cboe | Software Engineer, Backend (Clearing) | Chicago, IL | Workday | not_applied | [Apply](https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Chicago-IL/Software-Engineer--Backend--Clearing-_R-4728-1) | 2d |
 | Cboe | Software Engineer, Backend (Clearing) | Chicago, IL | Workday | not_applied | [Apply](https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Chicago-IL/Software-Engineer--Backend--Clearing-_R-4729-1) | 2d |
 | Palantir | Forward Deployed Software Engineer - US Government | Norfolk, VA | Lever | not_applied | [Apply](https://jobs.lever.co/palantir/5b0f37e6-8569-4a62-9e38-c5a4edc67dcf) | 2d |
-| Cintas | Software Engineer - Level 1 - Emerging Technology | Mason, Ohio, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/software-engineer-level-1-emerging-technology-at-cintas-4478578781) | 2d |
-| Lendbuzz | Software Engineer (Backend) | Boston, MA | Lever | not_applied | [Apply](https://jobs.lever.co/lendbuzz/0549ae13-05a2-497b-ba81-953c6ad50ef2) | 2d |
+| Cintas | Software Engineer - Level 1 - Emerging Technology | Mason, Ohio, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/software-engineer-level-1-emerging-technology-at-cintas-4478578781) | 3d |
+| Lendbuzz | Software Engineer (Backend) | Boston, MA | Lever | not_applied | [Apply](https://jobs.lever.co/lendbuzz/0549ae13-05a2-497b-ba81-953c6ad50ef2) | 3d |
 | MintMCP | Software Engineer | San Mateo, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mintmcp/8dae46f3-0194-4f8e-b79b-986385589292) | 3d |
 | Acceldata | Software Engineer - Observability (Pulse) | Campbell, CA | Lever | not_applied | [Apply](https://jobs.lever.co/acceldata/c12c39cb-68c1-45ae-9a88-601e297957b1) | 3d |
-| Marigold | Associate Software Engineer | Remote, United States | Workday | not_applied | [Apply](https://campaignmonitor.wd5.myworkdayjobs.com/marigold/job/Remote-United-States/Associate-Software-Engineer_R2487) | 3d |
 | Capital Data Systems | Junior Software Engineer - Entry Level - No Experience Required | Washington, District of Columbia, USA | JSearch | not_applied | [Apply](https://gwma61.robertjob.web.id/?jobs=en-job-junior-software-engineer-entry-level-1779959342752) | 3d |
+| Marigold | Associate Software Engineer | Remote, United States | Workday | not_applied | [Apply](https://campaignmonitor.wd5.myworkdayjobs.com/marigold/job/Remote-United-States/Associate-Software-Engineer_R2487) | 3d |
+| Astemo | Production Engineer | Berea, Kentucky, United States | Workday | not_applied | [Apply](https://astemo.wd102.myworkdayjobs.com/Global_Career_Site/job/Berea-Kentucky-United-States/Production-Engineer_J0052112) | 3d |
+| Hewlett Packard Enterprise | Software Development Engineer in Test | Spring, Texas, United States of America | Workday | not_applied | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Software-Development-Engineer-in-Test_1201925-2) | 3d |
 | Capital Data Systems | Junior Software Engineer - Entry Level - No Experience Required | Washington, District of Columbia, USA | JSearch | not_applied | [Apply](https://gwma61.robertjob.web.id/?jobs=en-job-junior-software-engineer-entry-level-1779959342752) | 3d |
 | Duke Energy | Associate IT Software Engineer | Charlotte, NC | Workday | not_applied | [Apply](https://dukeenergy.wd1.myworkdayjobs.com/Search/job/Charlotte-NC/Associate-IT-Software-Engineer_R41973) | 3d |
 | General Motors | Infotainment Software Verification Engineer | Warren, Michigan, United States of America | Workday | not_applied | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Infotainment-Software-Verification-Engineer_JR-202622242) | 3d |
-| Astemo | Production Engineer | Berea, Kentucky, United States | Workday | not_applied | [Apply](https://astemo.wd102.myworkdayjobs.com/Global_Career_Site/job/Berea-Kentucky-United-States/Production-Engineer_J0052112) | 3d |
-| Hewlett Packard Enterprise | Software Development Engineer in Test | Spring, Texas, United States of America | Workday | not_applied | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Software-Development-Engineer-in-Test_1201925-2) | 3d |
+| Jobleads-US | Entry Level -Software Developer - Web Development | Arlington, Virginia, USA | JSearch | not_applied | [Apply](https://bebee.com/us/jobs/entry-level-software-developer-web-development-jobleads-us-arlington-va--jooble--3701195335779485857) | 4d |
 | Zoom | Software Engineer | Remote  (US) | Workday | not_applied | [Apply](https://zoom.wd5.myworkdayjobs.com/Zoom/job/Remote--US/Software-Engineer_R19749-1) | 4d |
 | NVIDIA | Software Engineer, DL Kernel Libraries - New College Grad 2027 | US, CA, Santa Clara | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337) | 4d |
 | Vizient | Quality Software Engineer | Irving, TX 75062 Vizient Corporate HQ | Workday | not_applied | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Quality-Software-Engineer_35367R) | 4d |
-| Jobleads-US | Entry Level -Software Developer - Web Development | Arlington, Virginia, USA | JSearch | not_applied | [Apply](https://bebee.com/us/jobs/entry-level-software-developer-web-development-jobleads-us-arlington-va--jooble--3701195335779485857) | 4d |
 | SharpAtoms | Junior Full Stack Developer (Entry-Level) - United, Pennsylvania, US | Mt Pleasant, Pennsylvania, USA | JSearch | not_applied | [Apply](https://www.talent.com/view?id=641032627656720916) | 5d |
-| Woven | Software Engineer - Data Acquisition | Ann Arbor, MI | Lever | not_applied | [Apply](https://jobs.lever.co/woven-by-toyota/5c46ddc8-a963-47f9-9138-c74c54d2414a) | 5d |
-| PointClickCare | Intermediate Software Engineer-(A&P) | Salt Lake City, UT | Lever | not_applied | [Apply](https://jobs.lever.co/pointclickcare/6c8f4d1f-c1c7-480f-bd17-45927fd23741) | 5d |
-| Kings Food Markets | Front End Entry Level | Mendham Township, New Jersey, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-kings-food-markets-4477840445) | 5d |
-| Fanatics | Software Engineer II, Loyalty - Core  | New York, NY, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/fanaticsfbg/jobs/4409476009) | 5d |
 
