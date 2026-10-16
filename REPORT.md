@@ -7,7 +7,7 @@
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
 | Skydio | Manufacturing Software Engineer Intern - Winter 2027 | San Mateo, California, United States | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/skydio/ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb) | 1d |
-| Tenstorrent | Systems Intern - Validation, Software, Design, Architecture & Packaging (USA) | Austin, Texas, United States; Santa Clara, California, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264424007) | 1d |
+| Tenstorrent | Systems Intern - Validation, Software, Design, Architecture & Packaging (USA) | Austin, Texas, United States; Santa Clara, California, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264424007) | 2d |
 | Light & Wonder | Intern Software Engineering | Reno, NV | Workday | not_applied | [Apply](https://lnw.wd5.myworkdayjobs.com/LightWonderExternalCareers/job/Reno-NV/Intern-Software-Engineering_R322885) | 2d |
 | Amazon | Amazon Robotics - Software Development Engineer Intern/Co-op - 2027 | Westborough, Massachusetts, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10578583/apply) | 2d |
 | Dematic | Software Engineering Intern | Grand Rapids, MI, United States | Workday | not_applied | [Apply](https://kiongroup.wd3.myworkdayjobs.com/KION_SCS/job/Grand-Rapids-MI-United-States/Software-Engineering-Intern_JR-0097732) | 2d |
@@ -73,7 +73,7 @@
 | Cintas | Software Engineer - Level 1 - Emerging Technology | Mason, Ohio, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/software-engineer-level-1-emerging-technology-at-cintas-4478578781) | 3d |
 | Lendbuzz | Software Engineer (Backend) | Boston, MA | Lever | not_applied | [Apply](https://jobs.lever.co/lendbuzz/0549ae13-05a2-497b-ba81-953c6ad50ef2) | 3d |
 | MintMCP | Software Engineer | San Mateo, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mintmcp/8dae46f3-0194-4f8e-b79b-986385589292) | 3d |
-| Acceldata | Software Engineer - Observability (Pulse) | Campbell, CA | Lever | not_applied | [Apply](https://jobs.lever.co/acceldata/c12c39cb-68c1-45ae-9a88-601e297957b1) | 3d |
+| Acceldata | Software Engineer - Observability (Pulse) | Campbell, CA | Lever | not_applied | [Apply](https://jobs.lever.co/acceldata/c12c39cb-68c1-45ae-9a88-601e297957b1) | 4d |
 | Astemo | Production Engineer | Berea, Kentucky, United States | Workday | not_applied | [Apply](https://astemo.wd102.myworkdayjobs.com/Global_Career_Site/job/Berea-Kentucky-United-States/Production-Engineer_J0052112) | 4d |
 | Hewlett Packard Enterprise | Software Development Engineer in Test | Spring, Texas, United States of America | Workday | not_applied | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Software-Development-Engineer-in-Test_1201925-2) | 4d |
 | Capital Data Systems | Junior Software Engineer - Entry Level - No Experience Required | Washington, District of Columbia, USA | JSearch | not_applied | [Apply](https://gwma61.robertjob.web.id/?jobs=en-job-junior-software-engineer-entry-level-1779959342752) | 4d |

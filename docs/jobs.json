@@ -216,7 +216,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264424007",
-    "age": "1d",
+    "age": "2d",
     "is_internship": true
   },
   {
@@ -678,7 +678,62 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/acceldata/c12c39cb-68c1-45ae-9a88-601e297957b1",
-    "age": "3d",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 447108,
+    "company": "Capital Data Systems",
+    "role": "Junior Software Engineer - Entry Level - No Experience Required",
+    "location": "Washington, District of Columbia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://gwma61.robertjob.web.id/?jobs=en-job-junior-software-engineer-entry-level-1779959342752",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 447103,
+    "company": "Capital Data Systems",
+    "role": "Junior Software Engineer - Entry Level - No Experience Required",
+    "location": "Washington, District of Columbia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://gwma61.robertjob.web.id/?jobs=en-job-junior-software-engineer-entry-level-1779959342752",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 446528,
+    "company": "Duke Energy",
+    "role": "Associate IT Software Engineer",
+    "location": "Charlotte, NC",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://dukeenergy.wd1.myworkdayjobs.com/Search/job/Charlotte-NC/Associate-IT-Software-Engineer_R41973",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 446591,
+    "company": "General Motors",
+    "role": "Infotainment Software Verification Engineer",
+    "location": "Warren, Michigan, United States of America",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Infotainment-Software-Verification-Engineer_JR-202622242",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 445103,
+    "company": "Marigold",
+    "role": "Associate Software Engineer",
+    "location": "Remote, United States",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://campaignmonitor.wd5.myworkdayjobs.com/marigold/job/Remote-United-States/Associate-Software-Engineer_R2487",
+    "age": "4d",
     "is_internship": false
   },
   {
@@ -704,58 +759,25 @@
     "is_internship": false
   },
   {
-    "id": 447108,
-    "company": "Capital Data Systems",
-    "role": "Junior Software Engineer - Entry Level - No Experience Required",
-    "location": "Washington, District of Columbia, USA",
+    "id": 447107,
+    "company": "Jobleads-US",
+    "role": "Entry Level -Software Developer - Web Development",
+    "location": "Arlington, Virginia, USA",
     "source": "JSearch",
     "status": "not_applied",
-    "url": "https://gwma61.robertjob.web.id/?jobs=en-job-junior-software-engineer-entry-level-1779959342752",
-    "age": "4d",
+    "url": "https://bebee.com/us/jobs/entry-level-software-developer-web-development-jobleads-us-arlington-va--jooble--3701195335779485857",
+    "age": "5d",
     "is_internship": false
   },
   {
-    "id": 446591,
-    "company": "General Motors",
-    "role": "Infotainment Software Verification Engineer",
-    "location": "Warren, Michigan, United States of America",
+    "id": 442327,
+    "company": "Zoom",
+    "role": "Software Engineer",
+    "location": "Remote  (US)",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Infotainment-Software-Verification-Engineer_JR-202622242",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
-    "id": 447103,
-    "company": "Capital Data Systems",
-    "role": "Junior Software Engineer - Entry Level - No Experience Required",
-    "location": "Washington, District of Columbia, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://gwma61.robertjob.web.id/?jobs=en-job-junior-software-engineer-entry-level-1779959342752",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
-    "id": 445103,
-    "company": "Marigold",
-    "role": "Associate Software Engineer",
-    "location": "Remote, United States",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://campaignmonitor.wd5.myworkdayjobs.com/marigold/job/Remote-United-States/Associate-Software-Engineer_R2487",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
-    "id": 446528,
-    "company": "Duke Energy",
-    "role": "Associate IT Software Engineer",
-    "location": "Charlotte, NC",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://dukeenergy.wd1.myworkdayjobs.com/Search/job/Charlotte-NC/Associate-IT-Software-Engineer_R41973",
-    "age": "4d",
+    "url": "https://zoom.wd5.myworkdayjobs.com/Zoom/job/Remote--US/Software-Engineer_R19749-1",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -770,13 +792,13 @@
     "is_internship": false
   },
   {
-    "id": 447107,
-    "company": "Jobleads-US",
-    "role": "Entry Level -Software Developer - Web Development",
-    "location": "Arlington, Virginia, USA",
-    "source": "JSearch",
+    "id": 443838,
+    "company": "Vizient",
+    "role": "Quality Software Engineer",
+    "location": "Irving, TX 75062 Vizient Corporate HQ",
+    "source": "Workday",
     "status": "not_applied",
-    "url": "https://bebee.com/us/jobs/entry-level-software-developer-web-development-jobleads-us-arlington-va--jooble--3701195335779485857",
+    "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Quality-Software-Engineer_35367R",
     "age": "5d",
     "is_internship": false
   },
@@ -790,28 +812,6 @@
     "url": "https://bebee.com/us/jobs/software-engineer-intern-ai-cloud-projects-cvent-mclean-va-united-states--appcast-7428_f6d89c953bfabae0c592ba648cbd64b6a791379b15f0545f9c671daf68648c9d",
     "age": "5d",
     "is_internship": true
-  },
-  {
-    "id": 443838,
-    "company": "Vizient",
-    "role": "Quality Software Engineer",
-    "location": "Irving, TX 75062 Vizient Corporate HQ",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Quality-Software-Engineer_35367R",
-    "age": "5d",
-    "is_internship": false
-  },
-  {
-    "id": 442327,
-    "company": "Zoom",
-    "role": "Software Engineer",
-    "location": "Remote  (US)",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://zoom.wd5.myworkdayjobs.com/Zoom/job/Remote--US/Software-Engineer_R19749-1",
-    "age": "5d",
-    "is_internship": false
   },
   {
     "id": 447116,
@@ -922,16 +922,5 @@
     "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256686007",
     "age": "6d",
     "is_internship": true
-  },
-  {
-    "id": 437024,
-    "company": "Magnet Forensics",
-    "role": "SRE/DevOps Engineer",
-    "location": "United States",
-    "source": "Lever",
-    "status": "not_applied",
-    "url": "https://jobs.lever.co/magnetforensics/efd7e6e1-2cde-4010-8b75-b9500cfdf748",
-    "age": "6d",
-    "is_internship": false
   }
 ]
