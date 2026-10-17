@@ -28,7 +28,7 @@
 |---|---|---|---|---|---|---|
 | Aurora Innovation | Software Engineer II, Perception | Pittsburgh, PA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/aurora-operations-inc/70b6130c-1207-47bc-8bba-06ad3a1d4154) | 0d |
 | Zoox | Software Engineer, ML Training Performance | Foster City, CA | Lever | not_applied | [Apply](https://jobs.lever.co/zoox/91ff6263-49fb-421e-860f-36e7b9bae784) | 0d |
-| MintMCP | Software Engineer | San Mateo, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mintmcp/d9a53a1e-9724-4527-ab19-92c751814b04) | 0d |
+| MintMCP | Software Engineer | San Mateo, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mintmcp/d9a53a1e-9724-4527-ab19-92c751814b04) | 1d |
 | Accuray | Motion Controls & Robotics Software Engineer | Madison, WI | Workday | not_applied | [Apply](https://accuray.wd5.myworkdayjobs.com/External/job/Madison-WI/Motion-Controls---Robotics-Software-Engineer_3259-1) | 1d |
 | Acme Markets | Front End Entry Level | Flourtown, Pennsylvania, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-acme-markets-4480190336) | 1d |
 | Safeway | Front End Entry Level | Brookline, Massachusetts, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/front-end-entry-level-at-safeway-4480195047) | 1d |
@@ -36,8 +36,8 @@
 | Blueprint Technologies | Software Support Engineer, C#/.NET & SQL. | Redmond, WA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/bpcs/jobs/8287383) | 1d |
 | Verkada | Software Engineer, Platform Infrastructure | San Mateo, CA United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/verkada/jobs/4759062007) | 1d |
 | Schonfeld | Software Engineer | New York, New York, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8285213) | 1d |
-| Bedrock Robotics | Software Engineer, Fleet Platform | New York, NY | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/cbcf15d7-6f14-4270-b726-3bfa90242fc5) | 1d |
-| MintMCP | Software Engineer | San Mateo, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mintmcp/077296d4-ffab-4c00-b907-89d2caccd83b) | 1d |
+| Bedrock Robotics | Software Engineer, Fleet Platform | New York, NY | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/cbcf15d7-6f14-4270-b726-3bfa90242fc5) | 2d |
+| MintMCP | Software Engineer | San Mateo, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mintmcp/077296d4-ffab-4c00-b907-89d2caccd83b) | 2d |
 | U.S. Bank | Software Engineer 1 - ServiceNow - Financial Service Operations | Minneapolis, MN | Workday | not_applied | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Software-Engineer-1---ServiceNow---Financial-Service-Operations_2026-0030980-1) | 2d |
 | ASML | software application engineer | Austin, TX, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Austin-TX-USA/software-application-engineer_J-00355087-1) | 2d |
 | Booz Allen | Software Engineer, Mid | Wharton, NJ | Workday | not_applied | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Wharton-NJ/Software-Engineer--Mid_R0251705) | 2d |
@@ -49,7 +49,7 @@
 | Aurora Innovation | Software Engineer II, Core Services | Mountain View, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/aurora-operations-inc/bd2ac31d-c757-43fd-96d8-dc00f0e8cc3b) | 2d |
 | Woongjin | Java Back-end Developer  | Plano, TX, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WJCompany/744000155594499-java-back-end-developer-) | 2d |
 | Twitch | Software Engineer I | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8887222002) | 2d |
-| MintMCP | Software Engineer | San Mateo, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mintmcp/44363147-6de9-4271-bfa4-b0eac6542362) | 2d |
+| MintMCP | Software Engineer | San Mateo, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mintmcp/44363147-6de9-4271-bfa4-b0eac6542362) | 3d |
 | Snowflake | Software Engineer - Ingestion Execution Platform | US-WA-Bellevue | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/snowflake/b6fed204-3317-43ba-b87b-f045e4cf8d68) | 3d |
 | PacificSource | Software Developer II, Business Intelligence - Medical Management | Boise, ID | Workday | not_applied | [Apply](https://pacificsource.wd5.myworkdayjobs.com/PacificSource/job/Boise-ID/Software-Developer-II--Business-Intelligence---Medical-Management_2026-1283-1) | 3d |
 | Cisco | Site Reliability Engineer I (Full Time) — United States | RTP, North Carolina, US | Workday | not_applied | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Site-Reliability-Engineer-I--Full-Time----United-States_2028788) | 3d |
@@ -70,9 +70,9 @@
 | Re:Build Manufacturing | Production Engineer | Kalamazoo, MI | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4741976005) | 3d |
 | Zoox | Software Development Engineer in Test | Foster City, CA | Lever | not_applied | [Apply](https://jobs.lever.co/zoox/d3a7605d-7e6e-4361-bc00-04db50418c1e) | 3d |
 | Palantir | Forward Deployed Software Engineer - US Government | Laurel, MD | Lever | not_applied | [Apply](https://jobs.lever.co/palantir/29630180-0f10-4826-801f-12e226d3c7f1) | 3d |
-| Testlio | Freelancer Software Tester- Visit St. Louis Airport | United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/testlio/jobs/8278471) | 3d |
-| MintMCP | Software Engineer | San Mateo, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mintmcp/15ecdd98-1171-4e5d-8abb-b8ebe107ddd5) | 3d |
-| ElevenLabs | Full-Stack Engineer - ElevenAPI | United States | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/elevenlabs/108c99e6-ba2b-44a0-b830-7d535e14a152) | 3d |
+| Testlio | Freelancer Software Tester- Visit St. Louis Airport | United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/testlio/jobs/8278471) | 4d |
+| MintMCP | Software Engineer | San Mateo, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mintmcp/15ecdd98-1171-4e5d-8abb-b8ebe107ddd5) | 4d |
+| ElevenLabs | Full-Stack Engineer - ElevenAPI | United States | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/elevenlabs/108c99e6-ba2b-44a0-b830-7d535e14a152) | 4d |
 | Salesforce | Software Engineering LMTS - Data (Remote) | San Francisco, California, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/software-engineering-lmts-data-remote-at-salesforce-4478720933) | 4d |
 | Light & Wonder | Advanced Software Engineer | Las Vegas, NV | Workday | not_applied | [Apply](https://lnw.wd5.myworkdayjobs.com/LightWonderExternalCareers/job/Las-Vegas-NV/Advanced-Software-Engineer_R323045) | 4d |
 | Booz Allen | Artificial Intelligence Software Engineer | Aurora, CO | Workday | not_applied | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Artificial-Intelligence-Software-Engineer_R0251531) | 4d |
@@ -96,7 +96,7 @@
 | Palantir | Forward Deployed Software Engineer - US Government | Norfolk, VA | Lever | not_applied | [Apply](https://jobs.lever.co/palantir/5b0f37e6-8569-4a62-9e38-c5a4edc67dcf) | 4d |
 | Cintas | Software Engineer - Level 1 - Emerging Technology | Mason, Ohio, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/software-engineer-level-1-emerging-technology-at-cintas-4478578781) | 4d |
 | Lendbuzz | Software Engineer (Backend) | Boston, MA | Lever | not_applied | [Apply](https://jobs.lever.co/lendbuzz/0549ae13-05a2-497b-ba81-953c6ad50ef2) | 4d |
-| MintMCP | Software Engineer | San Mateo, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mintmcp/8dae46f3-0194-4f8e-b79b-986385589292) | 4d |
+| MintMCP | Software Engineer | San Mateo, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mintmcp/8dae46f3-0194-4f8e-b79b-986385589292) | 5d |
 | Acceldata | Software Engineer - Observability (Pulse) | Campbell, CA | Lever | not_applied | [Apply](https://jobs.lever.co/acceldata/c12c39cb-68c1-45ae-9a88-601e297957b1) | 5d |
 | General Motors | Infotainment Software Verification Engineer | Warren, Michigan, United States of America | Workday | not_applied | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Infotainment-Software-Verification-Engineer_JR-202622242) | 5d |
 | Astemo | Production Engineer | Berea, Kentucky, United States | Workday | not_applied | [Apply](https://astemo.wd102.myworkdayjobs.com/Global_Career_Site/job/Berea-Kentucky-United-States/Production-Engineer_J0052112) | 5d |
