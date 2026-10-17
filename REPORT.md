@@ -8,7 +8,7 @@
 |---|---|---|---|---|---|---|
 | Wellmark | Software Engineer Internship – Technology Health Plan | Des Moines, IA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000156043218-software-engineer-internship-technology-health-plan) | 0d |
 | Skydio | Manufacturing Software Engineer Intern - Winter 2027 | San Mateo, California, United States | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/skydio/ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb) | 2d |
-| Tenstorrent | Systems Intern - Validation, Software, Design, Architecture & Packaging (USA) | Austin, Texas, United States; Santa Clara, California, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264424007) | 2d |
+| Tenstorrent | Systems Intern - Validation, Software, Design, Architecture & Packaging (USA) | Austin, Texas, United States; Santa Clara, California, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264424007) | 3d |
 | IBM | AI Software Engineer Intern | Adelphi, Maryland, USA | JSearch | not_applied | [Apply](https://us.jobrapido.com/jobpreview/8450821358270545920) | 3d |
 | IBM | AI Software Engineer Intern | New York, New York, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/ai-software-engineer-intern-at-ibm-4478483666) | 3d |
 | IBM | AI Software Engineer Intern | Adelphi, Maryland, USA | JSearch | not_applied | [Apply](https://us.jobrapido.com/jobpreview/8450821358270545920) | 3d |
@@ -97,7 +97,7 @@
 | Cintas | Software Engineer - Level 1 - Emerging Technology | Mason, Ohio, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/software-engineer-level-1-emerging-technology-at-cintas-4478578781) | 4d |
 | Lendbuzz | Software Engineer (Backend) | Boston, MA | Lever | not_applied | [Apply](https://jobs.lever.co/lendbuzz/0549ae13-05a2-497b-ba81-953c6ad50ef2) | 4d |
 | MintMCP | Software Engineer | San Mateo, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mintmcp/8dae46f3-0194-4f8e-b79b-986385589292) | 4d |
-| Acceldata | Software Engineer - Observability (Pulse) | Campbell, CA | Lever | not_applied | [Apply](https://jobs.lever.co/acceldata/c12c39cb-68c1-45ae-9a88-601e297957b1) | 4d |
+| Acceldata | Software Engineer - Observability (Pulse) | Campbell, CA | Lever | not_applied | [Apply](https://jobs.lever.co/acceldata/c12c39cb-68c1-45ae-9a88-601e297957b1) | 5d |
 | General Motors | Infotainment Software Verification Engineer | Warren, Michigan, United States of America | Workday | not_applied | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Infotainment-Software-Verification-Engineer_JR-202622242) | 5d |
 | Astemo | Production Engineer | Berea, Kentucky, United States | Workday | not_applied | [Apply](https://astemo.wd102.myworkdayjobs.com/Global_Career_Site/job/Berea-Kentucky-United-States/Production-Engineer_J0052112) | 5d |
 | Hewlett Packard Enterprise | Software Development Engineer in Test | Spring, Texas, United States of America | Workday | not_applied | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Software-Development-Engineer-in-Test_1201925-2) | 5d |
