@@ -122,10 +122,10 @@
 | National Information Solutions Cooperative (NISC) | Software Developer - Provisioning (Back End, Java) | Mandan, ND or Cedar Rapids, IA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/nisc/jobs/8300670) | 4d |
 | impact.com | Full Stack Software Engineer | Columbus, OH | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/impact/jobs/8879720002) | 4d |
 | MintMCP | Software Engineer | San Mateo, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/mintmcp/dc911c27-5a3b-4dbf-96b6-e3cc36a2e005) | 4d |
-| Field AI | Robotics Software Engineer, Multimodal Inspection | Irvine, CA | Lever | not_applied | [Apply](https://jobs.lever.co/field-ai/0a93ca47-2272-465f-8b33-110fbd313e1e) | 4d |
-| Field AI | Robotics Software Engineer, Mission Evaluation & Fine-Tuning | Irvine, CA | Lever | not_applied | [Apply](https://jobs.lever.co/field-ai/abf562d8-5357-4ba5-81e4-d606cc9043c1) | 4d |
-| Anthropic | Software Engineer, Memory & Search | New York City, NY; New York City, NY \| Seattle, WA; Remote-Friendly, United States; San Francisco, CA \| New York City, NY \| Seattle, WA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5456453008) | 4d |
-| Field AI | Robotics Software Engineer, Vision-Language Reasoning & Behaviors | Irvine, CA | Lever | not_applied | [Apply](https://jobs.lever.co/field-ai/d2ddbe50-e1ab-4724-8ca2-467f80e00b1f) | 4d |
+| Field AI | Robotics Software Engineer, Multimodal Inspection | Irvine, CA | Lever | not_applied | [Apply](https://jobs.lever.co/field-ai/0a93ca47-2272-465f-8b33-110fbd313e1e) | 5d |
+| Field AI | Robotics Software Engineer, Mission Evaluation & Fine-Tuning | Irvine, CA | Lever | not_applied | [Apply](https://jobs.lever.co/field-ai/abf562d8-5357-4ba5-81e4-d606cc9043c1) | 5d |
+| Anthropic | Software Engineer, Memory & Search | New York City, NY; New York City, NY \| Seattle, WA; Remote-Friendly, United States; San Francisco, CA \| New York City, NY \| Seattle, WA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5456453008) | 5d |
+| Field AI | Robotics Software Engineer, Vision-Language Reasoning & Behaviors | Irvine, CA | Lever | not_applied | [Apply](https://jobs.lever.co/field-ai/d2ddbe50-e1ab-4724-8ca2-467f80e00b1f) | 5d |
 | U.S. Bank | Software Engineer 2 (TravelBank) | Irving, TX | Workday | not_applied | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irving-TX/Software-Engineer-2--TravelBank-_2026-0032330-1) | 5d |
 | Viavi Solutions | Software QA Engineer | Indianapolis, IN USA | Workday | not_applied | [Apply](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Indianapolis-IN-USA/Software-QA-Engineer_260005182-1) | 5d |
 | TJX | Front End Supervisor | Onalaska, WI 54650 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Onalaska-WI-54650/Front-End-Supervisor_REQ169286-1) | 5d |
