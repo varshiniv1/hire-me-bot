@@ -38,7 +38,7 @@
 | Compeer Financial | Software Engineer | IL-Bloomington, WI-Sun Prairie; MN-Mankato | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/compeerfinancial/jobs/5467096008) | 0d |
 | Brillio | FullStack Developer - R01573043 | Dallas, Texas, United States | Lever | not_applied | [Apply](https://jobs.lever.co/brillio-2/57b4a0b7-4d59-4eb3-a301-c18be669a8bc) | 0d |
 | xAI | Software Engineer, Imagine Safety |  Palo Alto, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/5151022007) | 0d |
-| xAI | Software Engineer, Post-Training & RL |  Palo Alto, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/5114737007) | 0d |
+| xAI | Software Engineer, Post-Training & RL |  Palo Alto, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/5114737007) | 1d |
 | FICO | Software Engineering – Data Engineer (Python & Cloud Databases) | Work from Home, United States | Workday | not_applied | [Apply](https://fico.wd1.myworkdayjobs.com/External/job/Work-from-Home-United-States/Software-Engineering---Data-Engineer--Python---Cloud-Databases-_32363) | 1d |
 | Cisco | Software QA Engineer I (Full Time) - United States | Richardson, Texas, US | Workday | not_applied | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Richardson-Texas-US/Software-QA-Engineer-I--Full-Time----United-States_2030253) | 1d |
 | Hewlett Packard Enterprise | HPC Software & Storage Engineering Strategist | Ft. Collins, Colorado, United States of America | Workday | not_applied | [Apply](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Ft-Collins-Colorado-United-States-of-America/HPC-Software---Storage-Engineering-Strategist_1216872) | 1d |
