@@ -1,5 +1,27 @@
 [
   {
+    "id": 502558,
+    "company": "Chime",
+    "role": "Software Engineer, Membership Experience",
+    "location": "San Francisco, CA, USA",
+    "source": "Greenhouse",
+    "status": "not_applied",
+    "url": "https://boards.greenhouse.io/chime/jobs/8922481002?gh_jid=8922481002",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
+    "id": 502555,
+    "company": "Chime",
+    "role": "Software Engineer, Jade - AI Financial Partner",
+    "location": "San Francisco, CA, USA",
+    "source": "Greenhouse",
+    "status": "not_applied",
+    "url": "https://boards.greenhouse.io/chime/jobs/8868948002?gh_jid=8868948002",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
     "id": 502163,
     "company": "The New York Times",
     "role": "Backend Engineering Intern, Wirecutter",
@@ -33,6 +55,39 @@
     "is_internship": false
   },
   {
+    "id": 501514,
+    "company": "Amazon",
+    "role": "Software Development Engineer",
+    "location": "Cupertino, California, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10593872/apply",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 503108,
+    "company": "Walmart",
+    "role": "(USA) Front End Coach",
+    "location": "(USA) GA BUFORD 03786 WM SUPERCENTER",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-GA-BUFORD-03786-WM-SUPERCENTER/XMLNAME--USA--Front-End-Coach_R-2693477-1",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 502444,
+    "company": "Amazon",
+    "role": "Software Development Engineer (Database) Early Career- 2027 (US)",
+    "location": "Seattle, Washington, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10593902/apply",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
     "id": 502284,
     "company": "TJX",
     "role": "Customer Experience Coordinator/ FRONT END",
@@ -40,7 +95,7 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/San-Marcos-TX-78666/Customer-Experience-Coordinator--FRONT-END_REQ172722",
-    "age": "0d",
+    "age": "1d",
     "is_internship": false
   },
   {
@@ -51,7 +106,7 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://ivytech.wd1.myworkdayjobs.com/Ivy_Tech_Careers/job/Lafayette-IN/Adjunct---Software-Development_JR0000110024",
-    "age": "0d",
+    "age": "1d",
     "is_internship": false
   },
   {
@@ -62,18 +117,7 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/San-Jose-California-United-States-of-America/Cloud-Software-Engineer--San-Jose--California-_1215655",
-    "age": "0d",
-    "is_internship": false
-  },
-  {
-    "id": 501514,
-    "company": "Amazon",
-    "role": "Software Development Engineer",
-    "location": "Cupertino, California, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10593872/apply",
-    "age": "0d",
+    "age": "1d",
     "is_internship": false
   },
   {
@@ -84,7 +128,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/usafacts/jobs/4472154009",
-    "age": "0d",
+    "age": "1d",
     "is_internship": true
   },
   {
@@ -106,95 +150,18 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/System-Software-Engineer---Distributed-Computing_2642720",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
   },
   {
-    "id": 498104,
-    "company": "Axcelis Technologies, Inc.",
-    "role": "Software Quality Assurance Engineer",
-    "location": "Beverly, MA",
+    "id": 499233,
+    "company": "Ken Garff Auto Group",
+    "role": "Dealership Software Specialist",
+    "location": "Garff Enterprises Corporate Office - Salt Lake City, UT",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://axcelis.wd1.myworkdayjobs.com/Axcelis/job/Beverly-MA/Software-Quality-Assurance-Engineer_12107",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 498238,
-    "company": "DraftKings",
-    "role": "Software Engineer (December 2026 Grads)",
-    "location": "Boston, MA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Software-Engineer--December-2026-Grads-_JR15389",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 498064,
-    "company": "Argonne National Laboratory",
-    "role": "Postbaccalaureate Appointee - Robotics Software Developer, Rapid Prototyping Laboratory",
-    "location": "Lemont, IL USA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postbaccalaureate-Appointee---Robotics-Software-Developer--Rapid-Prototyping-Laboratory_423629-1",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 498911,
-    "company": "Amazon",
-    "role": "Software Development Engineer",
-    "location": "Cupertino, California, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10592066/apply",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 498913,
-    "company": "Amazon",
-    "role": "Software Development Engineer, Audible AI Voice Production ",
-    "location": "Culver City, California, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10592978/apply",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 499134,
-    "company": "Ferrovial",
-    "role": "Webber - Frontend Loader Operator - Heavy Civil (Paving)",
-    "location": "Irving, TX",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Irving-TX/Webber---Frontend-Loader-Operator---Heavy-Civil--Paving-_JR20159",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 499185,
-    "company": "Hewlett Packard Enterprise",
-    "role": "HPC Software & Storage Engineering Strategist",
-    "location": "Ft. Collins, Colorado, United States of America",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Ft-Collins-Colorado-United-States-of-America/HPC-Software---Storage-Engineering-Strategist_1216872",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 499205,
-    "company": "Insperity",
-    "role": "Associate Software Implementation Analyst",
-    "location": "Dallas, TX",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://insperity.wd12.myworkdayjobs.com/NSP/job/Dallas-TX/Associate-Software-Implementation-Analyst_JR103477",
-    "age": "1d",
+    "url": "https://kengarff.wd1.myworkdayjobs.com/External_Site/job/Garff-Enterprises-Corporate-Office---Salt-Lake-City-UT/Dealership-Software-Specialist_R0043912-1",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -205,18 +172,95 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Digital-Design-Backend-Engineering-Intern--3D-and-AI-Flows_JR-2604355",
-    "age": "1d",
+    "age": "2d",
     "is_internship": true
   },
   {
-    "id": 499233,
-    "company": "Ken Garff Auto Group",
-    "role": "Dealership Software Specialist",
-    "location": "Garff Enterprises Corporate Office - Salt Lake City, UT",
+    "id": 499205,
+    "company": "Insperity",
+    "role": "Associate Software Implementation Analyst",
+    "location": "Dallas, TX",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://kengarff.wd1.myworkdayjobs.com/External_Site/job/Garff-Enterprises-Corporate-Office---Salt-Lake-City-UT/Dealership-Software-Specialist_R0043912-1",
-    "age": "1d",
+    "url": "https://insperity.wd12.myworkdayjobs.com/NSP/job/Dallas-TX/Associate-Software-Implementation-Analyst_JR103477",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 499185,
+    "company": "Hewlett Packard Enterprise",
+    "role": "HPC Software & Storage Engineering Strategist",
+    "location": "Ft. Collins, Colorado, United States of America",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Ft-Collins-Colorado-United-States-of-America/HPC-Software---Storage-Engineering-Strategist_1216872",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 499134,
+    "company": "Ferrovial",
+    "role": "Webber - Frontend Loader Operator - Heavy Civil (Paving)",
+    "location": "Irving, TX",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Irving-TX/Webber---Frontend-Loader-Operator---Heavy-Civil--Paving-_JR20159",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 498913,
+    "company": "Amazon",
+    "role": "Software Development Engineer, Audible AI Voice Production ",
+    "location": "Culver City, California, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10592978/apply",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 498911,
+    "company": "Amazon",
+    "role": "Software Development Engineer",
+    "location": "Cupertino, California, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10592066/apply",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 498064,
+    "company": "Argonne National Laboratory",
+    "role": "Postbaccalaureate Appointee - Robotics Software Developer, Rapid Prototyping Laboratory",
+    "location": "Lemont, IL USA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postbaccalaureate-Appointee---Robotics-Software-Developer--Rapid-Prototyping-Laboratory_423629-1",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 498104,
+    "company": "Axcelis Technologies, Inc.",
+    "role": "Software Quality Assurance Engineer",
+    "location": "Beverly, MA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://axcelis.wd1.myworkdayjobs.com/Axcelis/job/Beverly-MA/Software-Quality-Assurance-Engineer_12107",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 498238,
+    "company": "DraftKings",
+    "role": "Software Engineer (December 2026 Grads)",
+    "location": "Boston, MA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Software-Engineer--December-2026-Grads-_JR15389",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -341,47 +385,14 @@
     "is_internship": false
   },
   {
-    "id": 495709,
-    "company": "Light & Wonder",
-    "role": "Associate Software Engineer",
-    "location": "Las Vegas, NV",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://lnw.wd5.myworkdayjobs.com/LightWonderExternalCareers/job/Las-Vegas-NV/Associate-Software-Engineer_R322981",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 497514,
-    "company": "Hewlett Packard",
-    "role": "Software Quality Assurance Intern",
-    "location": "San Francisco, California, United States of America",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802-1",
-    "age": "2d",
-    "is_internship": true
-  },
-  {
-    "id": 497513,
-    "company": "Hewlett Packard",
+    "id": 497509,
+    "company": "Hewlett Packard (HP)",
     "role": "Software Engineering Intern - HP IQ",
     "location": "San Francisco, California, United States of America",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806-1",
-    "age": "2d",
-    "is_internship": true
-  },
-  {
-    "id": 497512,
-    "company": "Hewlett Packard",
-    "role": "Software Product Security Intern - HP IQ",
-    "location": "San Francisco, California, United States of America",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Product-Security-Intern---HP-IQ_UNI4810-2",
-    "age": "2d",
+    "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806",
+    "age": "3d",
     "is_internship": true
   },
   {
@@ -392,19 +403,8 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/FLS-Production-Engineer---Optical-Alignment---Metrology-Competency--CWW---D2-_J-00344928",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
-  },
-  {
-    "id": 497511,
-    "company": "Hewlett Packard",
-    "role": "Software Engineering Intern, Connectivity - HP IQ",
-    "location": "San Francisco, California, United States of America",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Connectivity---HP-IQ_UNI4812-1",
-    "age": "2d",
-    "is_internship": true
   },
   {
     "id": 495552,
@@ -414,7 +414,7 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://usbank.wd1.myworkdayjobs.com/Elavon_Careers/job/Remote-MS/Elavon-Software-Technical-Support-Tier-2---Escalation-Support_2026-0033151-1",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -425,41 +425,19 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Software-Engineer-IIs--Backend-Microservices-Architecture--Cloud-AWS-_JR0310828",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
-    "id": 497510,
-    "company": "Hewlett Packard (HP)",
-    "role": "Software Quality Assurance Intern",
-    "location": "San Francisco, California, United States of America",
+    "id": 495709,
+    "company": "Light & Wonder",
+    "role": "Associate Software Engineer",
+    "location": "Las Vegas, NV",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802",
-    "age": "2d",
-    "is_internship": true
-  },
-  {
-    "id": 497509,
-    "company": "Hewlett Packard (HP)",
-    "role": "Software Engineering Intern - HP IQ",
-    "location": "San Francisco, California, United States of America",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806",
-    "age": "2d",
-    "is_internship": true
-  },
-  {
-    "id": 497508,
-    "company": "Hewlett Packard (HP)",
-    "role": "Software Product Security Intern - HP IQ",
-    "location": "San Francisco, California, United States of America",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Product-Security-Intern---HP-IQ_UNI4810-1",
-    "age": "2d",
-    "is_internship": true
+    "url": "https://lnw.wd5.myworkdayjobs.com/LightWonderExternalCareers/job/Las-Vegas-NV/Associate-Software-Engineer_R322981",
+    "age": "3d",
+    "is_internship": false
   },
   {
     "id": 496134,
@@ -469,8 +447,74 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Oxford-AL-36203/Full-Time-Customer-Experience-Coordinator-Front-End-Supervisor_REQ172318-1",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
+  },
+  {
+    "id": 497508,
+    "company": "Hewlett Packard (HP)",
+    "role": "Software Product Security Intern - HP IQ",
+    "location": "San Francisco, California, United States of America",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Product-Security-Intern---HP-IQ_UNI4810-1",
+    "age": "3d",
+    "is_internship": true
+  },
+  {
+    "id": 497510,
+    "company": "Hewlett Packard (HP)",
+    "role": "Software Quality Assurance Intern",
+    "location": "San Francisco, California, United States of America",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802",
+    "age": "3d",
+    "is_internship": true
+  },
+  {
+    "id": 497511,
+    "company": "Hewlett Packard",
+    "role": "Software Engineering Intern, Connectivity - HP IQ",
+    "location": "San Francisco, California, United States of America",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Connectivity---HP-IQ_UNI4812-1",
+    "age": "3d",
+    "is_internship": true
+  },
+  {
+    "id": 497512,
+    "company": "Hewlett Packard",
+    "role": "Software Product Security Intern - HP IQ",
+    "location": "San Francisco, California, United States of America",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Product-Security-Intern---HP-IQ_UNI4810-2",
+    "age": "3d",
+    "is_internship": true
+  },
+  {
+    "id": 497513,
+    "company": "Hewlett Packard",
+    "role": "Software Engineering Intern - HP IQ",
+    "location": "San Francisco, California, United States of America",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806-1",
+    "age": "3d",
+    "is_internship": true
+  },
+  {
+    "id": 497514,
+    "company": "Hewlett Packard",
+    "role": "Software Quality Assurance Intern",
+    "location": "San Francisco, California, United States of America",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802-1",
+    "age": "3d",
+    "is_internship": true
   },
   {
     "id": 497507,
@@ -480,7 +524,7 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Connectivity---HP-IQ_UNI4812",
-    "age": "2d",
+    "age": "3d",
     "is_internship": true
   },
   {
@@ -491,7 +535,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/5277747007",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -594,36 +638,47 @@
     "is_internship": false
   },
   {
-    "id": 494326,
-    "company": "TJX",
-    "role": "Front End Coordinator",
-    "location": "Bellingham, WA 98226",
+    "id": 493884,
+    "company": "Cisco",
+    "role": "Software Engineer",
+    "location": "Milpitas, California, US",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Bellingham-WA-98226/Front-End-Coordinator_REQ172183-1",
-    "age": "3d",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Software-Engineer_2027515-1",
+    "age": "4d",
     "is_internship": false
   },
   {
-    "id": 492591,
+    "id": 492595,
     "company": "Visa",
-    "role": "2027 Sophomore Internship Program - Software Engineer Intern, Highlands Ranch",
-    "location": "US - Denver, CO",
+    "role": "Software Engineer, Intern - 2027 Ashburn, VA",
+    "location": "US - Ashburn, VA",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF089880W-1",
-    "age": "3d",
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF089879W-1",
+    "age": "4d",
     "is_internship": true
   },
   {
-    "id": 492592,
-    "company": "Visa",
-    "role": "2027 Sophomore Internship Program - Software Engineer Intern, Austin, TX - 2027",
-    "location": "US - Austin, TX",
+    "id": 493800,
+    "company": "General Motors",
+    "role": "Software Verification Engineer, AV Platform (Early Career)",
+    "location": "Milford, Michigan, United States of America",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W-1",
-    "age": "3d",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Verification-Engineer--AV-Platform--Early-Career-_JR-202611592",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 492594,
+    "company": "Visa",
+    "role": "2027 Sophomore Internship Program - Software Engineer Intern, Foster City",
+    "location": "US - Foster City, CA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF089919W-1",
+    "age": "4d",
     "is_internship": true
   },
   {
@@ -634,84 +689,40 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF089920W-2",
-    "age": "3d",
+    "age": "4d",
     "is_internship": true
   },
   {
-    "id": 492594,
+    "id": 492592,
     "company": "Visa",
-    "role": "2027 Sophomore Internship Program - Software Engineer Intern, Foster City",
-    "location": "US - Foster City, CA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF089919W-1",
-    "age": "3d",
-    "is_internship": true
-  },
-  {
-    "id": 492595,
-    "company": "Visa",
-    "role": "Software Engineer, Intern - 2027 Ashburn, VA",
-    "location": "US - Ashburn, VA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF089879W-1",
-    "age": "3d",
-    "is_internship": true
-  },
-  {
-    "id": 492596,
-    "company": "Visa",
-    "role": "Software Engineer, Intern - Foster City 2027",
-    "location": "US - Foster City, CA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF089875W-1",
-    "age": "3d",
-    "is_internship": true
-  },
-  {
-    "id": 492597,
-    "company": "Visa",
-    "role": "Software Engineer, Intern - 2027 Austin, TX",
+    "role": "2027 Sophomore Internship Program - Software Engineer Intern, Austin, TX - 2027",
     "location": "US - Austin, TX",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W-1",
-    "age": "3d",
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W-1",
+    "age": "4d",
     "is_internship": true
   },
   {
-    "id": 492525,
-    "company": "SWBC",
-    "role": "Software Engineer",
-    "location": "San Antonio, TX",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Software-Engineer_R0015707-1",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 492590,
+    "id": 492591,
     "company": "Visa",
-    "role": "2027 Sophomore Internship Program - Software Engineer Intern, Ashburn",
-    "location": "US - Ashburn, VA",
+    "role": "2027 Sophomore Internship Program - Software Engineer Intern, Highlands Ranch",
+    "location": "US - Denver, CO",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF089878W-1",
-    "age": "3d",
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF089880W-1",
+    "age": "4d",
     "is_internship": true
   },
   {
-    "id": 492971,
-    "company": "Fidelity National Information Services",
-    "role": "Site Reliability Engineer Leads",
-    "location": "US FL JAX 347",
-    "source": "Workday",
+    "id": 493565,
+    "company": "Amazon",
+    "role": "Software Development Engineer II, SageMaker HyperPod Data Plane",
+    "location": "Santa Clara, California, USA",
+    "source": "amazon",
     "status": "not_applied",
-    "url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Site-Reliability-Engineer-Leads_JR0310763",
-    "age": "3d",
+    "url": "https://account.amazon.jobs/jobs/10589106/apply",
+    "age": "4d",
     "is_internship": false
   },
   {
@@ -722,62 +733,18 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Associate-Software-Implementation-Analyst_JR103439",
-    "age": "3d",
+    "age": "4d",
     "is_internship": false
   },
   {
-    "id": 493565,
-    "company": "Amazon",
-    "role": "Software Development Engineer II, SageMaker HyperPod Data Plane",
-    "location": "Santa Clara, California, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10589106/apply",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 493800,
-    "company": "General Motors",
-    "role": "Software Verification Engineer, AV Platform (Early Career)",
-    "location": "Milford, Michigan, United States of America",
+    "id": 492971,
+    "company": "Fidelity National Information Services",
+    "role": "Site Reliability Engineer Leads",
+    "location": "US FL JAX 347",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Verification-Engineer--AV-Platform--Early-Career-_JR-202611592",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 493884,
-    "company": "Cisco",
-    "role": "Software Engineer",
-    "location": "Milpitas, California, US",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Software-Engineer_2027515-1",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 494104,
-    "company": "Ryder System",
-    "role": "Software Engineer - Infrastructure",
-    "location": "USA - San Francisco CA Grove St",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://ryder.wd5.myworkdayjobs.com/RyderCareers/job/USA---San-Francisco-CA-Grove-St/Software-Engineer---Infrastructure_R187899",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 494327,
-    "company": "TJX",
-    "role": "Portsmouth, NH/Part Time/Front End Cashier",
-    "location": "Portsmouth, NH 03801",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Portsmouth-NH-03801/Portsmouth--NH-Part-Time-Front-End-Cashier_REQ172066",
-    "age": "3d",
+    "url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Site-Reliability-Engineer-Leads_JR0310763",
+    "age": "4d",
     "is_internship": false
   },
   {
@@ -788,7 +755,7 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Batavia-IL-60510/Front-End-Coordinator_REQ171860",
-    "age": "3d",
+    "age": "4d",
     "is_internship": false
   },
   {
@@ -799,28 +766,83 @@
     "source": "amazon",
     "status": "not_applied",
     "url": "https://account.amazon.jobs/jobs/10590535/apply",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 494330,
-    "company": "TJX",
-    "role": "Front End Cashier - HomeGoods Fox Chapel",
-    "location": "Pittsburgh, PA 15238",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Pittsburgh-PA-15238/Front-End-Cashier---HomeGoods-Fox-Chapel_REQ171657",
     "age": "4d",
     "is_internship": false
   },
   {
-    "id": 489536,
-    "company": "ASML",
-    "role": "Optical Fabrication Technician CWW Front End Days 6 am \u2013 6pm (Sunday, Monday, Tuesday, alternate Wednesday)",
-    "location": "Wilton, CT, USA",
+    "id": 494327,
+    "company": "TJX",
+    "role": "Portsmouth, NH/Part Time/Front End Cashier",
+    "location": "Portsmouth, NH 03801",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-CWW-Front-End-Days-6-am---6pm--Sunday--Monday--Tuesday--alternate-Wednesday-_J-00354555",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Portsmouth-NH-03801/Portsmouth--NH-Part-Time-Front-End-Cashier_REQ172066",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 492597,
+    "company": "Visa",
+    "role": "Software Engineer, Intern - 2027 Austin, TX",
+    "location": "US - Austin, TX",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W-1",
+    "age": "4d",
+    "is_internship": true
+  },
+  {
+    "id": 494326,
+    "company": "TJX",
+    "role": "Front End Coordinator",
+    "location": "Bellingham, WA 98226",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Bellingham-WA-98226/Front-End-Coordinator_REQ172183-1",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 494104,
+    "company": "Ryder System",
+    "role": "Software Engineer - Infrastructure",
+    "location": "USA - San Francisco CA Grove St",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://ryder.wd5.myworkdayjobs.com/RyderCareers/job/USA---San-Francisco-CA-Grove-St/Software-Engineer---Infrastructure_R187899",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 492596,
+    "company": "Visa",
+    "role": "Software Engineer, Intern - Foster City 2027",
+    "location": "US - Foster City, CA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF089875W-1",
+    "age": "4d",
+    "is_internship": true
+  },
+  {
+    "id": 492590,
+    "company": "Visa",
+    "role": "2027 Sophomore Internship Program - Software Engineer Intern, Ashburn",
+    "location": "US - Ashburn, VA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF089878W-1",
+    "age": "4d",
+    "is_internship": true
+  },
+  {
+    "id": 492525,
+    "company": "SWBC",
+    "role": "Software Engineer",
+    "location": "San Antonio, TX",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Software-Engineer_R0015707-1",
     "age": "4d",
     "is_internship": false
   },
@@ -832,7 +854,7 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Kirkwood-MO-63122/Front-End--Coordinator_REQ171747-1",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -843,7 +865,7 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://freight.wd108.myworkdayjobs.com/FXF_External_Career_Site/job/FXF-USUSAFXFMHQMemphis-Headquarters/Advisor-Software-Engineer_RC5248",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -854,17 +876,28 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/CNC-Optical-Fabrication-Technician-CWW-Back-End-Nights--6-00-PM---6-00-AM--Wednesday--Thursday--Friday--and-every-other-Saturday-15--Differential_J-00355590",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
-    "id": 495279,
-    "company": "Albertsons",
-    "role": "Front End Entry Level",
-    "location": "Rowlett, Texas, USA",
-    "source": "JSearch",
+    "id": 489536,
+    "company": "ASML",
+    "role": "Optical Fabrication Technician CWW Front End Days 6 am \u2013 6pm (Sunday, Monday, Tuesday, alternate Wednesday)",
+    "location": "Wilton, CT, USA",
+    "source": "Workday",
     "status": "not_applied",
-    "url": "https://www.ziprecruiter.com/c/Albertsons/Job/Front-End-Entry-Level/-in-Rowlett,TX?jid=762d900731df97ed",
+    "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-CWW-Front-End-Days-6-am---6pm--Sunday--Monday--Tuesday--alternate-Wednesday-_J-00354555",
+    "age": "5d",
+    "is_internship": false
+  },
+  {
+    "id": 494330,
+    "company": "TJX",
+    "role": "Front End Cashier - HomeGoods Fox Chapel",
+    "location": "Pittsburgh, PA 15238",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Pittsburgh-PA-15238/Front-End-Cashier---HomeGoods-Fox-Chapel_REQ171657",
     "age": "5d",
     "is_internship": false
   },
@@ -876,61 +909,17 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/American-Fork-UT-84003/Part-Time-Front-End-Associate_REQ171279",
-    "age": "5d",
+    "age": "6d",
     "is_internship": false
   },
   {
-    "id": 495274,
-    "company": "Realm",
-    "role": "Entry Level -Software Developer - Web Development",
-    "location": "New York, New York, USA",
+    "id": 495279,
+    "company": "Albertsons",
+    "role": "Front End Entry Level",
+    "location": "Rowlett, Texas, USA",
     "source": "JSearch",
     "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/entry-level-software-developer-web-development-at-realm-4481023871",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 495276,
-    "company": "Realm",
-    "role": "Entry Level -Software Developer - Web Development",
-    "location": "New York, New York, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/entry-level-software-developer-web-development-at-realm-4481023871",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 482661,
-    "company": "Hy-Vee",
-    "role": "Front End Checker",
-    "location": "Eldora,  Edington Avenue, Eldora, IA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Eldora--Edington-Avenue-Eldora-IA/Front-End-Checker_R258603",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 481016,
-    "company": "Mercury",
-    "role": "Frontend Engineer - Design Systems",
-    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-    "source": "Greenhouse",
-    "status": "not_applied",
-    "url": "https://job-boards.greenhouse.io/mercury/jobs/6233910004",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 480906,
-    "company": "GitLab",
-    "role": "Backend Engineer, Knowledge Graph (Rust)",
-    "location": "Remote, Canada; Remote, United States",
-    "source": "Greenhouse",
-    "status": "not_applied",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8771512002",
+    "url": "https://www.ziprecruiter.com/c/Albertsons/Job/Front-End-Entry-Level/-in-Rowlett,TX?jid=762d900731df97ed",
     "age": "6d",
     "is_internship": false
   }
