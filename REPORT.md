@@ -36,7 +36,7 @@
 | Chime | Software Engineer, Membership Experience | San Francisco, CA, USA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/chime/jobs/8922481002?gh_jid=8922481002) | 0d |
 | Chime | Software Engineer, Jade - AI Financial Partner | San Francisco, CA, USA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/chime/jobs/8868948002?gh_jid=8868948002) | 0d |
 | AnaVation | Mid-level Full Stack Developer (Java/Spring) | Chantilly, VA | Lever | not_applied | [Apply](https://jobs.lever.co/anavationllc/02dae22d-57cc-4200-ae32-c609f9cc77df) | 0d |
-| Niantic Spatial | Software Engineer, Infrastructure | San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/niantic-spatial/038011fd-5fe3-4b7f-863c-919b2af28597) | 0d |
+| Niantic Spatial | Software Engineer, Infrastructure | San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/niantic-spatial/038011fd-5fe3-4b7f-863c-919b2af28597) | 1d |
 | Ivy Tech Community College | Adjunct - Software Development | Lafayette, IN | Workday | not_applied | [Apply](https://ivytech.wd1.myworkdayjobs.com/Ivy_Tech_Careers/job/Lafayette-IN/Adjunct---Software-Development_JR0000110024) | 1d |
 | Hewlett Packard Enterprise | Cloud Software Engineer (San Jose, California) | San Jose, California, United States of America | Workday | not_applied | [Apply](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/San-Jose-California-United-States-of-America/Cloud-Software-Engineer--San-Jose--California-_1215655) | 1d |
 | Amazon | Software Development Engineer | Cupertino, California, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10593872/apply) | 1d |
@@ -46,7 +46,7 @@
 | xAI | Software Engineer, Evaluation Infrastructure |  Palo Alto, CA | Greenhouse | dismissed | [Apply](https://job-boards.greenhouse.io/xai/jobs/5252714007) | 1d |
 | Interco | Junior Software Developer | St. Louis, MO, us | SmartRecruiters | applied | [Apply](https://jobs.smartrecruiters.com/Interco/744000158582219-junior-software-developer) | 1d |
 | Nimble Robotics | Software Engineer, Nimble Brain | San Francisco, CA | Greenhouse | applied | [Apply](https://job-boards.greenhouse.io/nimblerobotics/jobs/4472953009) | 1d |
-| Compeer Financial | Software Engineer | IL-Bloomington, WI-Sun Prairie; MN-Mankato | Greenhouse | applied | [Apply](https://job-boards.greenhouse.io/compeerfinancial/jobs/5467096008) | 1d |
+| Compeer Financial | Software Engineer | IL-Bloomington, WI-Sun Prairie; MN-Mankato | Greenhouse | applied | [Apply](https://job-boards.greenhouse.io/compeerfinancial/jobs/5467096008) | 2d |
 | Brillio | FullStack Developer - R01573043 | Dallas, Texas, United States | Lever | applied | [Apply](https://jobs.lever.co/brillio-2/57b4a0b7-4d59-4eb3-a301-c18be669a8bc) | 2d |
 | xAI | Software Engineer, Imagine Safety |  Palo Alto, CA | Greenhouse | applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/5151022007) | 2d |
 | xAI | Software Engineer, Post-Training & RL |  Palo Alto, CA | Greenhouse | applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/5114737007) | 2d |
@@ -68,9 +68,9 @@
 | The Pokémon Company | Software Development Engineer in Test (12-month Fixed Term) | Bellevue, Washington, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/pokemoncareers/jobs/8043351003) | 2d |
 | Crown Innovations | Software Verification & Test Engineer | Arlington, VA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/CrownInnovationsInc/744000158371809-software-verification-test-engineer) | 2d |
 | Glean | Software Engineer, University Grad | Mountain View, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/gleanwork/jobs/4748567005) | 2d |
-| Zoox | Contract Student Worker - Software Engineer (40 hrs/wk) | Foster City, CA | Lever | not_applied | [Apply](https://jobs.lever.co/zoox/67982bee-811b-453b-8596-b53c13f7a78d) | 2d |
-| Inspire | Software Engineer - Medical Device Software | Minneapolis, MN | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/inspiremedicalsystemsinc/jobs/5459650008?gh_jid=5459650008) | 2d |
-| Inspire Medical Systems | Software Engineer - Medical Device Software | Minneapolis, MN | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/inspiremedicalsystemsinc/jobs/5459650008?gh_jid=5459650008) | 2d |
+| Zoox | Contract Student Worker - Software Engineer (40 hrs/wk) | Foster City, CA | Lever | not_applied | [Apply](https://jobs.lever.co/zoox/67982bee-811b-453b-8596-b53c13f7a78d) | 3d |
+| Inspire | Software Engineer - Medical Device Software | Minneapolis, MN | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/inspiremedicalsystemsinc/jobs/5459650008?gh_jid=5459650008) | 3d |
+| Inspire Medical Systems | Software Engineer - Medical Device Software | Minneapolis, MN | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/inspiremedicalsystemsinc/jobs/5459650008?gh_jid=5459650008) | 3d |
 | xAI | Software Engineer, Imagine Product |  Palo Alto, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/5052027007) | 3d |
 | xAI | Software Engineer, Imagine Model |  Palo Alto, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/5051985007) | 3d |
 | xAI | Software Engineer, Grok Product |  Palo Alto, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/5051984007) | 3d |
@@ -88,9 +88,9 @@
 | xAI | Software Engineer, iOS |  Palo Alto, CA; New York, NY | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/4985386007) | 3d |
 | Anduril | Infra Software Engineer, Agentic Runtime | Washington, District of Columbia, United States | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5211164007?gh_jid=5211164007) | 3d |
 | Anduril | Mission Software Engineer, Ground | USA | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5145121007?gh_jid=5145121007) | 3d |
-| Affirm | Software Engineer II - CIAM | Remote US | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8040751003) | 3d |
-| Trace3 | Software Engineer / Scrum Master - PLNR (26-394) | Colorado Springs, CO | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8304333) | 3d |
-| Avery Dennison | Label Machine Operator - Front End Nightshift | Charlotte, NC, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000158037838-label-machine-operator-front-end-nightshift) | 3d |
+| Affirm | Software Engineer II - CIAM | Remote US | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8040751003) | 4d |
+| Trace3 | Software Engineer / Scrum Master - PLNR (26-394) | Colorado Springs, CO | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8304333) | 4d |
+| Avery Dennison | Label Machine Operator - Front End Nightshift | Charlotte, NC, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000158037838-label-machine-operator-front-end-nightshift) | 4d |
 | Fidelity National Information Services | Site Reliability Engineer Leads | US FL JAX 347 | Workday | not_applied | [Apply](https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Site-Reliability-Engineer-Leads_JR0310763) | 4d |
 | SWBC | Software Engineer | San Antonio, TX | Workday | not_applied | [Apply](https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Software-Engineer_R0015707-1) | 4d |
 | TJX | Portsmouth, NH/Part Time/Front End Cashier | Portsmouth, NH 03801 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Portsmouth-NH-03801/Portsmouth--NH-Part-Time-Front-End-Cashier_REQ172066) | 4d |
@@ -104,8 +104,8 @@
 | TJX | Front End Coordinator | Batavia, IL 60510 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Batavia-IL-60510/Front-End-Coordinator_REQ171860) | 4d |
 | Purvis Systems | Software Developer (202611) | Newport, RI | Lever | dismissed | [Apply](https://jobs.lever.co/purvis/ea6af0d8-30d7-4e21-8f67-54d81190a352) | 4d |
 | Twitch | Software Engineer I | San Francisco, CA | Greenhouse | applied | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8917377002) | 4d |
-| Relativity Space | Front-End Software Engineer II | Long Beach, California, United States | Greenhouse | dismissed | [Apply](https://boards.greenhouse.io/relativity/jobs/8917327002?gh_jid=8917327002) | 4d |
-| MintMCP | Software Engineer | San Mateo, CA | Ashby | dismissed | [Apply](https://jobs.ashbyhq.com/mintmcp/099c3375-0175-4aee-b221-adbd4841292e) | 4d |
+| Relativity Space | Front-End Software Engineer II | Long Beach, California, United States | Greenhouse | dismissed | [Apply](https://boards.greenhouse.io/relativity/jobs/8917327002?gh_jid=8917327002) | 5d |
+| MintMCP | Software Engineer | San Mateo, CA | Ashby | dismissed | [Apply](https://jobs.ashbyhq.com/mintmcp/099c3375-0175-4aee-b221-adbd4841292e) | 5d |
 | ASML | CNC Optical Fabrication Technician CWW Back End Nights, 6:00 PM – 6:00 AM (Wednesday, Thursday, Friday, and every other Saturday)15% Differential | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/CNC-Optical-Fabrication-Technician-CWW-Back-End-Nights--6-00-PM---6-00-AM--Wednesday--Thursday--Friday--and-every-other-Saturday-15--Differential_J-00355590) | 5d |
 | TJX | Front End  Coordinator | Kirkwood, MO 63122 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Kirkwood-MO-63122/Front-End--Coordinator_REQ171747-1) | 5d |
 | ASML | Optical Fabrication Technician CWW Front End Days 6 am – 6pm (Sunday, Monday, Tuesday, alternate Wednesday) | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-CWW-Front-End-Days-6-am---6pm--Sunday--Monday--Tuesday--alternate-Wednesday-_J-00354555) | 5d |
