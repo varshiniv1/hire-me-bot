@@ -1,5 +1,16 @@
 [
   {
+    "id": 507870,
+    "company": "Rainmaker",
+    "role": "Vehicle Software Engineer",
+    "location": "El Segundo, CA",
+    "source": "Lever",
+    "status": "not_applied",
+    "url": "https://jobs.lever.co/make-rain/e9b0adfa-0874-4105-aac7-af1dfb3da847",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
     "id": 502558,
     "company": "Chime",
     "role": "Software Engineer, Membership Experience",
@@ -22,17 +33,6 @@
     "is_internship": false
   },
   {
-    "id": 504788,
-    "company": "Hewlett Packard Enterprise",
-    "role": "Cloud Software Engineer (San Jose, California)",
-    "location": "USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/cloud-software-engineer-san-jose-california-at-hewlett-packard-enterprise-4485646316",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
     "id": 504772,
     "company": "NBP NBA Properties Inc",
     "role": "Project Employee, Full Stack Engineer - Team Business Platforms",
@@ -44,6 +44,17 @@
     "is_internship": false
   },
   {
+    "id": 504788,
+    "company": "Hewlett Packard Enterprise",
+    "role": "Cloud Software Engineer (San Jose, California)",
+    "location": "USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/cloud-software-engineer-san-jose-california-at-hewlett-packard-enterprise-4485646316",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
     "id": 502163,
     "company": "The New York Times",
     "role": "Backend Engineering Intern, Wirecutter",
@@ -51,7 +62,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748483005",
-    "age": "1d",
+    "age": "2d",
     "is_internship": true
   },
   {
@@ -62,7 +73,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/anavationllc/02dae22d-57cc-4200-ae32-c609f9cc77df",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -77,35 +88,24 @@
     "is_internship": false
   },
   {
-    "id": 504786,
-    "company": "Meta",
-    "role": "Software Engineer, Systems ML",
-    "location": "Montgomery, Alabama, USA",
-    "source": "JSearch",
+    "id": 507676,
+    "company": "Loft Orbital",
+    "role": "Ground Software Engineer - Core",
+    "location": "San Francisco, CA",
+    "source": "Lever",
     "status": "not_applied",
-    "url": "https://www.snagajob.com/jobs/1298610028",
+    "url": "https://jobs.lever.co/loftorbital/a2169637-9e0b-4b76-b128-ca4b93bd894f",
     "age": "2d",
     "is_internship": false
   },
   {
-    "id": 507226,
-    "company": "BeaconFire Inc.",
-    "role": "Java Software Engineer",
-    "location": "Washington, District of Columbia, USA",
-    "source": "JSearch",
+    "id": 507675,
+    "company": "Loft Orbital",
+    "role": "Ground Software Engineer - Core",
+    "location": "Golden, CO",
+    "source": "Lever",
     "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4483490854",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 503108,
-    "company": "Walmart",
-    "role": "(USA) Front End Coach",
-    "location": "(USA) GA BUFORD 03786 WM SUPERCENTER",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-GA-BUFORD-03786-WM-SUPERCENTER/XMLNAME--USA--Front-End-Coach_R-2693477-1",
+    "url": "https://jobs.lever.co/loftorbital/518d4f0a-d25a-4203-891a-94e8caf5ac5d",
     "age": "2d",
     "is_internship": false
   },
@@ -132,6 +132,39 @@
     "is_internship": false
   },
   {
+    "id": 503108,
+    "company": "Walmart",
+    "role": "(USA) Front End Coach",
+    "location": "(USA) GA BUFORD 03786 WM SUPERCENTER",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-GA-BUFORD-03786-WM-SUPERCENTER/XMLNAME--USA--Front-End-Coach_R-2693477-1",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 507246,
+    "company": "Skyrocket Ventures",
+    "role": "Quant Developer / Quantitative Software Engineer - DeFi WealthTech Startup",
+    "location": "USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/quant-developer-quantitative-software-engineer-defi-wealthtech-startup-at-skyrocket-ventures-4462669108",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 504781,
+    "company": "iTech US Inc",
+    "role": "Software Engineer (Siebel) - W2",
+    "location": "Fort Worth, Texas, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-siebel-w2-at-itech-us-inc-4483473796",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
     "id": 502444,
     "company": "Amazon",
     "role": "Software Development Engineer (Database) Early Career- 2027 (US)",
@@ -139,6 +172,17 @@
     "source": "amazon",
     "status": "not_applied",
     "url": "https://account.amazon.jobs/jobs/10593902/apply",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 507226,
+    "company": "BeaconFire Inc.",
+    "role": "Java Software Engineer",
+    "location": "Washington, District of Columbia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4483490854",
     "age": "2d",
     "is_internship": false
   },
@@ -176,6 +220,17 @@
     "is_internship": false
   },
   {
+    "id": 504786,
+    "company": "Meta",
+    "role": "Software Engineer, Systems ML",
+    "location": "Montgomery, Alabama, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.snagajob.com/jobs/1298610028",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
     "id": 501514,
     "company": "Amazon",
     "role": "Software Development Engineer",
@@ -183,28 +238,6 @@
     "source": "amazon",
     "status": "not_applied",
     "url": "https://account.amazon.jobs/jobs/10593872/apply",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 504781,
-    "company": "iTech US Inc",
-    "role": "Software Engineer (Siebel) - W2",
-    "location": "Fort Worth, Texas, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/software-engineer-siebel-w2-at-itech-us-inc-4483473796",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 507246,
-    "company": "Skyrocket Ventures",
-    "role": "Quant Developer / Quantitative Software Engineer - DeFi WealthTech Startup",
-    "location": "USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/quant-developer-quantitative-software-engineer-defi-wealthtech-startup-at-skyrocket-ventures-4462669108",
     "age": "2d",
     "is_internship": false
   },
@@ -231,7 +264,95 @@
     "is_internship": true
   },
   {
+    "id": 507672,
+    "company": "Loft Orbital",
+    "role": "Backend Engineer - Oort",
+    "location": "San Francisco, CA",
+    "source": "Lever",
+    "status": "not_applied",
+    "url": "https://jobs.lever.co/loftorbital/78ddafc0-4beb-44ef-949b-da6ac90d4fe6",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 507239,
+    "company": "Wikimedia Foundation",
+    "role": "Software Engineering Internship Program",
+    "location": "Alexandria, Virginia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.learn4good.com/jobs/alexandria/virginia/software_development/5569619677/e/",
+    "age": "3d",
+    "is_internship": true
+  },
+  {
+    "id": 504782,
+    "company": "Epic",
+    "role": "Entry-Level Software Developer",
+    "location": "Grand Rapids, Michigan, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/entry-level-software-developer-at-epic-4363407599",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
     "id": 504783,
+    "company": "Respawn Entertainment",
+    "role": "Software Engineer UI (Star Wars Jedi)",
+    "location": "USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-ui-star-wars-jedi-at-respawn-entertainment-4474468957",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 507231,
+    "company": "Albertsons",
+    "role": "Front End Entry Level",
+    "location": "Fort Washington, Maryland, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.ziprecruiter.com/c/Albertsons/Job/Front-End-Entry-Level/-in-Fort-Washington,MD?jid=193eea5753d7546c",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 507233,
+    "company": "SynergisticIT",
+    "role": "Front End Developer (Remote) at SynergisticIT United States",
+    "location": "Westboro, Missouri, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://sdmusichalloffame.com/office/job/front-end-developer-remote-at-synergisticit-united-states-QklxclYrQ3dZQ2VObEJrZVJjSDJRUzl4dlE9PQ==",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 507235,
+    "company": "Randstad USA",
+    "role": "Site Reliability Engineer",
+    "location": "Jersey City, New Jersey, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.randstadusa.com/jobs/4/1366980/site-reliability-engineer_jersey-city/",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 507238,
+    "company": "Motorola Solutions",
+    "role": "Software Engineering - Co-Op",
+    "location": "Smyrna, Delaware, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.learn4good.com/jobs/smyrna/delaware/software_development/5569044987/e/",
+    "age": "3d",
+    "is_internship": true
+  },
+  {
+    "id": 507245,
     "company": "Respawn Entertainment",
     "role": "Software Engineer UI (Star Wars Jedi)",
     "location": "USA",
@@ -385,83 +506,6 @@
     "is_internship": true
   },
   {
-    "id": 504782,
-    "company": "Epic",
-    "role": "Entry-Level Software Developer",
-    "location": "Grand Rapids, Michigan, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/entry-level-software-developer-at-epic-4363407599",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 507231,
-    "company": "Albertsons",
-    "role": "Front End Entry Level",
-    "location": "Fort Washington, Maryland, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.ziprecruiter.com/c/Albertsons/Job/Front-End-Entry-Level/-in-Fort-Washington,MD?jid=193eea5753d7546c",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 507233,
-    "company": "SynergisticIT",
-    "role": "Front End Developer (Remote) at SynergisticIT United States",
-    "location": "Westboro, Missouri, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://sdmusichalloffame.com/office/job/front-end-developer-remote-at-synergisticit-united-states-QklxclYrQ3dZQ2VObEJrZVJjSDJRUzl4dlE9PQ==",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 507235,
-    "company": "Randstad USA",
-    "role": "Site Reliability Engineer",
-    "location": "Jersey City, New Jersey, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.randstadusa.com/jobs/4/1366980/site-reliability-engineer_jersey-city/",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 507238,
-    "company": "Motorola Solutions",
-    "role": "Software Engineering - Co-Op",
-    "location": "Smyrna, Delaware, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.learn4good.com/jobs/smyrna/delaware/software_development/5569044987/e/",
-    "age": "3d",
-    "is_internship": true
-  },
-  {
-    "id": 507239,
-    "company": "Wikimedia Foundation",
-    "role": "Software Engineering Internship Program",
-    "location": "Alexandria, Virginia, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.learn4good.com/jobs/alexandria/virginia/software_development/5569619677/e/",
-    "age": "3d",
-    "is_internship": true
-  },
-  {
-    "id": 507245,
-    "company": "Respawn Entertainment",
-    "role": "Software Engineer UI (Star Wars Jedi)",
-    "location": "USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/software-engineer-ui-star-wars-jedi-at-respawn-entertainment-4474468957",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
     "id": 496956,
     "company": "The Pok\u00e9mon Company",
     "role": "Software Development Engineer in Test (12-month Fixed Term)",
@@ -480,7 +524,7 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/CrownInnovationsInc/744000158371809-software-verification-test-engineer",
-    "age": "3d",
+    "age": "4d",
     "is_internship": false
   },
   {
@@ -572,6 +616,17 @@
     "is_internship": false
   },
   {
+    "id": 507950,
+    "company": "StarTree",
+    "role": "Software Engineer I",
+    "location": "US (Remote)",
+    "source": "Greenhouse",
+    "status": "not_applied",
+    "url": "https://job-boards.greenhouse.io/startree/jobs/6235909004",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
     "id": 495232,
     "company": "xAI",
     "role": "Software Engineer, Mid-training",
@@ -583,7 +638,29 @@
     "is_internship": false
   },
   {
-    "id": 504773,
+    "id": 504770,
+    "company": "Albertsons",
+    "role": "Front End Entry Level",
+    "location": "Derry, New Hampshire, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.ziprecruiter.com/c/albertsons/Job/Front-End-Entry-Level/-in-Derry-Village,NH?jid=3820544858f9783f",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 504777,
+    "company": "Booz Allen Hamilton",
+    "role": "Summer Games Software Developer Intern (ML/Tech)",
+    "location": "Annapolis, Maryland, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://jooble.org/jdp/1340495947595266542",
+    "age": "4d",
+    "is_internship": true
+  },
+  {
+    "id": 507237,
     "company": "Visa",
     "role": "Software Engineer, Intern - 2027 Ashburn, VA | Ashburn, VA, USA",
     "location": "Ashburn, Virginia, USA",
@@ -594,7 +671,7 @@
     "is_internship": true
   },
   {
-    "id": 507237,
+    "id": 504778,
     "company": "Visa",
     "role": "Software Engineer, Intern - 2027 Ashburn, VA | Ashburn, VA, USA",
     "location": "Ashburn, Virginia, USA",
@@ -616,39 +693,6 @@
     "is_internship": false
   },
   {
-    "id": 495609,
-    "company": "Fidelity National Information Services",
-    "role": "Software Engineer IIs (Backend-Microservices Architecture, Cloud/AWS)",
-    "location": "US FL JAX 347",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Software-Engineer-IIs--Backend-Microservices-Architecture--Cloud-AWS-_JR0310828",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
-    "id": 497514,
-    "company": "Hewlett Packard",
-    "role": "Software Quality Assurance Intern",
-    "location": "San Francisco, California, United States of America",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802-1",
-    "age": "4d",
-    "is_internship": true
-  },
-  {
-    "id": 497507,
-    "company": "Hewlett Packard (HP)",
-    "role": "Software Engineering Intern, Connectivity - HP IQ",
-    "location": "San Francisco, California, United States of America",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Connectivity---HP-IQ_UNI4812",
-    "age": "4d",
-    "is_internship": true
-  },
-  {
     "id": 507240,
     "company": "Visa",
     "role": "Software Engineer, Intern - 2027 Ashburn, VA | Ashburn, VA, USA",
@@ -660,46 +704,13 @@
     "is_internship": true
   },
   {
-    "id": 504777,
-    "company": "Booz Allen Hamilton",
-    "role": "Summer Games Software Developer Intern (ML/Tech)",
-    "location": "Annapolis, Maryland, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://jooble.org/jdp/1340495947595266542",
-    "age": "4d",
-    "is_internship": true
-  },
-  {
-    "id": 504778,
-    "company": "Visa",
-    "role": "Software Engineer, Intern - 2027 Ashburn, VA | Ashburn, VA, USA",
-    "location": "Ashburn, Virginia, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.efinancialcareers.com/jobs-United_States-VA-Ashburn-Software_Engineer_Intern_-_2027_Ashburn_VA.id24943247",
-    "age": "4d",
-    "is_internship": true
-  },
-  {
-    "id": 507229,
-    "company": "SynergisticIT",
-    "role": "Associate Software Engineer (Entry Level)/Data Engineer/Data Scientist with snowflake",
-    "location": "Jersey City, New Jersey, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.ziprecruiter.com/c/synergisticit/Job/Associate-Software-Engineer-(Entry-Level)-Data-Engineer-Data-Scientist-with-snowflake/-in-Jersey-City,NJ?jid=d316dce28706bb57",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
-    "id": 495461,
-    "company": "ASML",
-    "role": "FLS Production Engineer - Optical Alignment & Metrology Competency (CWW \u2013 N2)",
-    "location": "Wilton, CT, USA",
+    "id": 495709,
+    "company": "Light & Wonder",
+    "role": "Associate Software Engineer",
+    "location": "Las Vegas, NV",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/FLS-Production-Engineer---Optical-Alignment---Metrology-Competency--CWW---D2-_J-00344928",
+    "url": "https://lnw.wd5.myworkdayjobs.com/LightWonderExternalCareers/job/Las-Vegas-NV/Associate-Software-Engineer_R322981",
     "age": "4d",
     "is_internship": false
   },
@@ -711,28 +722,6 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://career.io/job/front-end-entry-level-derry-albertsons-4d8adc787f5992d1e702c2e20df49475",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
-    "id": 495552,
-    "company": "Elavon",
-    "role": "Elavon Software Technical Support Tier 2 - Escalation Support",
-    "location": "Remote, MS",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://usbank.wd1.myworkdayjobs.com/Elavon_Careers/job/Remote-MS/Elavon-Software-Technical-Support-Tier-2---Escalation-Support_2026-0033151-1",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
-    "id": 495709,
-    "company": "Light & Wonder",
-    "role": "Associate Software Engineer",
-    "location": "Las Vegas, NV",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://lnw.wd5.myworkdayjobs.com/LightWonderExternalCareers/job/Las-Vegas-NV/Associate-Software-Engineer_R322981",
     "age": "4d",
     "is_internship": false
   },
@@ -803,17 +792,6 @@
     "is_internship": true
   },
   {
-    "id": 504768,
-    "company": "Snail Games USA",
-    "role": "DevOps / Backend Engineer (Junior to Mid-Level) \u2013 Egofold",
-    "location": "Culver City, California, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.indeed.com/viewjob?jk=097f80bfb6c5e545",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
     "id": 497513,
     "company": "Hewlett Packard",
     "role": "Software Engineering Intern - HP IQ",
@@ -825,13 +803,90 @@
     "is_internship": true
   },
   {
-    "id": 504770,
-    "company": "Albertsons",
-    "role": "Front End Entry Level",
-    "location": "Derry, New Hampshire, USA",
+    "id": 497514,
+    "company": "Hewlett Packard",
+    "role": "Software Quality Assurance Intern",
+    "location": "San Francisco, California, United States of America",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802-1",
+    "age": "4d",
+    "is_internship": true
+  },
+  {
+    "id": 497507,
+    "company": "Hewlett Packard (HP)",
+    "role": "Software Engineering Intern, Connectivity - HP IQ",
+    "location": "San Francisco, California, United States of America",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Connectivity---HP-IQ_UNI4812",
+    "age": "4d",
+    "is_internship": true
+  },
+  {
+    "id": 504773,
+    "company": "Visa",
+    "role": "Software Engineer, Intern - 2027 Ashburn, VA | Ashburn, VA, USA",
+    "location": "Ashburn, Virginia, USA",
     "source": "JSearch",
     "status": "not_applied",
-    "url": "https://www.ziprecruiter.com/c/albertsons/Job/Front-End-Entry-Level/-in-Derry-Village,NH?jid=3820544858f9783f",
+    "url": "https://www.efinancialcareers.com/jobs-United_States-VA-Ashburn-Software_Engineer_Intern_-_2027_Ashburn_VA.id24943247",
+    "age": "4d",
+    "is_internship": true
+  },
+  {
+    "id": 504768,
+    "company": "Snail Games USA",
+    "role": "DevOps / Backend Engineer (Junior to Mid-Level) \u2013 Egofold",
+    "location": "Culver City, California, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.indeed.com/viewjob?jk=097f80bfb6c5e545",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 507229,
+    "company": "SynergisticIT",
+    "role": "Associate Software Engineer (Entry Level)/Data Engineer/Data Scientist with snowflake",
+    "location": "Jersey City, New Jersey, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.ziprecruiter.com/c/synergisticit/Job/Associate-Software-Engineer-(Entry-Level)-Data-Engineer-Data-Scientist-with-snowflake/-in-Jersey-City,NJ?jid=d316dce28706bb57",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 495461,
+    "company": "ASML",
+    "role": "FLS Production Engineer - Optical Alignment & Metrology Competency (CWW \u2013 N2)",
+    "location": "Wilton, CT, USA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/FLS-Production-Engineer---Optical-Alignment---Metrology-Competency--CWW---D2-_J-00344928",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 495552,
+    "company": "Elavon",
+    "role": "Elavon Software Technical Support Tier 2 - Escalation Support",
+    "location": "Remote, MS",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://usbank.wd1.myworkdayjobs.com/Elavon_Careers/job/Remote-MS/Elavon-Software-Technical-Support-Tier-2---Escalation-Support_2026-0033151-1",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 495609,
+    "company": "Fidelity National Information Services",
+    "role": "Software Engineer IIs (Backend-Microservices Architecture, Cloud/AWS)",
+    "location": "US FL JAX 347",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Software-Engineer-IIs--Backend-Microservices-Architecture--Cloud-AWS-_JR0310828",
     "age": "4d",
     "is_internship": false
   },
@@ -854,7 +909,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/xai/jobs/5186992007",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -865,7 +920,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/xai/jobs/5180223007",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -876,7 +931,7 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/Talan/744000158144691-c-software-engineer-greenfield-market-data-application-",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -887,7 +942,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/xai/jobs/4985386007",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -898,7 +953,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5145121007?gh_jid=5145121007",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -909,7 +964,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5211164007?gh_jid=5211164007",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -935,6 +990,28 @@
     "is_internship": false
   },
   {
+    "id": 507472,
+    "company": "CrossCountry Consulting",
+    "role": "Forward Deployed Software Engineer (Recent Graduate) - DC Metro",
+    "location": "McLean, VA",
+    "source": "Lever",
+    "status": "not_applied",
+    "url": "https://jobs.lever.co/crosscountry-consulting/eb6ab6cf-6f93-486f-b4bf-6137bc67feb7",
+    "age": "5d",
+    "is_internship": false
+  },
+  {
+    "id": 507471,
+    "company": "CrossCountry Consulting",
+    "role": "Forward Deployed Software Engineer (Recent Graduate) - Chicago",
+    "location": "Chicago, IL",
+    "source": "Lever",
+    "status": "not_applied",
+    "url": "https://jobs.lever.co/crosscountry-consulting/10ecb553-0393-4e7b-af5a-88a1947a0769",
+    "age": "5d",
+    "is_internship": false
+  },
+  {
     "id": 491936,
     "company": "Avery Dennison",
     "role": "Label Machine Operator - Front End Nightshift",
@@ -942,39 +1019,6 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/AveryDennison/744000158037838-label-machine-operator-front-end-nightshift",
-    "age": "5d",
-    "is_internship": false
-  },
-  {
-    "id": 507227,
-    "company": "Mintegral",
-    "role": "Software Engineer - Ads AI Infrastructure (New Grad / PhD Welcome)",
-    "location": "Washington, District of Columbia, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://jooble.org/jdp/-5271961721425950423",
-    "age": "5d",
-    "is_internship": false
-  },
-  {
-    "id": 507228,
-    "company": "CrossCountry Consulting",
-    "role": "Forward Deployed Software Engineer (Recent Graduate) - DC Metro - Hybrid",
-    "location": "McLean, Virginia, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://bandana.com/jobs/58d8a312-4bb1-4f95-a194-175ce77cab08",
-    "age": "5d",
-    "is_internship": false
-  },
-  {
-    "id": 507230,
-    "company": "IBM",
-    "role": "Entry Level AI Software Engineer",
-    "location": "Durham, North Carolina, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/entry-level-ai-software-engineer-at-ibm-4483677182",
     "age": "5d",
     "is_internship": false
   },
@@ -1001,134 +1045,46 @@
     "is_internship": true
   },
   {
-    "id": 507248,
-    "company": "Meta",
-    "role": "Software Engineer, Infrastructure - Central Security",
-    "location": "Seattle, Washington, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.metacareers.com/profile/job_details/1116099024681849/",
-    "age": "5d",
-    "is_internship": false
-  },
-  {
-    "id": 507236,
-    "company": "Visa Inc.",
-    "role": "2027 Sophomore Internship Program - Software Engineer Intern, Ashburn",
-    "location": "Ashburn, Virginia, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.indeed.com/viewjob?jk=fe7910746af95fbe",
-    "age": "5d",
-    "is_internship": true
-  },
-  {
-    "id": 493020,
-    "company": "Insperity",
-    "role": "Associate Software Implementation Analyst",
-    "location": "Kingwood, TX",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Associate-Software-Implementation-Analyst_JR103439",
-    "age": "5d",
-    "is_internship": false
-  },
-  {
-    "id": 492971,
-    "company": "Fidelity National Information Services",
-    "role": "Site Reliability Engineer Leads",
-    "location": "US FL JAX 347",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Site-Reliability-Engineer-Leads_JR0310763",
-    "age": "5d",
-    "is_internship": false
-  },
-  {
-    "id": 492590,
+    "id": 492592,
     "company": "Visa",
-    "role": "2027 Sophomore Internship Program - Software Engineer Intern, Ashburn",
-    "location": "US - Ashburn, VA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF089878W-1",
-    "age": "5d",
-    "is_internship": true
-  },
-  {
-    "id": 492525,
-    "company": "SWBC",
-    "role": "Software Engineer",
-    "location": "San Antonio, TX",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Software-Engineer_R0015707-1",
-    "age": "5d",
-    "is_internship": false
-  },
-  {
-    "id": 492597,
-    "company": "Visa",
-    "role": "Software Engineer, Intern - 2027 Austin, TX",
+    "role": "2027 Sophomore Internship Program - Software Engineer Intern, Austin, TX - 2027",
     "location": "US - Austin, TX",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W-1",
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W-1",
     "age": "5d",
     "is_internship": true
   },
   {
-    "id": 504769,
-    "company": "Albertsons",
-    "role": "Front End Entry Level",
-    "location": "Denton, Texas, USA",
-    "source": "JSearch",
+    "id": 492593,
+    "company": "Visa",
+    "role": "2027 Sophomore Internship Program - Software Engineer Intern, Bellevue",
+    "location": "US - Bellevue, WA",
+    "source": "Workday",
     "status": "not_applied",
-    "url": "https://www.indeed.com/viewjob?jk=565c79600e94262a",
-    "age": "5d",
-    "is_internship": false
-  },
-  {
-    "id": 507247,
-    "company": "Meta",
-    "role": "Software Engineer, Machine Learning",
-    "location": "Bellevue, Washington, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.metacareers.com/profile/job_details/1387663399913249/",
-    "age": "5d",
-    "is_internship": false
-  },
-  {
-    "id": 504774,
-    "company": "Visa Inc.",
-    "role": "2027 Sophomore Internship Program - Software Engineer Intern, Ashburn",
-    "location": "Ashburn, Virginia, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.indeed.com/viewjob?jk=fe7910746af95fbe",
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF089920W-2",
     "age": "5d",
     "is_internship": true
   },
   {
-    "id": 504775,
-    "company": "Visa Technology and Operations LLC",
+    "id": 492594,
+    "company": "Visa",
+    "role": "2027 Sophomore Internship Program - Software Engineer Intern, Foster City",
+    "location": "US - Foster City, CA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF089919W-1",
+    "age": "5d",
+    "is_internship": true
+  },
+  {
+    "id": 492595,
+    "company": "Visa",
     "role": "Software Engineer, Intern - 2027 Ashburn, VA",
-    "location": "Ashburn, Virginia, USA",
-    "source": "JSearch",
+    "location": "US - Ashburn, VA",
+    "source": "Workday",
     "status": "not_applied",
-    "url": "https://www.indeed.com/viewjob?jk=c3d90c072b5831f2",
-    "age": "5d",
-    "is_internship": true
-  },
-  {
-    "id": 504779,
-    "company": "Visa Technology and Operations LLC",
-    "role": "Software Engineer, Intern - 2027 Ashburn, VA",
-    "location": "Ashburn, Virginia, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.indeed.com/viewjob?jk=c3d90c072b5831f2",
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF089879W-1",
     "age": "5d",
     "is_internship": true
   },
@@ -1144,114 +1100,59 @@
     "is_internship": true
   },
   {
-    "id": 504780,
-    "company": "CVS Health",
-    "role": "Full-Stack Engineer Training Program - June 2027 Cohort",
-    "location": "Brooklyn, New York, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.jobilize.com/job/us-ny-brooklyn-full-stack-engineer-training-program-june-2027-cohort",
-    "age": "5d",
-    "is_internship": false
-  },
-  {
-    "id": 507241,
-    "company": "Visa Technology and Operations LLC",
-    "role": "Software Engineer, Intern - 2027 Ashburn, VA",
-    "location": "Ashburn, Virginia, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.indeed.com/viewjob?jk=c3d90c072b5831f2",
-    "age": "5d",
-    "is_internship": true
-  },
-  {
-    "id": 504784,
-    "company": "Epic",
-    "role": "Software Engineer",
-    "location": "Fairbanks, Alaska, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986115572",
-    "age": "5d",
-    "is_internship": false
-  },
-  {
-    "id": 492595,
+    "id": 492597,
     "company": "Visa",
-    "role": "Software Engineer, Intern - 2027 Ashburn, VA",
-    "location": "US - Ashburn, VA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF089879W-1",
-    "age": "5d",
-    "is_internship": true
-  },
-  {
-    "id": 504787,
-    "company": "Meta",
-    "role": "Software Engineer, Technical Leadership",
-    "location": "Menlo Park, California, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://simplify.jobs/p/18f70f1a-5ec8-40e4-8722-44253e006a3b/Software-Engineer",
-    "age": "5d",
-    "is_internship": false
-  },
-  {
-    "id": 492594,
-    "company": "Visa",
-    "role": "2027 Sophomore Internship Program - Software Engineer Intern, Foster City",
-    "location": "US - Foster City, CA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF089919W-1",
-    "age": "5d",
-    "is_internship": true
-  },
-  {
-    "id": 504766,
-    "company": "CrossCountry Consulting",
-    "role": "Forward Deployed Software Engineer (Recent Graduate) - DC Metro - Hybrid",
-    "location": "McLean, Virginia, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://bandana.com/jobs/58d8a312-4bb1-4f95-a194-175ce77cab08",
-    "age": "5d",
-    "is_internship": false
-  },
-  {
-    "id": 492593,
-    "company": "Visa",
-    "role": "2027 Sophomore Internship Program - Software Engineer Intern, Bellevue",
-    "location": "US - Bellevue, WA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF089920W-2",
-    "age": "5d",
-    "is_internship": true
-  },
-  {
-    "id": 504785,
-    "company": "Meta",
-    "role": "Software Engineer, Machine Learning",
-    "location": "Bellevue, Washington, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.metacareers.com/profile/job_details/1387663399913249/",
-    "age": "5d",
-    "is_internship": false
-  },
-  {
-    "id": 492592,
-    "company": "Visa",
-    "role": "2027 Sophomore Internship Program - Software Engineer Intern, Austin, TX - 2027",
+    "role": "Software Engineer, Intern - 2027 Austin, TX",
     "location": "US - Austin, TX",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W-1",
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W-1",
     "age": "5d",
     "is_internship": true
+  },
+  {
+    "id": 492525,
+    "company": "SWBC",
+    "role": "Software Engineer",
+    "location": "San Antonio, TX",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Software-Engineer_R0015707-1",
+    "age": "5d",
+    "is_internship": false
+  },
+  {
+    "id": 492590,
+    "company": "Visa",
+    "role": "2027 Sophomore Internship Program - Software Engineer Intern, Ashburn",
+    "location": "US - Ashburn, VA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF089878W-1",
+    "age": "5d",
+    "is_internship": true
+  },
+  {
+    "id": 492971,
+    "company": "Fidelity National Information Services",
+    "role": "Site Reliability Engineer Leads",
+    "location": "US FL JAX 347",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Site-Reliability-Engineer-Leads_JR0310763",
+    "age": "5d",
+    "is_internship": false
+  },
+  {
+    "id": 493020,
+    "company": "Insperity",
+    "role": "Associate Software Implementation Analyst",
+    "location": "Kingwood, TX",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Associate-Software-Implementation-Analyst_JR103439",
+    "age": "5d",
+    "is_internship": false
   },
   {
     "id": 493565,
@@ -1342,13 +1243,189 @@
     "is_internship": false
   },
   {
-    "id": 494329,
-    "company": "TJX",
-    "role": "Front End  Coordinator",
-    "location": "Kirkwood, MO 63122",
-    "source": "Workday",
+    "id": 504769,
+    "company": "Albertsons",
+    "role": "Front End Entry Level",
+    "location": "Denton, Texas, USA",
+    "source": "JSearch",
     "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Kirkwood-MO-63122/Front-End--Coordinator_REQ171747-1",
+    "url": "https://www.indeed.com/viewjob?jk=565c79600e94262a",
+    "age": "5d",
+    "is_internship": false
+  },
+  {
+    "id": 504774,
+    "company": "Visa Inc.",
+    "role": "2027 Sophomore Internship Program - Software Engineer Intern, Ashburn",
+    "location": "Ashburn, Virginia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.indeed.com/viewjob?jk=fe7910746af95fbe",
+    "age": "5d",
+    "is_internship": true
+  },
+  {
+    "id": 504775,
+    "company": "Visa Technology and Operations LLC",
+    "role": "Software Engineer, Intern - 2027 Ashburn, VA",
+    "location": "Ashburn, Virginia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.indeed.com/viewjob?jk=c3d90c072b5831f2",
+    "age": "5d",
+    "is_internship": true
+  },
+  {
+    "id": 504779,
+    "company": "Visa Technology and Operations LLC",
+    "role": "Software Engineer, Intern - 2027 Ashburn, VA",
+    "location": "Ashburn, Virginia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.indeed.com/viewjob?jk=c3d90c072b5831f2",
+    "age": "5d",
+    "is_internship": true
+  },
+  {
+    "id": 504780,
+    "company": "CVS Health",
+    "role": "Full-Stack Engineer Training Program - June 2027 Cohort",
+    "location": "Brooklyn, New York, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.jobilize.com/job/us-ny-brooklyn-full-stack-engineer-training-program-june-2027-cohort",
+    "age": "5d",
+    "is_internship": false
+  },
+  {
+    "id": 504784,
+    "company": "Epic",
+    "role": "Software Engineer",
+    "location": "Fairbanks, Alaska, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986115572",
+    "age": "5d",
+    "is_internship": false
+  },
+  {
+    "id": 504787,
+    "company": "Meta",
+    "role": "Software Engineer, Technical Leadership",
+    "location": "Menlo Park, California, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://simplify.jobs/p/18f70f1a-5ec8-40e4-8722-44253e006a3b/Software-Engineer",
+    "age": "5d",
+    "is_internship": false
+  },
+  {
+    "id": 504766,
+    "company": "CrossCountry Consulting",
+    "role": "Forward Deployed Software Engineer (Recent Graduate) - DC Metro - Hybrid",
+    "location": "McLean, Virginia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://bandana.com/jobs/58d8a312-4bb1-4f95-a194-175ce77cab08",
+    "age": "5d",
+    "is_internship": false
+  },
+  {
+    "id": 504785,
+    "company": "Meta",
+    "role": "Software Engineer, Machine Learning",
+    "location": "Bellevue, Washington, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.metacareers.com/profile/job_details/1387663399913249/",
+    "age": "5d",
+    "is_internship": false
+  },
+  {
+    "id": 507227,
+    "company": "Mintegral",
+    "role": "Software Engineer - Ads AI Infrastructure (New Grad / PhD Welcome)",
+    "location": "Washington, District of Columbia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://jooble.org/jdp/-5271961721425950423",
+    "age": "5d",
+    "is_internship": false
+  },
+  {
+    "id": 507228,
+    "company": "CrossCountry Consulting",
+    "role": "Forward Deployed Software Engineer (Recent Graduate) - DC Metro - Hybrid",
+    "location": "McLean, Virginia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://bandana.com/jobs/58d8a312-4bb1-4f95-a194-175ce77cab08",
+    "age": "5d",
+    "is_internship": false
+  },
+  {
+    "id": 507230,
+    "company": "IBM",
+    "role": "Entry Level AI Software Engineer",
+    "location": "Durham, North Carolina, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/entry-level-ai-software-engineer-at-ibm-4483677182",
+    "age": "5d",
+    "is_internship": false
+  },
+  {
+    "id": 507241,
+    "company": "Visa Technology and Operations LLC",
+    "role": "Software Engineer, Intern - 2027 Ashburn, VA",
+    "location": "Ashburn, Virginia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.indeed.com/viewjob?jk=c3d90c072b5831f2",
+    "age": "5d",
+    "is_internship": true
+  },
+  {
+    "id": 507247,
+    "company": "Meta",
+    "role": "Software Engineer, Machine Learning",
+    "location": "Bellevue, Washington, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.metacareers.com/profile/job_details/1387663399913249/",
+    "age": "5d",
+    "is_internship": false
+  },
+  {
+    "id": 507236,
+    "company": "Visa Inc.",
+    "role": "2027 Sophomore Internship Program - Software Engineer Intern, Ashburn",
+    "location": "Ashburn, Virginia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.indeed.com/viewjob?jk=fe7910746af95fbe",
+    "age": "5d",
+    "is_internship": true
+  },
+  {
+    "id": 507248,
+    "company": "Meta",
+    "role": "Software Engineer, Infrastructure - Central Security",
+    "location": "Seattle, Washington, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.metacareers.com/profile/job_details/1116099024681849/",
+    "age": "5d",
+    "is_internship": false
+  },
+  {
+    "id": 507473,
+    "company": "CrossCountry Consulting",
+    "role": "Forward Deployed Software Engineer (Recent Graduate) - New York",
+    "location": "New York, NY",
+    "source": "Lever",
+    "status": "not_applied",
+    "url": "https://jobs.lever.co/crosscountry-consulting/f294b6dd-b2dc-46c5-9139-9ba93163ba5c",
     "age": "6d",
     "is_internship": false
   },
@@ -1364,13 +1441,13 @@
     "is_internship": false
   },
   {
-    "id": 489623,
-    "company": "FedEx Freight",
-    "role": "Advisor-Software Engineer",
-    "location": "FXF-US/USA/FXFMHQ/Memphis Headquarters",
+    "id": 494330,
+    "company": "TJX",
+    "role": "Front End Cashier - HomeGoods Fox Chapel",
+    "location": "Pittsburgh, PA 15238",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://freight.wd108.myworkdayjobs.com/FXF_External_Career_Site/job/FXF-USUSAFXFMHQMemphis-Headquarters/Advisor-Software-Engineer_RC5248",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Pittsburgh-PA-15238/Front-End-Cashier---HomeGoods-Fox-Chapel_REQ171657",
     "age": "6d",
     "is_internship": false
   },
@@ -1386,6 +1463,28 @@
     "is_internship": false
   },
   {
+    "id": 494329,
+    "company": "TJX",
+    "role": "Front End  Coordinator",
+    "location": "Kirkwood, MO 63122",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Kirkwood-MO-63122/Front-End--Coordinator_REQ171747-1",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 489623,
+    "company": "FedEx Freight",
+    "role": "Advisor-Software Engineer",
+    "location": "FXF-US/USA/FXFMHQ/Memphis Headquarters",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://freight.wd108.myworkdayjobs.com/FXF_External_Career_Site/job/FXF-USUSAFXFMHQMemphis-Headquarters/Advisor-Software-Engineer_RC5248",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
     "id": 489537,
     "company": "ASML",
     "role": "CNC Optical Fabrication Technician CWW Back End Nights, 6:00 PM \u2013 6:00 AM (Wednesday, Thursday, Friday, and every other Saturday)15% Differential",
@@ -1393,17 +1492,6 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/CNC-Optical-Fabrication-Technician-CWW-Back-End-Nights--6-00-PM---6-00-AM--Wednesday--Thursday--Friday--and-every-other-Saturday-15--Differential_J-00355590",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 494330,
-    "company": "TJX",
-    "role": "Front End Cashier - HomeGoods Fox Chapel",
-    "location": "Pittsburgh, PA 15238",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Pittsburgh-PA-15238/Front-End-Cashier---HomeGoods-Fox-Chapel_REQ171657",
     "age": "6d",
     "is_internship": false
   }
