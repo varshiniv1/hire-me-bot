@@ -58,9 +58,9 @@
 | Interco | Junior Software Developer | St. Louis, MO, us | SmartRecruiters | applied | [Apply](https://jobs.smartrecruiters.com/Interco/744000158582219-junior-software-developer) | 2d |
 | Nimble Robotics | Software Engineer, Nimble Brain | San Francisco, CA | Greenhouse | applied | [Apply](https://job-boards.greenhouse.io/nimblerobotics/jobs/4472953009) | 2d |
 | Compeer Financial | Software Engineer | IL-Bloomington, WI-Sun Prairie; MN-Mankato | Greenhouse | applied | [Apply](https://job-boards.greenhouse.io/compeerfinancial/jobs/5467096008) | 2d |
-| Brillio | FullStack Developer - R01573043 | Dallas, Texas, United States | Lever | applied | [Apply](https://jobs.lever.co/brillio-2/57b4a0b7-4d59-4eb3-a301-c18be669a8bc) | 2d |
-| xAI | Software Engineer, Imagine Safety |  Palo Alto, CA | Greenhouse | applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/5151022007) | 2d |
-| xAI | Software Engineer, Post-Training & RL |  Palo Alto, CA | Greenhouse | applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/5114737007) | 2d |
+| Brillio | FullStack Developer - R01573043 | Dallas, Texas, United States | Lever | applied | [Apply](https://jobs.lever.co/brillio-2/57b4a0b7-4d59-4eb3-a301-c18be669a8bc) | 3d |
+| xAI | Software Engineer, Imagine Safety |  Palo Alto, CA | Greenhouse | applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/5151022007) | 3d |
+| xAI | Software Engineer, Post-Training & RL |  Palo Alto, CA | Greenhouse | applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/5114737007) | 3d |
 | Axcelis Technologies, Inc. | Software Quality Assurance Engineer | Beverly, MA | Workday | not_applied | [Apply](https://axcelis.wd1.myworkdayjobs.com/Axcelis/job/Beverly-MA/Software-Quality-Assurance-Engineer_12107) | 3d |
 | DraftKings | Software Engineer (December 2026 Grads) | Boston, MA | Workday | not_applied | [Apply](https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Software-Engineer--December-2026-Grads-_JR15389) | 3d |
 | DXC Technology | Software Developer | ESP - AR - ZARAGOZA | Workday | applied | [Apply](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/ESP---AR---ZARAGOZA/Software-Developer_51582178) | 3d |
@@ -85,11 +85,11 @@
 | Zoox | Contract Student Worker - Software Engineer (40 hrs/wk) | Foster City, CA | Lever | not_applied | [Apply](https://jobs.lever.co/zoox/67982bee-811b-453b-8596-b53c13f7a78d) | 3d |
 | Inspire Medical Systems | Software Engineer - Medical Device Software | Minneapolis, MN | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/inspiremedicalsystemsinc/jobs/5459650008?gh_jid=5459650008) | 3d |
 | Inspire | Software Engineer - Medical Device Software | Minneapolis, MN | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/inspiremedicalsystemsinc/jobs/5459650008?gh_jid=5459650008) | 3d |
-| xAI | Software Engineer, Imagine Product |  Palo Alto, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/5052027007) | 3d |
-| xAI | Software Engineer, Imagine Model |  Palo Alto, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/5051985007) | 3d |
-| xAI | Software Engineer, Grok Product |  Palo Alto, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/5051984007) | 3d |
-| xAI | Software Engineer, Voice Product |  Palo Alto, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/5051970007) | 3d |
-| xAI | Software Engineer, Mid-training |  Palo Alto, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/4965893007) | 3d |
+| xAI | Software Engineer, Imagine Product |  Palo Alto, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/5052027007) | 4d |
+| xAI | Software Engineer, Imagine Model |  Palo Alto, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/5051985007) | 4d |
+| xAI | Software Engineer, Grok Product |  Palo Alto, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/5051984007) | 4d |
+| xAI | Software Engineer, Voice Product |  Palo Alto, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/5051970007) | 4d |
+| xAI | Software Engineer, Mid-training |  Palo Alto, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/4965893007) | 4d |
 | ASML | FLS Production Engineer - Optical Alignment & Metrology Competency (CWW – N2) | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/FLS-Production-Engineer---Optical-Alignment---Metrology-Competency--CWW---D2-_J-00344928) | 4d |
 | Elavon | Elavon Software Technical Support Tier 2 - Escalation Support | Remote, MS | Workday | not_applied | [Apply](https://usbank.wd1.myworkdayjobs.com/Elavon_Careers/job/Remote-MS/Elavon-Software-Technical-Support-Tier-2---Escalation-Support_2026-0033151-1) | 4d |
 | Fidelity National Information Services | Software Engineer IIs (Backend-Microservices Architecture, Cloud/AWS) | US FL JAX 347 | Workday | not_applied | [Apply](https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Software-Engineer-IIs--Backend-Microservices-Architecture--Cloud-AWS-_JR0310828) | 4d |
