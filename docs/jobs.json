@@ -95,7 +95,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/hearst/jobs/4466334009",
-    "age": "0d",
+    "age": "1d",
     "is_internship": true
   },
   {
@@ -106,6 +106,17 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/hearst/jobs/4478841009",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 518091,
+    "company": "Genuine Parts Company",
+    "role": "Software Developer",
+    "location": "Birmingham, AL, USA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Developer_R26_0000015685",
     "age": "1d",
     "is_internship": false
   },
@@ -128,6 +139,17 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Utah-US-Offsite/Software-Engineer--R60390-Copy-_R70008",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 519774,
+    "company": "FICO",
+    "role": "Software Engineer - LLM Applications (Python, Java)",
+    "location": "Work from Home, United States",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://fico.wd1.myworkdayjobs.com/External/job/Work-from-Home-United-States/Applied-AI-Engineer_32367",
     "age": "1d",
     "is_internship": false
   },
@@ -216,17 +238,6 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Software-Engineer_2026092-1",
-    "age": "1d",
-    "is_internship": false
-  },
-  {
-    "id": 518091,
-    "company": "Genuine Parts Company",
-    "role": "Software Developer",
-    "location": "Birmingham, AL, USA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Developer_R26_0000015685",
     "age": "1d",
     "is_internship": false
   },
@@ -337,7 +348,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/loftorbital/d2ec023c-42c4-4cf3-a891-9230d0811cc0",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -348,7 +359,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/loftorbital/c6d4fb42-d7e3-46ef-bdaf-299c372b7dd4",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -627,13 +638,13 @@
     "is_internship": false
   },
   {
-    "id": 512897,
-    "company": "M&T Bank",
-    "role": "2027 Technology Development Program - Software Engineering (Data Engineering)",
-    "location": "Buffalo, NY",
+    "id": 515870,
+    "company": "TJX",
+    "role": "Retail - Full Time Front End Supervisor",
+    "location": "Auburn Hills, MI 48326",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Data-Engineering-_R91882",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Auburn-Hills-MI-48326/Retail---Full-Time-Front-End-Supervisor_REQ173772",
     "age": "3d",
     "is_internship": false
   },
@@ -647,6 +658,50 @@
     "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Software-DSP-Research-Engineer-Co-op_R29369",
     "age": "3d",
     "is_internship": true
+  },
+  {
+    "id": 512806,
+    "company": "Hewlett Packard",
+    "role": "Software Engineering Intern, Product & Developer Productivity - HP IQ",
+    "location": "San Francisco, California, United States of America",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4803-1",
+    "age": "3d",
+    "is_internship": true
+  },
+  {
+    "id": 512896,
+    "company": "M&T Bank",
+    "role": "2027 Technology Development Program - Software Engineering (Digital Banking Applications & Platforms)",
+    "location": "Buffalo, NY",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Digital-Banking-Applications---Platforms-_R91883",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 512897,
+    "company": "M&T Bank",
+    "role": "2027 Technology Development Program - Software Engineering (Data Engineering)",
+    "location": "Buffalo, NY",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Data-Engineering-_R91882",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 512898,
+    "company": "M&T Bank",
+    "role": "2027 Technology Development Program - Software Engineering (Consumer & Marketing Application Development)",
+    "location": "Buffalo, NY",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Consumer---Marketing-Application-Development-_R91881",
+    "age": "3d",
+    "is_internship": false
   },
   {
     "id": 513168,
@@ -669,50 +724,6 @@
     "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4803",
     "age": "3d",
     "is_internship": true
-  },
-  {
-    "id": 512806,
-    "company": "Hewlett Packard",
-    "role": "Software Engineering Intern, Product & Developer Productivity - HP IQ",
-    "location": "San Francisco, California, United States of America",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4803-1",
-    "age": "3d",
-    "is_internship": true
-  },
-  {
-    "id": 515870,
-    "company": "TJX",
-    "role": "Retail - Full Time Front End Supervisor",
-    "location": "Auburn Hills, MI 48326",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Auburn-Hills-MI-48326/Retail---Full-Time-Front-End-Supervisor_REQ173772",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 512898,
-    "company": "M&T Bank",
-    "role": "2027 Technology Development Program - Software Engineering (Consumer & Marketing Application Development)",
-    "location": "Buffalo, NY",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Consumer---Marketing-Application-Development-_R91881",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 512896,
-    "company": "M&T Bank",
-    "role": "2027 Technology Development Program - Software Engineering (Digital Banking Applications & Platforms)",
-    "location": "Buffalo, NY",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Digital-Banking-Applications---Platforms-_R91883",
-    "age": "3d",
-    "is_internship": false
   },
   {
     "id": 510499,
@@ -825,24 +836,13 @@
     "is_internship": false
   },
   {
-    "id": 515876,
+    "id": 515877,
     "company": "TJX",
-    "role": "Front End Coordinator",
-    "location": "Greenville, SC 29607",
+    "role": "Front End Supervisor",
+    "location": "Gilford, NH 03249",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Greenville-SC-29607/Front-End-Coordinator_REQ173308",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
-    "id": 512028,
-    "company": "Cisco",
-    "role": "Software Engineer",
-    "location": "San Francisco, California, US",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Francisco-California-US/Software-Engineer_2028277-2",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Gilford-NH-03249/Front-End-Supervisor_REQ173250",
     "age": "4d",
     "is_internship": false
   },
@@ -854,6 +854,17 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-CWW---Backend-Nights-6-00PM-6-00AM-_J-00355588",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 512028,
+    "company": "Cisco",
+    "role": "Software Engineer",
+    "location": "San Francisco, California, US",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Francisco-California-US/Software-Engineer_2028277-2",
     "age": "4d",
     "is_internship": false
   },
@@ -913,17 +924,6 @@
     "is_internship": false
   },
   {
-    "id": 511203,
-    "company": "KLA",
-    "role": "Software Engineer (AI/ML) Intern",
-    "location": "Austin, TX",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Austin-TX/Software-Engineer--AI-ML--Intern_2642125",
-    "age": "4d",
-    "is_internship": true
-  },
-  {
     "id": 515875,
     "company": "TJX",
     "role": "Full Time Front End Supervisor",
@@ -935,26 +935,26 @@
     "is_internship": false
   },
   {
-    "id": 514970,
-    "company": "Saransh Inc",
-    "role": "Windows Site Reliability Engineer Only W2",
-    "location": "Jersey City, New Jersey, USA",
-    "source": "JSearch",
+    "id": 515876,
+    "company": "TJX",
+    "role": "Front End Coordinator",
+    "location": "Greenville, SC 29607",
+    "source": "Workday",
     "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/windows-site-reliability-engineer-only-w2-at-saransh-inc-4486408512",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Greenville-SC-29607/Front-End-Coordinator_REQ173308",
     "age": "4d",
     "is_internship": false
   },
   {
-    "id": 515877,
-    "company": "TJX",
-    "role": "Front End Supervisor",
-    "location": "Gilford, NH 03249",
+    "id": 511203,
+    "company": "KLA",
+    "role": "Software Engineer (AI/ML) Intern",
+    "location": "Austin, TX",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Gilford-NH-03249/Front-End-Supervisor_REQ173250",
+    "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Austin-TX/Software-Engineer--AI-ML--Intern_2642125",
     "age": "4d",
-    "is_internship": false
+    "is_internship": true
   },
   {
     "id": 510327,
@@ -968,6 +968,17 @@
     "is_internship": true
   },
   {
+    "id": 514970,
+    "company": "Saransh Inc",
+    "role": "Windows Site Reliability Engineer Only W2",
+    "location": "Jersey City, New Jersey, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/windows-site-reliability-engineer-only-w2-at-saransh-inc-4486408512",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
     "id": 507870,
     "company": "Rainmaker",
     "role": "Vehicle Software Engineer",
@@ -975,7 +986,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/make-rain/e9b0adfa-0874-4105-aac7-af1dfb3da847",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -990,17 +1001,6 @@
     "is_internship": true
   },
   {
-    "id": 508969,
-    "company": "TJX",
-    "role": "Retail Front End Supervisor",
-    "location": "Reynoldsburg, OH 43068",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Reynoldsburg-OH-43068/Retail-Front-End-Supervisor_REQ173160",
-    "age": "5d",
-    "is_internship": false
-  },
-  {
     "id": 514963,
     "company": "Mintegral",
     "role": "Software Engineer - Ads AI Infrastructure (New Grad / PhD Welcome)",
@@ -1008,6 +1008,17 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://jooble.org/jdp/-5271961721425950423",
+    "age": "5d",
+    "is_internship": false
+  },
+  {
+    "id": 508969,
+    "company": "TJX",
+    "role": "Retail Front End Supervisor",
+    "location": "Reynoldsburg, OH 43068",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Reynoldsburg-OH-43068/Retail-Front-End-Supervisor_REQ173160",
     "age": "5d",
     "is_internship": false
   },
@@ -1034,24 +1045,13 @@
     "is_internship": false
   },
   {
-    "id": 508972,
+    "id": 508970,
     "company": "TJX",
-    "role": "Full Time Front End Supervisor",
-    "location": "Beaver Dam, WI 53916",
+    "role": "Front End Coordinator",
+    "location": "Newton, MA 02464",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Beaver-Dam-WI-53916/Full-Time-Front-End-Supervisor_REQ172996",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 504788,
-    "company": "Hewlett Packard Enterprise",
-    "role": "Cloud Software Engineer (San Jose, California)",
-    "location": "USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/cloud-software-engineer-san-jose-california-at-hewlett-packard-enterprise-4485646316",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Newton-MA-02464/Front-End-Coordinator_REQ173019-1",
     "age": "6d",
     "is_internship": false
   },
@@ -1067,13 +1067,24 @@
     "is_internship": false
   },
   {
-    "id": 508970,
+    "id": 504788,
+    "company": "Hewlett Packard Enterprise",
+    "role": "Cloud Software Engineer (San Jose, California)",
+    "location": "USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/cloud-software-engineer-san-jose-california-at-hewlett-packard-enterprise-4485646316",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 508972,
     "company": "TJX",
-    "role": "Front End Coordinator",
-    "location": "Newton, MA 02464",
+    "role": "Full Time Front End Supervisor",
+    "location": "Beaver Dam, WI 53916",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Newton-MA-02464/Front-End-Coordinator_REQ173019-1",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Beaver-Dam-WI-53916/Full-Time-Front-End-Supervisor_REQ172996",
     "age": "6d",
     "is_internship": false
   },

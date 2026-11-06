@@ -1,6 +1,6 @@
 # Job Postings Report
 
-92 postings from the last 6 days.
+93 postings from the last 6 days.
 
 ## Internships (13)
 
@@ -8,11 +8,11 @@
 |---|---|---|---|---|---|---|
 | Palantir | Software Engineer, Internship - Sovereign AI Systems | New York, NY | Lever | not_applied | [Apply](https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312) | 0d |
 | RR Donnelley | Software Developer Intern | Warrenville, IL, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/RRDonnelley/744000159883639-software-developer-intern) | 0d |
-| Hearst | Software Engineering Intern | Carmel, IN, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/hearst/jobs/4466334009) | 0d |
+| Hearst | Software Engineering Intern | Carmel, IN, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/hearst/jobs/4466334009) | 1d |
 | BorgWarner | Software Test Intern | Auburn Hills - Michigan - USA | Workday | not_applied | [Apply](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Test-Intern_R2026-4385-1) | 1d |
 | Hewlett Packard | Software Engineering Intern, Product & Developer Productivity - HP IQ | San Francisco, California, United States of America | Workday | not_applied | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4803-1) | 3d |
-| Hewlett Packard (HP) | Software Engineering Intern, Product & Developer Productivity - HP IQ | San Francisco, California, United States of America | Workday | not_applied | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4803) | 3d |
 | Bose | Software/DSP Research Engineer Co-op | US, MA - Framingham | Workday | not_applied | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Software-DSP-Research-Engineer-Co-op_R29369) | 3d |
+| Hewlett Packard (HP) | Software Engineering Intern, Product & Developer Productivity - HP IQ | San Francisco, California, United States of America | Workday | not_applied | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4803) | 3d |
 | Wellmark | Software Engineer Internship – AI Platform Team | Des Moines, IA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000159260670-software-engineer-internship-ai-platform-team) | 3d |
 | Toshiba Global Commerce | Agentic Software Engineering Intern | Frisco, TX | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5281707007) | 3d |
 | Toshiba Global Commerce | Agentic Software Engineering Intern | Durham, NC | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5279504007) | 3d |
@@ -20,7 +20,7 @@
 | KLA | Software Engineer (AI/ML) Intern | Austin, TX | Workday | not_applied | [Apply](https://kla.wd1.myworkdayjobs.com/UR/job/Austin-TX/Software-Engineer--AI-ML--Intern_2642125) | 4d |
 | SimVentions, Inc | Software and Systems Engineering Intern | Triangle, Virginia, USA | JSearch | not_applied | [Apply](https://us.trabajo.org/job-3454-f91fe223a6f39eda039e006b1d5e04a0) | 5d |
 
-## Full-Time (79)
+## Full-Time (80)
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
@@ -31,16 +31,17 @@
 | Alphataraxia | SWE Career Fair - Resume Drop | Washington, District of Columbia, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/alphataraxia/jobs/4948172007) | 0d |
 | DoorDash | Full Stack Engineer, Applied AI | San Francisco, CA; Sunnyvale, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8355717) | 0d |
 | Hearst | Site Reliability Engineer - Tampa (Hybrid) | Tampa, FL, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/hearst/jobs/4478841009) | 1d |
+| Genuine Parts Company | Software Developer | Birmingham, AL, USA | Workday | not_applied | [Apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Developer_R26_0000015685) | 1d |
 | Western Governors University | Associate Software Engineer | Salt Lake City, UT | Workday | not_applied | [Apply](https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Associate-Software-Engineer_JR-026548) | 1d |
+| FICO | Software Engineer - LLM Applications (Python, Java) | Work from Home, United States | Workday | not_applied | [Apply](https://fico.wd1.myworkdayjobs.com/External/job/Work-from-Home-United-States/Applied-AI-Engineer_32367) | 1d |
+| Medtronic | Software Quality Engineer I | Mounds View, Minnesota, United States of America | Workday | not_applied | [Apply](https://medtronic.wd1.myworkdayjobs.com/RedeploymentMedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Software-Quality-Engineer-I_R72406) | 1d |
+| Hewlett Packard Enterprise | Software Engineer for Packet Forwarding (Sunnyvale, California) | Sunnyvale, California, United States of America | Workday | not_applied | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Software-Engineer-for-Packet-Forwarding--Sunnyvale--California-_1216161-2) | 1d |
+| Freudenberg Group | Society of Women Engineers (SWE) Conference 2026 – Attendees Only | United States of America - Remote | Workday | not_applied | [Apply](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/United-States-of-America---Remote/Society-of-Women-Engineers--SWE--Conference-2026---Attendees-Only_R_00109423) | 1d |
+| ASML | YieldStar Module Production Engineer | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/YieldStar-Module-Production-Engineer_J-00355976) | 1d |
 | ASML | Optical/Mechanical Yieldstar Production Engineer | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Mechanical-Yieldstar-Production-Engineer_J-00355973) | 1d |
 | Motorola | Software Engineer (R60390 Copy) | Utah, US Offsite | Workday | not_applied | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Utah-US-Offsite/Software-Engineer--R60390-Copy-_R70008) | 1d |
 | Medtronic | Software Test Engineer I | Mounds View, Minnesota, United States of America | Workday | not_applied | [Apply](https://medtronic.wd1.myworkdayjobs.com/RedeploymentMedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Software-Test-Engineer-I_R80875) | 1d |
 | Cisco | Software Engineer | Milpitas, California, US | Workday | not_applied | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Software-Engineer_2026092-1) | 1d |
-| Genuine Parts Company | Software Developer | Birmingham, AL, USA | Workday | not_applied | [Apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Developer_R26_0000015685) | 1d |
-| ASML | YieldStar Module Production Engineer | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/YieldStar-Module-Production-Engineer_J-00355976) | 1d |
-| Freudenberg Group | Society of Women Engineers (SWE) Conference 2026 – Attendees Only | United States of America - Remote | Workday | not_applied | [Apply](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/United-States-of-America---Remote/Society-of-Women-Engineers--SWE--Conference-2026---Attendees-Only_R_00109423) | 1d |
-| Hewlett Packard Enterprise | Software Engineer for Packet Forwarding (Sunnyvale, California) | Sunnyvale, California, United States of America | Workday | not_applied | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Software-Engineer-for-Packet-Forwarding--Sunnyvale--California-_1216161-2) | 1d |
-| Medtronic | Software Quality Engineer I | Mounds View, Minnesota, United States of America | Workday | not_applied | [Apply](https://medtronic.wd1.myworkdayjobs.com/RedeploymentMedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Software-Quality-Engineer-I_R72406) | 1d |
 | Twitch | Software Dev Engineer I - Security Platform | Irvine, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8931345002) | 1d |
 | Twitch | Software Dev Engineer I - Security Platform | Seattle, WA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8931343002) | 1d |
 | Twitch | Software Dev Engineer I - Security Platform | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8929545002) | 1d |
@@ -50,15 +51,16 @@
 | Health-E Commerce | Back End Developer - SFCC | United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/fsastorecom/jobs/8622323002) | 1d |
 | Keenfinity | Associate DevOps Software Engineer | Fairport, NY, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Keenfinity/744000159681439-associate-devops-software-engineer) | 1d |
 | Syncreon Consulting | Full-Stack Java Developer - Java 17 or Higher - (Independents profiles only W2) | Lake Mary, FL, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/SyncreonConsulting/744000159659039-full-stack-java-developer-java-17-or-higher-independents-profiles-only-w2-) | 1d |
-| Loft Orbital | Flight Dynamics Software Engineer | San Francisco, CA | Lever | not_applied | [Apply](https://jobs.lever.co/loftorbital/d2ec023c-42c4-4cf3-a891-9230d0811cc0) | 1d |
-| Loft Orbital | Flight Dynamics Software Engineer | Golden, CO | Lever | not_applied | [Apply](https://jobs.lever.co/loftorbital/c6d4fb42-d7e3-46ef-bdaf-299c372b7dd4) | 1d |
+| Loft Orbital | Flight Dynamics Software Engineer | San Francisco, CA | Lever | not_applied | [Apply](https://jobs.lever.co/loftorbital/d2ec023c-42c4-4cf3-a891-9230d0811cc0) | 2d |
+| Loft Orbital | Flight Dynamics Software Engineer | Golden, CO | Lever | not_applied | [Apply](https://jobs.lever.co/loftorbital/c6d4fb42-d7e3-46ef-bdaf-299c372b7dd4) | 2d |
 | Relativity Space | Software Engineer II, Front-End Platforms | Long Beach, California, United States | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/relativity/jobs/8929521002?gh_jid=8929521002) | 2d |
+| Guidewire | Software Engineer | United States - Exton, PA | Workday | not_applied | [Apply](https://wd5.myworkdaysite.com/recruiting/guidewire/external/job/United-States---Exton-PA/Software-Engineer_JR_15376-1) | 2d |
 | Guidewire | Software Engineer | United States - Exton, PA | Workday | not_applied | [Apply](https://wd5.myworkdaysite.com/recruiting/guidewire/external/job/United-States---Exton-PA/Software-Engineer_JR_15373-1) | 2d |
 | SEI | Software Engineer | USA - PA - Oaks | Workday | not_applied | [Apply](https://seic.wd1.myworkdayjobs.com/SEI_Global_Services/job/USA---PA---Oaks/Software-Engineer_R0038203-1) | 2d |
 | TJX | Retail Front End Coordinator | Brookfield, WI 53045 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Brookfield-WI-53045/Retail-Front-End-Coordinator_REQ174369) | 2d |
-| Vizient | Associate Software Engineer (Hybrid) | Irving, TX 75062 Vizient Corporate HQ | Workday | not_applied | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer--Hybrid-_35731R-1) | 2d |
-| ASML | Continuous Polishing Technician - Front End Days , 6:00 AM – 6:00 PM  (Sunday , Monday  Tuesday and every other Wednesday) | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Continuous-Polishing-Technician---Front-End-Days---6-00-AM---6-00-PM---Sunday---Monday--Tuesday-and-every-other-Wednesday-_J-00354979) | 2d |
 | Abbott | Software Test Engineer | United States - California - Pleasanton | Workday | not_applied | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Pleasanton/Software-Test-Engineer_31165820-1) | 2d |
+| ASML | Continuous Polishing Technician - Front End Days , 6:00 AM – 6:00 PM  (Sunday , Monday  Tuesday and every other Wednesday) | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Continuous-Polishing-Technician---Front-End-Days---6-00-AM---6-00-PM---Sunday---Monday--Tuesday-and-every-other-Wednesday-_J-00354979) | 2d |
+| Vizient | Associate Software Engineer (Hybrid) | Irving, TX 75062 Vizient Corporate HQ | Workday | not_applied | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer--Hybrid-_35731R-1) | 2d |
 | Hewlett Packard Enterprise | Software Engineer 2 – Wireless Access Point Development | Cupertino, California, United States of America | Workday | not_applied | [Apply](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Cupertino-California-United-States-of-America/Software-Engineer-2---Wireless-Access-Point-Development_1217742-3) | 2d |
 | Hewlett Packard Enterprise | Software Engineer 2 – Wireless Access Point Development | Cupertino, California, United States of America | Workday | not_applied | [Apply](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Cupertino-California-United-States-of-America/Software-Engineer-2---Wireless-Access-Point-Development_1217741) | 2d |
 | Hewlett Packard Enterprise | Software Engineer 2 – Wireless Access Point Development | Cupertino, California, United States of America | Workday | not_applied | [Apply](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Cupertino-California-United-States-of-America/Software-Engineer-2---Wireless-Access-Point-Development_1217743) | 2d |
@@ -67,7 +69,6 @@
 | Booz Allen | Software Test Automation Engineer | Alexandria, VA | Workday | not_applied | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Alexandria-VA/Software-Test-Automation-Engineer_R0252699) | 2d |
 | Amazon | Software Dev Engineer I, Security Platform | San Francisco, California, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10597112/apply) | 2d |
 | General Motors | Software Systems Engineer, Data Labeling Engineering - Early Career | Sunnyvale, California, United States of America | Workday | not_applied | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Systems-Engineer--Data-Labeling-Engineering---Early-Career_JR-202619939) | 2d |
-| Guidewire | Software Engineer | United States - Exton, PA | Workday | not_applied | [Apply](https://wd5.myworkdaysite.com/recruiting/guidewire/external/job/United-States---Exton-PA/Software-Engineer_JR_15376-1) | 2d |
 | TEKsystems | Site Reliability Engineer | Blue Bell, Pennsylvania, USA | JSearch | not_applied | [Apply](https://careers.teksystems.com/us/en/job/JP-006397677/Site-Reliability-Engineer) | 2d |
 | Atoms | Software Reliability Engineer | Pittsburgh, PA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8929426002) | 2d |
 | BeaconFire Inc. | Java Software Engineer | Washington, District of Columbia, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4483490854) | 2d |
@@ -89,18 +90,18 @@
 | Verkada | Backend Software Engineer - University Graduate 2027 | San Mateo, CA United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5280545007) | 3d |
 | Skyward | Software Quality Specialist | Stevens Point, WI, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Skyward1/744000159208369-software-quality-specialist) | 3d |
 | Focused | Software Engineer (f/m/d) | Berlin, DE | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/focused/1a00038a-c270-4cf2-8ced-73896fe64a06) | 3d |
-| TJX | CEC-Front End Coordinator Part Time | Baxter, MN 56425 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Baxter-MN-56425/CEC-Front-End-Coordinator-Part-Time_REQ173419) | 4d |
 | TJX | CEC-Front End Coordinator Full time | Baxter, MN 56425 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Baxter-MN-56425/CEC-Front-End-Coordinator-Full-time_REQ173411) | 4d |
 | Emonics LLC | Backend Python Developer - Entry Level | Los Angeles, California, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/backend-python-developer-entry-level-at-emonics-llc-4484635765) | 4d |
+| TJX | Retail Front End Supervisor, Full- Time Scarborough MAINE | Scarborough, ME 04074 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Scarborough-ME-04074/Retail-Front-End-Supervisor--Full--Time-Scarborough-MAINE_REQ173490) | 4d |
 | TJX | Retail Front End Supervisor Full Time Now Hiring | Coralville, IA 52241 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Coralville-IA-52241/Retail-Front-End-Supervisor-Full-Time-Now-Hiring_REQ173495) | 4d |
 | TJX | Full Time Front End Supervisor | Oxford, OH 45056 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Oxford-OH-45056/Full-Time-Front-End-Supervisor_REQ173371) | 4d |
 | TJX | Front End Coordinator | Greenville, SC 29607 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Greenville-SC-29607/Front-End-Coordinator_REQ173308) | 4d |
 | TJX | Front End Supervisor | Gilford, NH 03249 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Gilford-NH-03249/Front-End-Supervisor_REQ173250) | 4d |
 | Saransh Inc | Windows Site Reliability Engineer Only W2 | Jersey City, New Jersey, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/windows-site-reliability-engineer-only-w2-at-saransh-inc-4486408512) | 4d |
 | Cisco | Software Engineer | San Francisco, California, US | Workday | not_applied | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Francisco-California-US/Software-Engineer_2028277-2) | 4d |
-| TJX | Retail Front End Supervisor, Full- Time Scarborough MAINE | Scarborough, ME 04074 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Scarborough-ME-04074/Retail-Front-End-Supervisor--Full--Time-Scarborough-MAINE_REQ173490) | 4d |
+| TJX | CEC-Front End Coordinator Part Time | Baxter, MN 56425 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Baxter-MN-56425/CEC-Front-End-Coordinator-Part-Time_REQ173419) | 4d |
 | ASML | Optical Fabrication Technician CWW - Backend Nights(6:00PM-6:00AM) | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-CWW---Backend-Nights-6-00PM-6-00AM-_J-00355588) | 4d |
-| Rainmaker | Vehicle Software Engineer | El Segundo, CA | Lever | not_applied | [Apply](https://jobs.lever.co/make-rain/e9b0adfa-0874-4105-aac7-af1dfb3da847) | 4d |
+| Rainmaker | Vehicle Software Engineer | El Segundo, CA | Lever | not_applied | [Apply](https://jobs.lever.co/make-rain/e9b0adfa-0874-4105-aac7-af1dfb3da847) | 5d |
 | TJX | Retail Front End Supervisor | Reynoldsburg, OH 43068 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Reynoldsburg-OH-43068/Retail-Front-End-Supervisor_REQ173160) | 5d |
 | Mintegral | Software Engineer - Ads AI Infrastructure (New Grad / PhD Welcome) | Washington, District of Columbia, USA | JSearch | not_applied | [Apply](https://jooble.org/jdp/-5271961721425950423) | 5d |
 
