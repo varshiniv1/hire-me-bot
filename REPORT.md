@@ -38,7 +38,7 @@
 | Loft Orbital | Backend Software Engineer - Mission Planning Strategy | San Francisco, CA | Lever | not_applied | [Apply](https://jobs.lever.co/loftorbital/63013f70-6e68-4e73-9ae4-bae1dcccdf14) | 0d |
 | Loft Orbital | Backend Software Engineer - Mission Planning Strategy | Golden, CO | Lever | not_applied | [Apply](https://jobs.lever.co/loftorbital/34f8566b-dd24-42b3-8f34-a395ecb5c2c6) | 0d |
 | Crown Innovations | Software Verification & Test Engineer | Arlington, VA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/CrownInnovationsInc/744000160600979-software-verification-test-engineer) | 0d |
-| Base Power | Software Engineer, Backend - Base Power Platform | Austin, TX | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/base-power/f1faeca1-0545-44d2-87e3-aa74dc88b083) | 0d |
+| Base Power | Software Engineer, Backend - Base Power Platform | Austin, TX | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/base-power/f1faeca1-0545-44d2-87e3-aa74dc88b083) | 1d |
 | Base Power | Software Engineer, Backend - Deployments | Austin, TX | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/base-power/9ed279a2-a39d-4b75-bbee-bff898b448c3) | 1d |
 | Regions Bank | Software Engineer - Risk Systems | Hoover, AL - Riverchase Operations Center (Birmingham, AL) | Workday | not_applied | [Apply](https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Software-Engineer---Risk-Systems_R107317) | 1d |
 | TJX | Seasonal Front End Associate | Patchogue, NY 11772 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Patchogue-NY-11772/Seasonal-Front-End-Associate_REQ175452) | 1d |
@@ -52,9 +52,9 @@
 | Base Power | Software Engineer, Backend - Member Software | Austin, TX | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/base-power/02ca6e34-9827-4183-b05c-b73d06038640) | 1d |
 | M&T Bank | 2027 Technology Development Program - Software Engineering (Data & API Engineering) | Buffalo, NY | Workday | not_applied | [Apply](https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Data---API-Engineering-_R92036) | 2d |
 | M&T Bank | 2027 Technology Development Program - Software Engineering (Enterprise & Wealth Application Development) | Buffalo, NY | Workday | not_applied | [Apply](https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Enterprise---Wealth-Application-Development-_R92035) | 2d |
-| Pallet | Software Engineer, Agent Delivery  | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/pallet/jobs/5242991007) | 2d |
-| Pallet | Software Engineer, Agent Delivery  | New York, NY | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/pallet/jobs/5282402007) | 2d |
-| AbbVie | Associate Software Engineer I | North Chicago, IL, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016715126-associate-software-engineer-i) | 2d |
+| Pallet | Software Engineer, Agent Delivery  | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/pallet/jobs/5242991007) | 3d |
+| Pallet | Software Engineer, Agent Delivery  | New York, NY | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/pallet/jobs/5282402007) | 3d |
+| AbbVie | Associate Software Engineer I | North Chicago, IL, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016715126-associate-software-engineer-i) | 3d |
 | TJX | Retail Front End Coordinator | West Bend, WI 53095 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/West-Bend-WI-53095/Retail-Front-End-Coordinator_REQ175177-1) | 3d |
 | Rapkotech | Software Engineer - Entry Level | Reston, Virginia, USA | JSearch | not_applied | [Apply](https://jobs.digitalhire.com/job-listing/opening/1NUDiln0h9bcMgz8MPUXzl) | 3d |
 | Woven | Software Engineer II, Arene Applied Engineering | Ann Arbor, MI | Lever | not_applied | [Apply](https://jobs.lever.co/woven-by-toyota/67fbf85b-6c59-4a29-ad1d-335658aaa5ae) | 3d |
@@ -78,7 +78,7 @@
 | StubHub | Software Engineer I (New Grad) - Consumer Experience | New York, New York, United States | Greenhouse | not_applied | [Apply](https://job-boards.eu.greenhouse.io/stubhubinc/jobs/5027626101) | 4d |
 | Alphataraxia | SWE Career Fair - Resume Drop | Washington, District of Columbia, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/alphataraxia/jobs/4948172007) | 4d |
 | DoorDash | Full Stack Engineer, Applied AI | San Francisco, CA; Sunnyvale, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8355717) | 4d |
-| Hearst | Site Reliability Engineer - Tampa (Hybrid) | Tampa, FL, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/hearst/jobs/4478841009) | 4d |
+| Hearst | Site Reliability Engineer - Tampa (Hybrid) | Tampa, FL, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/hearst/jobs/4478841009) | 5d |
 | FICO | Software Engineer - LLM Applications (Python, Java) | Work from Home, United States | Workday | not_applied | [Apply](https://fico.wd1.myworkdayjobs.com/External/job/Work-from-Home-United-States/Applied-AI-Engineer_32367) | 5d |
 | TJX | Front End Customer Experience Coordinator/Supervisor, Experience and Open Availability Required | Dickson, TN 37055 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Dickson-TN-37055/Front-End-Customer-Experience-Coordinator-Supervisor--Experience-and-Open-Availability-Required_REQ174583) | 5d |
 | TJX | Retail Front end coordinator | Burlington, VT 05401 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Burlington-VT-05401/Retail-Front-end-coordinator_REQ174721) | 5d |
