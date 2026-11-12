@@ -1,6 +1,6 @@
 # Job Postings Report
 
-99 postings from the last 6 days.
+107 postings from the last 6 days.
 
 ## Internships (14)
 
@@ -10,8 +10,8 @@
 | Rockwell Automation | Intern, Software Developer/Engineering | Mequon, Wisconsin, United States | Workday | not_applied | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Intern--Software-Developer-Engineering_R26-8666-2) | 1d |
 | Bose | Digital Signal Processing ML Software Development Co-op | US, MA - Framingham | Workday | not_applied | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Digital-Signal-Processing-ML-Software-Development-Co-op_R29372) | 1d |
 | Skydio | Hardware In Loop (HIL) Software Engineer Intern - Winter 2027 | San Mateo, California, United States | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/skydio/add7fd86-78e6-483e-98cd-cdfc1029fded) | 1d |
-| Palantir | Software Engineer, Intern - Connectivity Platform and Product | Denver, CO | Lever | not_applied | [Apply](https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e) | 1d |
-| Veolia | Manufacturing Software Engineer Intern | Boulder, CO, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000160896184-manufacturing-software-engineer-intern) | 1d |
+| Palantir | Software Engineer, Intern - Connectivity Platform and Product | Denver, CO | Lever | not_applied | [Apply](https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e) | 2d |
+| Veolia | Manufacturing Software Engineer Intern | Boulder, CO, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000160896184-manufacturing-software-engineer-intern) | 2d |
 | Collins Aerospace | Software Engineering Intern: C++​/Linux Focus | Severn, Maryland, USA | JSearch | not_applied | [Apply](https://www.learn4good.com/jobs/severn/maryland/software_development/5614832652/e/) | 2d |
 | Lila Sciences | Co-op, Software, Applied AI Platform Engineer | San Francisco, CA USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4472540009) | 2d |
 | Earth5R | Software and App Development internship fellowship | Atlanta, Georgia, USA | JSearch | not_applied | [Apply](https://www.learn4good.com/jobs/atlanta/georgia/software_development/5611613082/e/) | 4d |
@@ -21,24 +21,35 @@
 | The New York Times | Frontend Engineering Intern | New York, NY | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751909005) | 5d |
 | Samsara | Software Engineering Internship - San Francisco | Alexandria, Virginia, USA | JSearch | not_applied | [Apply](https://www.indeed.com/viewjob?jk=c5d963809b09fa5d) | 5d |
 
-## Full-Time (85)
+## Full-Time (93)
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
+| Redhorse | Cloud Software Engineer (Full-Stack and AI) - Junior Level | Gainesville, VA | Lever | not_applied | [Apply](https://jobs.lever.co/redhorsecorp/be90f883-2ec0-460f-8d20-241e4c54951f) | 0d |
+| REGENT | Software Certification Engineer | North Kingstown, Rhode Island, USA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/REGENT/4cc94ede-4b39-4f50-9b92-427e1f52c509) | 0d |
+| SteerBridge | Software Engineer | Vienna, VA | Lever | not_applied | [Apply](https://jobs.lever.co/steerbridge/a74f449f-bb72-40d6-a4e7-4a0824723746) | 0d |
 | 1X | Software Engineer - Applied AI | San Carlos, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/1x/0ac33259-1b12-447c-95a3-d2d0c6b1a996) | 0d |
 | DXC Technology | Analyst II Software Engineering (Finacle L1 Support) | IND - TN - CHENNAI | Workday | not_applied | [Apply](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/IND---TN---CHENNAI/Analyst-II-Software-Engineering--Finacle-L1-Support-_51586282) | 0d |
+| TJX | Early Front End Associates | Saint Davids, PA 19087 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Saint-Davids-PA-19087/Early-Front-End-Associates_REQ176328-1) | 0d |
+| TJX | Nights/Weekends Front-End Associates | Saint Davids, PA 19087 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Saint-Davids-PA-19087/Nights-Weekends-Front-End-Associates_REQ176326-1) | 0d |
+| Samsung | EHS Software Engineer | 12100 Samsung Blvd, Austin, TX, USA | Workday | not_applied | [Apply](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/EHS-Software-Engineer_R122175) | 0d |
+| TJX | Mid-Day Front End Associate | Saint Davids, PA 19087 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Saint-Davids-PA-19087/Mid-Day-Front-End-Associate_REQ176307-1) | 0d |
+| Harris Computer | Part-time Software Support Specialist | Pennsylvania, United States | Workday | not_applied | [Apply](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Pennsylvania-United-States/Part-time-Software-Support-Specialist_R0047434) | 0d |
+| DXC Technology | Técnico/a de Homologaciones de Hardware y Software | ESP - MD - LAS ROZAS | Workday | not_applied | [Apply](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/ESP---MD---LAS-ROZAS/Tcnico-a-de-Homologaciones-de-Hardware-y-Software_51594546-1) | 0d |
+| ASML | Optical Fabrication Technician Front End Nights, 6:00 PM – 6:00 AM (Sunday, Monday, Tuesday, and every other Saturday) | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-Front-End-Nights--6-00-PM---6-00-AM--Sunday--Monday--Tuesday--and-every-other-Saturday-_J-00357833) | 0d |
+| Zoox | Contract Student Worker - Software Engineer (20/hrs week) | Foster City, CA | Lever | not_applied | [Apply](https://jobs.lever.co/zoox/116fa648-0397-47b5-a7ab-08d7f96594b3) | 0d |
 | Talan | C++ Software Engineer | New York, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Talan/744000161158401-c-software-engineer) | 0d |
 | Twitch | Software Engineer I, Commerce | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8934067002) | 0d |
-| People Culture Talent | Software Engineer – ML Infrastructure | San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/people-culture-talent/555aac85-9640-4c91-af92-a16887f4c705) | 0d |
+| People Culture Talent | Software Engineer – ML Infrastructure | San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/people-culture-talent/555aac85-9640-4c91-af92-a16887f4c705) | 1d |
+| Symbotic | New Grad- Robotics Software Engineer | USA Wilmington,  MA - HQ | Workday | not_applied | [Apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Robotics-Software-Engineer_R8496) | 1d |
+| EverCommerce | EverHealth - Backend Claims Management Specialist (Remote, US) | Remote- US | Workday | not_applied | [Apply](https://evercommerce.wd1.myworkdayjobs.com/EverCommerce_Careers/job/Remote--US/EverHealth---Backend-Claims-Management-Specialist--Remote--US-_R-106646) | 1d |
 | ASML | Production Engineer Tooling Asset Management | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Production-Engineer-Tooling-Asset-Management_J-00357511) | 1d |
 | Amazon | Software Development Engineer, Creator Marketplace | Culver City, California, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10599970/apply) | 1d |
 | Aptiv | Vehicle Software Integration Engineer | Troy, MI - USA | Workday | not_applied | [Apply](https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/Troy-MI---USA/Vehicle-Software-Integration-Engineer_J000706071) | 1d |
-| GlobalFoundries | AI Processor Hardware/Software Integration Engineer (2027 New College Graduate) | USA - Texas - Richardson | Workday | not_applied | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-Processor-Hardware-Software-Integration-Engineer--2027-New-College-Graduate-_JR-2604093) | 1d |
-| TJX | Front End Cashier | Hadley, MA 01035 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Hadley-MA-01035/Front-End-Cashier_REQ175870) | 1d |
-| TJX | Full Time Front End Coordinator | Manitowoc, WI 54220 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Manitowoc-WI-54220/Full-Time-Front-End-Coordinator_REQ176208) | 1d |
 | TJX | Front End Coordinator | Tampa, FL 33647 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Tampa-FL-33647/Front-End-Coordinator_REQ176221-1) | 1d |
-| Symbotic | New Grad- Robotics Software Engineer | USA Wilmington,  MA - HQ | Workday | not_applied | [Apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Robotics-Software-Engineer_R8496) | 1d |
-| EverCommerce | EverHealth - Backend Claims Management Specialist (Remote, US) | Remote- US | Workday | not_applied | [Apply](https://evercommerce.wd1.myworkdayjobs.com/EverCommerce_Careers/job/Remote--US/EverHealth---Backend-Claims-Management-Specialist--Remote--US-_R-106646) | 1d |
+| TJX | Full Time Front End Coordinator | Manitowoc, WI 54220 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Manitowoc-WI-54220/Full-Time-Front-End-Coordinator_REQ176208) | 1d |
+| TJX | Front End Cashier | Hadley, MA 01035 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Hadley-MA-01035/Front-End-Cashier_REQ175870) | 1d |
+| GlobalFoundries | AI Processor Hardware/Software Integration Engineer (2027 New College Graduate) | USA - Texas - Richardson | Workday | not_applied | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-Processor-Hardware-Software-Integration-Engineer--2027-New-College-Graduate-_JR-2604093) | 1d |
 | Bot Auto | Software Engineer, Simulation & Reinforcement Learning | Houston, TX | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/botauto/jobs/5478642008) | 1d |
 | Avery Dennison | Label Machine Operator, Back End Nights, Wed. 1030pm-7am, Thur. - Sat. 8pm -730am | Charlotte, NC, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000160960279-label-machine-operator-back-end-nights-wed-1030pm-7am-thur-sat-8pm-730am) | 1d |
 | Anysphere | Software Engineer, Enterprise Platform | San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/cursor/5bbbd83b-2299-4a5e-9f49-d260fd9ca02e) | 2d |
@@ -51,13 +62,13 @@
 | Anysphere | Software Engineer, Core Services | San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/cursor/9d756f3e-ec33-4820-9971-f803de7b2d63) | 2d |
 | Anysphere | Software Engineer, Bugbot | New York, NY | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/cursor/b810bd30-f3b8-45b4-8afd-d2916ce5ee93) | 2d |
 | Anysphere | Software Engineer, Billing | San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/cursor/6222602a-f0ca-4558-8364-06970723e917) | 2d |
-| Vizient | Associate Software Engineer (Hybrid) | Irving, TX 75062 Vizient Corporate HQ | Workday | not_applied | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer--Hybrid-_35388R) | 2d |
+| AAA Club Alliance | Full Stack Developer | Costa Mesa, CA | Workday | not_applied | [Apply](https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Full-Stack-Developer_JR202639737) | 2d |
 | Amazon | Software Development Engineer | Newark, New Jersey, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10601102/apply) | 2d |
 | Fidelity Investments | Software Engineer | Westlake, TX | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/targeted/job/Westlake-TX/Software-Engineer_2137672) | 2d |
 | Globus Medical | Software Engineer | Audubon, PA | Workday | not_applied | [Apply](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Software-Engineer_JR108232) | 2d |
+| Vizient | Associate Software Engineer (Hybrid) | Irving, TX 75062 Vizient Corporate HQ | Workday | not_applied | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer--Hybrid-_35388R) | 2d |
 | TJX | Full Time Front End Coordinator | Erie, PA 16565 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Erie-PA-16565/Full-Time-Front-End-Coordinator_REQ175843-1) | 2d |
 | AAA Club Alliance | Frontend Developer | Coppell, TX | Workday | not_applied | [Apply](https://ace.wd5.myworkdayjobs.com/careers/job/Coppell-TX/Frontend-Developer_JR202639602) | 2d |
-| AAA Club Alliance | Full Stack Developer | Costa Mesa, CA | Workday | not_applied | [Apply](https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Full-Stack-Developer_JR202639737) | 2d |
 | Autodesk | Software Engineer | Novi, MI, USA | Workday | not_applied | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Novi-MI-USA/Software-Engineer_26WD102129-1) | 2d |
 | Fidelity National Information Services | Software Engineer, Platform Governance & Risk | US FL JAX 347 | Workday | not_applied | [Apply](https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Software-Engineer--Platform-Governance---Risk_JR0310651) | 2d |
 | GE Vernova | Power Systems AI/ML Software Engineer | Bellevue WA US | Workday | not_applied | [Apply](https://gevernova.wd5.myworkdayjobs.com/Only_Confidential_Executive_Recruiting/job/Bellevue-WA-US/Power-Systems-AI-ML-Software-Engineer_R5058168-1) | 2d |
@@ -72,31 +83,31 @@
 | AECOM | Digital Solutions Software Developer I | Tallahassee, FL, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000160723419-digital-solutions-software-developer-i) | 2d |
 | Astronics | Software Engineer II (Applications)  | Waukegan, Illinois, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/astronicscorporation/jobs/4436581009) | 2d |
 | Ramp | Software Engineer, Backend, Comms Platform | Remote (US) | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/ramp/939892e5-5273-4bfc-8c41-a6c51cabb228) | 2d |
-| NBCUniversal | Software Engineer | New York, NEW YORK, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160686477-software-engineer) | 2d |
 | DreamWorks Animation | Software Engineer | New York, NEW YORK, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160686477-software-engineer) | 2d |
+| NBCUniversal | Software Engineer | New York, NEW YORK, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160686477-software-engineer) | 2d |
 | Quest Analytics | Software Engineer | United States | Lever | not_applied | [Apply](https://jobs.lever.co/questanalytics/0ef2155f-a1d9-4af8-a81d-917177c7e6d8) | 2d |
 | Base Power | Software Engineer, Product - Deployments | Austin, TX | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/base-power/71c01bd2-a940-43b1-9522-218204c201be) | 2d |
-| Avery Dennison | Label Machine Operator, Backend Night shift, Wed 11pm-5am, Thurs-Sat 5pm-5am | Lewis Center, OH, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000160671572-label-machine-operator-backend-night-shift-wed-11pm-5am-thurs-sat-5pm-5am) | 2d |
-| Scopely | Full Stack Engineer | US - United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5476480008?gh_jid=5476480008) | 2d |
-| Loft Orbital | Backend Software Engineer - Mission Planning Strategy | San Francisco, CA | Lever | not_applied | [Apply](https://jobs.lever.co/loftorbital/63013f70-6e68-4e73-9ae4-bae1dcccdf14) | 2d |
-| Loft Orbital | Backend Software Engineer - Mission Planning Strategy | Golden, CO | Lever | not_applied | [Apply](https://jobs.lever.co/loftorbital/34f8566b-dd24-42b3-8f34-a395ecb5c2c6) | 2d |
-| Crown Innovations | Software Verification & Test Engineer | Arlington, VA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/CrownInnovationsInc/744000160600979-software-verification-test-engineer) | 2d |
+| Avery Dennison | Label Machine Operator, Backend Night shift, Wed 11pm-5am, Thurs-Sat 5pm-5am | Lewis Center, OH, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000160671572-label-machine-operator-backend-night-shift-wed-11pm-5am-thurs-sat-5pm-5am) | 3d |
+| Scopely | Full Stack Engineer | US - United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5476480008?gh_jid=5476480008) | 3d |
+| Loft Orbital | Backend Software Engineer - Mission Planning Strategy | San Francisco, CA | Lever | not_applied | [Apply](https://jobs.lever.co/loftorbital/63013f70-6e68-4e73-9ae4-bae1dcccdf14) | 3d |
+| Loft Orbital | Backend Software Engineer - Mission Planning Strategy | Golden, CO | Lever | not_applied | [Apply](https://jobs.lever.co/loftorbital/34f8566b-dd24-42b3-8f34-a395ecb5c2c6) | 3d |
+| Crown Innovations | Software Verification & Test Engineer | Arlington, VA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/CrownInnovationsInc/744000160600979-software-verification-test-engineer) | 3d |
 | Base Power | Software Engineer, Backend - Base Power Platform | Austin, TX | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/base-power/f1faeca1-0545-44d2-87e3-aa74dc88b083) | 3d |
 | Base Power | Software Engineer, Backend - Deployments | Austin, TX | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/base-power/9ed279a2-a39d-4b75-bbee-bff898b448c3) | 3d |
 | Greystar Worldwide | Software Trainer | Remote, United States | Workday | not_applied | [Apply](https://greystar.wd1.myworkdayjobs.com/External/job/Remote-United-States/Software-Trainer_R1126_0205954-1) | 3d |
 | Morgan Stanley | Associate, Software Engineer | Alpharetta, Georgia, United States of America | Workday | not_applied | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/Alpharetta-Georgia-United-States-of-America/Associate--Software-Engineer_JR042814) | 3d |
-| Regions Bank | Software Engineer - Risk Systems | Hoover, AL - Riverchase Operations Center (Birmingham, AL) | Workday | not_applied | [Apply](https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Software-Engineer---Risk-Systems_R107317) | 3d |
 | Regions Bank | Software Engineer - Fraud Systems | Hoover, AL - Riverchase Operations Center (Birmingham, AL) | Workday | not_applied | [Apply](https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Software-Engineer---Fraud-Systems_R107498) | 3d |
-| Accuray | Fullstack Engineer | Remote - US | Workday | not_applied | [Apply](https://accuray.wd5.myworkdayjobs.com/External/job/Remote---US/Fullstack-Engineer_3309-1) | 3d |
-| U.S. Bank | Technical Services Group Executive,  Payments Card Software Engineering | Brookfield, WI | Workday | not_applied | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Brookfield-WI/Technical-Services-Group-Executive---Payments-Card-Software-Engineering_2026-0035352) | 3d |
-| U.S. Bank | Software Engineer 2 | Earth City, MO | Workday | not_applied | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Earth-City-MO/Software-Engineer-2_2026-0030440) | 3d |
-| Amazon | Software Development Engineer, Audible AI Voice Production  | Cambridge, Massachusetts, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10599972/apply) | 3d |
-| TJX | Seasonal Front End Associate | Patchogue, NY 11772 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Patchogue-NY-11772/Seasonal-Front-End-Associate_REQ175452) | 3d |
+| Regions Bank | Software Engineer - Risk Systems | Hoover, AL - Riverchase Operations Center (Birmingham, AL) | Workday | not_applied | [Apply](https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Software-Engineer---Risk-Systems_R107317) | 3d |
 | National Grid | Graduate Development Program, Associate Engineer, Software Engineering | Brooklyn, New York, USA | JSearch | not_applied | [Apply](https://www.ziprecruiter.com/c/nationalgrid/Job/Graduate-Development-Program,-Associate-Engineer,-Software-Engineering/-in-New-York,NY?jid=385855b001d7e1b2) | 3d |
+| Amazon | Software Development Engineer, Audible AI Voice Production  | Cambridge, Massachusetts, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10599972/apply) | 3d |
+| Accuray | Fullstack Engineer | Remote - US | Workday | not_applied | [Apply](https://accuray.wd5.myworkdayjobs.com/External/job/Remote---US/Fullstack-Engineer_3309-1) | 3d |
+| TJX | Seasonal Front End Associate | Patchogue, NY 11772 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Patchogue-NY-11772/Seasonal-Front-End-Associate_REQ175452) | 3d |
+| U.S. Bank | Software Engineer 2 | Earth City, MO | Workday | not_applied | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Earth-City-MO/Software-Engineer-2_2026-0030440) | 3d |
+| U.S. Bank | Technical Services Group Executive,  Payments Card Software Engineering | Brookfield, WI | Workday | not_applied | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Brookfield-WI/Technical-Services-Group-Executive---Payments-Card-Software-Engineering_2026-0035352) | 3d |
 | Base Power | Software Engineer, Backend - Member Software | Austin, TX | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/base-power/02ca6e34-9827-4183-b05c-b73d06038640) | 3d |
 | Fantom Corporation | Jr Software Engineer | Hanover, Maryland, USA | JSearch | not_applied | [Apply](https://www.ziprecruiter.com/c/Fantom/Job/Jr-Software-Engineer/-in-Hanover,MD?jid=25fa18f0a9755a19) | 4d |
-| M&T Bank | 2027 Technology Development Program - Software Engineering (Enterprise & Wealth Application Development) | Buffalo, NY | Workday | not_applied | [Apply](https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Enterprise---Wealth-Application-Development-_R92035) | 4d |
 | M&T Bank | 2027 Technology Development Program - Software Engineering (Data & API Engineering) | Buffalo, NY | Workday | not_applied | [Apply](https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Data---API-Engineering-_R92036) | 4d |
+| M&T Bank | 2027 Technology Development Program - Software Engineering (Enterprise & Wealth Application Development) | Buffalo, NY | Workday | not_applied | [Apply](https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Enterprise---Wealth-Application-Development-_R92035) | 4d |
 | Pallet | Software Engineer, Agent Delivery  | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/pallet/jobs/5242991007) | 5d |
 | Pallet | Software Engineer, Agent Delivery  | New York, NY | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/pallet/jobs/5282402007) | 5d |
 | AbbVie | Associate Software Engineer I | North Chicago, IL, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016715126-associate-software-engineer-i) | 5d |
@@ -107,7 +118,4 @@
 | Albertsons | Front End Entry Level | Rexburg, Idaho, USA | JSearch | not_applied | [Apply](https://www.ziprecruiter.com/c/albertsons/Job/Front-End-Entry-Level/-in-Rexburg,ID?jid=69580f1a5b63d83b) | 5d |
 | Cultivarium | Research Software Engineer | Boulder, CO | Lever | not_applied | [Apply](https://jobs.lever.co/convergentresearch/27eb6f06-826e-4d36-8099-4b590c6807a4) | 5d |
 | Wavestone | AI Full Stack Engineer | Pittsburgh, PA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Wavestone1/744000160277010-ai-full-stack-engineer) | 5d |
-| ServiceNow | Software Engineer | Santa Clara, CALIFORNIA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000160263310-software-engineer) | 5d |
-| Woven | Verification & Validation Software Engineer, Arene Applied Engineering | Ann Arbor, MI | Lever | not_applied | [Apply](https://jobs.lever.co/woven-by-toyota/57330e8d-5053-4901-95a2-432f68f9bb56) | 5d |
-| Crown Innovations | Software Verification & Test Engineer | Arlington, VA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/CrownInnovationsInc/744000160255485-software-verification-test-engineer) | 5d |
 
