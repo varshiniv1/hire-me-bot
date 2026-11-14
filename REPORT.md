@@ -115,7 +115,7 @@
 | Scopely | Full Stack Engineer | US - United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5476480008?gh_jid=5476480008) | 4d |
 | Loft Orbital | Backend Software Engineer - Mission Planning Strategy | San Francisco, CA | Lever | not_applied | [Apply](https://jobs.lever.co/loftorbital/63013f70-6e68-4e73-9ae4-bae1dcccdf14) | 4d |
 | Loft Orbital | Backend Software Engineer - Mission Planning Strategy | Golden, CO | Lever | not_applied | [Apply](https://jobs.lever.co/loftorbital/34f8566b-dd24-42b3-8f34-a395ecb5c2c6) | 4d |
-| Crown Innovations | Software Verification & Test Engineer | Arlington, VA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/CrownInnovationsInc/744000160600979-software-verification-test-engineer) | 4d |
+| Crown Innovations | Software Verification & Test Engineer | Arlington, VA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/CrownInnovationsInc/744000160600979-software-verification-test-engineer) | 5d |
 | Base Power | Software Engineer, Backend - Base Power Platform | Austin, TX | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/base-power/f1faeca1-0545-44d2-87e3-aa74dc88b083) | 5d |
 | Base Power | Software Engineer, Backend - Deployments | Austin, TX | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/base-power/9ed279a2-a39d-4b75-bbee-bff898b448c3) | 5d |
 | Amazon | Software Development Engineer, Audible AI Voice Production  | Cambridge, Massachusetts, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10599972/apply) | 5d |
