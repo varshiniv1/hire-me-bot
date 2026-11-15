@@ -1,6 +1,6 @@
 # Job Postings Report
 
-107 postings from the last 6 days.
+106 postings from the last 6 days.
 
 ## Internships (10)
 
@@ -17,12 +17,12 @@
 | Collins Aerospace | Software Engineering Intern: C++​/Linux Focus | Severn, Maryland, USA | JSearch | not_applied | [Apply](https://www.learn4good.com/jobs/severn/maryland/software_development/5614832652/e/) | 5d |
 | Lila Sciences | Co-op, Software, Applied AI Platform Engineer | San Francisco, CA USA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4472540009) | 5d |
 
-## Full-Time (97)
+## Full-Time (96)
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
-| NVIDIA | Technical Marketing Engineer - DSX AI Infrastructure Software | US, CA, Santa Clara | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Marketing-Engineer---DSX-AI-Infrastructure-Software_JR2024197) | 1d |
 | NVIDIA | Technical Marketing Engineer, DSX Software Portfolio and Enablement | US, CA, Santa Clara | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Marketing-Engineer---DSX-Content-Strategy-Lead_JR2024196) | 1d |
+| NVIDIA | Technical Marketing Engineer - DSX AI Infrastructure Software | US, CA, Santa Clara | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Marketing-Engineer---DSX-AI-Infrastructure-Software_JR2024197) | 1d |
 | Twitch | Software Engineer I, Payments | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8943553002) | 1d |
 | Zoox | Automation Engineer - Compute Software Performance | Foster City, CA | Lever | not_applied | [Apply](https://jobs.lever.co/zoox/1825c7df-ea96-4a2d-b57b-609a61300382) | 1d |
 | Ramp | Software Engineer, Fullstack, Spend Controls | New York, NY (HQ) | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/ramp/6e717b06-6613-42ad-a1ee-f852a305fa37) | 1d |
@@ -31,13 +31,13 @@
 | Intuitive Surgical | Software Engineer | Sunnyvale, CA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000161528139-software-engineer) | 1d |
 | TextNow | Software Developer, Carrier | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/textnowinc/jobs/4504529009) | 1d |
 | Avery Dennison | Label Machine Operator. 1st Shift Back End, Wed 9:30am-6p Thur-Sat 8am-7:30pm | Charlotte, NC, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000161504559-label-machine-operator-1st-shift-back-end-wed-9-30am-6p-thur-sat-8am-7-30pm) | 1d |
-| ASML | Optical Fabrication Technician Back End Nights, 6:00 PM – 6:00 AM (Wednesday, Thursday, Friday, and every other Saturday) - Coating | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-Back-End-Nights--6-00-PM---6-00-AM--Wednesday--Thursday--Friday--and-every-other-Saturday----Coating_J-00357578) | 2d |
-| Raymond James Financial | Financial Planning Software Support Analyst I | Saint Petersburg, Florida - United States | Workday | not_applied | [Apply](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Financial-Planning-Software-Support-Analyst-I_R-0013527) | 2d |
-| ASML | Optical Fabrication Technician Back End Nights, 6:00 PM – 6:00 AM (Wednesday, Thursday, Friday, and every other Saturday) – Coating | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-Front-End-Nights--6-00-PM---6-00-AM--Wednesday--Thursday--Friday--and-every-other-Saturday----Coating_J-00357579) | 2d |
-| ASML | Optical Fabrication Technician CWW Back End Nights, 6:00 PM – 6:00 AM (Wednesday, Thursday, Friday, and every other Saturday) | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-CWW-Back-End-Nights--6-00-PM---6-00-AM--Wednesday--Thursday--Friday--and-every-other-Saturday-_J-00352570-1) | 2d |
 | Fidelity Investments | Full Stack Engineer (backend API, AWS) | Durham, NC | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/targeted/job/Durham-NC/Full-Stack-Engineer--backend-API--AWS-_2137360) | 2d |
 | Fannie Mae | Software Engineer - Associate (AWS) | Reston, VA | Workday | not_applied | [Apply](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Reston-VA/Software-Engineer---Associate--AWS-_JR2983) | 2d |
 | Fannie Mae | Software Engineer - Associate (AWS) | Reston, VA | Workday | not_applied | [Apply](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Reston-VA/Software-Engineer---Associate--AWS-_JR3005) | 2d |
+| ASML | Optical Fabrication Technician Back End Nights, 6:00 PM – 6:00 AM (Wednesday, Thursday, Friday, and every other Saturday) – Coating | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-Front-End-Nights--6-00-PM---6-00-AM--Wednesday--Thursday--Friday--and-every-other-Saturday----Coating_J-00357579) | 2d |
+| ASML | Optical Fabrication Technician CWW Back End Nights, 6:00 PM – 6:00 AM (Wednesday, Thursday, Friday, and every other Saturday) | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-CWW-Back-End-Nights--6-00-PM---6-00-AM--Wednesday--Thursday--Friday--and-every-other-Saturday-_J-00352570-1) | 2d |
+| Raymond James Financial | Financial Planning Software Support Analyst I | Saint Petersburg, Florida - United States | Workday | not_applied | [Apply](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Financial-Planning-Software-Support-Analyst-I_R-0013527) | 2d |
+| ASML | Optical Fabrication Technician Back End Nights, 6:00 PM – 6:00 AM (Wednesday, Thursday, Friday, and every other Saturday) - Coating | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-Back-End-Nights--6-00-PM---6-00-AM--Wednesday--Thursday--Friday--and-every-other-Saturday----Coating_J-00357578) | 2d |
 | Booz Allen | Full Stack Developer | Bethesda, MD | Workday | not_applied | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Bethesda-MD/Full-Stack-Developer_R0253477) | 2d |
 | Affirm | Software Engineer I, Backend (Continuous Delivery) | Remote US | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8181183003) | 2d |
 | IFS | AI-First Software Developer - Softeon | Itasca, Illinois, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/IFS1/744000161383559-ai-first-software-developer-softeon) | 2d |
@@ -53,11 +53,11 @@
 | 1X | Software Engineer - Applied AI | San Carlos, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/1x/0ac33259-1b12-447c-95a3-d2d0c6b1a996) | 3d |
 | Samsung | EHS Software Engineer | 12100 Samsung Blvd, Austin, TX, USA | Workday | not_applied | [Apply](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/EHS-Software-Engineer_R122175) | 3d |
 | DXC Technology | Técnico/a de Homologaciones de Hardware y Software | ESP - MD - LAS ROZAS | Workday | not_applied | [Apply](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/ESP---MD---LAS-ROZAS/Tcnico-a-de-Homologaciones-de-Hardware-y-Software_51594546-1) | 3d |
-| ASML | Optical Fabrication Technician Front End Nights, 6:00 PM – 6:00 AM (Sunday, Monday, Tuesday, and every other Saturday) | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-Front-End-Nights--6-00-PM---6-00-AM--Sunday--Monday--Tuesday--and-every-other-Saturday-_J-00357833) | 3d |
 | DXC Technology | Analyst II Software Engineering (Finacle L1 Support) | IND - TN - CHENNAI | Workday | not_applied | [Apply](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/IND---TN---CHENNAI/Analyst-II-Software-Engineering--Finacle-L1-Support-_51586282) | 3d |
+| ASML | Optical Fabrication Technician Front End Nights, 6:00 PM – 6:00 AM (Sunday, Monday, Tuesday, and every other Saturday) | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-Front-End-Nights--6-00-PM---6-00-AM--Sunday--Monday--Tuesday--and-every-other-Saturday-_J-00357833) | 3d |
+| Meta | Software Engineer, Agent Transformation Accelerator XFN (Technical Leadership) | Menlo Park, California, USA | JSearch | not_applied | [Apply](https://www.metacareers.com/profile/job_details/1476374641074357/) | 3d |
 | Hy-Vee | Front End Clerk | York Dollar Fresh Market, E Nobes Rd, York, NE | Workday | not_applied | [Apply](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/York-Dollar-Fresh-Market-E-Nobes-Rd-York-NE/Front-End-Clerk_R261766-1) | 3d |
 | CDW Corporation | AI Software Consulting Engineer | Remote – USA | Workday | not_applied | [Apply](https://cdw.wd5.myworkdayjobs.com/Careers/job/Remote--USA/AI-Software-Consulting-Engineer_R26_00002986-1) | 3d |
-| Meta | Software Engineer, Agent Transformation Accelerator XFN (Technical Leadership) | Menlo Park, California, USA | JSearch | not_applied | [Apply](https://www.metacareers.com/profile/job_details/1476374641074357/) | 3d |
 | Harris Computer | Part-time Software Support Specialist | Pennsylvania, United States | Workday | not_applied | [Apply](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Pennsylvania-United-States/Part-time-Software-Support-Specialist_R0047434) | 3d |
 | TJX | Mid-Day Front End Associate | Saint Davids, PA 19087 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Saint-Davids-PA-19087/Mid-Day-Front-End-Associate_REQ176307-1) | 3d |
 | TJX | Nights/Weekends Front-End Associates | Saint Davids, PA 19087 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Saint-Davids-PA-19087/Nights-Weekends-Front-End-Associates_REQ176326-1) | 3d |
@@ -66,11 +66,11 @@
 | Talan | C++ Software Engineer | New York, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Talan/744000161158401-c-software-engineer) | 3d |
 | Twitch | Software Engineer I, Commerce | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8934067002) | 3d |
 | People Culture Talent | Software Engineer – ML Infrastructure | San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/people-culture-talent/555aac85-9640-4c91-af92-a16887f4c705) | 3d |
-| ASML | Production Engineer Tooling Asset Management | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Production-Engineer-Tooling-Asset-Management_J-00357511) | 4d |
+| EverCommerce | EverHealth - Backend Claims Management Specialist (Remote, US) | Remote- US | Workday | not_applied | [Apply](https://evercommerce.wd1.myworkdayjobs.com/EverCommerce_Careers/job/Remote--US/EverHealth---Backend-Claims-Management-Specialist--Remote--US-_R-106646) | 4d |
 | GlobalFoundries | AI Processor Hardware/Software Integration Engineer (2027 New College Graduate) | USA - Texas - Richardson | Workday | not_applied | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-Processor-Hardware-Software-Integration-Engineer--2027-New-College-Graduate-_JR-2604093) | 4d |
 | Aptiv | Vehicle Software Integration Engineer | Troy, MI - USA | Workday | not_applied | [Apply](https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/Troy-MI---USA/Vehicle-Software-Integration-Engineer_J000706071) | 4d |
 | Amazon | Software Development Engineer, Creator Marketplace | Culver City, California, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10599970/apply) | 4d |
-| EverCommerce | EverHealth - Backend Claims Management Specialist (Remote, US) | Remote- US | Workday | not_applied | [Apply](https://evercommerce.wd1.myworkdayjobs.com/EverCommerce_Careers/job/Remote--US/EverHealth---Backend-Claims-Management-Specialist--Remote--US-_R-106646) | 4d |
+| ASML | Production Engineer Tooling Asset Management | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Production-Engineer-Tooling-Asset-Management_J-00357511) | 4d |
 | Symbotic | New Grad- Robotics Software Engineer | USA Wilmington,  MA - HQ | Workday | not_applied | [Apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Robotics-Software-Engineer_R8496) | 4d |
 | TJX | Front End Coordinator | Tampa, FL 33647 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Tampa-FL-33647/Front-End-Coordinator_REQ176221-1) | 4d |
 | TJX | Full Time Front End Coordinator | Manitowoc, WI 54220 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Manitowoc-WI-54220/Full-Time-Front-End-Coordinator_REQ176208) | 4d |
@@ -89,9 +89,9 @@
 | Anysphere | Software Engineer, Bugbot | New York, NY | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/cursor/b810bd30-f3b8-45b4-8afd-d2916ce5ee93) | 5d |
 | Anysphere | Software Engineer, Billing | San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/cursor/6222602a-f0ca-4558-8364-06970723e917) | 5d |
 | Fidelity National Information Services | Software Engineer, Platform Governance & Risk | US FL JAX 347 | Workday | not_applied | [Apply](https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Software-Engineer--Platform-Governance---Risk_JR0310651) | 5d |
+| TJX | CEC Front End | Tucson, AZ 85743 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Tucson-AZ-85743/CEC-Front-End_REQ175961) | 5d |
 | TJX | Front End Supervisor | Savage, MN 55378 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Savage-MN-55378/Front-End-Supervisor_REQ175977) | 5d |
 | GE Vernova | Power Systems AI/ML Software Engineer | Bellevue WA US | Workday | not_applied | [Apply](https://gevernova.wd5.myworkdayjobs.com/Only_Confidential_Executive_Recruiting/job/Bellevue-WA-US/Power-Systems-AI-ML-Software-Engineer_R5058168-1) | 5d |
-| TJX | CEC Front End | Tucson, AZ 85743 | Workday | not_applied | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Tucson-AZ-85743/CEC-Front-End_REQ175961) | 5d |
 | Autodesk | Software Engineer | Novi, MI, USA | Workday | not_applied | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Novi-MI-USA/Software-Engineer_26WD102129-1) | 5d |
 | AAA Club Alliance | Full Stack Developer | Costa Mesa, CA | Workday | not_applied | [Apply](https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Full-Stack-Developer_JR202639737) | 5d |
 | AAA Club Alliance | Frontend Developer | Coppell, TX | Workday | not_applied | [Apply](https://ace.wd5.myworkdayjobs.com/careers/job/Coppell-TX/Frontend-Developer_JR202639602) | 5d |
@@ -117,5 +117,4 @@
 | Scopely | Full Stack Engineer | US - United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5476480008?gh_jid=5476480008) | 5d |
 | Loft Orbital | Backend Software Engineer - Mission Planning Strategy | San Francisco, CA | Lever | not_applied | [Apply](https://jobs.lever.co/loftorbital/63013f70-6e68-4e73-9ae4-bae1dcccdf14) | 5d |
 | Loft Orbital | Backend Software Engineer - Mission Planning Strategy | Golden, CO | Lever | not_applied | [Apply](https://jobs.lever.co/loftorbital/34f8566b-dd24-42b3-8f34-a395ecb5c2c6) | 5d |
-| Crown Innovations | Software Verification & Test Engineer | Arlington, VA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/CrownInnovationsInc/744000160600979-software-verification-test-engineer) | 5d |
 
