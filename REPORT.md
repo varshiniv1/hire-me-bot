@@ -22,7 +22,7 @@
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
 | xAI | Software Engineer, Super Intelligence | Palo Alto, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/5295932007) | 0d |
-| Integrated Biosciences | Software Engineer, Robotics | Redwood City, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/integratedbiosciencesinc/jobs/4507787009) | 1d |
+| Integrated Biosciences | Software Engineer, Robotics | Redwood City, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/integratedbiosciencesinc/jobs/4507787009) | 2d |
 | NVIDIA | Technical Marketing Engineer, DSX Software Portfolio and Enablement | US, CA, Santa Clara | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Marketing-Engineer---DSX-Content-Strategy-Lead_JR2024196) | 2d |
 | NVIDIA | Technical Marketing Engineer - DSX AI Infrastructure Software | US, CA, Santa Clara | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Marketing-Engineer---DSX-AI-Infrastructure-Software_JR2024197) | 2d |
 | Twitch | Software Engineer I, Payments | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8943553002) | 2d |
@@ -32,7 +32,7 @@
 | Cambridge Mobile Telematics | Software Engineer I, Cloud | Cambridge, MA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/cmt/jobs/8385978) | 2d |
 | Intuitive Surgical | Software Engineer | Sunnyvale, CA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000161528139-software-engineer) | 2d |
 | TextNow | Software Developer, Carrier | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/textnowinc/jobs/4504529009) | 2d |
-| Avery Dennison | Label Machine Operator. 1st Shift Back End, Wed 9:30am-6p Thur-Sat 8am-7:30pm | Charlotte, NC, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000161504559-label-machine-operator-1st-shift-back-end-wed-9-30am-6p-thur-sat-8am-7-30pm) | 2d |
+| Avery Dennison | Label Machine Operator. 1st Shift Back End, Wed 9:30am-6p Thur-Sat 8am-7:30pm | Charlotte, NC, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000161504559-label-machine-operator-1st-shift-back-end-wed-9-30am-6p-thur-sat-8am-7-30pm) | 3d |
 | Booz Allen | Full Stack Developer | Bethesda, MD | Workday | not_applied | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Bethesda-MD/Full-Stack-Developer_R0253477) | 3d |
 | Raymond James Financial | Financial Planning Software Support Analyst I | Saint Petersburg, Florida - United States | Workday | not_applied | [Apply](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Financial-Planning-Software-Support-Analyst-I_R-0013527) | 3d |
 | ASML | Optical Fabrication Technician Back End Nights, 6:00 PM – 6:00 AM (Wednesday, Thursday, Friday, and every other Saturday) - Coating | Wilton, CT, USA | Workday | not_applied | [Apply](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-Back-End-Nights--6-00-PM---6-00-AM--Wednesday--Thursday--Friday--and-every-other-Saturday----Coating_J-00357578) | 3d |
@@ -50,8 +50,8 @@
 | The Pokémon Company | Software Development Engineer in Test | Bellevue, Washington, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/pokemoncareers/jobs/8199147003) | 3d |
 | Woongjin | Mid. Software Engineer | Plano, TX, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/WJCompany/744000161356440-mid-software-engineer) | 3d |
 | Redhorse | Cloud Software Engineer (Full-Stack and AI) - Junior Level | Gainesville, VA | Lever | not_applied | [Apply](https://jobs.lever.co/redhorsecorp/be90f883-2ec0-460f-8d20-241e4c54951f) | 3d |
-| REGENT | Software Certification Engineer | North Kingstown, Rhode Island, USA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/REGENT/4cc94ede-4b39-4f50-9b92-427e1f52c509) | 3d |
-| SteerBridge | Software Engineer | Vienna, VA | Lever | not_applied | [Apply](https://jobs.lever.co/steerbridge/a74f449f-bb72-40d6-a4e7-4a0824723746) | 3d |
+| REGENT | Software Certification Engineer | North Kingstown, Rhode Island, USA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/REGENT/4cc94ede-4b39-4f50-9b92-427e1f52c509) | 4d |
+| SteerBridge | Software Engineer | Vienna, VA | Lever | not_applied | [Apply](https://jobs.lever.co/steerbridge/a74f449f-bb72-40d6-a4e7-4a0824723746) | 4d |
 | 1X | Software Engineer - Applied AI | San Carlos, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/1x/0ac33259-1b12-447c-95a3-d2d0c6b1a996) | 4d |
 | Harris Computer | Part-time Software Support Specialist | Pennsylvania, United States | Workday | not_applied | [Apply](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Pennsylvania-United-States/Part-time-Software-Support-Specialist_R0047434) | 4d |
 | Hy-Vee | Front End Clerk | York Dollar Fresh Market, E Nobes Rd, York, NE | Workday | not_applied | [Apply](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/York-Dollar-Fresh-Market-E-Nobes-Rd-York-NE/Front-End-Clerk_R261766-1) | 4d |
