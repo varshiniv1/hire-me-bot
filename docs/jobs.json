@@ -1,5 +1,27 @@
 [
   {
+    "id": 548810,
+    "company": "Ramp",
+    "role": "Software Engineer, Backend, AI Ventures",
+    "location": "New York, NY (HQ)",
+    "source": "Ashby",
+    "status": "not_applied",
+    "url": "https://jobs.ashbyhq.com/ramp/3cfbf693-58e3-423f-87a8-a93dbd0839b0",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
+    "id": 548702,
+    "company": "Minitab",
+    "role": "Software Engineer",
+    "location": "State College, Pennsylvania, United States",
+    "source": "Greenhouse",
+    "status": "not_applied",
+    "url": "https://job-boards.greenhouse.io/minitab/jobs/8203700003",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
     "id": 548293,
     "company": "xAI",
     "role": "Software Engineer, Safety",
@@ -106,7 +128,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/mechanicallicensingcollective/jobs/8196213003",
-    "age": "0d",
+    "age": "1d",
     "is_internship": false
   },
   {
@@ -117,7 +139,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/m3/jobs/8201335003",
-    "age": "0d",
+    "age": "1d",
     "is_internship": true
   },
   {
@@ -128,7 +150,7 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/AveryDennison/744000161871549-distribution-team-member-i-back-end-night-shift",
-    "age": "0d",
+    "age": "1d",
     "is_internship": false
   },
   {
@@ -139,7 +161,7 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://www.linkedin.com/jobs/view/application-consultant-site-reliability-at-ibm-4490118082?refId=wjh%2F%2F9BGPwkq%2FweE5tuNZQ%3D%3D&trackingId=VHCKxd3RuXouEiid4i8qQA%3D%3D",
-    "age": "0d",
+    "age": "1d",
     "is_internship": false
   },
   {
@@ -194,17 +216,17 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/integratedbiosciencesinc/jobs/4507787009",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
-    "id": 542371,
+    "id": 542372,
     "company": "NVIDIA",
-    "role": "Technical Marketing Engineer, DSX Software Portfolio and Enablement",
+    "role": "Technical Marketing Engineer - DSX AI Infrastructure Software",
     "location": "US, CA, Santa Clara",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Marketing-Engineer---DSX-Content-Strategy-Lead_JR2024196",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Marketing-Engineer---DSX-AI-Infrastructure-Software_JR2024197",
     "age": "3d",
     "is_internship": false
   },
@@ -242,13 +264,13 @@
     "is_internship": false
   },
   {
-    "id": 542372,
+    "id": 542371,
     "company": "NVIDIA",
-    "role": "Technical Marketing Engineer - DSX AI Infrastructure Software",
+    "role": "Technical Marketing Engineer, DSX Software Portfolio and Enablement",
     "location": "US, CA, Santa Clara",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Marketing-Engineer---DSX-AI-Infrastructure-Software_JR2024197",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Marketing-Engineer---DSX-Content-Strategy-Lead_JR2024196",
     "age": "3d",
     "is_internship": false
   },
@@ -315,7 +337,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/cmt/jobs/8385978",
-    "age": "3d",
+    "age": "4d",
     "is_internship": false
   },
   {
@@ -326,7 +348,7 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/Intuitive/744000161528139-software-engineer",
-    "age": "3d",
+    "age": "4d",
     "is_internship": false
   },
   {
@@ -337,7 +359,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/textnowinc/jobs/4504529009",
-    "age": "3d",
+    "age": "4d",
     "is_internship": false
   },
   {
@@ -348,50 +370,17 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/AveryDennison/744000161504559-label-machine-operator-1st-shift-back-end-wed-9-30am-6p-thur-sat-8am-7-30pm",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 540582,
-    "company": "ASML",
-    "role": "Optical Fabrication Technician Back End Nights, 6:00 PM \u2013 6:00 AM (Wednesday, Thursday, Friday, and every other Saturday) - Coating",
-    "location": "Wilton, CT, USA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-Back-End-Nights--6-00-PM---6-00-AM--Wednesday--Thursday--Friday--and-every-other-Saturday----Coating_J-00357578",
     "age": "4d",
     "is_internship": false
   },
   {
-    "id": 544837,
-    "company": "Martin Marietta",
-    "role": "Intern, Software Data Integration Engineer",
-    "location": "Raleigh, NC",
+    "id": 542516,
+    "company": "Raymond James Financial",
+    "role": "Financial Planning Software Support Analyst I",
+    "location": "Saint Petersburg, Florida - United States",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Software-Data-Integration-Engineer_JR024146",
-    "age": "4d",
-    "is_internship": true
-  },
-  {
-    "id": 546830,
-    "company": "Stripe, Inc.",
-    "role": "HS Software Engineer Fellowship \u2014 12-Week In-Person (SF/SEA)",
-    "location": "Seattle, Washington, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://bebee.com/us/jobs/hs-software-engineer-fellowship-12-week-in-person-sf-sea-stripe-inc-seattle-wa--jooble--7996097021772994211",
-    "age": "4d",
-    "is_internship": true
-  },
-  {
-    "id": 546822,
-    "company": "David Sung Lee Corporation",
-    "role": "Web Developer or Front End Developer (HTML / CSS / Javascript)",
-    "location": "Hoffman Estates, Illinois, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.ziprecruiter.com/c/David-Sung-Lee/Job/Web-Developer-or-Front-End-Developer-(HTML-CSS-Javascript)/-in-Hoffman-Estates,IL?jid=5922da1dca39a1a7",
+    "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Financial-Planning-Software-Support-Analyst-I_R-0013527",
     "age": "4d",
     "is_internship": false
   },
@@ -414,28 +403,6 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://jobs.stevenagefc.com/jobs/software-engineering-fellowship-for-skillbridge-participants-atlanta-georgia/3068799258-2/",
-    "age": "4d",
-    "is_internship": true
-  },
-  {
-    "id": 546820,
-    "company": "Emonics LLC",
-    "role": "Backend Python Developer - Entry Level",
-    "location": "Chicago, Illinois, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.ziprecruiter.com/c/emonics/Job/Backend-Python-Developer-Entry-Level/-in-Chicago,IL?jid=c078e25b9375fbc3",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
-    "id": 546829,
-    "company": "Wikimedia Foundation",
-    "role": "Remote Software Engineering Internship",
-    "location": "Baltimore, Maryland, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://us.trabajo.org/job-5381-1e303c233d2f2caea653ddde6bc8a205",
     "age": "4d",
     "is_internship": true
   },
@@ -473,17 +440,6 @@
     "is_internship": false
   },
   {
-    "id": 546834,
-    "company": "Computer Services",
-    "role": "Software Engineer I",
-    "location": "Paducah, Kentucky, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://us.trabajo.org/job-5381-e9d7da2d67c670b4f89bd28ba0741e39",
-    "age": "4d",
-    "is_internship": false
-  },
-  {
     "id": 540580,
     "company": "ASML",
     "role": "Optical Fabrication Technician CWW Back End Nights, 6:00 PM \u2013 6:00 AM (Wednesday, Thursday, Friday, and every other Saturday)",
@@ -506,13 +462,79 @@
     "is_internship": false
   },
   {
-    "id": 542516,
-    "company": "Raymond James Financial",
-    "role": "Financial Planning Software Support Analyst I",
-    "location": "Saint Petersburg, Florida - United States",
+    "id": 540582,
+    "company": "ASML",
+    "role": "Optical Fabrication Technician Back End Nights, 6:00 PM \u2013 6:00 AM (Wednesday, Thursday, Friday, and every other Saturday) - Coating",
+    "location": "Wilton, CT, USA",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Financial-Planning-Software-Support-Analyst-I_R-0013527",
+    "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-Back-End-Nights--6-00-PM---6-00-AM--Wednesday--Thursday--Friday--and-every-other-Saturday----Coating_J-00357578",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 544837,
+    "company": "Martin Marietta",
+    "role": "Intern, Software Data Integration Engineer",
+    "location": "Raleigh, NC",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Software-Data-Integration-Engineer_JR024146",
+    "age": "4d",
+    "is_internship": true
+  },
+  {
+    "id": 546822,
+    "company": "David Sung Lee Corporation",
+    "role": "Web Developer or Front End Developer (HTML / CSS / Javascript)",
+    "location": "Hoffman Estates, Illinois, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.ziprecruiter.com/c/David-Sung-Lee/Job/Web-Developer-or-Front-End-Developer-(HTML-CSS-Javascript)/-in-Hoffman-Estates,IL?jid=5922da1dca39a1a7",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 546830,
+    "company": "Stripe, Inc.",
+    "role": "HS Software Engineer Fellowship \u2014 12-Week In-Person (SF/SEA)",
+    "location": "Seattle, Washington, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://bebee.com/us/jobs/hs-software-engineer-fellowship-12-week-in-person-sf-sea-stripe-inc-seattle-wa--jooble--7996097021772994211",
+    "age": "4d",
+    "is_internship": true
+  },
+  {
+    "id": 546834,
+    "company": "Computer Services",
+    "role": "Software Engineer I",
+    "location": "Paducah, Kentucky, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://us.trabajo.org/job-5381-e9d7da2d67c670b4f89bd28ba0741e39",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 546829,
+    "company": "Wikimedia Foundation",
+    "role": "Remote Software Engineering Internship",
+    "location": "Baltimore, Maryland, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://us.trabajo.org/job-5381-1e303c233d2f2caea653ddde6bc8a205",
+    "age": "4d",
+    "is_internship": true
+  },
+  {
+    "id": 546820,
+    "company": "Emonics LLC",
+    "role": "Backend Python Developer - Entry Level",
+    "location": "Chicago, Illinois, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.ziprecruiter.com/c/emonics/Job/Backend-Python-Developer-Entry-Level/-in-Chicago,IL?jid=c078e25b9375fbc3",
     "age": "4d",
     "is_internship": false
   },
@@ -590,7 +612,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/cfsenergy/5aeb4472-1124-474a-a61e-997c74b16e45",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -601,7 +623,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/pokemoncareers/jobs/8199147003",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -612,7 +634,7 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/WJCompany/744000161356440-mid-software-engineer",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -623,7 +645,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/redhorsecorp/be90f883-2ec0-460f-8d20-241e4c54951f",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -634,7 +656,7 @@
     "source": "Ashby",
     "status": "not_applied",
     "url": "https://jobs.ashbyhq.com/REGENT/4cc94ede-4b39-4f50-9b92-427e1f52c509",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -645,7 +667,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/steerbridge/a74f449f-bb72-40d6-a4e7-4a0824723746",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -656,39 +678,6 @@
     "source": "Ashby",
     "status": "not_applied",
     "url": "https://jobs.ashbyhq.com/1x/0ac33259-1b12-447c-95a3-d2d0c6b1a996",
-    "age": "5d",
-    "is_internship": false
-  },
-  {
-    "id": 536787,
-    "company": "TJX",
-    "role": "Mid-Day Front End Associate",
-    "location": "Saint Davids, PA 19087",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Saint-Davids-PA-19087/Mid-Day-Front-End-Associate_REQ176307-1",
-    "age": "5d",
-    "is_internship": false
-  },
-  {
-    "id": 537069,
-    "company": "CDW Corporation",
-    "role": "AI Software Consulting Engineer",
-    "location": "Remote \u2013 USA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://cdw.wd5.myworkdayjobs.com/Careers/job/Remote--USA/AI-Software-Consulting-Engineer_R26_00002986-1",
-    "age": "5d",
-    "is_internship": false
-  },
-  {
-    "id": 537234,
-    "company": "Hy-Vee",
-    "role": "Front End Clerk",
-    "location": "York Dollar Fresh Market, E Nobes Rd, York, NE",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/York-Dollar-Fresh-Market-E-Nobes-Rd-York-NE/Front-End-Clerk_R261766-1",
     "age": "5d",
     "is_internship": false
   },
@@ -704,6 +693,17 @@
     "is_internship": false
   },
   {
+    "id": 537069,
+    "company": "CDW Corporation",
+    "role": "AI Software Consulting Engineer",
+    "location": "Remote \u2013 USA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://cdw.wd5.myworkdayjobs.com/Careers/job/Remote--USA/AI-Software-Consulting-Engineer_R26_00002986-1",
+    "age": "5d",
+    "is_internship": false
+  },
+  {
     "id": 536260,
     "company": "Harris Computer",
     "role": "Part-time Software Support Specialist",
@@ -711,6 +711,28 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Pennsylvania-United-States/Part-time-Software-Support-Specialist_R0047434",
+    "age": "5d",
+    "is_internship": false
+  },
+  {
+    "id": 536787,
+    "company": "TJX",
+    "role": "Mid-Day Front End Associate",
+    "location": "Saint Davids, PA 19087",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Saint-Davids-PA-19087/Mid-Day-Front-End-Associate_REQ176307-1",
+    "age": "5d",
+    "is_internship": false
+  },
+  {
+    "id": 546819,
+    "company": "Base Career",
+    "role": "Entry-Level Backend Engineer - Remote + Equity",
+    "location": "Bellevue, Washington, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://bebee.com/us/jobs/entry-level-backend-engineer-remote-equity-base-career-bellevue--lensa-7428_6ca7749456d5d69f5239272ccd9005de0a34366a6e2e42419c284c85c6170a02",
     "age": "5d",
     "is_internship": false
   },
@@ -748,28 +770,6 @@
     "is_internship": false
   },
   {
-    "id": 536173,
-    "company": "DXC Technology",
-    "role": "T\u00e9cnico/a de Homologaciones de Hardware y Software",
-    "location": "ESP - MD - LAS ROZAS",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/ESP---MD---LAS-ROZAS/Tcnico-a-de-Homologaciones-de-Hardware-y-Software_51594546-1",
-    "age": "5d",
-    "is_internship": false
-  },
-  {
-    "id": 536094,
-    "company": "ASML",
-    "role": "Optical Fabrication Technician Front End Nights, 6:00 PM \u2013 6:00 AM (Sunday, Monday, Tuesday, and every other Saturday)",
-    "location": "Wilton, CT, USA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-Front-End-Nights--6-00-PM---6-00-AM--Sunday--Monday--Tuesday--and-every-other-Saturday-_J-00357833",
-    "age": "5d",
-    "is_internship": false
-  },
-  {
     "id": 545975,
     "company": "Micron Technology",
     "role": "New College Grad - Software Engineer",
@@ -803,6 +803,28 @@
     "is_internship": false
   },
   {
+    "id": 536173,
+    "company": "DXC Technology",
+    "role": "T\u00e9cnico/a de Homologaciones de Hardware y Software",
+    "location": "ESP - MD - LAS ROZAS",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/ESP---MD---LAS-ROZAS/Tcnico-a-de-Homologaciones-de-Hardware-y-Software_51594546-1",
+    "age": "5d",
+    "is_internship": false
+  },
+  {
+    "id": 536094,
+    "company": "ASML",
+    "role": "Optical Fabrication Technician Front End Nights, 6:00 PM \u2013 6:00 AM (Sunday, Monday, Tuesday, and every other Saturday)",
+    "location": "Wilton, CT, USA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Optical-Fabrication-Technician-Front-End-Nights--6-00-PM---6-00-AM--Sunday--Monday--Tuesday--and-every-other-Saturday-_J-00357833",
+    "age": "5d",
+    "is_internship": false
+  },
+  {
     "id": 535187,
     "company": "DXC Technology",
     "role": "Analyst II Software Engineering (Finacle L1 Support)",
@@ -814,13 +836,13 @@
     "is_internship": false
   },
   {
-    "id": 546819,
-    "company": "Base Career",
-    "role": "Entry-Level Backend Engineer - Remote + Equity",
-    "location": "Bellevue, Washington, USA",
-    "source": "JSearch",
+    "id": 537234,
+    "company": "Hy-Vee",
+    "role": "Front End Clerk",
+    "location": "York Dollar Fresh Market, E Nobes Rd, York, NE",
+    "source": "Workday",
     "status": "not_applied",
-    "url": "https://bebee.com/us/jobs/entry-level-backend-engineer-remote-equity-base-career-bellevue--lensa-7428_6ca7749456d5d69f5239272ccd9005de0a34366a6e2e42419c284c85c6170a02",
+    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/York-Dollar-Fresh-Market-E-Nobes-Rd-York-NE/Front-End-Clerk_R261766-1",
     "age": "5d",
     "is_internship": false
   },
@@ -876,50 +898,6 @@
     "source": "Ashby",
     "status": "not_applied",
     "url": "https://jobs.ashbyhq.com/people-culture-talent/555aac85-9640-4c91-af92-a16887f4c705",
-    "age": "5d",
-    "is_internship": false
-  },
-  {
-    "id": 534314,
-    "company": "EverCommerce",
-    "role": "EverHealth - Backend Claims Management Specialist (Remote, US)",
-    "location": "Remote- US",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://evercommerce.wd1.myworkdayjobs.com/EverCommerce_Careers/job/Remote--US/EverHealth---Backend-Claims-Management-Specialist--Remote--US-_R-106646",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 534287,
-    "company": "ASML",
-    "role": "Production Engineer Tooling Asset Management",
-    "location": "Wilton, CT, USA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Production-Engineer-Tooling-Asset-Management_J-00357511",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 534105,
-    "company": "Amazon",
-    "role": "Software Development Engineer, Creator Marketplace",
-    "location": "Culver City, California, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10599970/apply",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 534094,
-    "company": "Aptiv",
-    "role": "Vehicle Software Integration Engineer",
-    "location": "Troy, MI - USA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/Troy-MI---USA/Vehicle-Software-Integration-Engineer_J000706071",
     "age": "6d",
     "is_internship": false
   },
@@ -935,6 +913,28 @@
     "is_internship": true
   },
   {
+    "id": 534094,
+    "company": "Aptiv",
+    "role": "Vehicle Software Integration Engineer",
+    "location": "Troy, MI - USA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/Troy-MI---USA/Vehicle-Software-Integration-Engineer_J000706071",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 534794,
+    "company": "Symbotic",
+    "role": "New Grad- Robotics Software Engineer",
+    "location": "USA Wilmington,  MA - HQ",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Robotics-Software-Engineer_R8496",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
     "id": 534176,
     "company": "Bose",
     "role": "Digital Signal Processing ML Software Development Co-op",
@@ -946,35 +946,13 @@
     "is_internship": true
   },
   {
-    "id": 546832,
-    "company": "Stripe, Inc.",
-    "role": "HS Software Engineer Fellowship \u2014 12-Week In-Person (SF/SEA)",
-    "location": "San Francisco, California, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://bebee.com/us/jobs/hs-software-engineer-fellowship-12-week-in-person-sf-sea-stripe-inc-san-francisco--pureheal-28528_25300_f7120a2b82371176a2bd76b0be9c5f84-2312507257",
-    "age": "6d",
-    "is_internship": true
-  },
-  {
-    "id": 533500,
-    "company": "GlobalFoundries",
-    "role": "AI Processor Hardware/Software Integration Engineer (2027 New College Graduate)",
-    "location": "USA - Texas - Richardson",
+    "id": 535802,
+    "company": "TJX",
+    "role": "Full Time Front End Coordinator",
+    "location": "Manitowoc, WI 54220",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-Processor-Hardware-Software-Integration-Engineer--2027-New-College-Graduate-_JR-2604093",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 539472,
-    "company": "Murialdo S.A.",
-    "role": "Software Engineer(Entry-Level)",
-    "location": "Baltimore, Maryland, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.recruit.net/job/software-engineer-jobs/471CF8BE667E2D21",
+    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Manitowoc-WI-54220/Full-Time-Front-End-Coordinator_REQ176208",
     "age": "6d",
     "is_internship": false
   },
@@ -990,15 +968,26 @@
     "is_internship": false
   },
   {
-    "id": 535802,
-    "company": "TJX",
-    "role": "Full Time Front End Coordinator",
-    "location": "Manitowoc, WI 54220",
+    "id": 533500,
+    "company": "GlobalFoundries",
+    "role": "AI Processor Hardware/Software Integration Engineer (2027 New College Graduate)",
+    "location": "USA - Texas - Richardson",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Manitowoc-WI-54220/Full-Time-Front-End-Coordinator_REQ176208",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-Processor-Hardware-Software-Integration-Engineer--2027-New-College-Graduate-_JR-2604093",
     "age": "6d",
     "is_internship": false
+  },
+  {
+    "id": 546832,
+    "company": "Stripe, Inc.",
+    "role": "HS Software Engineer Fellowship \u2014 12-Week In-Person (SF/SEA)",
+    "location": "San Francisco, California, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://bebee.com/us/jobs/hs-software-engineer-fellowship-12-week-in-person-sf-sea-stripe-inc-san-francisco--pureheal-28528_25300_f7120a2b82371176a2bd76b0be9c5f84-2312507257",
+    "age": "6d",
+    "is_internship": true
   },
   {
     "id": 535803,
@@ -1023,13 +1012,46 @@
     "is_internship": true
   },
   {
-    "id": 534794,
-    "company": "Symbotic",
-    "role": "New Grad- Robotics Software Engineer",
-    "location": "USA Wilmington,  MA - HQ",
+    "id": 534287,
+    "company": "ASML",
+    "role": "Production Engineer Tooling Asset Management",
+    "location": "Wilton, CT, USA",
     "source": "Workday",
     "status": "not_applied",
-    "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Robotics-Software-Engineer_R8496",
+    "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Production-Engineer-Tooling-Asset-Management_J-00357511",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 539472,
+    "company": "Murialdo S.A.",
+    "role": "Software Engineer(Entry-Level)",
+    "location": "Baltimore, Maryland, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.recruit.net/job/software-engineer-jobs/471CF8BE667E2D21",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 534105,
+    "company": "Amazon",
+    "role": "Software Development Engineer, Creator Marketplace",
+    "location": "Culver City, California, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10599970/apply",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 534314,
+    "company": "EverCommerce",
+    "role": "EverHealth - Backend Claims Management Specialist (Remote, US)",
+    "location": "Remote- US",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://evercommerce.wd1.myworkdayjobs.com/EverCommerce_Careers/job/Remote--US/EverHealth---Backend-Claims-Management-Specialist--Remote--US-_R-106646",
     "age": "6d",
     "is_internship": false
   },
@@ -1054,38 +1076,5 @@
     "url": "https://jobs.smartrecruiters.com/AveryDennison/744000160960279-label-machine-operator-back-end-nights-wed-1030pm-7am-thur-sat-8pm-730am",
     "age": "6d",
     "is_internship": false
-  },
-  {
-    "id": 532008,
-    "company": "Skydio",
-    "role": "Hardware In Loop (HIL) Software Engineer Intern - Winter 2027",
-    "location": "San Mateo, California, United States",
-    "source": "Ashby",
-    "status": "not_applied",
-    "url": "https://jobs.ashbyhq.com/skydio/add7fd86-78e6-483e-98cd-cdfc1029fded",
-    "age": "6d",
-    "is_internship": true
-  },
-  {
-    "id": 530852,
-    "company": "Palantir",
-    "role": "Software Engineer, Intern - Connectivity Platform and Product",
-    "location": "Denver, CO",
-    "source": "Lever",
-    "status": "not_applied",
-    "url": "https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e",
-    "age": "6d",
-    "is_internship": true
-  },
-  {
-    "id": 531116,
-    "company": "Veolia",
-    "role": "Manufacturing Software Engineer Intern",
-    "location": "Boulder, CO, us",
-    "source": "SmartRecruiters",
-    "status": "not_applied",
-    "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000160896184-manufacturing-software-engineer-intern",
-    "age": "6d",
-    "is_internship": true
   }
 ]
