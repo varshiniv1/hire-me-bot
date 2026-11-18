@@ -32,7 +32,7 @@
 | Benchling | Software Engineer, CDC | San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/benchling/baa78673-4c25-4d61-8888-2eac4c63d8c5) | 0d |
 | Ramp | Software Engineer, Backend, AI Ventures | New York, NY (HQ) | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/ramp/3cfbf693-58e3-423f-87a8-a93dbd0839b0) | 0d |
 | Minitab | Software Engineer | State College, Pennsylvania, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/minitab/jobs/8203700003) | 0d |
-| xAI | Software Engineer, Safety | Palo Alto, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/5297316007) | 0d |
+| xAI | Software Engineer, Safety | Palo Alto, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/5297316007) | 1d |
 | Energy Solutions | Software Engineer II (Hybrid - US) | Boston, Massachusetts, United States; Chicago, Illinois, United States; New York, New York, United States; Oakland, California, United States; Orange, California, United States; Portland, Oregon, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/energysolutions/jobs/5274064007) | 1d |
 | Amazon | Software Development Engineer | Cambridge, Massachusetts, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10607536/apply) | 1d |
 | TeleTracking | Software Engineer II | Pittsburgh, PA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/5480546008) | 1d |
@@ -44,9 +44,9 @@
 | Mechanical Licensing Collective | Engineer, Matching Software | Nashville, Tennessee, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/mechanicallicensingcollective/jobs/8196213003) | 1d |
 | Avery Dennison | Distribution Team Member I, Back End Night Shift | Charlotte, NC, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000161871549-distribution-team-member-i-back-end-night-shift) | 1d |
 | IBM | Application Consultant-Site Reliability | Brookhaven, Pennsylvania, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/application-consultant-site-reliability-at-ibm-4490118082?refId=wjh%2F%2F9BGPwkq%2FweE5tuNZQ%3D%3D&trackingId=VHCKxd3RuXouEiid4i8qQA%3D%3D) | 1d |
-| xAI | Software Engineer, Super Intelligence | Palo Alto, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/5295932007) | 1d |
+| xAI | Software Engineer, Super Intelligence | Palo Alto, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/5295932007) | 2d |
 | Albertsons | Front End Entry Level | Bee Cave, Texas, USA | JSearch | not_applied | [Apply](https://career.io/job/front-end-entry-level-bee-cave-albertsons-55a6d693926f7260223b0a51a1dcbb9b) | 2d |
-| Integrated Biosciences | Software Engineer, Robotics | Redwood City, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/integratedbiosciencesinc/jobs/4507787009) | 3d |
+| Integrated Biosciences | Software Engineer, Robotics | Redwood City, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/integratedbiosciencesinc/jobs/4507787009) | 4d |
 | Leidos | Site Reliability Engineer | Bull Run Mountain Estates, Virginia, USA | JSearch | not_applied | [Apply](https://jobs.womenforhire.com/job/usa/bull-run-mountain-estates-va/site-reliability-engineer-571931/) | 4d |
 | NVIDIA | Technical Marketing Engineer - DSX AI Infrastructure Software | US, CA, Santa Clara | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Marketing-Engineer---DSX-AI-Infrastructure-Software_JR2024197) | 4d |
 | NVIDIA | Technical Marketing Engineer, DSX Software Portfolio and Enablement | US, CA, Santa Clara | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Marketing-Engineer---DSX-Content-Strategy-Lead_JR2024196) | 4d |
