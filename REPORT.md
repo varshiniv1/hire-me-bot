@@ -1,6 +1,6 @@
 # Job Postings Report
 
-59 postings from the last 6 days.
+60 postings from the last 6 days.
 
 ## Internships (6)
 
@@ -13,7 +13,7 @@
 | Lyric | Software Engineering Internship | Silver Spring, Maryland, USA | JSearch | not_applied | [Apply](https://www.learn4good.com/jobs/silver-spring/maryland/software_development/5641314588/e/) | 3d |
 | Viavi Solutions | Software Engineering Co-op | Germantown, MD USA | Workday | not_applied | [Apply](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Software-Engineering-Co-op_260005308-1) | 4d |
 
-## Full-Time (53)
+## Full-Time (54)
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
@@ -29,8 +29,9 @@
 | Twitch | Software Engineer I, Commerce | Seattle, WA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8949388002) | 1d |
 | AEG | Site Reliability Engineer II  - AXS | Los Angeles, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/aegworldwide/jobs/8949373002) | 1d |
 | AXS | Site Reliability Engineer II   | Los Angeles, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/axs/jobs/8949372002) | 1d |
-| Amazon | Software Development Engineer, ROBOTICS -  2027 | Austin, Texas, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10607764/apply) | 1d |
 | Amazon | Software Engineer I | San Francisco, California, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10608848/apply) | 1d |
+| Amazon | Software Development Engineer, ROBOTICS -  2027 | Austin, Texas, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10607764/apply) | 1d |
+| ABC Supply | Software Engineer - Power Platform (946) | Beloit, WI | Workday | not_applied | [Apply](https://abcsupply.wd1.myworkdayjobs.com/ABCSupplyCareers/job/Beloit-WI/Software-Engineer---Power-Platform--946-_68709) | 1d |
 | Relativity Space | Software Engineer I (Factory Platform) | Long Beach, California, United States | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/relativity/jobs/8949325002?gh_jid=8949325002) | 1d |
 | Mirantis | Software Engineer, Backend (Go)  | Raleigh, NC, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Mirantis/744000162186029-software-engineer-backend-go-) | 1d |
 | The Pokémon Company | Software Development Engineer | Bellevue, Washington, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/pokemoncareers/jobs/8202793003) | 1d |
@@ -39,7 +40,7 @@
 | Benchling | Software Engineer, CDC | San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/benchling/baa78673-4c25-4d61-8888-2eac4c63d8c5) | 1d |
 | Ramp | Software Engineer, Backend, AI Ventures | New York, NY (HQ) | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/ramp/3cfbf693-58e3-423f-87a8-a93dbd0839b0) | 1d |
 | Minitab | Software Engineer | State College, Pennsylvania, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/minitab/jobs/8203700003) | 1d |
-| xAI | Software Engineer, Safety | Palo Alto, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/5297316007) | 1d |
+| xAI | Software Engineer, Safety | Palo Alto, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/5297316007) | 2d |
 | Energy Solutions | Software Engineer II (Hybrid - US) | Boston, Massachusetts, United States; Chicago, Illinois, United States; New York, New York, United States; Oakland, California, United States; Orange, California, United States; Portland, Oregon, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/energysolutions/jobs/5274064007) | 2d |
 | Amazon | Software Development Engineer | Cambridge, Massachusetts, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10607536/apply) | 2d |
 | TeleTracking | Software Engineer II | Pittsburgh, PA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/5480546008) | 2d |
@@ -51,9 +52,9 @@
 | Mechanical Licensing Collective | Engineer, Matching Software | Nashville, Tennessee, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/mechanicallicensingcollective/jobs/8196213003) | 2d |
 | Avery Dennison | Distribution Team Member I, Back End Night Shift | Charlotte, NC, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000161871549-distribution-team-member-i-back-end-night-shift) | 2d |
 | IBM | Application Consultant-Site Reliability | Brookhaven, Pennsylvania, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/application-consultant-site-reliability-at-ibm-4490118082?refId=wjh%2F%2F9BGPwkq%2FweE5tuNZQ%3D%3D&trackingId=VHCKxd3RuXouEiid4i8qQA%3D%3D) | 2d |
-| xAI | Software Engineer, Super Intelligence | Palo Alto, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/5295932007) | 2d |
+| xAI | Software Engineer, Super Intelligence | Palo Alto, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/5295932007) | 3d |
 | Albertsons | Front End Entry Level | Bee Cave, Texas, USA | JSearch | not_applied | [Apply](https://career.io/job/front-end-entry-level-bee-cave-albertsons-55a6d693926f7260223b0a51a1dcbb9b) | 3d |
-| Integrated Biosciences | Software Engineer, Robotics | Redwood City, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/integratedbiosciencesinc/jobs/4507787009) | 4d |
+| Integrated Biosciences | Software Engineer, Robotics | Redwood City, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/integratedbiosciencesinc/jobs/4507787009) | 5d |
 | Atorline | Junior Frontend Developer | San Jose, California, USA | JSearch | not_applied | [Apply](https://www.learn4good.com/jobs/san-jose/california/software_development/5637017039/e/) | 5d |
 | Albertsons | Front End Entry Level | Santa Clarita, California, USA | JSearch | not_applied | [Apply](https://www.ziprecruiter.com/c/Albertsons/Job/Front-End-Entry-Level/-in-Santa-Clarita,CA?jid=76bded620de44d8c) | 5d |
 | NVIDIA | Technical Marketing Engineer, DSX Software Portfolio and Enablement | US, CA, Santa Clara | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Marketing-Engineer---DSX-Content-Strategy-Lead_JR2024196) | 5d |
