@@ -55,7 +55,7 @@
 | Benchling | Software Engineer, CDC | San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/benchling/baa78673-4c25-4d61-8888-2eac4c63d8c5) | 2d |
 | Ramp | Software Engineer, Backend, AI Ventures | New York, NY (HQ) | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/ramp/3cfbf693-58e3-423f-87a8-a93dbd0839b0) | 2d |
 | Minitab | Software Engineer | State College, Pennsylvania, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/minitab/jobs/8203700003) | 2d |
-| xAI | Software Engineer, Safety | Palo Alto, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/5297316007) | 2d |
+| xAI | Software Engineer, Safety | Palo Alto, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/5297316007) | 3d |
 | Energy Solutions | Software Engineer II (Hybrid - US) | Boston, Massachusetts, United States; Chicago, Illinois, United States; New York, New York, United States; Oakland, California, United States; Orange, California, United States; Portland, Oregon, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/energysolutions/jobs/5274064007) | 3d |
 | BeaconFire Inc. | Java Software Engineer | Washington, District of Columbia, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4488520853) | 3d |
 | Amazon | Software Development Engineer | Cambridge, Massachusetts, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10607536/apply) | 3d |
@@ -68,7 +68,7 @@
 | Mechanical Licensing Collective | Engineer, Matching Software | Nashville, Tennessee, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/mechanicallicensingcollective/jobs/8196213003) | 3d |
 | Avery Dennison | Distribution Team Member I, Back End Night Shift | Charlotte, NC, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000161871549-distribution-team-member-i-back-end-night-shift) | 3d |
 | IBM | Application Consultant-Site Reliability | Brookhaven, Pennsylvania, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/application-consultant-site-reliability-at-ibm-4490118082?refId=wjh%2F%2F9BGPwkq%2FweE5tuNZQ%3D%3D&trackingId=VHCKxd3RuXouEiid4i8qQA%3D%3D) | 3d |
-| xAI | Software Engineer, Super Intelligence | Palo Alto, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/5295932007) | 3d |
+| xAI | Software Engineer, Super Intelligence | Palo Alto, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/5295932007) | 4d |
 | Sendsational Marketing | Full Stack Web Developer Entry Level | Hicksville, New York, USA | JSearch | not_applied | [Apply](https://www.indeed.com/viewjob?jk=6383f4c1000b9314) | 4d |
 | Epic | Entry-Level Software Developer | Salinas, California, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/entry-level-software-developer-at-epic-3986117170) | 4d |
 | Albertsons | Front End Entry Level | Bee Cave, Texas, USA | JSearch | not_applied | [Apply](https://career.io/job/front-end-entry-level-bee-cave-albertsons-55a6d693926f7260223b0a51a1dcbb9b) | 4d |
