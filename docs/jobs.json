@@ -73,17 +73,6 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/palantir/773bb739-f011-4202-88d7-362a562df0d3",
-    "age": "0d",
-    "is_internship": false
-  },
-  {
-    "id": 553590,
-    "company": "David Sung Lee Corporation",
-    "role": "Web Developer or Front End Developer (HTML / CSS / Javascript)",
-    "location": "Hoffman Estates, Illinois, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.ziprecruiter.com/c/David-Sung-Lee/Job/Web-Developer-or-Front-End-Developer-(HTML-CSS-Javascript)/-in-Hoffman-Estates,IL?jid=5922da1dca39a1a7",
     "age": "1d",
     "is_internship": false
   },
@@ -95,6 +84,17 @@
     "source": "amazon",
     "status": "not_applied",
     "url": "https://account.amazon.jobs/jobs/10609773/apply",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
+    "id": 553590,
+    "company": "David Sung Lee Corporation",
+    "role": "Web Developer or Front End Developer (HTML / CSS / Javascript)",
+    "location": "Hoffman Estates, Illinois, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.ziprecruiter.com/c/David-Sung-Lee/Job/Web-Developer-or-Front-End-Developer-(HTML-CSS-Javascript)/-in-Hoffman-Estates,IL?jid=5922da1dca39a1a7",
     "age": "1d",
     "is_internship": false
   },
@@ -165,8 +165,8 @@
     "is_internship": false
   },
   {
-    "id": 551331,
-    "company": "Robert Bosch Venture Capital",
+    "id": 551158,
+    "company": "Bosch",
     "role": "Software Integration Engineer (Multiple Positions) REF301293H",
     "location": "Plymouth, MI, us",
     "source": "SmartRecruiters",
@@ -187,8 +187,8 @@
     "is_internship": false
   },
   {
-    "id": 551158,
-    "company": "Bosch",
+    "id": 551331,
+    "company": "Robert Bosch Venture Capital",
     "role": "Software Integration Engineer (Multiple Positions) REF301293H",
     "location": "Plymouth, MI, us",
     "source": "SmartRecruiters",
@@ -205,7 +205,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/twilio/jobs/8385593",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -216,7 +216,7 @@
     "source": "Ashby",
     "status": "not_applied",
     "url": "https://jobs.ashbyhq.com/atomic-invest/4c83fd63-1985-43b3-92d1-ce5a98f8a10b",
-    "age": "1d",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -253,37 +253,15 @@
     "is_internship": false
   },
   {
-    "id": 553596,
-    "company": "Harley-Davidson Motor Company",
-    "role": "Associate Engineer Software; Vehicle Controls",
-    "location": "Wauwatosa, Wisconsin, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/associate-engineer-software-vehicle-controls-at-harley-davidson-motor-company-4491864181",
-    "age": "2d",
-    "is_internship": false
-  },
-  {
-    "id": 551448,
+    "id": 549177,
     "company": "Amazon",
-    "role": "Software Engineer I",
-    "location": "San Francisco, California, USA",
+    "role": "Software Development Engineer, ROBOTICS -  2027",
+    "location": "Austin, Texas, USA",
     "source": "amazon",
     "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10608848/apply",
+    "url": "https://account.amazon.jobs/jobs/10607764/apply",
     "age": "2d",
     "is_internship": false
-  },
-  {
-    "id": 551421,
-    "company": "Bose",
-    "role": "Software Engineer Co-op",
-    "location": "US, MA - Framingham",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Software-Engineer-Co-op_R29387",
-    "age": "2d",
-    "is_internship": true
   },
   {
     "id": 553583,
@@ -297,13 +275,24 @@
     "is_internship": false
   },
   {
-    "id": 549177,
-    "company": "Amazon",
-    "role": "Software Development Engineer, ROBOTICS -  2027",
-    "location": "Austin, Texas, USA",
-    "source": "amazon",
+    "id": 553596,
+    "company": "Harley-Davidson Motor Company",
+    "role": "Associate Engineer Software; Vehicle Controls",
+    "location": "Wauwatosa, Wisconsin, USA",
+    "source": "JSearch",
     "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10607764/apply",
+    "url": "https://www.linkedin.com/jobs/view/associate-engineer-software-vehicle-controls-at-harley-davidson-motor-company-4491864181",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 553591,
+    "company": "Unisys",
+    "role": "Full Stack Java Developers",
+    "location": "Rockville, Maryland, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/full-stack-java-developers-at-unisys-4491328722",
     "age": "2d",
     "is_internship": false
   },
@@ -330,15 +319,26 @@
     "is_internship": false
   },
   {
-    "id": 553591,
-    "company": "Unisys",
-    "role": "Full Stack Java Developers",
-    "location": "Rockville, Maryland, USA",
-    "source": "JSearch",
+    "id": 551448,
+    "company": "Amazon",
+    "role": "Software Engineer I",
+    "location": "San Francisco, California, USA",
+    "source": "amazon",
     "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/full-stack-java-developers-at-unisys-4491328722",
+    "url": "https://account.amazon.jobs/jobs/10608848/apply",
     "age": "2d",
     "is_internship": false
+  },
+  {
+    "id": 551421,
+    "company": "Bose",
+    "role": "Software Engineer Co-op",
+    "location": "US, MA - Framingham",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Software-Engineer-Co-op_R29387",
+    "age": "2d",
+    "is_internship": true
   },
   {
     "id": 549641,
@@ -451,17 +451,6 @@
     "is_internship": false
   },
   {
-    "id": 549180,
-    "company": "Amazon",
-    "role": "Software Development Engineer",
-    "location": "Cambridge, Massachusetts, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10607536/apply",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
     "id": 553582,
     "company": "BeaconFire Inc.",
     "role": "Java Software Engineer",
@@ -469,6 +458,17 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4488520853",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 549180,
+    "company": "Amazon",
+    "role": "Software Development Engineer",
+    "location": "Cambridge, Massachusetts, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10607536/apply",
     "age": "3d",
     "is_internship": false
   },
@@ -605,17 +605,6 @@
     "is_internship": false
   },
   {
-    "id": 553593,
-    "company": "PVM, Inc.",
-    "role": "Software Engineering Fellowship for SkillBridge Participants",
-    "location": "Arlington, Virginia, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://jobs.stevenagefc.com/jobs/software-engineering-fellowship-for-skillbridge-participants-arlington-virginia/3075378884-2/",
-    "age": "4d",
-    "is_internship": true
-  },
-  {
     "id": 553588,
     "company": "Sendsational Marketing",
     "role": "Full Stack Web Developer Entry Level",
@@ -636,6 +625,17 @@
     "url": "https://www.linkedin.com/jobs/view/entry-level-software-developer-at-epic-3986117170",
     "age": "4d",
     "is_internship": false
+  },
+  {
+    "id": 553593,
+    "company": "PVM, Inc.",
+    "role": "Software Engineering Fellowship for SkillBridge Participants",
+    "location": "Arlington, Virginia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://jobs.stevenagefc.com/jobs/software-engineering-fellowship-for-skillbridge-participants-arlington-virginia/3075378884-2/",
+    "age": "4d",
+    "is_internship": true
   },
   {
     "id": 546828,
@@ -660,17 +660,6 @@
     "is_internship": false
   },
   {
-    "id": 546011,
-    "company": "Viavi Solutions",
-    "role": "Software Engineering Co-op",
-    "location": "Germantown, MD USA",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Software-Engineering-Co-op_260005308-1",
-    "age": "5d",
-    "is_internship": true
-  },
-  {
     "id": 553589,
     "company": "Albertsons",
     "role": "Front End Entry Level",
@@ -682,6 +671,17 @@
     "is_internship": false
   },
   {
+    "id": 546011,
+    "company": "Viavi Solutions",
+    "role": "Software Engineering Co-op",
+    "location": "Germantown, MD USA",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Software-Engineering-Co-op_260005308-1",
+    "age": "5d",
+    "is_internship": true
+  },
+  {
     "id": 544758,
     "company": "Integrated Biosciences",
     "role": "Software Engineer, Robotics",
@@ -689,28 +689,6 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/integratedbiosciencesinc/jobs/4507787009",
-    "age": "5d",
-    "is_internship": false
-  },
-  {
-    "id": 553587,
-    "company": "Albertsons",
-    "role": "Front End Entry Level",
-    "location": "Bethesda, Maryland, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.ziprecruiter.com/c/Albertsons/Job/Front-End-Entry-Level/-in-Bethesda,MD?jid=a458af9641b25ecf",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 546826,
-    "company": "Leidos",
-    "role": "Site Reliability Engineer",
-    "location": "Bull Run Mountain Estates, Virginia, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://jobs.womenforhire.com/job/usa/bull-run-mountain-estates-va/site-reliability-engineer-571931/",
     "age": "6d",
     "is_internship": false
   },
@@ -726,6 +704,28 @@
     "is_internship": false
   },
   {
+    "id": 546823,
+    "company": "Atorline",
+    "role": "Junior Frontend Developer",
+    "location": "San Jose, California, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.learn4good.com/jobs/san-jose/california/software_development/5637017039/e/",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 546826,
+    "company": "Leidos",
+    "role": "Site Reliability Engineer",
+    "location": "Bull Run Mountain Estates, Virginia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://jobs.womenforhire.com/job/usa/bull-run-mountain-estates-va/site-reliability-engineer-571931/",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
     "id": 553581,
     "company": "SkillStorm",
     "role": "Junior Software Engineer: Paid Training, Day-One Deployment",
@@ -737,6 +737,17 @@
     "is_internship": false
   },
   {
+    "id": 553587,
+    "company": "Albertsons",
+    "role": "Front End Entry Level",
+    "location": "Bethesda, Maryland, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.ziprecruiter.com/c/Albertsons/Job/Front-End-Entry-Level/-in-Bethesda,MD?jid=a458af9641b25ecf",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
     "id": 542372,
     "company": "NVIDIA",
     "role": "Technical Marketing Engineer - DSX AI Infrastructure Software",
@@ -744,17 +755,6 @@
     "source": "Workday",
     "status": "not_applied",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Marketing-Engineer---DSX-AI-Infrastructure-Software_JR2024197",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 546823,
-    "company": "Atorline",
-    "role": "Junior Frontend Developer",
-    "location": "San Jose, California, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.learn4good.com/jobs/san-jose/california/software_development/5637017039/e/",
     "age": "6d",
     "is_internship": false
   },
@@ -876,17 +876,6 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/textnowinc/jobs/4504529009",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 539595,
-    "company": "Avery Dennison",
-    "role": "Label Machine Operator. 1st Shift Back End, Wed 9:30am-6p Thur-Sat 8am-7:30pm",
-    "location": "Charlotte, NC, us",
-    "source": "SmartRecruiters",
-    "status": "not_applied",
-    "url": "https://jobs.smartrecruiters.com/AveryDennison/744000161504559-label-machine-operator-1st-shift-back-end-wed-9-30am-6p-thur-sat-8am-7-30pm",
     "age": "6d",
     "is_internship": false
   }
