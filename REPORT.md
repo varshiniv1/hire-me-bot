@@ -1,52 +1,54 @@
 # Job Postings Report
 
-71 postings from the last 6 days.
+63 postings from the last 6 days.
 
 ## Internships (8)
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
 | Veolia | Manufacturing Software Engineer Intern | Boulder, CO, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162593839-manufacturing-software-engineer-intern) | 0d |
-| Truveta | Winter Software Engineering Intern | Seattle, WA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/truveta/jobs/6249810004) | 0d |
-| Bose | Software Engineer Co-op | US, MA - Framingham | Workday | not_applied | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Software-Engineer-Co-op_R29387) | 1d |
-| Minitab | Software Engineering Intern | State College, Pennsylvania, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/minitab/jobs/8200708003) | 2d |
+| Truveta | Winter Software Engineering Intern | Seattle, WA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/truveta/jobs/6249810004) | 1d |
+| Bose | Software Engineer Co-op | US, MA - Framingham | Workday | not_applied | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Software-Engineer-Co-op_R29387) | 2d |
+| Minitab | Software Engineering Intern | State College, Pennsylvania, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/minitab/jobs/8200708003) | 3d |
 | M3 | Intern-Quality Engineering (SDET)  | Lawrenceville, Georgia, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/m3/jobs/8201335003) | 3d |
-| PVM, Inc. | Software Engineering Fellowship for SkillBridge Participants | Arlington, Virginia, USA | JSearch | not_applied | [Apply](https://jobs.stevenagefc.com/jobs/software-engineering-fellowship-for-skillbridge-participants-arlington-virginia/3075378884-2/) | 3d |
-| Lyric | Software Engineering Internship | Silver Spring, Maryland, USA | JSearch | not_applied | [Apply](https://www.learn4good.com/jobs/silver-spring/maryland/software_development/5641314588/e/) | 3d |
-| Viavi Solutions | Software Engineering Co-op | Germantown, MD USA | Workday | not_applied | [Apply](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Software-Engineering-Co-op_260005308-1) | 4d |
+| PVM, Inc. | Software Engineering Fellowship for SkillBridge Participants | Arlington, Virginia, USA | JSearch | not_applied | [Apply](https://jobs.stevenagefc.com/jobs/software-engineering-fellowship-for-skillbridge-participants-arlington-virginia/3075378884-2/) | 4d |
+| Lyric | Software Engineering Internship | Silver Spring, Maryland, USA | JSearch | not_applied | [Apply](https://www.learn4good.com/jobs/silver-spring/maryland/software_development/5641314588/e/) | 4d |
+| Viavi Solutions | Software Engineering Co-op | Germantown, MD USA | Workday | not_applied | [Apply](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Software-Engineering-Co-op_260005308-1) | 5d |
 
-## Full-Time (63)
+## Full-Time (55)
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
+| Crown Innovations | Software Operations (SWOPS) Engineer  | Mountain View, CA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/CrownInnovationsInc/744000162597789-software-operations-swops-engineer-) | 0d |
 | Crown Innovations | Software Operations (SWOPS) Engineer  | Mountain View, CA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/CrownInnovationsInc/744000162597589-software-operations-swops-engineer-) | 0d |
 | Ramp | Software Engineer, Production Engineering, FinOps | New York, NY (HQ) | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/ramp/da40ed6e-1c32-4284-89f5-2ad0813b8d49) | 0d |
 | IT Consulting and Staffing | Full Stack Engineer | Hanover, New Jersey, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/full-stack-engineer-at-it-consulting-and-staffing-4492177677) | 0d |
 | AECOM | Digital Solutions Software Developer II | New York, NY, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000162551287-digital-solutions-software-developer-ii) | 0d |
 | Palantir | Site Reliability Operations Analyst - Legal | New York, NY | Lever | not_applied | [Apply](https://jobs.lever.co/palantir/773bb739-f011-4202-88d7-362a562df0d3) | 0d |
-| David Sung Lee Corporation | Web Developer or Front End Developer (HTML / CSS / Javascript) | Hoffman Estates, Illinois, USA | JSearch | not_applied | [Apply](https://www.ziprecruiter.com/c/David-Sung-Lee/Job/Web-Developer-or-Front-End-Developer-(HTML-CSS-Javascript)/-in-Hoffman-Estates,IL?jid=5922da1dca39a1a7) | 0d |
-| Fortune Jobs AI | Full Stack Developer jobs in Michigan (43) | Lansing, Michigan, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/full-stack-developer-jobs-in-michigan-43-at-fortune-jobs-ai-4491365158) | 0d |
-| Crown Innovations | Software Verification & Test Engineer  | New York, NY, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/CrownInnovationsInc/744000162400750-software-verification-test-engineer-) | 0d |
-| Crown Innovations | Software Verification & Test Engineer - NJ | Pine Brook, NJ, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/CrownInnovationsInc/744000162400709-software-verification-test-engineer-nj) | 0d |
+| Amazon | Software Development Engineer, Creator Marketplace | Culver City, California, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10609773/apply) | 1d |
+| David Sung Lee Corporation | Web Developer or Front End Developer (HTML / CSS / Javascript) | Hoffman Estates, Illinois, USA | JSearch | not_applied | [Apply](https://www.ziprecruiter.com/c/David-Sung-Lee/Job/Web-Developer-or-Front-End-Developer-(HTML-CSS-Javascript)/-in-Hoffman-Estates,IL?jid=5922da1dca39a1a7) | 1d |
+| Fortune Jobs AI | Full Stack Developer jobs in Michigan (43) | Lansing, Michigan, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/full-stack-developer-jobs-in-michigan-43-at-fortune-jobs-ai-4491365158) | 1d |
+| Crown Innovations | Software Verification & Test Engineer  | New York, NY, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/CrownInnovationsInc/744000162400750-software-verification-test-engineer-) | 1d |
+| Crown Innovations | Software Verification & Test Engineer - NJ | Pine Brook, NJ, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/CrownInnovationsInc/744000162400709-software-verification-test-engineer-nj) | 1d |
 | Snowflake | Software Engineer - Customer Experience Engineering | US-WA-Bellevue | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/snowflake/196f1cca-6ee6-4023-b2e7-9f8ba18d1dae) | 1d |
-| Robert Bosch Venture Capital | Software Integration Engineer (Multiple Positions) REF301293H | Plymouth, MI, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000162350848-software-integration-engineer-multiple-positions-ref301293h) | 1d |
-| Bosch Group | Software Integration Engineer (Multiple Positions) REF301293H | Plymouth, MI, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000162350848-software-integration-engineer-multiple-positions-ref301293h) | 1d |
 | Bosch | Software Integration Engineer (Multiple Positions) REF301293H | Plymouth, MI, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000162350848-software-integration-engineer-multiple-positions-ref301293h) | 1d |
+| Robert Bosch Venture Capital | Software Integration Engineer (Multiple Positions) REF301293H | Plymouth, MI, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000162350848-software-integration-engineer-multiple-positions-ref301293h) | 1d |
 | Robert Bosch | Software Integration Engineer (Multiple Positions) REF301293H | Plymouth, MI, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000162350848-software-integration-engineer-multiple-positions-ref301293h) | 1d |
+| Bosch Group | Software Integration Engineer (Multiple Positions) REF301293H | Plymouth, MI, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000162350848-software-integration-engineer-multiple-positions-ref301293h) | 1d |
 | Twilio | Software Engineer - Platform Engineering | Remote - US | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8385593) | 1d |
 | Atomic Invest (AtomicVest) | Software Engineer, Front End | United States | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/atomic-invest/4c83fd63-1985-43b3-92d1-ce5a98f8a10b) | 1d |
-| Twitch | Software Engineer I, Commerce | Seattle, WA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8949388002) | 1d |
-| AEG | Site Reliability Engineer II  - AXS | Los Angeles, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/aegworldwide/jobs/8949373002) | 1d |
-| AXS | Site Reliability Engineer II   | Los Angeles, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/axs/jobs/8949372002) | 1d |
-| Amazon | Software Development Engineer, ROBOTICS -  2027 | Austin, Texas, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10607764/apply) | 1d |
-| Amazon | Software Engineer I | San Francisco, California, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10608848/apply) | 1d |
-| ABC Supply | Software Engineer - Power Platform (946) | Beloit, WI | Workday | not_applied | [Apply](https://abcsupply.wd1.myworkdayjobs.com/ABCSupplyCareers/job/Beloit-WI/Software-Engineer---Power-Platform--946-_68709) | 1d |
-| Emonics LLC | Backend Python Developer - Entry Level | Philadelphia, Pennsylvania, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/backend-python-developer-entry-level-at-emonics-llc-4491868540) | 1d |
-| Epic | Entry-Level Software Developer | Neenah, Wisconsin, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/entry-level-software-developer-at-epic-4321363976) | 1d |
-| Unisys | Full Stack Java Developers | Rockville, Maryland, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/full-stack-java-developers-at-unisys-4491328722) | 1d |
-| Harley-Davidson Motor Company | Associate Engineer Software; Vehicle Controls | Wauwatosa, Wisconsin, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/associate-engineer-software-vehicle-controls-at-harley-davidson-motor-company-4491864181) | 1d |
-| Relativity Space | Software Engineer I (Factory Platform) | Long Beach, California, United States | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/relativity/jobs/8949325002?gh_jid=8949325002) | 1d |
-| Mirantis | Software Engineer, Backend (Go)  | Raleigh, NC, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Mirantis/744000162186029-software-engineer-backend-go-) | 1d |
+| Twitch | Software Engineer I, Commerce | Seattle, WA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8949388002) | 2d |
+| AEG | Site Reliability Engineer II  - AXS | Los Angeles, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/aegworldwide/jobs/8949373002) | 2d |
+| AXS | Site Reliability Engineer II   | Los Angeles, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/axs/jobs/8949372002) | 2d |
+| Amazon | Software Development Engineer, ROBOTICS -  2027 | Austin, Texas, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10607764/apply) | 2d |
+| Amazon | Software Engineer I | San Francisco, California, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10608848/apply) | 2d |
+| ABC Supply | Software Engineer - Power Platform (946) | Beloit, WI | Workday | not_applied | [Apply](https://abcsupply.wd1.myworkdayjobs.com/ABCSupplyCareers/job/Beloit-WI/Software-Engineer---Power-Platform--946-_68709) | 2d |
+| Epic | Entry-Level Software Developer | Neenah, Wisconsin, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/entry-level-software-developer-at-epic-4321363976) | 2d |
+| Unisys | Full Stack Java Developers | Rockville, Maryland, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/full-stack-java-developers-at-unisys-4491328722) | 2d |
+| Harley-Davidson Motor Company | Associate Engineer Software; Vehicle Controls | Wauwatosa, Wisconsin, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/associate-engineer-software-vehicle-controls-at-harley-davidson-motor-company-4491864181) | 2d |
+| Emonics LLC | Backend Python Developer - Entry Level | Philadelphia, Pennsylvania, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/backend-python-developer-entry-level-at-emonics-llc-4491868540) | 2d |
+| Relativity Space | Software Engineer I (Factory Platform) | Long Beach, California, United States | Greenhouse | not_applied | [Apply](https://boards.greenhouse.io/relativity/jobs/8949325002?gh_jid=8949325002) | 2d |
+| Mirantis | Software Engineer, Backend (Go)  | Raleigh, NC, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/Mirantis/744000162186029-software-engineer-backend-go-) | 2d |
 | The Pokémon Company | Software Development Engineer | Bellevue, Washington, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/pokemoncareers/jobs/8202793003) | 2d |
 | Benchling | Software Engineer, Big Data Infrastructure | San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/benchling/6183438d-1ff6-4389-aff9-a0128ff3a407) | 2d |
 | Benchling | Software Engineer, CDC | San Francisco, CA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/benchling/7b1ffaaf-2374-4b09-8495-899cc4847862) | 2d |
@@ -54,11 +56,11 @@
 | Ramp | Software Engineer, Backend, AI Ventures | New York, NY (HQ) | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/ramp/3cfbf693-58e3-423f-87a8-a93dbd0839b0) | 2d |
 | Minitab | Software Engineer | State College, Pennsylvania, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/minitab/jobs/8203700003) | 2d |
 | xAI | Software Engineer, Safety | Palo Alto, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/5297316007) | 2d |
-| Energy Solutions | Software Engineer II (Hybrid - US) | Boston, Massachusetts, United States; Chicago, Illinois, United States; New York, New York, United States; Oakland, California, United States; Orange, California, United States; Portland, Oregon, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/energysolutions/jobs/5274064007) | 2d |
-| BeaconFire Inc. | Java Software Engineer | Washington, District of Columbia, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4488520853) | 2d |
-| Amazon | Software Development Engineer | Cambridge, Massachusetts, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10607536/apply) | 2d |
-| TeleTracking | Software Engineer II | Pittsburgh, PA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/5480546008) | 2d |
-| Verkada | Backend Engineer - Connectivity | San Mateo, CA United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5296748007) | 2d |
+| Energy Solutions | Software Engineer II (Hybrid - US) | Boston, Massachusetts, United States; Chicago, Illinois, United States; New York, New York, United States; Oakland, California, United States; Orange, California, United States; Portland, Oregon, United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/energysolutions/jobs/5274064007) | 3d |
+| BeaconFire Inc. | Java Software Engineer | Washington, District of Columbia, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4488520853) | 3d |
+| Amazon | Software Development Engineer | Cambridge, Massachusetts, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10607536/apply) | 3d |
+| TeleTracking | Software Engineer II | Pittsburgh, PA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/5480546008) | 3d |
+| Verkada | Backend Engineer - Connectivity | San Mateo, CA United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5296748007) | 3d |
 | RR Donnelley | Associate Software Developer (Manufacturing)  | Houston, TX, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/RRDonnelley/744000161907179-associate-software-developer-manufacturing-) | 3d |
 | PDI Technologies | Software Engineer (Mid-level) | Remote US | Lever | not_applied | [Apply](https://jobs.lever.co/pditechnologies/f5ed3143-d632-4edb-bbbe-632f66e03274) | 3d |
 | CrossCountry Consulting | Jr. Forward Deployed Software Engineer - (VA) | McLean, VA | Lever | not_applied | [Apply](https://jobs.lever.co/crosscountry-consulting/80bd96d8-b824-40ef-9cfe-01860583c4fe) | 3d |
@@ -67,19 +69,9 @@
 | Avery Dennison | Distribution Team Member I, Back End Night Shift | Charlotte, NC, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000161871549-distribution-team-member-i-back-end-night-shift) | 3d |
 | IBM | Application Consultant-Site Reliability | Brookhaven, Pennsylvania, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/application-consultant-site-reliability-at-ibm-4490118082?refId=wjh%2F%2F9BGPwkq%2FweE5tuNZQ%3D%3D&trackingId=VHCKxd3RuXouEiid4i8qQA%3D%3D) | 3d |
 | xAI | Software Engineer, Super Intelligence | Palo Alto, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xai/jobs/5295932007) | 3d |
-| Epic | Entry-Level Software Developer | Salinas, California, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/entry-level-software-developer-at-epic-3986117170) | 3d |
-| Sendsational Marketing | Full Stack Web Developer Entry Level | Hicksville, New York, USA | JSearch | not_applied | [Apply](https://www.indeed.com/viewjob?jk=6383f4c1000b9314) | 3d |
-| Albertsons | Front End Entry Level | Bee Cave, Texas, USA | JSearch | not_applied | [Apply](https://career.io/job/front-end-entry-level-bee-cave-albertsons-55a6d693926f7260223b0a51a1dcbb9b) | 3d |
+| Sendsational Marketing | Full Stack Web Developer Entry Level | Hicksville, New York, USA | JSearch | not_applied | [Apply](https://www.indeed.com/viewjob?jk=6383f4c1000b9314) | 4d |
+| Epic | Entry-Level Software Developer | Salinas, California, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/entry-level-software-developer-at-epic-3986117170) | 4d |
 | Albertsons | Front End Entry Level | Bee Cave, Texas, USA | JSearch | not_applied | [Apply](https://career.io/job/front-end-entry-level-bee-cave-albertsons-55a6d693926f7260223b0a51a1dcbb9b) | 4d |
+| Albertsons | Front End Entry Level | Bee Cave, Texas, USA | JSearch | not_applied | [Apply](https://career.io/job/front-end-entry-level-bee-cave-albertsons-55a6d693926f7260223b0a51a1dcbb9b) | 5d |
 | Integrated Biosciences | Software Engineer, Robotics | Redwood City, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/integratedbiosciencesinc/jobs/4507787009) | 5d |
-| Leidos | Site Reliability Engineer | Bull Run Mountain Estates, Virginia, USA | JSearch | not_applied | [Apply](https://jobs.womenforhire.com/job/usa/bull-run-mountain-estates-va/site-reliability-engineer-571931/) | 5d |
-| Albertsons | Front End Entry Level | Bethesda, Maryland, USA | JSearch | not_applied | [Apply](https://www.ziprecruiter.com/c/Albertsons/Job/Front-End-Entry-Level/-in-Bethesda,MD?jid=a458af9641b25ecf) | 5d |
-| SkillStorm | Junior Software Engineer: Paid Training, Day-One Deployment | Washington, District of Columbia, USA | JSearch | not_applied | [Apply](https://us.trabajo.org/job-2850-2ca0bbc16e8aab92fb33a37dd54eaa9e) | 5d |
-| Albertsons | Front End Entry Level | Santa Clarita, California, USA | JSearch | not_applied | [Apply](https://www.ziprecruiter.com/c/Albertsons/Job/Front-End-Entry-Level/-in-Santa-Clarita,CA?jid=76bded620de44d8c) | 5d |
-| NVIDIA | Technical Marketing Engineer - DSX AI Infrastructure Software | US, CA, Santa Clara | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Marketing-Engineer---DSX-AI-Infrastructure-Software_JR2024197) | 5d |
-| NVIDIA | Technical Marketing Engineer, DSX Software Portfolio and Enablement | US, CA, Santa Clara | Workday | not_applied | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Marketing-Engineer---DSX-Content-Strategy-Lead_JR2024196) | 5d |
-| Atorline | Junior Frontend Developer | San Jose, California, USA | JSearch | not_applied | [Apply](https://www.learn4good.com/jobs/san-jose/california/software_development/5637017039/e/) | 5d |
-| Twitch | Software Engineer I, Payments | San Francisco, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8943553002) | 5d |
-| Zoox | Automation Engineer - Compute Software Performance | Foster City, CA | Lever | not_applied | [Apply](https://jobs.lever.co/zoox/1825c7df-ea96-4a2d-b57b-609a61300382) | 5d |
-| Ramp | Software Engineer, Fullstack, Spend Controls | New York, NY (HQ) | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/ramp/6e717b06-6613-42ad-a1ee-f852a305fa37) | 5d |
 
