@@ -39,7 +39,7 @@
 | Robert Bosch | Software Integration Engineer (Multiple Positions) REF301293H | Plymouth, MI, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000162350848-software-integration-engineer-multiple-positions-ref301293h) | 2d |
 | Bosch | Software Integration Engineer (Multiple Positions) REF301293H | Plymouth, MI, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000162350848-software-integration-engineer-multiple-positions-ref301293h) | 2d |
 | Twilio | Software Engineer - Platform Engineering | Remote - US | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8385593) | 2d |
-| Atomic Invest (AtomicVest) | Software Engineer, Front End | United States | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/atomic-invest/4c83fd63-1985-43b3-92d1-ce5a98f8a10b) | 2d |
+| Atomic Invest (AtomicVest) | Software Engineer, Front End | United States | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/atomic-invest/4c83fd63-1985-43b3-92d1-ce5a98f8a10b) | 3d |
 | Twitch | Software Engineer I, Commerce | Seattle, WA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8949388002) | 3d |
 | AEG | Site Reliability Engineer II  - AXS | Los Angeles, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/aegworldwide/jobs/8949373002) | 3d |
 | AXS | Site Reliability Engineer II   | Los Angeles, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/axs/jobs/8949372002) | 3d |
