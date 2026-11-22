@@ -140,6 +140,9 @@
 - name: Abridge
   source: ashby
   token: abridge
+- name: Absolics
+  source: greenhouse
+  token: absolicsinc
 - name: Absolute Facility Solutions
   source: smartrecruiters
   token: AbsoluteFacilitySolutionsLLC
@@ -320,6 +323,9 @@
 - name: Aescape
   source: ashby
   token: aescape
+- name: Aeva
+  source: lever
+  token: aeva
 - name: Aevex Aerospace
   source: greenhouse
   token: aevexaerospace
@@ -863,6 +869,9 @@
 - name: AO Swag
   source: smartrecruiters
   token: Advanced-Online
+- name: AON3D
+  source: greenhouse
+  token: aon3d
 - name: Apache Industrial
   source: workday
   token: apacheip/wd1/apache_careers
@@ -1169,6 +1178,9 @@
 - name: Assurant
   source: workday
   token: assurant/wd1/External_Limited_Posting
+- name: Assurant
+  source: workday
+  token: assurant/wd1/en-US
 - name: Assured Guaranty
   source: greenhouse
   token: assuredguaranty
@@ -1514,6 +1526,9 @@
 - name: Bank of Montreal
   source: workday
   token: bmo/wd3/Privileged
+- name: Bank of Montreal
+  source: workday
+  token: bmo/wd3/External
 - name: Banner Health
   source: workday
   token: bannerhealth/wd108/Careers
@@ -1715,6 +1730,9 @@
 - name: Biogen
   source: workday
   token: biibhr/wd3/external
+- name: Biohub
+  source: greenhouse
+  token: biohub
 - name: Biointellisense
   source: lever
   token: biointellisense
@@ -1727,6 +1745,9 @@
 - name: Birdy Grey
   source: greenhouse
   token: birdygrey
+- name: BIS Safety Software
+  source: lever
+  token: bis
 - name: Bisnow
   source: lever
   token: bisnow
@@ -1910,6 +1931,9 @@
 - name: Bonterra
   source: workday
   token: bonterra/wd1/bonterratech
+- name: Boomi
+  source: greenhouse
+  token: boomilp
 - name: Booz Allen
   source: workday
   token: bah/wd1/bah_jobs
@@ -2483,6 +2507,9 @@
 - name: CenterWell
   source: workday
   token: humana/wd5/centerwell_external_career_site
+- name: Centier Bank
+  source: workday
+  token: centier/wd501/centierbankcareers
 - name: Centific
   source: workday
   token: centific/wd1/Centific_Global
@@ -2717,6 +2744,9 @@
 - name: City of Baltimore
   source: workday
   token: baltimorecity/wd1/External
+- name: City of Campbell River
+  source: smartrecruiters
+  token: CityOfCampbellRiver
 - name: City of Charlotte
   source: workday
   token: charlottenc/wd12/citgov
@@ -3008,6 +3038,9 @@
 - name: Compassion International
   source: workday
   token: compassion/wd5/CompassionCareersPrivateLink
+- name: Compassion International
+  source: workday
+  token: compassion/wd5/compassioncareers
 - name: CompassX Group
   source: lever
   token: compassx
@@ -3686,6 +3719,9 @@
 - name: DLH
   source: greenhouse
   token: dlhcorporation
+- name: DLR Group
+  source: greenhouse
+  token: dlrgroup
 - name: dmodel
   source: ashby
   token: dmodel
@@ -3779,6 +3815,9 @@
 - name: DriveWealth
   source: greenhouse
   token: drivewealth
+- name: DriveWealth
+  source: ashby
+  token: drivewealth
 - name: Dropbox
   source: greenhouse
   token: embed
@@ -3803,6 +3842,9 @@
 - name: DuCharme, McMillen & Associates
   source: workday
   token: dmainc/wd5/dma
+- name: Duetti
+  source: lever
+  token: duetti
 - name: Duetto Research
   source: greenhouse
   token: duettoresearch
@@ -3908,6 +3950,9 @@
 - name: edmentum
   source: greenhouse
   token: edmentum
+- name: Edwards Health Care Services
+  source: recruitee
+  token: gemcorehealth
 - name: Edwards Lifesciences
   source: workday
   token: edwards/wd5/edwardscareers
@@ -4160,6 +4205,9 @@
 - name: EoS Fitness
   source: greenhouse
   token: eosfitness
+- name: EP Wealth Advisors
+  source: lever
+  token: epwealth
 - name: Epia Neuro
   source: ashby
   token: epianeuro
@@ -4214,6 +4262,9 @@
 - name: Erickson Senior Living
   source: workday
   token: erickson/wd108/external
+- name: Erickson Senior Living
+  source: workday
+  token: erickson/wd108/External
 - name: ERM
   source: workday
   token: erm/wd3/ERM_Careers
@@ -4418,6 +4469,9 @@
 - name: FanThreeSixty
   source: workday
   token: osv-tifec/wd5/en-US
+- name: Fantom
+  source: lever
+  token: fantom-corporation
 - name: Fanvue
   source: ashby
   token: fanvue.com
@@ -4577,6 +4631,9 @@
 - name: Finra
   source: workday
   token: finra/wd1/FINRA
+- name: Firefly Aerospace
+  source: workday
+  token: fireflyspace/wd115/firefly
 - name: Firemon
   source: lever
   token: firemon
@@ -4616,6 +4673,9 @@
 - name: First National Bank
   source: workday
   token: fnbcorp/wd501/FNBCORP
+- name: First PREMIER Bank
+  source: workday
+  token: firstpremier/wd503/PREMIER_Careers
 - name: First Quality
   source: workday
   token: firstquality/wd5/firstquality
@@ -4631,6 +4691,9 @@
 - name: Fiserv
   source: workday
   token: fiserv/wd5/ext
+- name: Fiskars Group
+  source: workday
+  token: fiskars/wd3/FiskarsGroup
 - name: Five Below
   source: workday
   token: fivebelow/wd1/fivebelowcareers
@@ -5153,6 +5216,9 @@
 - name: Girls Who Code
   source: lever
   token: girlswhocode
+- name: GIRO
+  source: workday
+  token: giro/wd10/GIRO
 - name: GITAI
   source: greenhouse
   token: gitai
@@ -5687,6 +5753,9 @@
 - name: Hex Technologies
   source: ashby
   token: hex
+- name: HexArmor
+  source: greenhouse
+  token: hexarmor
 - name: HeyGen
   source: greenhouse
   token: heygen
@@ -5822,6 +5891,9 @@
 - name: Horizon Surgical Systems
   source: greenhouse
   token: horizonsurgicalsystems
+- name: Horizon Trading Solutions
+  source: greenhouse
+  token: horizontradingsolutions
 - name: Horizon3.ai
   source: ashby
   token: horizon3ai
@@ -5861,6 +5933,9 @@
 - name: HPS Investment Partners
   source: greenhouse
   token: hpsinterns
+- name: HR Wallingford
+  source: greenhouse
+  token: hrwallingford
 - name: HRL Laboratories
   source: lever
   token: dodmg
@@ -6197,6 +6272,9 @@
 - name: Inspire
   source: greenhouse
   token: inspiremedicalsystemsinc
+- name: Inspire Brands
+  source: workday
+  token: inspirebrands/wd5/InspireCareers
 - name: Inspire Medical Systems
   source: greenhouse
   token: inspiremedicalsystemsinc
@@ -6212,6 +6290,9 @@
 - name: Instead
   source: greenhouse
   token: instead
+- name: Instil Software Ltd
+  source: ashby
+  token: instil
 - name: Institute of Foundation Models
   source: lever
   token: ifm-us
@@ -6359,6 +6440,9 @@
 - name: Iowa State University
   source: workday
   token: isu/wd1/IowaStateJobs
+- name: IPEX
+  source: workday
+  token: aliaxis/wd3/IPEX
 - name: IPG DXTRA
   source: greenhouse
   token: dxacirca
@@ -6488,6 +6572,9 @@
 - name: Jerry
   source: ashby
   token: jerry.ai
+- name: Jessup University
+  source: smartrecruiters
+  token: WilliamJessupUniversityBayAreaCampus
 - name: Jigsaw
   source: ashby
   token: jigsaw
@@ -6662,6 +6749,9 @@
 - name: Kensington
   source: greenhouse
   token: kensingtontours
+- name: Keplar
+  source: ashby
+  token: keplar
 - name: Kepler Communications
   source: lever
   token: kepler
@@ -6764,6 +6854,9 @@
 - name: Koalafi
   source: greenhouse
   token: koalafi
+- name: Kobalt Labs
+  source: ashby
+  token: kobalt labs
 - name: Kobo
   source: workday
   token: rakuten/wd1/Kobo
@@ -6818,6 +6911,9 @@
 - name: Kraft Heinz
   source: workday
   token: heinz/wd1/KraftHeinz_Careers
+- name: Kraft Heinz
+  source: workday
+  token: heinz/wd1/KraftHeinz_Careers_UR
 - name: KRAFTON
   source: greenhouse
   token: studiokraftonboard
@@ -7148,6 +7244,9 @@
 - name: Lithia Motors
   source: workday
   token: lithia/wd5/LithiaCareers
+- name: Litmus
+  source: ashby
+  token: litmushiring
 - name: Littelfuse
   source: workday
   token: littelfuse/wd1/Littelfuse-Careers
@@ -7412,6 +7511,9 @@
 - name: Makai Labs
   source: ashby
   token: makai-labs
+- name: MakerMaker
+  source: ashby
+  token: makermaker.ai
 - name: Makpar
   source: lever
   token: makpar
@@ -7535,6 +7637,9 @@
 - name: Massachusetts School Building Authority
   source: lever
   token: massschoolbuildings
+- name: Massey Services
+  source: workday
+  token: masseyservices/wd5/masseyservices
 - name: MassMutual
   source: workday
   token: massmutual/wd1/MMCareers
@@ -7991,6 +8096,9 @@
 - name: Moloco
   source: greenhouse
   token: moloco
+- name: Mom's Meals
+  source: lever
+  token: momsmeals
 - name: Moment Energy
   source: greenhouse
   token: momentenergy
@@ -8135,6 +8243,9 @@
 - name: Multimatic
   source: workday
   token: multimatic/wd10/MMEC
+- name: Multiply
+  source: ashby
+  token: multiplyai
 - name: Multiply Labs
   source: lever
   token: multiplylabs
@@ -10118,6 +10229,9 @@
 - name: RELX
   source: workday
   token: relx/wd3/en-US
+- name: Remanence
+  source: ashby
+  token: remanence
 - name: Remarcable
   source: ashby
   token: remarcable-inc
@@ -10532,6 +10646,9 @@
 - name: Samsung
   source: workday
   token: sec/wd3/Samsung_Careers
+- name: Samsung
+  source: greenhouse
+  token: samsungsemiconductor
 - name: Samsung Research America
   source: greenhouse
   token: samsungresearchamericainternship
@@ -10690,6 +10807,9 @@
   token: secretariatadvisorsllc
 - name: Secureframe
   source: lever
+  token: secureframe
+- name: Secureframe
+  source: ashby
   token: secureframe
 - name: Securian Financial Group
   source: workday
@@ -11189,6 +11309,9 @@
 - name: Sopra Steria
   source: smartrecruiters
   token: SopraSteria1
+- name: Soros Fund Management
+  source: greenhouse
+  token: familyoffice
 - name: SOSi
   source: smartrecruiters
   token: SOSi1
@@ -11252,6 +11375,9 @@
 - name: SpawGlass
   source: lever
   token: spawglass
+- name: Specialized
+  source: workday
+  token: specialized/wd5/Specialized_External_Career_Site
 - name: Specter
   source: ashby
   token: specter
@@ -12308,6 +12434,9 @@
 - name: Trend Micro
   source: workday
   token: trendmicro/wd3/External
+- name: Trener Robotics
+  source: ashby
+  token: trener-robotics
 - name: TreviPay
   source: lever
   token: trevipay
@@ -12320,6 +12449,9 @@
 - name: Tricentis
   source: workday
   token: tricentis/wd1/en-US
+- name: TricorBraun
+  source: workday
+  token: tricorbraun/wd115/careers
 - name: Trimble
   source: workday
   token: trimble/wd1/en-US
@@ -12908,6 +13040,9 @@
 - name: Vertex Pharmaceuticals
   source: workday
   token: vrtx/wd501/vertex_careers
+- name: Vertex Service Partners
+  source: greenhouse
+  token: vertexservicepartners
 - name: Very Good Security
   source: lever
   token: verygoodsecurity
@@ -13121,6 +13256,9 @@
 - name: Warp
   source: greenhouse
   token: warp
+- name: Warp Sciences
+  source: ashby
+  token: warp-sciences
 - name: Wasabi
   source: greenhouse
   token: wasabi
@@ -13532,6 +13670,9 @@
 - name: YOU.com
   source: greenhouse
   token: youcom
+- name: Z1 Tech
+  source: lever
+  token: z1tech
 - name: zaimler
   source: lever
   token: zaimler
