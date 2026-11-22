@@ -1,5 +1,27 @@
 [
   {
+    "id": 560258,
+    "company": "Playsaurus Inc.",
+    "role": "LATAM - Backend Developer",
+    "location": "Alameda, California, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/latam-backend-developer-at-playsaurus-inc-4492353412",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
+    "id": 560261,
+    "company": "Albertsons",
+    "role": "Front End Entry Level",
+    "location": "Schneiders Prairie, Washington, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.adzuna.com/details/5974699374",
+    "age": "0d",
+    "is_internship": false
+  },
+  {
     "id": 556574,
     "company": "Affirm",
     "role": "Software Engineer I, Backend (Streaming Infra)",
@@ -22,6 +44,17 @@
     "is_internship": false
   },
   {
+    "id": 560252,
+    "company": "Palantir",
+    "role": "Software Engineer, New Grad - Query Engines at Palantir",
+    "location": "New York, New York, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.thebriefed.co/job/software-engineer-new-grad-query-engines-at-palantir-palantir-239e2996",
+    "age": "1d",
+    "is_internship": false
+  },
+  {
     "id": 555862,
     "company": "AbbVie",
     "role": "Site Reliability Engineer",
@@ -40,7 +73,18 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/woven-by-toyota/4e4a9515-5470-4219-9ae5-45a79ba92b49",
-    "age": "1d",
+    "age": "2d",
+    "is_internship": false
+  },
+  {
+    "id": 560256,
+    "company": "Emonics LLC",
+    "role": "Backend Python Developer - Entry Level",
+    "location": "Jacksonville, Florida, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/backend-python-developer-entry-level-at-emonics-llc-4492802063",
+    "age": "2d",
     "is_internship": false
   },
   {
@@ -84,7 +128,7 @@
     "source": "Ashby",
     "status": "not_applied",
     "url": "https://jobs.ashbyhq.com/ramp/da40ed6e-1c32-4284-89f5-2ad0813b8d49",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -95,7 +139,7 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://www.linkedin.com/jobs/view/full-stack-engineer-at-it-consulting-and-staffing-4492177677",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -106,7 +150,7 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/AECOM2/744000162551287-digital-solutions-software-developer-ii",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -117,7 +161,7 @@
     "source": "Lever",
     "status": "not_applied",
     "url": "https://jobs.lever.co/palantir/773bb739-f011-4202-88d7-362a562df0d3",
-    "age": "2d",
+    "age": "3d",
     "is_internship": false
   },
   {
@@ -150,6 +194,17 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://www.ziprecruiter.com/c/David-Sung-Lee/Job/Web-Developer-or-Front-End-Developer-(HTML-CSS-Javascript)/-in-Hoffman-Estates,IL?jid=5922da1dca39a1a7",
+    "age": "3d",
+    "is_internship": false
+  },
+  {
+    "id": 560253,
+    "company": "BeaconFire Inc.",
+    "role": "Java Software Engineer",
+    "location": "Washington, District of Columbia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4488520853",
     "age": "3d",
     "is_internship": false
   },
@@ -194,7 +249,7 @@
     "source": "Ashby",
     "status": "not_applied",
     "url": "https://jobs.ashbyhq.com/snowflake/196f1cca-6ee6-4023-b2e7-9f8ba18d1dae",
-    "age": "3d",
+    "age": "4d",
     "is_internship": false
   },
   {
@@ -205,29 +260,7 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162350848-software-integration-engineer-multiple-positions-ref301293h",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 551331,
-    "company": "Robert Bosch Venture Capital",
-    "role": "Software Integration Engineer (Multiple Positions) REF301293H",
-    "location": "Plymouth, MI, us",
-    "source": "SmartRecruiters",
-    "status": "not_applied",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162350848-software-integration-engineer-multiple-positions-ref301293h",
-    "age": "3d",
-    "is_internship": false
-  },
-  {
-    "id": 551330,
-    "company": "Robert Bosch",
-    "role": "Software Integration Engineer (Multiple Positions) REF301293H",
-    "location": "Plymouth, MI, us",
-    "source": "SmartRecruiters",
-    "status": "not_applied",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162350848-software-integration-engineer-multiple-positions-ref301293h",
-    "age": "3d",
+    "age": "4d",
     "is_internship": false
   },
   {
@@ -238,7 +271,29 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162350848-software-integration-engineer-multiple-positions-ref301293h",
-    "age": "3d",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 551330,
+    "company": "Robert Bosch",
+    "role": "Software Integration Engineer (Multiple Positions) REF301293H",
+    "location": "Plymouth, MI, us",
+    "source": "SmartRecruiters",
+    "status": "not_applied",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162350848-software-integration-engineer-multiple-positions-ref301293h",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 551331,
+    "company": "Robert Bosch Venture Capital",
+    "role": "Software Integration Engineer (Multiple Positions) REF301293H",
+    "location": "Plymouth, MI, us",
+    "source": "SmartRecruiters",
+    "status": "not_applied",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162350848-software-integration-engineer-multiple-positions-ref301293h",
+    "age": "4d",
     "is_internship": false
   },
   {
@@ -249,7 +304,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/twilio/jobs/8385593",
-    "age": "3d",
+    "age": "4d",
     "is_internship": false
   },
   {
@@ -297,13 +352,13 @@
     "is_internship": false
   },
   {
-    "id": 553583,
-    "company": "Emonics LLC",
-    "role": "Backend Python Developer - Entry Level",
-    "location": "Philadelphia, Pennsylvania, USA",
+    "id": 560254,
+    "company": "Freewheel",
+    "role": "Entry Level C++ Software Engineer- Reston, VA- ONSITE 2X Week- FreeWheel",
+    "location": "Reston, Virginia, USA",
     "source": "JSearch",
     "status": "not_applied",
-    "url": "https://www.linkedin.com/jobs/view/backend-python-developer-entry-level-at-emonics-llc-4491868540",
+    "url": "https://jobs.comcast.com/job/reston/entry-level-c-software-engineer-reston-va-onsite-2x-week-freewheel/45483/103530075200",
     "age": "4d",
     "is_internship": false
   },
@@ -315,6 +370,17 @@
     "source": "amazon",
     "status": "not_applied",
     "url": "https://account.amazon.jobs/jobs/10607764/apply",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 560268,
+    "company": "Harley-Davidson Motor Company",
+    "role": "Associate Engineer Software; Vehicle Controls",
+    "location": "Wauwatosa, Wisconsin, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/associate-engineer-software-vehicle-controls-at-harley-davidson-motor-company-4491864181",
     "age": "4d",
     "is_internship": false
   },
@@ -374,6 +440,17 @@
     "is_internship": false
   },
   {
+    "id": 560263,
+    "company": "Unisys",
+    "role": "Full Stack Java Developers",
+    "location": "Rockville, Maryland, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/full-stack-java-developers-at-unisys-4491328722",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
     "id": 553596,
     "company": "Harley-Davidson Motor Company",
     "role": "Associate Engineer Software; Vehicle Controls",
@@ -381,6 +458,17 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://www.linkedin.com/jobs/view/associate-engineer-software-vehicle-controls-at-harley-davidson-motor-company-4491864181",
+    "age": "4d",
+    "is_internship": false
+  },
+  {
+    "id": 553583,
+    "company": "Emonics LLC",
+    "role": "Backend Python Developer - Entry Level",
+    "location": "Philadelphia, Pennsylvania, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/backend-python-developer-entry-level-at-emonics-llc-4491868540",
     "age": "4d",
     "is_internship": false
   },
@@ -458,7 +546,7 @@
     "source": "Ashby",
     "status": "not_applied",
     "url": "https://jobs.ashbyhq.com/ramp/3cfbf693-58e3-423f-87a8-a93dbd0839b0",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -469,7 +557,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/minitab/jobs/8203700003",
-    "age": "4d",
+    "age": "5d",
     "is_internship": false
   },
   {
@@ -495,15 +583,15 @@
     "is_internship": false
   },
   {
-    "id": 555920,
-    "company": "Amazon",
-    "role": "Software Development Engineer, Amazon Customer Service",
-    "location": "Seattle, Washington, USA",
-    "source": "amazon",
+    "id": 560266,
+    "company": "The Rundown AI, Inc.",
+    "role": "Neurodivergent Fellowship: Build AI-Driven Software",
+    "location": "New York, New York, USA",
+    "source": "JSearch",
     "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10607027/apply",
+    "url": "https://www.learn4good.com/jobs/new-york/software_development/5646984617/e/",
     "age": "5d",
-    "is_internship": false
+    "is_internship": true
   },
   {
     "id": 553582,
@@ -524,6 +612,17 @@
     "source": "amazon",
     "status": "not_applied",
     "url": "https://account.amazon.jobs/jobs/10607536/apply",
+    "age": "5d",
+    "is_internship": false
+  },
+  {
+    "id": 555920,
+    "company": "Amazon",
+    "role": "Software Development Engineer, Amazon Customer Service",
+    "location": "Seattle, Washington, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10607027/apply",
     "age": "5d",
     "is_internship": false
   },
@@ -601,7 +700,7 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/Wise/744000161891767-software-engineer",
-    "age": "5d",
+    "age": "6d",
     "is_internship": false
   },
   {
@@ -612,7 +711,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/mechanicallicensingcollective/jobs/8196213003",
-    "age": "5d",
+    "age": "6d",
     "is_internship": false
   },
   {
@@ -623,7 +722,7 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/m3/jobs/8201335003",
-    "age": "5d",
+    "age": "6d",
     "is_internship": true
   },
   {
@@ -634,7 +733,7 @@
     "source": "SmartRecruiters",
     "status": "not_applied",
     "url": "https://jobs.smartrecruiters.com/AveryDennison/744000161871549-distribution-team-member-i-back-end-night-shift",
-    "age": "5d",
+    "age": "6d",
     "is_internship": false
   },
   {
@@ -645,7 +744,7 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://www.linkedin.com/jobs/view/application-consultant-site-reliability-at-ibm-4490118082?refId=wjh%2F%2F9BGPwkq%2FweE5tuNZQ%3D%3D&trackingId=VHCKxd3RuXouEiid4i8qQA%3D%3D",
-    "age": "5d",
+    "age": "6d",
     "is_internship": false
   },
   {
@@ -656,6 +755,50 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/xai/jobs/5295932007",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 560255,
+    "company": "SkillStorm",
+    "role": "Entry-Level Software Developer Paid Training & Day-One Deployment",
+    "location": "Baltimore, Maryland, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://bebee.com/us/jobs/entry-level-software-developer-paid-training-day-one-deployment-skillstorm-baltimore--lensa-7428_f1591177f3e1f8b4ef8f2b564ee9fb19908ee783f575a6acdf89b0c21807e9de",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 553588,
+    "company": "Sendsational Marketing",
+    "role": "Full Stack Web Developer Entry Level",
+    "location": "Hicksville, New York, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.indeed.com/viewjob?jk=6383f4c1000b9314",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 560259,
+    "company": "Albertsons",
+    "role": "Front End Entry Level",
+    "location": "Nottingham, Maryland, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.ziprecruiter.com/c/Albertsons/Job/Front-End-Entry-Level/-in-Nottingham,MD?jid=c0539a5ca889044d",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 560260,
+    "company": "Albertsons",
+    "role": "Front End Entry Level",
+    "location": "Nottingham, Maryland, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.ziprecruiter.com/c/Albertsons/Job/Front-End-Entry-Level/-in-Calvert,MD?jid=953b163bd30410ae",
     "age": "6d",
     "is_internship": false
   },
@@ -671,6 +814,17 @@
     "is_internship": true
   },
   {
+    "id": 560267,
+    "company": "Epic",
+    "role": "Entry-Level Software Developer",
+    "location": "Salinas, California, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986117170",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
     "id": 553595,
     "company": "Epic",
     "role": "Entry-Level Software Developer",
@@ -682,15 +836,15 @@
     "is_internship": false
   },
   {
-    "id": 553588,
-    "company": "Sendsational Marketing",
-    "role": "Full Stack Web Developer Entry Level",
-    "location": "Hicksville, New York, USA",
+    "id": 560264,
+    "company": "PVM, Inc.",
+    "role": "Software Engineering Fellowship for SkillBridge Participants",
+    "location": "Arlington, Virginia, USA",
     "source": "JSearch",
     "status": "not_applied",
-    "url": "https://www.indeed.com/viewjob?jk=6383f4c1000b9314",
+    "url": "https://jobs.stevenagefc.com/jobs/software-engineering-fellowship-for-skillbridge-participants-arlington-virginia/3075378884-2/",
     "age": "6d",
-    "is_internship": false
+    "is_internship": true
   },
   {
     "id": 546828,
