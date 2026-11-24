@@ -297,13 +297,13 @@
     "is_internship": false
   },
   {
-    "id": 561157,
-    "company": "Chamberlain Group",
-    "role": "Software Engineer 2, Front End",
-    "location": "Oak Brook, IL",
-    "source": "Workday",
+    "id": 553590,
+    "company": "David Sung Lee Corporation",
+    "role": "Web Developer or Front End Developer (HTML / CSS / Javascript)",
+    "location": "Hoffman Estates, Illinois, USA",
+    "source": "JSearch",
     "status": "not_applied",
-    "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Software-Engineer-2--Front-End_JR32037",
+    "url": "https://www.ziprecruiter.com/c/David-Sung-Lee/Job/Web-Developer-or-Front-End-Developer-(HTML-CSS-Javascript)/-in-Hoffman-Estates,IL?jid=5922da1dca39a1a7",
     "age": "5d",
     "is_internship": false
   },
@@ -315,17 +315,6 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://www.linkedin.com/jobs/view/full-stack-developer-jobs-in-michigan-43-at-fortune-jobs-ai-4491365158",
-    "age": "5d",
-    "is_internship": false
-  },
-  {
-    "id": 553590,
-    "company": "David Sung Lee Corporation",
-    "role": "Web Developer or Front End Developer (HTML / CSS / Javascript)",
-    "location": "Hoffman Estates, Illinois, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://www.ziprecruiter.com/c/David-Sung-Lee/Job/Web-Developer-or-Front-End-Developer-(HTML-CSS-Javascript)/-in-Hoffman-Estates,IL?jid=5922da1dca39a1a7",
     "age": "5d",
     "is_internship": false
   },
@@ -348,6 +337,17 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4488520853",
+    "age": "5d",
+    "is_internship": false
+  },
+  {
+    "id": 561157,
+    "company": "Chamberlain Group",
+    "role": "Software Engineer 2, Front End",
+    "location": "Oak Brook, IL",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Software-Engineer-2--Front-End_JR32037",
     "age": "5d",
     "is_internship": false
   },
@@ -396,8 +396,8 @@
     "is_internship": false
   },
   {
-    "id": 551157,
-    "company": "Bosch Group",
+    "id": 551158,
+    "company": "Bosch",
     "role": "Software Integration Engineer (Multiple Positions) REF301293H",
     "location": "Plymouth, MI, us",
     "source": "SmartRecruiters",
@@ -418,8 +418,8 @@
     "is_internship": false
   },
   {
-    "id": 551330,
-    "company": "Robert Bosch",
+    "id": 551157,
+    "company": "Bosch Group",
     "role": "Software Integration Engineer (Multiple Positions) REF301293H",
     "location": "Plymouth, MI, us",
     "source": "SmartRecruiters",
@@ -429,8 +429,8 @@
     "is_internship": false
   },
   {
-    "id": 551158,
-    "company": "Bosch",
+    "id": 551330,
+    "company": "Robert Bosch",
     "role": "Software Integration Engineer (Multiple Positions) REF301293H",
     "location": "Plymouth, MI, us",
     "source": "SmartRecruiters",
@@ -506,61 +506,6 @@
     "is_internship": false
   },
   {
-    "id": 560254,
-    "company": "Freewheel",
-    "role": "Entry Level C++ Software Engineer- Reston, VA- ONSITE 2X Week- FreeWheel",
-    "location": "Reston, Virginia, USA",
-    "source": "JSearch",
-    "status": "not_applied",
-    "url": "https://jobs.comcast.com/job/reston/entry-level-c-software-engineer-reston-va-onsite-2x-week-freewheel/45483/103530075200",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 549177,
-    "company": "Amazon",
-    "role": "Software Development Engineer, ROBOTICS -  2027",
-    "location": "Austin, Texas, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10607764/apply",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 551421,
-    "company": "Bose",
-    "role": "Software Engineer Co-op",
-    "location": "US, MA - Framingham",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Software-Engineer-Co-op_R29387",
-    "age": "6d",
-    "is_internship": true
-  },
-  {
-    "id": 551448,
-    "company": "Amazon",
-    "role": "Software Engineer I",
-    "location": "San Francisco, California, USA",
-    "source": "amazon",
-    "status": "not_applied",
-    "url": "https://account.amazon.jobs/jobs/10608848/apply",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 552093,
-    "company": "ABC Supply",
-    "role": "Software Engineer - Power Platform (946)",
-    "location": "Beloit, WI",
-    "source": "Workday",
-    "status": "not_applied",
-    "url": "https://abcsupply.wd1.myworkdayjobs.com/ABCSupplyCareers/job/Beloit-WI/Software-Engineer---Power-Platform--946-_68709",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
     "id": 553586,
     "company": "Epic",
     "role": "Entry-Level Software Developer",
@@ -605,6 +550,39 @@
     "is_internship": false
   },
   {
+    "id": 551448,
+    "company": "Amazon",
+    "role": "Software Engineer I",
+    "location": "San Francisco, California, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10608848/apply",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 551421,
+    "company": "Bose",
+    "role": "Software Engineer Co-op",
+    "location": "US, MA - Framingham",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Software-Engineer-Co-op_R29387",
+    "age": "6d",
+    "is_internship": true
+  },
+  {
+    "id": 560254,
+    "company": "Freewheel",
+    "role": "Entry Level C++ Software Engineer- Reston, VA- ONSITE 2X Week- FreeWheel",
+    "location": "Reston, Virginia, USA",
+    "source": "JSearch",
+    "status": "not_applied",
+    "url": "https://jobs.comcast.com/job/reston/entry-level-c-software-engineer-reston-va-onsite-2x-week-freewheel/45483/103530075200",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
     "id": 560263,
     "company": "Unisys",
     "role": "Full Stack Java Developers",
@@ -623,6 +601,28 @@
     "source": "JSearch",
     "status": "not_applied",
     "url": "https://www.linkedin.com/jobs/view/associate-engineer-software-vehicle-controls-at-harley-davidson-motor-company-4491864181",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 549177,
+    "company": "Amazon",
+    "role": "Software Development Engineer, ROBOTICS -  2027",
+    "location": "Austin, Texas, USA",
+    "source": "amazon",
+    "status": "not_applied",
+    "url": "https://account.amazon.jobs/jobs/10607764/apply",
+    "age": "6d",
+    "is_internship": false
+  },
+  {
+    "id": 552093,
+    "company": "ABC Supply",
+    "role": "Software Engineer - Power Platform (946)",
+    "location": "Beloit, WI",
+    "source": "Workday",
+    "status": "not_applied",
+    "url": "https://abcsupply.wd1.myworkdayjobs.com/ABCSupplyCareers/job/Beloit-WI/Software-Engineer---Power-Platform--946-_68709",
     "age": "6d",
     "is_internship": false
   },
@@ -711,94 +711,6 @@
     "source": "Greenhouse",
     "status": "not_applied",
     "url": "https://job-boards.greenhouse.io/minitab/jobs/8203700003",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 560508,
-    "company": "Fantom",
-    "role": "Software Engineer Level 2",
-    "location": "Hanover, MD",
-    "source": "Lever",
-    "status": "not_applied",
-    "url": "https://jobs.lever.co/fantom-corporation/7419b333-9f83-4727-8c99-83afa1fc1818",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 560506,
-    "company": "Fantom",
-    "role": "Software Engineer Level 1",
-    "location": "Hanover, MD",
-    "source": "Lever",
-    "status": "not_applied",
-    "url": "https://jobs.lever.co/fantom-corporation/1df86438-4f02-4a8f-97af-7668fc0c8eba",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 560507,
-    "company": "Fantom",
-    "role": "Software Engineer Level 1",
-    "location": "Hanover, MD",
-    "source": "Lever",
-    "status": "not_applied",
-    "url": "https://jobs.lever.co/fantom-corporation/8adb902c-72cb-4dc6-82c4-a4ce08ef7d09",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 560503,
-    "company": "Fantom",
-    "role": "RF Software Engineer Level 2",
-    "location": "Hanover, MD",
-    "source": "Lever",
-    "status": "not_applied",
-    "url": "https://jobs.lever.co/fantom-corporation/5cbb9003-9a23-45f1-9d42-742c87148dd1",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 560502,
-    "company": "Fantom",
-    "role": "RF Software Engineer Level 1",
-    "location": "Hanover, MD",
-    "source": "Lever",
-    "status": "not_applied",
-    "url": "https://jobs.lever.co/fantom-corporation/bf7034cb-2767-4e3c-8ad4-b282ac124267",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 560504,
-    "company": "Fantom",
-    "role": "RF Software Engineer Level 2",
-    "location": "Hanover, MD",
-    "source": "Lever",
-    "status": "not_applied",
-    "url": "https://jobs.lever.co/fantom-corporation/cbb78ba3-f0bb-4e3a-9a10-4fe53f933fac",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 548293,
-    "company": "xAI",
-    "role": "Software Engineer, Safety",
-    "location": "Palo Alto, CA",
-    "source": "Greenhouse",
-    "status": "not_applied",
-    "url": "https://job-boards.greenhouse.io/xai/jobs/5297316007",
-    "age": "6d",
-    "is_internship": false
-  },
-  {
-    "id": 560500,
-    "company": "Fantom",
-    "role": "RF Software Engineer Level 0",
-    "location": "Hanover, MD",
-    "source": "Lever",
-    "status": "not_applied",
-    "url": "https://jobs.lever.co/fantom-corporation/95d8102c-56da-4746-97cc-011011630721",
     "age": "6d",
     "is_internship": false
   }
