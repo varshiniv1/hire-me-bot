@@ -1,6 +1,6 @@
 # Job Postings Report
 
-30 postings from the last 6 days.
+29 postings from the last 6 days.
 
 ## Internships (3)
 
@@ -8,37 +8,36 @@
 |---|---|---|---|---|---|---|
 | Veolia | Manufacturing Software Engineer Intern | Boulder, CO, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163377969-manufacturing-software-engineer-intern) | 3d |
 | Contoro | Robotics Software Engineer Intern, Autonomy [Automation] | Austin, TX | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/contoro/6a1f0c10-3e5f-4899-ad86-38036a9cd434) | 3d |
-| Exowatt | Software & AI Spring Intern (Austin, TX) | Austin, TX | Lever | not_applied | [Apply](https://jobs.lever.co/exowatt/86589116-72a5-44f1-893a-1c688d15f2cf) | 3d |
+| Exowatt | Software & AI Spring Intern (Austin, TX) | Austin, TX | Lever | not_applied | [Apply](https://jobs.lever.co/exowatt/86589116-72a5-44f1-893a-1c688d15f2cf) | 4d |
 
-## Full-Time (27)
+## Full-Time (26)
 
 | Company | Role | Location | Source | Status | Application | Age |
 |---|---|---|---|---|---|---|
 | Runpod | Software Engineer (Full-Stack) - Multiple Levels  | Remote - USA | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/runpod/d7c53f7a-ce66-4ecb-91f6-75b1565d4d62) | 1d |
-| XPENG Motors | Software Engineer - Computing Platform (New Graduate) | Santa Clara, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xpengmotors/jobs/8962912002) | 1d |
-| Vestwell | Software Engineer | New York, NY \| Austin, TX \| King of Prussia, PA \| Scottsdale, AZ | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/vestwell/jobs/8209319003) | 1d |
-| Sony Interactive Entertainment | Software Engineer II | United States, San Mateo, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6271371004) | 1d |
-| PlayStation | Software Engineer II | United States, San Mateo, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6271371004) | 1d |
-| Crown Innovations | Software Verification & Test Engineer  | New York, NY, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/CrownInnovationsInc/744000163727122-software-verification-test-engineer-) | 1d |
+| XPENG Motors | Software Engineer - Computing Platform (New Graduate) | Santa Clara, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/xpengmotors/jobs/8962912002) | 2d |
+| Vestwell | Software Engineer | New York, NY \| Austin, TX \| King of Prussia, PA \| Scottsdale, AZ | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/vestwell/jobs/8209319003) | 2d |
+| Sony Interactive Entertainment | Software Engineer II | United States, San Mateo, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6271371004) | 2d |
+| PlayStation | Software Engineer II | United States, San Mateo, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6271371004) | 2d |
+| Crown Innovations | Software Verification & Test Engineer  | New York, NY, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/CrownInnovationsInc/744000163727122-software-verification-test-engineer-) | 2d |
 | SynergisticIT | Associate Software Engineer; Entry Level​/Data Engineer​/Data Scientist snowflake | Jersey City, New Jersey, USA | JSearch | not_applied | [Apply](https://www.learn4good.com/jobs/jersey-city/new-jersey/software_development/5665276212/e/) | 2d |
-| Wurl | Software Engineer I - Remote | Remote - United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/wurljobs/jobs/4731759006) | 2d |
-| Affirm | Software Engineer II, Fullstack (Capital Orchestration) | Remote US | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7749755003) | 2d |
+| Wurl | Software Engineer I - Remote | Remote - United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/wurljobs/jobs/4731759006) | 3d |
+| Affirm | Software Engineer II, Fullstack (Capital Orchestration) | Remote US | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7749755003) | 3d |
 | Chickasaw Nation Industries | QlikSense Software Developer | Silver Spring, MD | Workday | not_applied | [Apply](https://cni.wd503.myworkdayjobs.com/CNI/job/Silver-Spring-MD/QlikSense-Software-Developer_R9809) | 3d |
 | Chickasaw Nation Industries | Software Test Engineer | Silver Spring, MD | Workday | not_applied | [Apply](https://cni.wd503.myworkdayjobs.com/CNI/job/Silver-Spring-MD/Software-Test-Engineer_R9808-1) | 3d |
 | Woven | Integration Software Engineer II, Arene Applied Engineering | Ann Arbor, MI | Lever | not_applied | [Apply](https://jobs.lever.co/woven-by-toyota/beb88d3e-3f05-4e2d-9718-2a7520cce9a0) | 3d |
 | Redhorse | Software Developer | Washington, DC | Lever | not_applied | [Apply](https://jobs.lever.co/redhorsecorp/787dd254-5107-4dfd-940a-d5af7dac95e8) | 3d |
-| Smartsheet | Software Engineer II, AI Experience (Remote Eligible) |  -REMOTE, USA- | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/8412232) | 3d |
-| Harvard University | Bioinformatics Software Engineer | Boston, MA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/HarvardUniversity/3743990017041546-bioinformatics-software-engineer) | 3d |
-| Kodiak Robotics | Software Quality Simulation Specialist  | Mountain View, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/kodiak/jobs/4518079009) | 3d |
-| Base Power | Software Engineer, Backend - Device Analytics | Austin, TX | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/base-power/578a5f17-ce99-4897-ae6c-9491163e759f) | 3d |
-| Amazon | Software Development Engineer - Data | Newark, New Jersey, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10611635/apply) | 4d |
-| Valco Melton | Junior IT Software Engineer | Cincinnati, Ohio, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/junior-it-software-engineer-at-valco-melton-4483674950) | 4d |
+| Smartsheet | Software Engineer II, AI Experience (Remote Eligible) |  -REMOTE, USA- | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/8412232) | 4d |
+| Harvard University | Bioinformatics Software Engineer | Boston, MA, us | SmartRecruiters | not_applied | [Apply](https://jobs.smartrecruiters.com/HarvardUniversity/3743990017041546-bioinformatics-software-engineer) | 4d |
+| Kodiak Robotics | Software Quality Simulation Specialist  | Mountain View, CA | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/kodiak/jobs/4518079009) | 4d |
+| Base Power | Software Engineer, Backend - Device Analytics | Austin, TX | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/base-power/578a5f17-ce99-4897-ae6c-9491163e759f) | 4d |
 | TalentOla | Junior Full Stack Engineer | Hercules, California, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/junior-full-stack-engineer-at-talentola-4494070788?position=18&pageNum=0&refId=Il3nS9hvHTCOOek1X08dgw%3D%3D&trackingId=dYPk2HcknxH8IyeyjTvCUg%3D%3D) | 4d |
-| Testlio | Remote Software Tester (Freelance) \| Test AT&T U-verse & Cox | United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/testlio/jobs/8410174) | 4d |
-| Playsaurus Inc. | LATAM - Backend Developer | Alameda, California, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/latam-backend-developer-at-playsaurus-inc-4492353412) | 4d |
+| Valco Melton | Junior IT Software Engineer | Cincinnati, Ohio, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/junior-it-software-engineer-at-valco-melton-4483674950) | 4d |
+| Amazon | Software Development Engineer - Data | Newark, New Jersey, USA | amazon | not_applied | [Apply](https://account.amazon.jobs/jobs/10611635/apply) | 4d |
+| Testlio | Remote Software Tester (Freelance) \| Test AT&T U-verse & Cox | United States | Greenhouse | not_applied | [Apply](https://job-boards.greenhouse.io/testlio/jobs/8410174) | 5d |
+| Playsaurus Inc. | LATAM - Backend Developer | Alameda, California, USA | JSearch | not_applied | [Apply](https://www.linkedin.com/jobs/view/latam-backend-developer-at-playsaurus-inc-4492353412) | 5d |
 | SkillStorm Commercial Services LLC | Entry-Level Software Developer | Washington, District of Columbia, USA | JSearch | not_applied | [Apply](https://us.trabajo.org/job-2283-fa65c89e7a4f162d83abd6758db2a01a) | 5d |
-| SkillStorm Commercial Services LLC | Entry-Level Software Developer | Washington, District of Columbia, USA | JSearch | not_applied | [Apply](https://us.trabajo.org/job-2283-fa65c89e7a4f162d83abd6758db2a01a) | 5d |
-| Albertsons | Front End Entry Level | Schneiders Prairie, Washington, USA | JSearch | not_applied | [Apply](https://www.adzuna.com/details/5974699374) | 5d |
 | Albertsons | Front End Entry Level | Collingswood, New Jersey, USA | JSearch | not_applied | [Apply](https://www.ziprecruiter.com/c/Albertsons/Job/Front-End-Entry-Level/-in-Collingswood,NJ?jid=761015ba9e53109a) | 5d |
-| Secureframe | Software Engineer, New Grad | New York, NY | Ashby | not_applied | [Apply](https://jobs.ashbyhq.com/secureframe/ab69f040-9b87-4420-9150-edc6e4f54cfb) | 5d |
+| Albertsons | Front End Entry Level | Schneiders Prairie, Washington, USA | JSearch | not_applied | [Apply](https://www.adzuna.com/details/5974699374) | 5d |
+| SkillStorm Commercial Services LLC | Entry-Level Software Developer | Washington, District of Columbia, USA | JSearch | not_applied | [Apply](https://us.trabajo.org/job-2283-fa65c89e7a4f162d83abd6758db2a01a) | 5d |
 
